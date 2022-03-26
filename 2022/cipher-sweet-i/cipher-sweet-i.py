@@ -15,6 +15,8 @@ def caesar(n: int, pt: str) -> str:
                 ct += upper[(ord(c) - ord('A') + n) % 26]
             else:
                 ct += lower[(ord(c) - ord('a') + n) % 26]
+        else:
+            ct += c
     return ct
    
 
