@@ -22,6 +22,7 @@ This repo will remain private during CodeJam writing periods, and open sourced f
 - [All You Need Is Love (20)](2022/all-you-need-is-love)
 - [Based64 (20)](2022/based64)
 - [Howdy Neighbourino (30)](2022/howdy-neighbourino)
+- [RNJesus (40)](2022/rnjesus)
 
 
 ## Archive
