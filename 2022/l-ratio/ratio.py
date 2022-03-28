@@ -1,4 +1,8 @@
 from typing import List
+from random import randint
+import sys
+from numpy.random import default_rng
+from numpy import linspace
 
 def print_ratios(front:  List[int], rear: List[int]):
     for i, f in enumerate(front):
@@ -6,15 +10,10 @@ def print_ratios(front:  List[int], rear: List[int]):
         print([round(f / r, 2) for r in rear], sep=", ")
 
 def main():
-    #TODO get input
-    front = []
-    rear = []
+    lines = sys.stdin.read().splitlines()
+    front = [int(elem) for elem in lines[1].split(" ")]
+    rear = [int(elem) for elem in lines[2].split(" ")]
     print_ratios(front, rear)
-    """
-    print_ratios([30, 40, 50], [30, 27, 25, 22, 20, 15, 10])
-    print_ratios([38, 48], [30, 27, 25, 18, 15, 12])
-    print_ratios([44], [16])
-    """
 
 if __name__ == "__main__":
     main()
