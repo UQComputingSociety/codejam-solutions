@@ -1,7 +1,7 @@
 
 import random   # use random to test random lol
 
-from rnjesus import rnjesus, count
+import rnjesus
 
 in_format = "input{:02d}.txt"       # e.g. input00.txt
 out_format = "output{:02d}.txt"     # e.g. output00.txt
@@ -11,6 +11,8 @@ NO_CASES = 50
 r = 3.7783
 
 for c in range(NO_CASES):
+
+    rnjesus.count = 1   # reset the count
 
     x_0 = random.random()
     min = random.randint(0, 100)        
@@ -24,7 +26,7 @@ for c in range(NO_CASES):
 
     for _ in range(n):
 
-        outf.write(str(round(rnjesus(x_0, r, min, max), 5)) + "\r\n")
+        outf.write(str(round(rnjesus.rnjesus(x_0, r, min, max), 5)) + "\r\n")
 
     inf.close()
     outf.close()
