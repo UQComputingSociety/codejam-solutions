@@ -15,7 +15,7 @@ for c in range(NO_CASES):
     x_0 = random.random()
     min = random.randint(0, 100)        
     max = random.randint(min, 1000)     
-    n = random.randint(0, 100)
+    n = random.randint(1, 100)
 
     inf = open(f"tests/input/{in_format.format(c)}", 'w')
     outf = open(f"tests/output/{out_format.format(c)}", 'w')

@@ -21,7 +21,7 @@ def rnjesus(seed: float, r: float, min: float = 0, max: float = 1) -> float:
         x = logistic_map(x, r)
 
     count += 1
-    return (max - min) * x
+    return min + (max - min) * x
 
 if __name__ == "__main__":
     line = input("").split()
