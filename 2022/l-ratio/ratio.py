@@ -1,8 +1,5 @@
 from typing import List
-from random import randint
 import sys
-from numpy.random import default_rng
-from numpy import linspace
 
 def print_ratios(front:  List[int], rear: List[int]):
     for i, f in enumerate(front):
