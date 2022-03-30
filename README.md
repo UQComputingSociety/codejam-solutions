@@ -17,8 +17,14 @@ This repo will remain private during CodeJam writing periods, and open sourced f
 
 ## Current Year Challenges
 
-- [Initialisms (10)](2022/initialisms)
 - [Cipher Sweet I (10)](2022/cipher-sweet-i)
+- [Initialisms (10)](2022/initialisms)
+- [All You Need Is Love (20)](2022/all-you-need-is-love)
+- [Based64 (20)](2022/based64)
+- [The Accountant: Ellipses (20)](2022/the-accountant)
+- [Howdy Neighbourino (30)](2022/howdy-neighbourino)
+- [RNJesus (40)](2022/rnjesus)
+
 
 ## Archive
 
