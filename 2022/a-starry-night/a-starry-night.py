@@ -19,18 +19,17 @@ def heuristic(coord: "tuple[int, int]", goal: "tuple[int, int]") -> "int":
 
 
 input = sys.stdin.read()
-    
-# grid[y][x] is a cell
+
 grid = [row.split(",") for row in input.split("\n")]
 
-start = [(y, x) for x in range(0, 20) for y in range(0, 20) if grid[y][x] == '1'][0]
-end = [(y, x) for x in range(0, 20) for y in range(0, 20) if grid[y][x] == '2'][0]
+start = [(x, y) for x in range(0, 20) for y in range(0, 20) if grid[y][x] == '1'][0]
+end = [(x, y) for x in range(0, 20) for y in range(0, 20) if grid[y][x] == '2'][0]
 
 search_frontier = queue.PriorityQueue()
 search_frontier.put((0, start))
 
 path_so_far = {start: None}
-count_so_far = {start: 0}
+cells_so_far = {start: 0}
 
 while not search_frontier.empty():
     _, current = search_frontier.get()
@@ -38,16 +37,14 @@ while not search_frontier.empty():
     if current == end:
         break
 
-    for next in neighbours(current):
-        new_cost = count_so_far[current] + 1
+    for cell in neighbours(current):
+        new_cost = cells_so_far[current] + 1
 
-        if next not in count_so_far or new_cost <= count_so_far[next]:
-            y, x = next
-
-            count_so_far[next] = new_cost
-            priority = new_cost + heuristic(next, end)
-            search_frontier.put((priority, next))
-            path_so_far[next] = current
+        if cell not in cells_so_far or new_cost <= cells_so_far[cell]:
+            cells_so_far[cell] = new_cost
+            search_priority = new_cost + heuristic(cell, end)
+            search_frontier.put((search_priority, cell))
+            path_so_far[cell] = current
 
 answer = []
 x = end
@@ -56,4 +53,4 @@ while x != start:
     x = path_so_far[x]
 answer += [start]
 
-sys.stdout.write(str(answer)[1:-1].replace(' ', ""))
+sys.stdout.write(str(answer.reverse())[1:-1].replace(' ', ""))
