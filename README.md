@@ -24,6 +24,7 @@ This repo will remain private during CodeJam writing periods, and open sourced f
 - [The Accountant: Ellipses (20)](2022/the-accountant)
 - [Howdy Neighbourino (30)](2022/howdy-neighbourino)
 - [RNJesus (40)](2022/rnjesus)
+- [A \*-ry Night (40)](2022/a-starry-night)
 
 
 ## Archive
