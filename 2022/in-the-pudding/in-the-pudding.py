@@ -6,4 +6,4 @@ publication in mathematical journals. We hope you enjoy our work!'''
 
 print("N=1")
 
-# gottem
+'''gottem'''
