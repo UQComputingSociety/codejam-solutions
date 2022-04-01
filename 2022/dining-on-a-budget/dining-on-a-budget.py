@@ -1,9 +1,3 @@
-from locale import ABDAY_1
-import pandas as pd
-import numpy as np
-import sys
-
-
 def sum_to_n(N, prices_dict):
     out = list() # a list of all the pairs of foods and their prices that sum to N
 
@@ -32,28 +26,38 @@ def sum_to_n(N, prices_dict):
     return out
 
 def main():
-    arg = sys.argv[1]
-    # print(arg[::-1])
-
     # Import csv data
-    input_data = pd.read_csv(f"/Users/alexnicholson/uni/uqcs/2022/codejam/{arg}", sep=',', header=None)
-    input_data = input_data.to_numpy()
-    # print(input_data) # print out a summary
-    N = input_data[0, 1]
+    input_data = input().strip()
+    input_data_pairs = input_data.split(";")
+
+    N = -1
+    food_data = list()
+    for i in range(0, len(input_data_pairs)):            
+        pair = input_data_pairs[i]
+        pair_list = pair.split(",")
+
+        if i == 0:
+            N = int(pair_list[1])
+        else:
+            food_data.append(pair_list)
+
+
     # print(N) # print out a summary
     # print()
-    food_data = input_data[1:, :]
+
     # print(food_data) # print out a summary
     # print()
 
     food_prices = dict()
-    for row_num in range(0, np.shape(food_data)[0]):
-        food_name = food_data[row_num, 0] # get the col and convert to numpy array
-        food_price = food_data[row_num, 1] # get the col and convert to numpy array
+    for row_num in range(0, len(food_data)):
+        food_name = food_data[row_num][0] # get the col and convert to numpy array
+        food_price = int(food_data[row_num][1]) # get the col and convert to numpy array
         
         food_prices[food_name] = food_price
+    # print()
     # print(food_prices) # print out a summary
     # print()
+
 
     price_list = list()
     for name in food_prices:
@@ -71,10 +75,10 @@ def main():
     for element in out:
         a = element[0]
         b = element[1]
-        out_string = out_string + f"{a[0]} + {b[0]}\n"
-    # print(out_string)
-
-    return out_string
+        out_string = out_string + f"{a[0]},{b[0]};"
+    out_string = out_string[:-1]
+    
+    print(out_string)
 
 if __name__ == "__main__":
     main()

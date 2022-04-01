@@ -1,17 +1,1 @@
-avocado on toast + beef casserole
-pancakes + mushroom risotto
-fries + chocolate pudding
-wonton soup + english breakfast
-chai latte + madras curry
-green tea + goulash
-penne carbonara + mango smoothie
-baked potato + fried chicken
-cola + bibimbap
-ice cream + hamburger
-party + shawarma
-muffin + hot pot
-sanwich + bagel
-sashimi + gyoza
-lemonade + enchilada
-cookie + borscht
-cappuccino + meatballs
+avocado on toast,beef casserole;pancakes,mushroom risotto;fries,chocolate pudding;wonton soup,english breakfast;chai latte,madras curry;green tea,goulash;penne carbonara,mango smoothie;baked potato,fried chicken;cola,bibimbap;ice cream,hamburger;baguette,shawarma;muffin,hot pot;sandwich,bagel;sashimi,gyoza;lemonade,enchilada;cookie,borscht;cappuccino,meatballs
