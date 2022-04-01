@@ -52,5 +52,6 @@ while x != start:
     answer += [x]
     x = path_so_far[x]
 answer += [start]
+answer.reverse()
 
-sys.stdout.write(str(answer.reverse())[1:-1].replace(' ', ""))
+sys.stdout.write(str(answer)[1:-1].replace(' ', ""))
