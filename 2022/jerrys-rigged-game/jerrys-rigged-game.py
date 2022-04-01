@@ -129,7 +129,7 @@ def get_electorates(map_data):
 def main():
     # Import csv data
     # input_data = input().strip()
-    input_data_raw = get_data_file("/Users/alexnicholson/uni/uqcs/2022/codejam-solutions/2022/jerrys-rigged-game/tests/input/input00.txt")
+    input_data_raw = get_data_file("/Users/alexnicholson/uni/uqcs/2022/codejam-solutions/2022/jerrys-rigged-game/tests/input/input03.txt")
 
     input_data_rows = input_data_raw.split(";")
     input_data = list()
