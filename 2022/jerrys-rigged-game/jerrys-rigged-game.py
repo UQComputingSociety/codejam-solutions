@@ -115,7 +115,7 @@ def get_electorates(map_data):
 
                     current_value = get_value([a_percentage, a_size], [b_percentage, b_size], [c_percentage, c_size])
 
-                    if current_value > best_value:
+                    if current_value >= best_value:
                         best_value = current_value
                         # best_corners[0] = corners_a
                         # best_corners[1] = corners_b
