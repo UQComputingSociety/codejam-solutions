@@ -1,5 +1,19 @@
+#!/bin/python3
 
-def yelling(s):
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'Yelling' function below.
+#
+# The function is expected to return a STRING.
+# The function accepts STRING s as parameter.
+#
+
+def Yelling(s):
     lowercase = 0
     for char in s:
         if char.islower():
@@ -21,3 +35,15 @@ def yelling(s):
         return "I THOUGHT I HEARD SOMETHING?!"
     else:
         return "WHY ARE YOU SO QUIET?"
+
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    s = input()
+
+    result = Yelling(s)
+
+    fptr.write(result + '\n')
+
+    fptr.close()
