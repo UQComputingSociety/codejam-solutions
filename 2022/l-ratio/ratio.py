@@ -7,6 +7,7 @@ def print_ratios(front:  List[int], rear: List[int]):
         print([round(f / r, 2) for r in rear], sep=", ")
 
 def main():
+    # the following is used instead of input() because input() ends when it reads newlines.
     lines = sys.stdin.read().splitlines()
     front = [int(elem) for elem in lines[1].split(" ")]
     rear = [int(elem) for elem in lines[2].split(" ")]
