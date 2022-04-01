@@ -5,6 +5,8 @@ class Direction(Enum):
     UP = auto() # auto-assign whatever integer to it, don't care.
     DOWN = auto()
 
+EMPTY = "*"
+
 # I DONT KNOW HOW TO WRITE GENERATORS, THIS IS A PRIME CASE FOR THEM
 def next_head_pos(nr: int, current: int, dir: Direction) -> Tuple[int, Direction]:
     if dir == Direction.DOWN:
@@ -22,12 +24,13 @@ def next_head_pos(nr: int, current: int, dir: Direction) -> Tuple[int, Direction
         raise AssertionError("invalid args to next_head_pos")
         return (69, Direction, Direction.DOWN)
 
-if __name__ == "__main__":
-
-    line = input().split(",")
+def get_input() -> Tuple[int, str]:
+    line = input().split("|")
     num_rails, plaintext = int(line[0]), line[1]
+    return num_rails, plaintext
 
-    cols = [["." for i in range(num_rails)] for j in range(len(plaintext))]
+def encode(num_rails: int, plaintext: str):
+    cols = [[EMPTY for i in range(num_rails)] for j in range(len(plaintext))]
 
     # think of head like a "write head", i.e. where stuff is being written currently.
     head = (num_rails, Direction.UP)
@@ -43,9 +46,20 @@ if __name__ == "__main__":
             print(cols[c][r], end="")
         print()
     """
+    result = ""
     for r in range(num_rails):
         for c in range(len(plaintext)):
-            if (t := cols[c][r]) != '.': # uses the controversial assignment expression from PEP 572
-                print(t, end="")
-    print()
+            if (t := cols[c][r]) != EMPTY: # uses the controversial assignment expression from PEP 572
+                result += t
+    return result
+
+
+def main():
+    num_rails, plaintext = get_input()
+
+    print(encode(num_rails, plaintext))
+
+
+if __name__ == "__main__":
+    main()
 
