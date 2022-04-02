@@ -22,10 +22,10 @@ out = re.sub(r"\b((?<!-)n|N)(\w+)", r"\g<1>oodly-n\g<2>", out)
 out = re.sub(r"\b((?<!-)r|R)(\w+)", r"\g<1>iddly-r\g<2>", out)
 
 # "man" is replaced by "fella"
-out = re.sub(r"\bman[\b|\']", r"fella", out)
-out = re.sub(r"\bMan[\b|\']", r"Fella", out)
+out = re.sub(r"\bman(\b|\')", r"fella\g<1>", out)
+out = re.sub(r"\bMan(\b|\')", r"Fella\g<1>", out)
 # "hello" is replaced by "howdy"
-out = re.sub(r"\bhello[\b|\']", r"howdy", out)
-out = re.sub(r"\bHello[\b|\']", r"Howdy", out)
+out = re.sub(r"\bhello(\b|\')", r"howdy\g<1>", out)
+out = re.sub(r"\bHello(\b|\')", r"Howdy\g<1>", out)
 
 sys.stdout.write(out)
