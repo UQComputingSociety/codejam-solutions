@@ -8,7 +8,7 @@ text = sys.stdin.read()
 # Words ending in 'h' have "aroo" appended to them
 out = re.sub(r"(\w+h)\b", r"\g<1>aroo", text)
 # Words ending in 'r' have "ino" appended to them
-out = re.sub(r"(\w+[a-zA-Z]{4}r)\b", r"\g<1>ino", out)
+out = re.sub(r"(\w+[a-zA-Z]{3}r)\b", r"\g<1>ino", out)
 # Words ending in 'd' have "ily-doodily" appended to them
 out = re.sub(r"(\w+(?<!an)d)\b", r"\g<1>ily-doodily", out)
 # Words ending in "es" have "ies" appended to them
