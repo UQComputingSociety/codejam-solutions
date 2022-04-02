@@ -148,6 +148,11 @@ def main():
     print(out)
     print("=====================================================================")
 
+    print(get_electorate_percentage(input_data, out[0], "Y"))
+    print(get_electorate_percentage(input_data, out[1], "Y"))
+    print(get_electorate_percentage(input_data, out[2], "Y"))
+
+
     # out_string = ""
     # for element in out:
     #     a = element[0]

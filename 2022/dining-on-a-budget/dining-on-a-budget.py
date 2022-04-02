@@ -25,9 +25,17 @@ def sum_to_n(N, prices_dict):
 
     return out
 
+# Get input data from txt file
+def get_data_file(filepath):
+    with open(filepath) as f:
+        input_data = f.read()
+    f.close()
+    return input_data
+
 def main():
+    input_data_raw = get_data_file("/Users/alexnicholson/uni/uqcs/2022/codejam-solutions/2022/dining-on-a-budget/tests/input/input02.txt")
     # Import csv data
-    input_data = input().strip()
+    input_data = input_data_raw.strip()
     input_data_pairs = input_data.split(";")
 
     N = -1
@@ -72,12 +80,22 @@ def main():
     # print(len(out))
 
     out_string = ""
+    out_list = list()
     for element in out:
         a = element[0]
         b = element[1]
-        out_string = out_string + f"{a[0]},{b[0]};"
+        # out_string = out_string + f"{a[0]},{b[0]};"
+        out_list.append(f"{a[0]},{b[0]};")
+    # out_string = out_string[:-1]
+    # out_list = out_list[]
+
+    out_list.sort()
+    # print(out_list)
+
+    for element in out_list:
+        out_string = out_string + element
     out_string = out_string[:-1]
-    
+
     print(out_string)
 
 if __name__ == "__main__":
