@@ -1,1 +1,1 @@
-chai latte,wonton soup;cookie,avocado on toast;muffin,green tea;cola,baguette;lemonade,penne carbonara;fries,ice cream;sandwich,baked potato;pancakes,sashimi
+chai latte,wonton soup;cola,baguette;cookie,avocado on toast;fries,ice cream;lemonade,penne carbonara;muffin,green tea;pancakes,sashimi;sandwich,baked potato
