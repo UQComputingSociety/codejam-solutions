@@ -46,6 +46,10 @@ def condensed_formula(chain: str, positions: list) -> str:
             else:
                 new_arr.append("CH2")
 
+        if ((c == 1) and (x == 1)):
+            new_arr[0] = "CH3(OH)"
+            return new_arr[0]
+
         for num in positions:
             if "(OH)" in new_arr[num-1]:
                 return "invalid"
@@ -55,7 +59,6 @@ def condensed_formula(chain: str, positions: list) -> str:
                 return "invalid"
             else:
                 new_arr[num-1] = "CH(OH)"
-
         return "".join(new_arr)
     return "invalid"
 
