@@ -56,9 +56,13 @@ This repo will remain private during CodeJam writing periods, and open sourced f
 - [Sharing is Caring (40)](2022/sharing-is-caring)
 
 ### 50 Points
-- [In the Pudding (100)](2022/in-the-pudding)
 - [Jerry's Rigged Game (50)](2022/jerrys-rigged-game/)
+
+### 100 Points
+- [In the Pudding (100)](2022/in-the-pudding)
 
 ## Archive
 
 - [CodeJam 2022](2022)
+- [CodeJam 2021](2021)
+- [CodeJam 2020](2020)
