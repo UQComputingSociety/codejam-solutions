@@ -1,0 +1,7 @@
+6
+a/b/c/file1
+a/b/c/file2
+a/d/e/file3
+a/d/file4
+a/f/
+a/g

@@ -1,0 +1,126 @@
+Program Files/
++-Drivers/
+| +-Drivers/
+| | +-chrome.jar
+| | +-codes.cmd
+| | +-excel.cmd
+| | +-excel.docx
+| | +-firefox
+| | +-firefox.doc
+| | +-ghci.cmd
+| | +-ghci.jar
+| | +-minecraft
+| +-Windows/
+| | +-data.bat
+| | +-data.doc
+| | +-data.exe
+| | +-excel.jar
+| | +-explorer.bat
+| | +-firefox.exe
+| | +-ghci.exe
+| | +-ghci.jar
+| | +-javaw.doc
+| +-chrome.bat
+| +-codes.cmd
+| +-python.bat
++-Microsoft/
+| +-Program Files/
+| | +-Program Files (x86)/
+| |   +-codes.docx
+| |   +-data.bat
+| |   +-javaw.docx
+| |   +-python.bat
+| |   +-spotify
+| +-cmd.doc
+| +-data.exe
+| +-firefox
+| +-firefox.docx
+| +-javac.jar
+| +-python
+| +-winword.doc
+| +-winword.jar
++-Program Files/
+| +-Microsoft/
+| | +-Riot Games/
+| |   +-Riot Games/
+| |     +-Program Files (x86)/
+| |       +-chrome.jar
+| |       +-ghci.exe
+| |       +-java.cmd
+| |       +-javaw
+| |       +-minecraft
+| |       +-python.bat
+| |       +-spotify.doc
+| +-data.docx
+| +-explorer.jar
+| +-ghci.cmd
+| +-javac.docx
+| +-javac.jar
+| +-python
++-Riot Games/
+| +-System32/
+| | +-excel.cmd
+| | +-ghci.jar
+| | +-javac
+| | +-javaw.cmd
+| | +-minecraft.jar
+| | +-spotify.bat
+| +-Windows/
+| | +-cmd.bat
+| | +-data
+| | +-explorer
+| | +-javaw.bat
+| | +-minecraft.exe
+| | +-python.cmd
+| +-chrome.exe
+| +-data
+| +-explorer.doc
+| +-explorer.docx
+| +-ghci
+| +-java.bat
+| +-javac.bat
+| +-javac.docx
+| +-javaw.docx
++-SYSWOW64/
+| +-Program Files/
+| | +-chrome.doc
+| | +-data
+| | +-firefox
+| | +-minecraft.docx
+| +-cmd
+| +-data.cmd
+| +-java.doc
+| +-minecraft.docx
+| +-python.jar
+| +-spotify.jar
++-System32/
+| +-cmd.doc
+| +-data
+| +-explorer.cmd
+| +-javac.cmd
+| +-javac.jar
+| +-minecraft.bat
+| +-winword.bat
++-Users/
+| +-Microsoft/
+|   +-System32/
+|     +-cmd.exe
+|     +-codes.jar
+|     +-ghci.exe
+|     +-javaw.docx
+|     +-javaw.jar
+|     +-spotify.exe
+|     +-spotify.jar
+|     +-winword.exe
++-Windows/
+  +-Riot Games/
+  | +-Microsoft/
+  |   +-Program Files/
+  |     +-Microsoft/
+  |       +-Riot Games/
+  |         +-codes.jar
+  |         +-excel.exe
+  +-codes.exe
+  +-java
+  +-java.jar
+  +-python.docx

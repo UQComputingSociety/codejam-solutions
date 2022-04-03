@@ -1,0 +1,194 @@
+Program Files (x86)/
++-Microsoft/
+| +-chrome.bat
+| +-chrome.doc
+| +-chrome.exe
+| +-cmd.doc
+| +-cmd.jar
+| +-explorer.bat
+| +-firefox.docx
+| +-ghci.cmd
+| +-java.docx
+| +-javac.bat
+| +-javaw.jar
+| +-python.doc
+| +-winword.doc
+| +-winword.exe
++-Program Files/
+| +-System32/
+| | +-chrome.doc
+| | +-cmd.bat
+| | +-cmd.cmd
+| | +-data.cmd
+| | +-explorer.cmd
+| | +-firefox
+| | +-java.jar
+| | +-javac.docx
+| | +-javac.exe
+| | +-javac.jar
+| | +-python.bat
+| | +-spotify.cmd
+| | +-spotify.doc
+| +-chrome.jar
+| +-cmd.bat
+| +-codes.bat
+| +-codes.cmd
+| +-excel.docx
+| +-explorer.docx
+| +-explorer.exe
+| +-firefox.bat
+| +-firefox.cmd
+| +-firefox.exe
+| +-javac.bat
+| +-javac.jar
+| +-javaw.bat
+| +-javaw.cmd
+| +-python.doc
+| +-spotify.bat
+| +-spotify.doc
+| +-spotify.docx
+| +-winword.cmd
+| +-winword.doc
+| +-winword.docx
++-Riot Games/
+| +-chrome
+| +-codes.doc
+| +-codes.exe
+| +-data.doc
+| +-data.docx
+| +-explorer.cmd
+| +-firefox
+| +-firefox.docx
+| +-java
+| +-javac.doc
+| +-javac.docx
+| +-javaw.cmd
+| +-spotify.jar
+| +-winword.cmd
++-SYSWOW64/
+| +-chrome.bat
+| +-cmd.cmd
+| +-cmd.exe
+| +-codes.cmd
+| +-codes.jar
+| +-data.exe
+| +-excel.bat
+| +-excel.cmd
+| +-excel.doc
+| +-excel.exe
+| +-explorer
+| +-explorer.bat
+| +-explorer.cmd
+| +-explorer.docx
+| +-firefox.docx
+| +-firefox.jar
+| +-ghci.cmd
+| +-java.docx
+| +-javac
+| +-javac.exe
+| +-javaw.bat
+| +-python.bat
+| +-python.cmd
+| +-python.jar
+| +-spotify
+| +-winword
+| +-winword.bat
++-System32/
+| +-chrome.bat
+| +-chrome.cmd
+| +-cmd
+| +-codes.docx
+| +-explorer.bat
+| +-firefox.doc
+| +-ghci
+| +-ghci.cmd
+| +-ghci.doc
+| +-javac.exe
+| +-javac.jar
+| +-javaw
+| +-python
+| +-python.doc
+| +-python.jar
+| +-winword.docx
+| +-winword.exe
++-Users/
+| +-Program Files/
+| | +-chrome
+| | +-chrome.doc
+| | +-chrome.exe
+| | +-cmd.doc
+| | +-codes.doc
+| | +-data.doc
+| | +-firefox.jar
+| | +-ghci.jar
+| | +-java.bat
+| | +-javac.exe
+| | +-javaw.doc
+| | +-minecraft.jar
+| | +-spotify.jar
+| | +-winword.jar
+| +-Users/
+| | +-chrome.docx
+| | +-cmd.jar
+| | +-codes
+| | +-codes.docx
+| | +-excel
+| | +-ghci
+| | +-java.cmd
+| | +-java.jar
+| | +-javac
+| | +-javac.jar
+| | +-minecraft.doc
+| | +-minecraft.exe
+| | +-python.exe
+| | +-spotify.doc
+| | +-spotify.docx
+| +-codes.doc
+| +-data.cmd
+| +-data.doc
+| +-firefox.doc
+| +-java.jar
+| +-javac.bat
+| +-javaw.exe
+| +-python.cmd
+| +-winword.doc
+| +-winword.jar
++-Windows/
+  +-Microsoft/
+  | +-Windows/
+  |   +-chrome.bat
+  |   +-chrome.cmd
+  |   +-chrome.exe
+  |   +-chrome.jar
+  |   +-data
+  |   +-data.doc
+  |   +-excel.exe
+  |   +-explorer.jar
+  |   +-firefox.cmd
+  |   +-java.bat
+  |   +-java.cmd
+  |   +-java.docx
+  |   +-javac.exe
+  |   +-javaw.exe
+  |   +-python.docx
+  |   +-python.jar
+  |   +-spotify.exe
+  |   +-spotify.jar
+  |   +-winword.docx
+  |   +-winword.jar
+  +-chrome
+  +-chrome.bat
+  +-cmd.doc
+  +-codes.exe
+  +-data.cmd
+  +-explorer.bat
+  +-explorer.docx
+  +-firefox.docx
+  +-firefox.jar
+  +-ghci.bat
+  +-java.exe
+  +-javac
+  +-javac.bat
+  +-javaw
+  +-winword.bat
+  +-winword.jar

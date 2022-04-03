@@ -1,0 +1,8 @@
+7
+System32/
++-Microsoft/
+| +-teapot.exe
++-drivers/
+| +-toaster.sys
++-cmd.exe
++-explorer.exe

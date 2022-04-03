@@ -1,0 +1,93 @@
+92
+Program Files/SYSWOW64/Program Files (x86)/firefox.cmd
+Program Files/Users/data.docx
+Program Files/System32/Windows/Windows/ghci.cmd
+Program Files/Drivers/Program Files (x86)/System32/javac.exe
+Program Files/Program Files/SYSWOW64/Users/Riot Games/ghci.doc
+Program Files/Microsoft/Program Files/System32/Riot Games/SYSWOW64/explorer
+Program Files/Microsoft/Windows/data.exe
+Program Files/Microsoft/java.cmd
+Program Files/Program Files/Users/java.docx
+Program Files/SYSWOW64/python.jar
+Program Files/Program Files (x86)/python.bat
+Program Files/Drivers/Program Files/Users/SYSWOW64/Riot Games/python.doc
+Program Files/System32/Users/winword.docx
+Program Files/System32/Microsoft/firefox.jar
+Program Files/Riot Games/winword
+Program Files/SYSWOW64/data
+Program Files/Users/explorer.doc
+Program Files/Program Files/SYSWOW64/spotify.docx
+Program Files/Users/java.jar
+Program Files/Riot Games/Users/data.doc
+Program Files/Microsoft/java.bat
+Program Files/System32/System32/winword.docx
+Program Files/Windows/java
+Program Files/SYSWOW64/Riot Games/SYSWOW64/spotify
+Program Files/Program Files/explorer.exe
+Program Files/System32/javac.docx
+Program Files/Drivers/Program Files/Users/SYSWOW64/Riot Games/cmd.jar
+Program Files/Users/Program Files (x86)/data
+Program Files/Microsoft/Program Files/minecraft.jar
+Program Files/SYSWOW64/firefox.cmd
+Program Files/Drivers/Program Files (x86)/System32/javaw.docx
+Program Files/System32/python.jar
+Program Files/Microsoft/codes.exe
+Program Files/SYSWOW64/chrome.bat
+Program Files/Program Files/SYSWOW64/Users/Riot Games/firefox
+Program Files/Program Files (x86)/firefox
+Program Files/SYSWOW64/Riot Games/SYSWOW64/java.jar
+Program Files/Users/Windows/cmd.cmd
+Program Files/Users/Program Files (x86)/data.docx
+Program Files/SYSWOW64/Riot Games/SYSWOW64/python.docx
+Program Files/Users/System32/chrome.doc
+Program Files/Program Files (x86)/System32/minecraft.cmd
+Program Files/SYSWOW64/Program Files (x86)/java.docx
+Program Files/System32/Users/ghci.exe
+Program Files/SYSWOW64/firefox.exe
+Program Files/Program Files/javaw
+Program Files/Microsoft/Program Files/javac.bat
+Program Files/System32/Users/minecraft.cmd
+Program Files/Users/Program Files (x86)/ghci.docx
+Program Files/Microsoft/firefox.bat
+Program Files/Riot Games/chrome.docx
+Program Files/Users/spotify
+Program Files/Users/Program Files (x86)/cmd
+Program Files/Microsoft/cmd.bat
+Program Files/Drivers/Program Files/Users/SYSWOW64/Riot Games/javac.exe
+Program Files/Program Files (x86)/System32/codes.jar
+Program Files/Microsoft/java.doc
+Program Files/System32/python.cmd
+Program Files/Program Files (x86)/SYSWOW64/SYSWOW64/python.doc
+Program Files/Users/javac.jar
+Program Files/System32/cmd.exe
+Program Files/Microsoft/Windows/codes.bat
+Program Files/Program Files (x86)/explorer.cmd
+Program Files/System32/Users/python.doc
+Program Files/Program Files (x86)/Drivers/javac.bat
+Program Files/Microsoft/Windows/cmd.doc
+Program Files/System32/cmd.doc
+Program Files/System32/Users/javaw.doc
+Program Files/Program Files/javaw.docx
+Program Files/Drivers/Program Files (x86)/System32/ghci.docx
+Program Files/Program Files/SYSWOW64/winword
+Program Files/SYSWOW64/cmd.doc
+Program Files/Program Files (x86)/javaw.doc
+Program Files/Drivers/python.cmd
+Program Files/Program Files (x86)/SYSWOW64/java.bat
+Program Files/Program Files/SYSWOW64/Users/Riot Games/java.bat
+Program Files/System32/Users/excel.doc
+Program Files/Drivers/winword
+Program Files/Microsoft/Windows/winword.bat
+Program Files/SYSWOW64/winword.jar
+Program Files/Users/Windows/spotify.cmd
+Program Files/Program Files (x86)/Drivers/codes.cmd
+Program Files/SYSWOW64/Program Files (x86)/java.doc
+Program Files/Program Files (x86)/minecraft.exe
+Program Files/Drivers/Program Files (x86)/System32/excel.cmd
+Program Files/System32/python
+Program Files/Windows/firefox.jar
+Program Files/Users/data.cmd
+Program Files/Windows/spotify.doc
+Program Files/Users/Windows/Windows/javaw.docx
+Program Files/Program Files (x86)/Drivers/java.doc
+Program Files/Program Files/SYSWOW64/firefox.jar

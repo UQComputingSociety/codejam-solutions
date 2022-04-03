@@ -1,0 +1,826 @@
+SYSWOW64/Drivers/Drivers/fuser.jar
+SYSWOW64/Drivers/Drivers/kill.exe
+SYSWOW64/Drivers/Drivers/read.docx
+SYSWOW64/Drivers/Program Files (x86)/System32/pwd.bat
+SYSWOW64/Drivers/Program Files (x86)/System32/qmsg.doc
+SYSWOW64/Drivers/Program Files (x86)/System32/qrerun.jar
+SYSWOW64/Drivers/Program Files (x86)/cxref.docx
+SYSWOW64/Drivers/Program Files (x86)/logname.doc
+SYSWOW64/Drivers/Program Files (x86)/mv.jar
+SYSWOW64/Drivers/Program Files (x86)/val.bat
+SYSWOW64/Drivers/SYSWOW64/Users/df.jar
+SYSWOW64/Drivers/SYSWOW64/Users/excel.bat
+SYSWOW64/Drivers/SYSWOW64/Users/excel.doc
+SYSWOW64/Drivers/SYSWOW64/Users/ipcrm.docx
+SYSWOW64/Drivers/SYSWOW64/Users/printf.cmd
+SYSWOW64/Drivers/SYSWOW64/Users/qalter
+SYSWOW64/Drivers/SYSWOW64/Users/tty.exe
+SYSWOW64/Drivers/SYSWOW64/Users/uname.exe
+SYSWOW64/Drivers/SYSWOW64/id.bat
+SYSWOW64/Drivers/SYSWOW64/mv
+SYSWOW64/Drivers/SYSWOW64/sh.exe
+SYSWOW64/Drivers/SYSWOW64/sleep.cmd
+SYSWOW64/Drivers/SYSWOW64/tail.jar
+SYSWOW64/Drivers/SYSWOW64/wc.doc
+SYSWOW64/Drivers/System32/ctags.bat
+SYSWOW64/Drivers/System32/lex.bat
+SYSWOW64/Drivers/System32/logname.doc
+SYSWOW64/Drivers/System32/touch
+SYSWOW64/Drivers/System32/ulimit.cmd
+SYSWOW64/Drivers/Users/Drivers/cp.cmd
+SYSWOW64/Drivers/Users/Drivers/expand.exe
+SYSWOW64/Drivers/Users/Drivers/getopts.bat
+SYSWOW64/Drivers/Windows/Program Files/basename
+SYSWOW64/Drivers/Windows/Program Files/cflow.jar
+SYSWOW64/Drivers/Windows/Program Files/hash.doc
+SYSWOW64/Drivers/Windows/Program Files/javaw.bat
+SYSWOW64/Drivers/Windows/Program Files/ln.jar
+SYSWOW64/Drivers/Windows/Program Files/python
+SYSWOW64/Drivers/Windows/Program Files/qmsg.bat
+SYSWOW64/Drivers/Windows/Program Files/unlink.jar
+SYSWOW64/Drivers/Windows/Program Files/uux.jar
+SYSWOW64/Drivers/mkfifo.jar
+SYSWOW64/Drivers/renice
+SYSWOW64/Drivers/spotify
+SYSWOW64/Drivers/strings.bat
+SYSWOW64/Microsoft/Drivers/codes.cmd
+SYSWOW64/Microsoft/Drivers/df
+SYSWOW64/Microsoft/Drivers/mkdir.bat
+SYSWOW64/Microsoft/Drivers/od.jar
+SYSWOW64/Microsoft/Microsoft/Program Files (x86)/System32/dir.docx
+SYSWOW64/Microsoft/Microsoft/Program Files (x86)/System32/ls.doc
+SYSWOW64/Microsoft/Microsoft/Program Files (x86)/System32/uux.exe
+SYSWOW64/Microsoft/Microsoft/System32/cmd.bat
+SYSWOW64/Microsoft/Microsoft/System32/get.bat
+SYSWOW64/Microsoft/Microsoft/System32/ipcs.jar
+SYSWOW64/Microsoft/Microsoft/System32/javaw.jar
+SYSWOW64/Microsoft/Microsoft/System32/nl.cmd
+SYSWOW64/Microsoft/Microsoft/System32/tput.bat
+SYSWOW64/Microsoft/Microsoft/System32/wait.bat
+SYSWOW64/Microsoft/Microsoft/cat.docx
+SYSWOW64/Microsoft/Microsoft/fold.docx
+SYSWOW64/Microsoft/Microsoft/locale.jar
+SYSWOW64/Microsoft/Microsoft/sact.exe
+SYSWOW64/Microsoft/Microsoft/uuencode.jar
+SYSWOW64/Microsoft/Program Files/Microsoft/SYSWOW64/logger.docx
+SYSWOW64/Microsoft/Program Files/Microsoft/SYSWOW64/mailx
+SYSWOW64/Microsoft/Program Files/Microsoft/SYSWOW64/more.cmd
+SYSWOW64/Microsoft/Program Files/Microsoft/SYSWOW64/ps.jar
+SYSWOW64/Microsoft/Program Files/Microsoft/SYSWOW64/qsub.cmd
+SYSWOW64/Microsoft/Program Files/Microsoft/SYSWOW64/time.cmd
+SYSWOW64/Microsoft/Program Files/Microsoft/cksum.docx
+SYSWOW64/Microsoft/Program Files/Microsoft/date.doc
+SYSWOW64/Microsoft/Program Files/Microsoft/hash.jar
+SYSWOW64/Microsoft/Program Files/Microsoft/qrls.exe
+SYSWOW64/Microsoft/Program Files/Microsoft/stty.jar
+SYSWOW64/Microsoft/Program Files/Microsoft/uname.exe
+SYSWOW64/Microsoft/Program Files/Microsoft/write.doc
+SYSWOW64/Microsoft/Program Files/Users/asa.cmd
+SYSWOW64/Microsoft/Program Files/Users/false.doc
+SYSWOW64/Microsoft/Program Files/Users/get.docx
+SYSWOW64/Microsoft/Program Files/Users/paste.jar
+SYSWOW64/Microsoft/Program Files/Users/pr.exe
+SYSWOW64/Microsoft/Program Files/Users/test.doc
+SYSWOW64/Microsoft/Program Files/Windows/cat.exe
+SYSWOW64/Microsoft/Program Files/Windows/cp.exe
+SYSWOW64/Microsoft/Program Files/Windows/dir.docx
+SYSWOW64/Microsoft/Program Files/Windows/java.bat
+SYSWOW64/Microsoft/Program Files/Windows/m4
+SYSWOW64/Microsoft/Program Files/Windows/mv.cmd
+SYSWOW64/Microsoft/Program Files/Windows/umask.exe
+SYSWOW64/Microsoft/Program Files/Windows/vim.doc
+SYSWOW64/Microsoft/Program Files/cd.doc
+SYSWOW64/Microsoft/Program Files/ex.jar
+SYSWOW64/Microsoft/Program Files/printf.doc
+SYSWOW64/Microsoft/Program Files/prs.doc
+SYSWOW64/Microsoft/Program Files/pwd.jar
+SYSWOW64/Microsoft/Program Files/python.jar
+SYSWOW64/Microsoft/Program Files/read.exe
+SYSWOW64/Microsoft/Program Files/type.cmd
+SYSWOW64/Microsoft/Program Files/umask.doc
+SYSWOW64/Microsoft/Program Files/wait.docx
+SYSWOW64/Microsoft/Program Files/write.exe
+SYSWOW64/Microsoft/Program Files (x86)/Drivers/Program Files (x86)/alias.cmd
+SYSWOW64/Microsoft/Program Files (x86)/Drivers/Program Files (x86)/cat.exe
+SYSWOW64/Microsoft/Program Files (x86)/Drivers/Program Files (x86)/echo.docx
+SYSWOW64/Microsoft/Program Files (x86)/Drivers/Program Files (x86)/head.docx
+SYSWOW64/Microsoft/Program Files (x86)/Drivers/Program Files (x86)/nohup.doc
+SYSWOW64/Microsoft/Program Files (x86)/Drivers/Program Files (x86)/read
+SYSWOW64/Microsoft/Program Files (x86)/Drivers/Program Files (x86)/tail.doc
+SYSWOW64/Microsoft/Program Files (x86)/at.cmd
+SYSWOW64/Microsoft/Program Files (x86)/cat.exe
+SYSWOW64/Microsoft/Program Files (x86)/grep.cmd
+SYSWOW64/Microsoft/Program Files (x86)/javaw.bat
+SYSWOW64/Microsoft/Program Files (x86)/mv.exe
+SYSWOW64/Microsoft/Program Files (x86)/paste
+SYSWOW64/Microsoft/Program Files (x86)/renice.bat
+SYSWOW64/Microsoft/Program Files (x86)/uniq.exe
+SYSWOW64/Microsoft/Riot Games/System32/fort77.cmd
+SYSWOW64/Microsoft/Riot Games/System32/ps.exe
+SYSWOW64/Microsoft/Riot Games/System32/sort.exe
+SYSWOW64/Microsoft/Riot Games/System32/tput.bat
+SYSWOW64/Microsoft/Riot Games/Windows/firefox.jar
+SYSWOW64/Microsoft/Riot Games/Windows/kill.doc
+SYSWOW64/Microsoft/Riot Games/Windows/logname
+SYSWOW64/Microsoft/Riot Games/Windows/minecraft
+SYSWOW64/Microsoft/Riot Games/Windows/qrls.cmd
+SYSWOW64/Microsoft/Riot Games/Windows/ssh.jar
+SYSWOW64/Microsoft/Riot Games/Windows/tail.jar
+SYSWOW64/Microsoft/Riot Games/csplit.bat
+SYSWOW64/Microsoft/Riot Games/get.bat
+SYSWOW64/Microsoft/Riot Games/hash.docx
+SYSWOW64/Microsoft/SYSWOW64/alias.jar
+SYSWOW64/Microsoft/SYSWOW64/bc.docx
+SYSWOW64/Microsoft/SYSWOW64/getconf
+SYSWOW64/Microsoft/SYSWOW64/kill.docx
+SYSWOW64/Microsoft/SYSWOW64/zcat.docx
+SYSWOW64/Microsoft/System32/Program Files (x86)/bg.bat
+SYSWOW64/Microsoft/System32/Program Files (x86)/cd.cmd
+SYSWOW64/Microsoft/System32/Program Files (x86)/nl.docx
+SYSWOW64/Microsoft/System32/Program Files (x86)/rmdel.cmd
+SYSWOW64/Microsoft/System32/Program Files (x86)/test.jar
+SYSWOW64/Microsoft/System32/Program Files (x86)/winword.bat
+SYSWOW64/Microsoft/System32/ar.cmd
+SYSWOW64/Microsoft/System32/cxref.exe
+SYSWOW64/Microsoft/System32/ipcs.bat
+SYSWOW64/Microsoft/System32/uname.doc
+SYSWOW64/Microsoft/System32/vimtutor
+SYSWOW64/Microsoft/Users/Program Files/expr.jar
+SYSWOW64/Microsoft/Users/Program Files/ipcs.exe
+SYSWOW64/Microsoft/Users/Program Files/java
+SYSWOW64/Microsoft/Users/Program Files/nm.cmd
+SYSWOW64/Microsoft/Users/Program Files/python.jar
+SYSWOW64/Microsoft/Users/Program Files/qdel.bat
+SYSWOW64/Microsoft/Users/Program Files/sccs.doc
+SYSWOW64/Microsoft/Users/Program Files/split
+SYSWOW64/Microsoft/Users/Program Files/tput
+SYSWOW64/Microsoft/Users/Windows/Users/chmod.doc
+SYSWOW64/Microsoft/Users/Windows/Users/ex.exe
+SYSWOW64/Microsoft/Users/Windows/Users/talk.cmd
+SYSWOW64/Microsoft/Users/Windows/Users/uniq.bat
+SYSWOW64/Microsoft/Users/Windows/Users/wait.docx
+SYSWOW64/Microsoft/Users/cksum.doc
+SYSWOW64/Microsoft/Users/nice.cmd
+SYSWOW64/Microsoft/Users/sed.doc
+SYSWOW64/Microsoft/Users/ssh.jar
+SYSWOW64/Microsoft/Users/unlink.cmd
+SYSWOW64/Microsoft/Users/xargs.cmd
+SYSWOW64/Microsoft/Users/zcat.doc
+SYSWOW64/Microsoft/Windows/Drivers/bg.doc
+SYSWOW64/Microsoft/Windows/Drivers/chown.exe
+SYSWOW64/Microsoft/Windows/Drivers/date.cmd
+SYSWOW64/Microsoft/Windows/Drivers/ln.doc
+SYSWOW64/Microsoft/Windows/Drivers/od.docx
+SYSWOW64/Microsoft/Windows/Drivers/prs.exe
+SYSWOW64/Microsoft/Windows/Drivers/qhold.doc
+SYSWOW64/Microsoft/Windows/Drivers/tr.doc
+SYSWOW64/Microsoft/Windows/Drivers/tty.exe
+SYSWOW64/Microsoft/Windows/Drivers/unalias.doc
+SYSWOW64/Microsoft/Windows/batch.doc
+SYSWOW64/Microsoft/Windows/false.bat
+SYSWOW64/Microsoft/Windows/minecraft.doc
+SYSWOW64/Microsoft/Windows/qsub.exe
+SYSWOW64/Microsoft/Windows/uustat.bat
+SYSWOW64/Microsoft/Windows/wc.exe
+SYSWOW64/Microsoft/Windows/who.jar
+SYSWOW64/Microsoft/cflow.doc
+SYSWOW64/Microsoft/ex.doc
+SYSWOW64/Microsoft/iconv.doc
+SYSWOW64/Microsoft/patch.cmd
+SYSWOW64/Program Files/Drivers/System32/Program Files (x86)/chgrp.cmd
+SYSWOW64/Program Files/Drivers/System32/Program Files (x86)/chgrp.exe
+SYSWOW64/Program Files/Drivers/System32/Program Files (x86)/ex.doc
+SYSWOW64/Program Files/Drivers/System32/Program Files (x86)/get
+SYSWOW64/Program Files/Drivers/at
+SYSWOW64/Program Files/Drivers/get.jar
+SYSWOW64/Program Files/Drivers/prs.doc
+SYSWOW64/Program Files/Drivers/python.docx
+SYSWOW64/Program Files/Drivers/true
+SYSWOW64/Program Files/Drivers/type.bat
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/alias.exe
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/choco
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/data.doc
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/fold.cmd
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/link
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/ln.cmd
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/pr
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/split.jar
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/vim.jar
+SYSWOW64/Program Files/Microsoft/Program Files/Drivers/winword.cmd
+SYSWOW64/Program Files/Microsoft/awk.docx
+SYSWOW64/Program Files/Microsoft/pr
+SYSWOW64/Program Files/Microsoft/qsub.docx
+SYSWOW64/Program Files/Microsoft/uucp.docx
+SYSWOW64/Program Files/Program Files (x86)/chgrp.jar
+SYSWOW64/Program Files/Program Files (x86)/file
+SYSWOW64/Program Files/Program Files (x86)/iconv.exe
+SYSWOW64/Program Files/Program Files (x86)/m4
+SYSWOW64/Program Files/Program Files (x86)/qsub
+SYSWOW64/Program Files/Program Files (x86)/rmdel.docx
+SYSWOW64/Program Files/Program Files (x86)/sleep.cmd
+SYSWOW64/Program Files/Program Files (x86)/unget.exe
+SYSWOW64/Program Files/Riot Games/Windows/bc
+SYSWOW64/Program Files/Riot Games/Windows/bg.cmd
+SYSWOW64/Program Files/Riot Games/Windows/fuser.bat
+SYSWOW64/Program Files/Riot Games/Windows/logname.doc
+SYSWOW64/Program Files/Riot Games/Windows/ls.exe
+SYSWOW64/Program Files/Riot Games/ar
+SYSWOW64/Program Files/Riot Games/newgrp.exe
+SYSWOW64/Program Files/Riot Games/tail.cmd
+SYSWOW64/Program Files/Riot Games/type.docx
+SYSWOW64/Program Files/Riot Games/wait.bat
+SYSWOW64/Program Files/SYSWOW64/SYSWOW64/ar.jar
+SYSWOW64/Program Files/SYSWOW64/SYSWOW64/firefox.cmd
+SYSWOW64/Program Files/SYSWOW64/SYSWOW64/qrls
+SYSWOW64/Program Files/SYSWOW64/SYSWOW64/spotify.exe
+SYSWOW64/Program Files/SYSWOW64/SYSWOW64/uudecode
+SYSWOW64/Program Files/SYSWOW64/SYSWOW64/val.docx
+SYSWOW64/Program Files/SYSWOW64/cal.cmd
+SYSWOW64/Program Files/SYSWOW64/dirname.exe
+SYSWOW64/Program Files/SYSWOW64/fc.cmd
+SYSWOW64/Program Files/SYSWOW64/fg.docx
+SYSWOW64/Program Files/SYSWOW64/make.cmd
+SYSWOW64/Program Files/SYSWOW64/qalter
+SYSWOW64/Program Files/System32/chgrp.exe
+SYSWOW64/Program Files/System32/ipcrm.docx
+SYSWOW64/Program Files/System32/qalter.bat
+SYSWOW64/Program Files/System32/split
+SYSWOW64/Program Files/System32/tty.exe
+SYSWOW64/Program Files/System32/uniq
+SYSWOW64/Program Files/System32/uustat.jar
+SYSWOW64/Program Files/alias.jar
+SYSWOW64/Program Files/hash.exe
+SYSWOW64/Program Files/qmove.bat
+SYSWOW64/Program Files/regedit.doc
+SYSWOW64/Program Files/sed.cmd
+SYSWOW64/Program Files/tty.exe
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/csplit.jar
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/firefox.docx
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/fold.bat
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/getopts.jar
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/sed.cmd
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/umask.cmd
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/uux.cmd
+SYSWOW64/Program Files (x86)/Drivers/Program Files (x86)/Microsoft/Riot Games/vi.cmd
+SYSWOW64/Program Files (x86)/Drivers/dir.doc
+SYSWOW64/Program Files (x86)/Drivers/read.doc
+SYSWOW64/Program Files (x86)/Microsoft/chgrp.jar
+SYSWOW64/Program Files (x86)/Microsoft/nl.bat
+SYSWOW64/Program Files (x86)/Microsoft/tail.exe
+SYSWOW64/Program Files (x86)/Microsoft/unexpand
+SYSWOW64/Program Files (x86)/Program Files/Program Files/cat.doc
+SYSWOW64/Program Files (x86)/Program Files/Program Files/cflow.exe
+SYSWOW64/Program Files (x86)/Program Files/Program Files/command.jar
+SYSWOW64/Program Files (x86)/Program Files/Program Files/iconv.bat
+SYSWOW64/Program Files (x86)/Program Files/Program Files/strip.doc
+SYSWOW64/Program Files (x86)/Program Files/Program Files/unexpand.cmd
+SYSWOW64/Program Files (x86)/Program Files/cd.exe
+SYSWOW64/Program Files (x86)/Program Files/cmd.doc
+SYSWOW64/Program Files (x86)/Program Files/cxref.doc
+SYSWOW64/Program Files (x86)/Program Files/python
+SYSWOW64/Program Files (x86)/Program Files/qhold.jar
+SYSWOW64/Program Files (x86)/Program Files/qrerun
+SYSWOW64/Program Files (x86)/Program Files/sact.bat
+SYSWOW64/Program Files (x86)/Program Files/spotify
+SYSWOW64/Program Files (x86)/Program Files/tty.jar
+SYSWOW64/Program Files (x86)/Program Files/unexpand.exe
+SYSWOW64/Program Files (x86)/Program Files/uudecode.doc
+SYSWOW64/Program Files (x86)/Program Files (x86)/cd.bat
+SYSWOW64/Program Files (x86)/Program Files (x86)/chrome.exe
+SYSWOW64/Program Files (x86)/Program Files (x86)/ctags.docx
+SYSWOW64/Program Files (x86)/Program Files (x86)/mkdir.jar
+SYSWOW64/Program Files (x86)/Program Files (x86)/more
+SYSWOW64/Program Files (x86)/Program Files (x86)/ssh.doc
+SYSWOW64/Program Files (x86)/Program Files (x86)/tty.exe
+SYSWOW64/Program Files (x86)/Program Files (x86)/xargs.docx
+SYSWOW64/Program Files (x86)/Riot Games/Microsoft/fold
+SYSWOW64/Program Files (x86)/Riot Games/Microsoft/getconf.bat
+SYSWOW64/Program Files (x86)/Riot Games/Microsoft/pathchk
+SYSWOW64/Program Files (x86)/Riot Games/Microsoft/rmdel.doc
+SYSWOW64/Program Files (x86)/Riot Games/Microsoft/sccs.docx
+SYSWOW64/Program Files (x86)/Riot Games/Microsoft/vim
+SYSWOW64/Program Files (x86)/Riot Games/hash.doc
+SYSWOW64/Program Files (x86)/Riot Games/mkdir.bat
+SYSWOW64/Program Files (x86)/Riot Games/mkfifo.jar
+SYSWOW64/Program Files (x86)/Riot Games/paste.jar
+SYSWOW64/Program Files (x86)/Riot Games/qselect.cmd
+SYSWOW64/Program Files (x86)/Riot Games/unalias.doc
+SYSWOW64/Program Files (x86)/Riot Games/yacc.cmd
+SYSWOW64/Program Files (x86)/SYSWOW64/rmdir.jar
+SYSWOW64/Program Files (x86)/SYSWOW64/tabs
+SYSWOW64/Program Files (x86)/SYSWOW64/vimtutor.cmd
+SYSWOW64/Program Files (x86)/SYSWOW64/zcat.exe
+SYSWOW64/Program Files (x86)/System32/Microsoft/Drivers/chmod.docx
+SYSWOW64/Program Files (x86)/System32/Microsoft/Drivers/chown.cmd
+SYSWOW64/Program Files (x86)/System32/Microsoft/Drivers/ed.exe
+SYSWOW64/Program Files (x86)/System32/Microsoft/Drivers/split.cmd
+SYSWOW64/Program Files (x86)/System32/Microsoft/Drivers/uniq.docx
+SYSWOW64/Program Files (x86)/System32/SYSWOW64/basename.bat
+SYSWOW64/Program Files (x86)/System32/SYSWOW64/nice.exe
+SYSWOW64/Program Files (x86)/System32/SYSWOW64/qsub.bat
+SYSWOW64/Program Files (x86)/System32/System32/chgrp.jar
+SYSWOW64/Program Files (x86)/System32/System32/dd.doc
+SYSWOW64/Program Files (x86)/System32/System32/false.cmd
+SYSWOW64/Program Files (x86)/System32/System32/get.bat
+SYSWOW64/Program Files (x86)/System32/System32/hash.docx
+SYSWOW64/Program Files (x86)/System32/System32/kill.jar
+SYSWOW64/Program Files (x86)/System32/System32/mailx.doc
+SYSWOW64/Program Files (x86)/System32/System32/pathchk.bat
+SYSWOW64/Program Files (x86)/System32/System32/vi.jar
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/basename.bat
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/iconv
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/localedef.bat
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/lp.bat
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/mkdir.exe
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/sort
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/val.bat
+SYSWOW64/Program Files (x86)/System32/Windows/Microsoft/what.bat
+SYSWOW64/Program Files (x86)/System32/cat.bat
+SYSWOW64/Program Files (x86)/System32/chrome
+SYSWOW64/Program Files (x86)/System32/javac.cmd
+SYSWOW64/Program Files (x86)/System32/jobs.docx
+SYSWOW64/Program Files (x86)/System32/logger.bat
+SYSWOW64/Program Files (x86)/Users/System32/lex.docx
+SYSWOW64/Program Files (x86)/Users/System32/man.docx
+SYSWOW64/Program Files (x86)/Users/System32/qalter.docx
+SYSWOW64/Program Files (x86)/Users/System32/tsort.exe
+SYSWOW64/Program Files (x86)/Users/System32/uustat.jar
+SYSWOW64/Program Files (x86)/Users/expand.docx
+SYSWOW64/Program Files (x86)/Users/mkfifo.doc
+SYSWOW64/Program Files (x86)/Users/nl
+SYSWOW64/Program Files (x86)/Users/sort.docx
+SYSWOW64/Program Files (x86)/Users/winword.bat
+SYSWOW64/Program Files (x86)/Windows/Riot Games/Users/Drivers/System32/Users/Windows/Program Files/get.docx
+SYSWOW64/Program Files (x86)/Windows/Riot Games/Users/Drivers/System32/Users/Windows/Program Files/logname.jar
+SYSWOW64/Program Files (x86)/Windows/chgrp.doc
+SYSWOW64/Program Files (x86)/Windows/javac.doc
+SYSWOW64/Program Files (x86)/Windows/m4.docx
+SYSWOW64/Program Files (x86)/Windows/minecraft.docx
+SYSWOW64/Program Files (x86)/Windows/printf.jar
+SYSWOW64/Program Files (x86)/Windows/type.cmd
+SYSWOW64/Program Files (x86)/jobs.cmd
+SYSWOW64/Program Files (x86)/ln.docx
+SYSWOW64/Program Files (x86)/regedit.jar
+SYSWOW64/Program Files (x86)/uniq.docx
+SYSWOW64/Riot Games/Drivers/cat.exe
+SYSWOW64/Riot Games/Drivers/chgrp.cmd
+SYSWOW64/Riot Games/Drivers/dir.exe
+SYSWOW64/Riot Games/Drivers/make.doc
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/chown.jar
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/more
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/pathchk.docx
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/pax.docx
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/pax.exe
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/rm
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/sh.bat
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/tail.cmd
+SYSWOW64/Riot Games/Microsoft/System32/Microsoft/uname.docx
+SYSWOW64/Riot Games/Microsoft/at.bat
+SYSWOW64/Riot Games/Microsoft/basename.bat
+SYSWOW64/Riot Games/Microsoft/bg
+SYSWOW64/Riot Games/Microsoft/cxref.cmd
+SYSWOW64/Riot Games/Microsoft/dirname.docx
+SYSWOW64/Riot Games/Microsoft/du.docx
+SYSWOW64/Riot Games/Program Files/Program Files/chown
+SYSWOW64/Riot Games/Program Files/Program Files/chown.jar
+SYSWOW64/Riot Games/Program Files/Program Files/data.bat
+SYSWOW64/Riot Games/Program Files/Program Files/fort77.docx
+SYSWOW64/Riot Games/Program Files/Program Files/localedef.jar
+SYSWOW64/Riot Games/Program Files/Program Files/logger.jar
+SYSWOW64/Riot Games/Program Files/Program Files/strings.bat
+SYSWOW64/Riot Games/Program Files/bc.docx
+SYSWOW64/Riot Games/Program Files/dd.exe
+SYSWOW64/Riot Games/Program Files/ghci
+SYSWOW64/Riot Games/Program Files/logger.docx
+SYSWOW64/Riot Games/Program Files/ruby.jar
+SYSWOW64/Riot Games/Program Files/uname.exe
+SYSWOW64/Riot Games/Program Files/what.doc
+SYSWOW64/Riot Games/Program Files (x86)/Users/Drivers/fort77.cmd
+SYSWOW64/Riot Games/Program Files (x86)/Users/Drivers/fuser.doc
+SYSWOW64/Riot Games/Program Files (x86)/Users/Drivers/nm.docx
+SYSWOW64/Riot Games/Program Files (x86)/Users/Drivers/sleep.doc
+SYSWOW64/Riot Games/Program Files (x86)/Users/Drivers/uname.exe
+SYSWOW64/Riot Games/Program Files (x86)/cmp.doc
+SYSWOW64/Riot Games/Program Files (x86)/expand
+SYSWOW64/Riot Games/Program Files (x86)/grep
+SYSWOW64/Riot Games/Program Files (x86)/sed.cmd
+SYSWOW64/Riot Games/Program Files (x86)/who
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/at.cmd
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/diff
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/dir.exe
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/head.exe
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/localedef.jar
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/ps
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/qdel
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/unlink.doc
+SYSWOW64/Riot Games/Riot Games/Riot Games/SYSWOW64/xargs.jar
+SYSWOW64/Riot Games/Riot Games/awk.doc
+SYSWOW64/Riot Games/Riot Games/chmod.bat
+SYSWOW64/Riot Games/Riot Games/dirname.exe
+SYSWOW64/Riot Games/Riot Games/javaw.bat
+SYSWOW64/Riot Games/Riot Games/write.doc
+SYSWOW64/Riot Games/SYSWOW64/choco.bat
+SYSWOW64/Riot Games/SYSWOW64/ls.bat
+SYSWOW64/Riot Games/SYSWOW64/zcat.cmd
+SYSWOW64/Riot Games/System32/dd.docx
+SYSWOW64/Riot Games/System32/echo.doc
+SYSWOW64/Riot Games/System32/gencat.exe
+SYSWOW64/Riot Games/System32/ls.bat
+SYSWOW64/Riot Games/System32/od.exe
+SYSWOW64/Riot Games/System32/qsub.docx
+SYSWOW64/Riot Games/System32/regedit.docx
+SYSWOW64/Riot Games/System32/what.exe
+SYSWOW64/Riot Games/Users/fg.bat
+SYSWOW64/Riot Games/Users/head.doc
+SYSWOW64/Riot Games/Users/ls.docx
+SYSWOW64/Riot Games/Users/mesg.jar
+SYSWOW64/Riot Games/Users/mkdir.exe
+SYSWOW64/Riot Games/Users/sccs.exe
+SYSWOW64/Riot Games/Windows/SYSWOW64/bg.bat
+SYSWOW64/Riot Games/Windows/SYSWOW64/dir.docx
+SYSWOW64/Riot Games/Windows/SYSWOW64/excel.jar
+SYSWOW64/Riot Games/Windows/SYSWOW64/fg.cmd
+SYSWOW64/Riot Games/Windows/SYSWOW64/pax
+SYSWOW64/Riot Games/Windows/cp.exe
+SYSWOW64/Riot Games/Windows/locale.doc
+SYSWOW64/Riot Games/Windows/qstat.exe
+SYSWOW64/Riot Games/Windows/ruby.bat
+SYSWOW64/Riot Games/cd.cmd
+SYSWOW64/Riot Games/ed.bat
+SYSWOW64/Riot Games/fg
+SYSWOW64/Riot Games/minecraft.docx
+SYSWOW64/Riot Games/od.bat
+SYSWOW64/Riot Games/qrls.jar
+SYSWOW64/Riot Games/touch
+SYSWOW64/SYSWOW64/Drivers/awk.exe
+SYSWOW64/SYSWOW64/Drivers/cut.docx
+SYSWOW64/SYSWOW64/Drivers/strings
+SYSWOW64/SYSWOW64/Drivers/uniq.bat
+SYSWOW64/SYSWOW64/Drivers/uniq.cmd
+SYSWOW64/SYSWOW64/Microsoft/Microsoft/cmp.docx
+SYSWOW64/SYSWOW64/Microsoft/Microsoft/getconf.jar
+SYSWOW64/SYSWOW64/Microsoft/Microsoft/qalter.exe
+SYSWOW64/SYSWOW64/Microsoft/Microsoft/true.bat
+SYSWOW64/SYSWOW64/Microsoft/Microsoft/wc
+SYSWOW64/SYSWOW64/Microsoft/SYSWOW64/Drivers/pax.cmd
+SYSWOW64/SYSWOW64/Microsoft/SYSWOW64/Drivers/qselect.docx
+SYSWOW64/SYSWOW64/Microsoft/SYSWOW64/Drivers/rmdel.cmd
+SYSWOW64/SYSWOW64/Microsoft/SYSWOW64/Drivers/uuencode.doc
+SYSWOW64/SYSWOW64/Microsoft/SYSWOW64/Drivers/wait.bat
+SYSWOW64/SYSWOW64/Microsoft/SYSWOW64/Drivers/who.jar
+SYSWOW64/SYSWOW64/Microsoft/bg.doc
+SYSWOW64/SYSWOW64/Microsoft/cmd.doc
+SYSWOW64/SYSWOW64/Microsoft/df.bat
+SYSWOW64/SYSWOW64/Microsoft/get.exe
+SYSWOW64/SYSWOW64/Microsoft/hash.cmd
+SYSWOW64/SYSWOW64/Microsoft/ln.doc
+SYSWOW64/SYSWOW64/Microsoft/mkdir.doc
+SYSWOW64/SYSWOW64/Program Files/Microsoft/Program Files (x86)/ctags
+SYSWOW64/SYSWOW64/Program Files/Microsoft/Program Files (x86)/join.cmd
+SYSWOW64/SYSWOW64/Program Files/Microsoft/Program Files (x86)/qsub.exe
+SYSWOW64/SYSWOW64/Program Files/Microsoft/Program Files (x86)/read
+SYSWOW64/SYSWOW64/Program Files/Riot Games/chrome.jar
+SYSWOW64/SYSWOW64/Program Files/Riot Games/expr
+SYSWOW64/SYSWOW64/Program Files/Riot Games/ls.doc
+SYSWOW64/SYSWOW64/Program Files/Riot Games/ls.exe
+SYSWOW64/SYSWOW64/Program Files/Riot Games/prs
+SYSWOW64/SYSWOW64/Program Files/Riot Games/qrerun.jar
+SYSWOW64/SYSWOW64/Program Files/Riot Games/vim.exe
+SYSWOW64/SYSWOW64/Program Files/bg.jar
+SYSWOW64/SYSWOW64/Program Files/data.docx
+SYSWOW64/SYSWOW64/Program Files/getconf.bat
+SYSWOW64/SYSWOW64/Program Files/ls.cmd
+SYSWOW64/SYSWOW64/Program Files/mailx
+SYSWOW64/SYSWOW64/Program Files/strings.exe
+SYSWOW64/SYSWOW64/Program Files/stty.cmd
+SYSWOW64/SYSWOW64/Program Files/uuencode.cmd
+SYSWOW64/SYSWOW64/Program Files (x86)/Drivers/Windows/SYSWOW64/cd.exe
+SYSWOW64/SYSWOW64/Program Files (x86)/Drivers/Windows/SYSWOW64/chgrp.exe
+SYSWOW64/SYSWOW64/Program Files (x86)/Drivers/Windows/SYSWOW64/minecraft.docx
+SYSWOW64/SYSWOW64/Program Files (x86)/Drivers/Windows/SYSWOW64/unget.doc
+SYSWOW64/SYSWOW64/Program Files (x86)/Drivers/Windows/SYSWOW64/vim.cmd
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/asa.jar
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/cp.bat
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/ed.docx
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/env.bat
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/m4.doc
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/mv.exe
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/ssh.docx
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/tr.cmd
+SYSWOW64/SYSWOW64/Program Files (x86)/Microsoft/Program Files/uudecode.docx
+SYSWOW64/SYSWOW64/Program Files (x86)/Users/echo.bat
+SYSWOW64/SYSWOW64/Program Files (x86)/Users/write
+SYSWOW64/SYSWOW64/Program Files (x86)/patch.exe
+SYSWOW64/SYSWOW64/Program Files (x86)/tsort.cmd
+SYSWOW64/SYSWOW64/Program Files (x86)/type
+SYSWOW64/SYSWOW64/Riot Games/du
+SYSWOW64/SYSWOW64/Riot Games/expr.doc
+SYSWOW64/SYSWOW64/Riot Games/grep.jar
+SYSWOW64/SYSWOW64/Riot Games/winword.exe
+SYSWOW64/SYSWOW64/SYSWOW64/dirname
+SYSWOW64/SYSWOW64/SYSWOW64/echo.docx
+SYSWOW64/SYSWOW64/SYSWOW64/fc
+SYSWOW64/SYSWOW64/SYSWOW64/wc.docx
+SYSWOW64/SYSWOW64/System32/date.doc
+SYSWOW64/SYSWOW64/System32/delta.bat
+SYSWOW64/SYSWOW64/System32/man.doc
+SYSWOW64/SYSWOW64/System32/what.docx
+SYSWOW64/SYSWOW64/Users/SYSWOW64/dir.docx
+SYSWOW64/SYSWOW64/Users/SYSWOW64/kill.jar
+SYSWOW64/SYSWOW64/Users/SYSWOW64/qrls.docx
+SYSWOW64/SYSWOW64/Users/SYSWOW64/uucp.cmd
+SYSWOW64/SYSWOW64/Windows/make
+SYSWOW64/SYSWOW64/Windows/ps
+SYSWOW64/SYSWOW64/Windows/sccs.exe
+SYSWOW64/SYSWOW64/Windows/sort.jar
+SYSWOW64/SYSWOW64/Windows/tabs.docx
+SYSWOW64/SYSWOW64/Windows/unalias.jar
+SYSWOW64/SYSWOW64/Windows/vim.cmd
+SYSWOW64/SYSWOW64/Windows/vim.doc
+SYSWOW64/SYSWOW64/bc.docx
+SYSWOW64/SYSWOW64/crontab.jar
+SYSWOW64/SYSWOW64/cxref.jar
+SYSWOW64/SYSWOW64/rmdel.bat
+SYSWOW64/SYSWOW64/wc.docx
+SYSWOW64/System32/Drivers/diff.docx
+SYSWOW64/System32/Drivers/qalter.jar
+SYSWOW64/System32/Drivers/uname
+SYSWOW64/System32/Microsoft/Microsoft/chrome
+SYSWOW64/System32/Microsoft/Microsoft/excel
+SYSWOW64/System32/Microsoft/Microsoft/fg
+SYSWOW64/System32/Microsoft/Microsoft/localedef.bat
+SYSWOW64/System32/Microsoft/Microsoft/mesg.docx
+SYSWOW64/System32/Microsoft/Microsoft/qrerun.jar
+SYSWOW64/System32/Microsoft/Microsoft/spotify
+SYSWOW64/System32/Microsoft/Microsoft/strip.doc
+SYSWOW64/System32/Microsoft/Microsoft/stty.doc
+SYSWOW64/System32/Microsoft/Microsoft/tty.doc
+SYSWOW64/System32/Microsoft/Program Files/asa.cmd
+SYSWOW64/System32/Microsoft/Program Files/ghci.jar
+SYSWOW64/System32/Microsoft/Program Files/nl.exe
+SYSWOW64/System32/Microsoft/Program Files/od.bat
+SYSWOW64/System32/Microsoft/Program Files/od.exe
+SYSWOW64/System32/Microsoft/Program Files/prs.exe
+SYSWOW64/System32/Microsoft/Program Files/rmdel
+SYSWOW64/System32/Microsoft/Program Files/sh
+SYSWOW64/System32/Microsoft/Program Files/split.exe
+SYSWOW64/System32/Microsoft/Program Files/spotify.bat
+SYSWOW64/System32/Microsoft/Program Files/tee.jar
+SYSWOW64/System32/Microsoft/Program Files/tput.docx
+SYSWOW64/System32/Microsoft/Program Files/uuencode.bat
+SYSWOW64/System32/Microsoft/admin.exe
+SYSWOW64/System32/Microsoft/bg.exe
+SYSWOW64/System32/Microsoft/expand.cmd
+SYSWOW64/System32/Microsoft/fc.cmd
+SYSWOW64/System32/Microsoft/fuser.cmd
+SYSWOW64/System32/Microsoft/wc.jar
+SYSWOW64/System32/Program Files/Program Files/Users/link
+SYSWOW64/System32/Program Files/Program Files/Users/touch.jar
+SYSWOW64/System32/Program Files/Program Files/Users/tput.docx
+SYSWOW64/System32/Program Files/mkfifo
+SYSWOW64/System32/Program Files/pathchk
+SYSWOW64/System32/Program Files/qdel.docx
+SYSWOW64/System32/Program Files/type.bat
+SYSWOW64/System32/Program Files (x86)/Windows/choco.bat
+SYSWOW64/System32/Program Files (x86)/Windows/env.bat
+SYSWOW64/System32/Program Files (x86)/Windows/getconf.bat
+SYSWOW64/System32/Program Files (x86)/Windows/logname.bat
+SYSWOW64/System32/Program Files (x86)/Windows/logname.exe
+SYSWOW64/System32/Program Files (x86)/Windows/ps.cmd
+SYSWOW64/System32/Program Files (x86)/Windows/qrerun
+SYSWOW64/System32/Program Files (x86)/awk.exe
+SYSWOW64/System32/Program Files (x86)/cd.cmd
+SYSWOW64/System32/Program Files (x86)/date.docx
+SYSWOW64/System32/Program Files (x86)/excel.cmd
+SYSWOW64/System32/Program Files (x86)/find.bat
+SYSWOW64/System32/Program Files (x86)/gencat.docx
+SYSWOW64/System32/Program Files (x86)/more.bat
+SYSWOW64/System32/Program Files (x86)/strings.cmd
+SYSWOW64/System32/Program Files (x86)/unget.doc
+SYSWOW64/System32/Program Files (x86)/unget.exe
+SYSWOW64/System32/Program Files (x86)/vi
+SYSWOW64/System32/Program Files (x86)/wait.jar
+SYSWOW64/System32/Riot Games/Windows/Riot Games/Windows/System32/dd.exe
+SYSWOW64/System32/Riot Games/Windows/Riot Games/Windows/System32/javaw.doc
+SYSWOW64/System32/Riot Games/Windows/Riot Games/Windows/System32/join.exe
+SYSWOW64/System32/Riot Games/Windows/Riot Games/Windows/System32/read.bat
+SYSWOW64/System32/Riot Games/basename.bat
+SYSWOW64/System32/Riot Games/date.docx
+SYSWOW64/System32/Riot Games/df
+SYSWOW64/System32/Riot Games/qmove.bat
+SYSWOW64/System32/Riot Games/qrls.cmd
+SYSWOW64/System32/SYSWOW64/Microsoft/cat.jar
+SYSWOW64/System32/SYSWOW64/Microsoft/cksum.cmd
+SYSWOW64/System32/SYSWOW64/Microsoft/cmd.doc
+SYSWOW64/System32/SYSWOW64/Microsoft/grep.jar
+SYSWOW64/System32/SYSWOW64/Microsoft/paste.docx
+SYSWOW64/System32/SYSWOW64/Microsoft/pathchk.bat
+SYSWOW64/System32/SYSWOW64/Microsoft/qstat.exe
+SYSWOW64/System32/SYSWOW64/Microsoft/sact.bat
+SYSWOW64/System32/SYSWOW64/Microsoft/tabs.bat
+SYSWOW64/System32/SYSWOW64/Microsoft/true.jar
+SYSWOW64/System32/SYSWOW64/Microsoft/umask.cmd
+SYSWOW64/System32/SYSWOW64/SYSWOW64/expand
+SYSWOW64/System32/SYSWOW64/SYSWOW64/newgrp.cmd
+SYSWOW64/System32/SYSWOW64/SYSWOW64/patch.bat
+SYSWOW64/System32/SYSWOW64/Windows/Riot Games/file.cmd
+SYSWOW64/System32/SYSWOW64/Windows/Riot Games/find.bat
+SYSWOW64/System32/SYSWOW64/Windows/Riot Games/lp.jar
+SYSWOW64/System32/SYSWOW64/Windows/Riot Games/nice.docx
+SYSWOW64/System32/SYSWOW64/Windows/Riot Games/renice.docx
+SYSWOW64/System32/SYSWOW64/Windows/Riot Games/sh.cmd
+SYSWOW64/System32/SYSWOW64/Windows/Riot Games/sleep.exe
+SYSWOW64/System32/SYSWOW64/head.bat
+SYSWOW64/System32/SYSWOW64/read.docx
+SYSWOW64/System32/SYSWOW64/split.bat
+SYSWOW64/System32/SYSWOW64/split.doc
+SYSWOW64/System32/SYSWOW64/unget.jar
+SYSWOW64/System32/System32/mailx.cmd
+SYSWOW64/System32/System32/mkdir.docx
+SYSWOW64/System32/System32/time.cmd
+SYSWOW64/System32/System32/uncompress.jar
+SYSWOW64/System32/System32/xargs.doc
+SYSWOW64/System32/Users/Program Files (x86)/Program Files (x86)/System32/Drivers/Riot Games/crontab.exe
+SYSWOW64/System32/Users/Program Files (x86)/Program Files (x86)/System32/Drivers/Riot Games/iconv.cmd
+SYSWOW64/System32/Users/Program Files (x86)/Program Files (x86)/System32/Drivers/Riot Games/nice.doc
+SYSWOW64/System32/Users/Program Files (x86)/Program Files (x86)/System32/Drivers/Riot Games/uudecode.cmd
+SYSWOW64/System32/Windows/Drivers/Users/mailx
+SYSWOW64/System32/Windows/Drivers/Users/rmdel.doc
+SYSWOW64/System32/Windows/Drivers/Users/unalias.exe
+SYSWOW64/System32/Windows/Drivers/cflow.cmd
+SYSWOW64/System32/Windows/Drivers/cp.cmd
+SYSWOW64/System32/Windows/Drivers/lp.jar
+SYSWOW64/System32/Windows/Drivers/mkfifo.cmd
+SYSWOW64/System32/Windows/Drivers/strip.jar
+SYSWOW64/System32/Windows/Drivers/tee.docx
+SYSWOW64/System32/Windows/Drivers/vim.jar
+SYSWOW64/System32/Windows/Drivers/vimtutor.bat
+SYSWOW64/System32/Windows/expr.jar
+SYSWOW64/System32/Windows/fold.jar
+SYSWOW64/System32/Windows/fort77.doc
+SYSWOW64/System32/Windows/getconf
+SYSWOW64/System32/Windows/ln.bat
+SYSWOW64/System32/Windows/mkdir.bat
+SYSWOW64/System32/Windows/test.bat
+SYSWOW64/System32/cat
+SYSWOW64/System32/ex.bat
+SYSWOW64/System32/iconv.bat
+SYSWOW64/System32/sed.doc
+SYSWOW64/System32/yacc.cmd
+SYSWOW64/Users/Drivers/awk.cmd
+SYSWOW64/Users/Drivers/crontab.doc
+SYSWOW64/Users/Drivers/link.jar
+SYSWOW64/Users/Drivers/nm.jar
+SYSWOW64/Users/Drivers/read.cmd
+SYSWOW64/Users/Drivers/regedit.doc
+SYSWOW64/Users/Microsoft/echo.bat
+SYSWOW64/Users/Microsoft/qalter
+SYSWOW64/Users/Program Files (x86)/Program Files/Program Files (x86)/asa.doc
+SYSWOW64/Users/Program Files (x86)/Program Files/Program Files (x86)/chrome.bat
+SYSWOW64/Users/Program Files (x86)/Program Files/Program Files (x86)/localedef.bat
+SYSWOW64/Users/Program Files (x86)/Program Files/Program Files (x86)/unalias.doc
+SYSWOW64/Users/Program Files (x86)/Program Files/Program Files (x86)/uname
+SYSWOW64/Users/Program Files (x86)/Program Files/Program Files (x86)/vimtutor
+SYSWOW64/Users/Program Files (x86)/cat.docx
+SYSWOW64/Users/Program Files (x86)/command.exe
+SYSWOW64/Users/Program Files (x86)/crontab.docx
+SYSWOW64/Users/Program Files (x86)/grep
+SYSWOW64/Users/Program Files (x86)/javaw.doc
+SYSWOW64/Users/Program Files (x86)/od
+SYSWOW64/Users/Program Files (x86)/pwd.bat
+SYSWOW64/Users/Program Files (x86)/qmove.jar
+SYSWOW64/Users/Program Files (x86)/sh.exe
+SYSWOW64/Users/Program Files (x86)/sleep.cmd
+SYSWOW64/Users/Program Files (x86)/unlink.exe
+SYSWOW64/Users/SYSWOW64/Drivers/minecraft.jar
+SYSWOW64/Users/SYSWOW64/Drivers/printf.cmd
+SYSWOW64/Users/SYSWOW64/Drivers/regedit.cmd
+SYSWOW64/Users/SYSWOW64/Drivers/spotify.cmd
+SYSWOW64/Users/System32/Riot Games/cal
+SYSWOW64/Users/System32/Riot Games/comm.bat
+SYSWOW64/Users/System32/Riot Games/javaw.jar
+SYSWOW64/Users/System32/Riot Games/pr.doc
+SYSWOW64/Users/System32/Riot Games/qdel.exe
+SYSWOW64/Users/System32/Riot Games/who
+SYSWOW64/Users/Users/cat.exe
+SYSWOW64/Users/Users/chgrp
+SYSWOW64/Users/Users/excel.cmd
+SYSWOW64/Users/Users/qmsg.docx
+SYSWOW64/Users/Users/tty.cmd
+SYSWOW64/Users/Windows/Users/Drivers/admin.bat
+SYSWOW64/Users/Windows/Users/Drivers/at.cmd
+SYSWOW64/Users/Windows/Users/Drivers/crontab.doc
+SYSWOW64/Users/Windows/Users/Drivers/false.docx
+SYSWOW64/Users/Windows/Users/Drivers/man
+SYSWOW64/Users/Windows/Users/Drivers/mv.bat
+SYSWOW64/Users/Windows/fc.docx
+SYSWOW64/Users/Windows/more.cmd
+SYSWOW64/Users/Windows/nice.bat
+SYSWOW64/Users/Windows/qmsg.jar
+SYSWOW64/Users/Windows/qsub.exe
+SYSWOW64/Users/Windows/vim.doc
+SYSWOW64/Users/Windows/zcat
+SYSWOW64/Users/cut.exe
+SYSWOW64/Users/explorer.bat
+SYSWOW64/Users/java.bat
+SYSWOW64/Users/qsub.doc
+SYSWOW64/Users/rmdir.exe
+SYSWOW64/Users/strings.jar
+SYSWOW64/Users/uniq.doc
+SYSWOW64/Windows/Drivers/Riot Games/Program Files/ghci.jar
+SYSWOW64/Windows/Drivers/Riot Games/Program Files/ls.cmd
+SYSWOW64/Windows/Drivers/Riot Games/Program Files/mkdir.bat
+SYSWOW64/Windows/Drivers/Riot Games/Program Files/pr.jar
+SYSWOW64/Windows/Drivers/Riot Games/Program Files/qalter.doc
+SYSWOW64/Windows/Drivers/Riot Games/Program Files/regedit.jar
+SYSWOW64/Windows/Drivers/Riot Games/Program Files/uucp.exe
+SYSWOW64/Windows/Microsoft/System32/Riot Games/rmdir.doc
+SYSWOW64/Windows/Microsoft/System32/Riot Games/sh.bat
+SYSWOW64/Windows/Microsoft/System32/Riot Games/xargs
+SYSWOW64/Windows/Microsoft/csplit.doc
+SYSWOW64/Windows/Microsoft/echo.cmd
+SYSWOW64/Windows/Microsoft/expr.jar
+SYSWOW64/Windows/Microsoft/python.exe
+SYSWOW64/Windows/Microsoft/qselect.cmd
+SYSWOW64/Windows/Microsoft/sccs.doc
+SYSWOW64/Windows/Microsoft/tput.jar
+SYSWOW64/Windows/Microsoft/uuencode.cmd
+SYSWOW64/Windows/Program Files/diff.bat
+SYSWOW64/Windows/Program Files/env.bat
+SYSWOW64/Windows/Program Files (x86)/chgrp
+SYSWOW64/Windows/Program Files (x86)/qstat.exe
+SYSWOW64/Windows/Program Files (x86)/split
+SYSWOW64/Windows/Program Files (x86)/talk.doc
+SYSWOW64/Windows/Program Files (x86)/val.cmd
+SYSWOW64/Windows/Riot Games/Microsoft/Program Files (x86)/get.exe
+SYSWOW64/Windows/Riot Games/Microsoft/Program Files (x86)/ipcs
+SYSWOW64/Windows/Riot Games/Microsoft/Program Files (x86)/sh
+SYSWOW64/Windows/Riot Games/Microsoft/Program Files (x86)/spotify.doc
+SYSWOW64/Windows/Riot Games/Microsoft/Program Files (x86)/tr.cmd
+SYSWOW64/Windows/Riot Games/Microsoft/Program Files (x86)/vim.docx
+SYSWOW64/Windows/Riot Games/Microsoft/Program Files (x86)/write
+SYSWOW64/Windows/Riot Games/System32/Users/ctags.bat
+SYSWOW64/Windows/Riot Games/System32/Users/lp.exe
+SYSWOW64/Windows/Riot Games/System32/Users/paste.jar
+SYSWOW64/Windows/Riot Games/System32/Users/qmove.cmd
+SYSWOW64/Windows/Riot Games/System32/Users/test.cmd
+SYSWOW64/Windows/Riot Games/cat.bat
+SYSWOW64/Windows/Riot Games/explorer.cmd
+SYSWOW64/Windows/Riot Games/false.docx
+SYSWOW64/Windows/Riot Games/getopts.docx
+SYSWOW64/Windows/SYSWOW64/Microsoft/ar.docx
+SYSWOW64/Windows/SYSWOW64/Microsoft/cksum.doc
+SYSWOW64/Windows/SYSWOW64/Microsoft/firefox.exe
+SYSWOW64/Windows/SYSWOW64/Microsoft/head.doc
+SYSWOW64/Windows/SYSWOW64/Microsoft/pwd.bat
+SYSWOW64/Windows/SYSWOW64/Microsoft/python.doc
+SYSWOW64/Windows/SYSWOW64/Microsoft/renice.jar
+SYSWOW64/Windows/SYSWOW64/Microsoft/spotify.cmd
+SYSWOW64/Windows/SYSWOW64/Microsoft/tput.doc
+SYSWOW64/Windows/SYSWOW64/Microsoft/tsort
+SYSWOW64/Windows/SYSWOW64/Microsoft/unexpand.docx
+SYSWOW64/Windows/SYSWOW64/System32/codes.bat
+SYSWOW64/Windows/SYSWOW64/System32/find.docx
+SYSWOW64/Windows/SYSWOW64/System32/getconf.docx
+SYSWOW64/Windows/SYSWOW64/System32/logname
+SYSWOW64/Windows/SYSWOW64/System32/nohup.exe
+SYSWOW64/Windows/SYSWOW64/System32/unget.exe
+SYSWOW64/Windows/SYSWOW64/fg.exe
+SYSWOW64/Windows/SYSWOW64/fuser.docx
+SYSWOW64/Windows/SYSWOW64/mesg.jar
+SYSWOW64/Windows/SYSWOW64/uucp.docx
+SYSWOW64/Windows/System32/SYSWOW64/bc
+SYSWOW64/Windows/System32/SYSWOW64/fort77.doc
+SYSWOW64/Windows/System32/SYSWOW64/getconf.bat
+SYSWOW64/Windows/System32/SYSWOW64/grep.cmd
+SYSWOW64/Windows/System32/SYSWOW64/lp.docx
+SYSWOW64/Windows/System32/SYSWOW64/strings.bat
+SYSWOW64/Windows/System32/SYSWOW64/write.exe
+SYSWOW64/Windows/System32/cksum.bat
+SYSWOW64/Windows/System32/codes.docx
+SYSWOW64/Windows/System32/tput.cmd
+SYSWOW64/Windows/System32/tput.jar
+SYSWOW64/Windows/System32/tsort.docx
+SYSWOW64/Windows/System32/winword.docx
+SYSWOW64/Windows/Windows/Windows/chrome.bat
+SYSWOW64/Windows/Windows/Windows/csplit.cmd
+SYSWOW64/Windows/Windows/Windows/data.doc
+SYSWOW64/Windows/Windows/Windows/file.exe
+SYSWOW64/Windows/Windows/Windows/ghci
+SYSWOW64/Windows/Windows/Windows/lex
+SYSWOW64/Windows/Windows/Windows/ln.docx
+SYSWOW64/Windows/Windows/Windows/nm.cmd
+SYSWOW64/Windows/Windows/Windows/od.docx
+SYSWOW64/Windows/Windows/Windows/pathchk.docx
+SYSWOW64/Windows/Windows/Windows/ps.jar
+SYSWOW64/Windows/Windows/Windows/split.jar
+SYSWOW64/Windows/Windows/Windows/umask
+SYSWOW64/Windows/Windows/Windows/uustat.jar
+SYSWOW64/Windows/Windows/Windows/who.docx
+SYSWOW64/Windows/Windows/basename.doc
+SYSWOW64/Windows/Windows/dirname.doc
+SYSWOW64/Windows/admin.jar
+SYSWOW64/Windows/ex.cmd
+SYSWOW64/Windows/pr.doc
+SYSWOW64/Windows/rm
+SYSWOW64/Windows/yacc.docx

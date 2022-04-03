@@ -1,0 +1,47 @@
+46
+Users/Program Files/winword.bat
+Users/Microsoft/Drivers/Users/python
+Users/Drivers/winword.jar
+Users/Riot Games/Drivers/minecraft
+Users/SYSWOW64/SYSWOW64/explorer.docx
+Users/Windows/System32/Microsoft/Program Files (x86)/data
+Users/SYSWOW64/javac
+Users/Microsoft/codes.cmd
+Users/Users/ghci
+Users/Riot Games/Drivers/excel.jar
+Users/System32/python.cmd
+Users/Microsoft/chrome.doc
+Users/Microsoft/javac.cmd
+Users/Program Files (x86)/python.doc
+Users/SYSWOW64/Program Files/python
+Users/Users/codes
+Users/Windows/System32/Microsoft/Program Files (x86)/minecraft
+Users/SYSWOW64/Program Files/javac.exe
+Users/Drivers/firefox.docx
+Users/Microsoft/chrome.jar
+Users/Users/firefox.doc
+Users/System32/javac.jar
+Users/Program Files/firefox.exe
+Users/Microsoft/java.doc
+Users/Riot Games/Drivers/data.docx
+Users/Windows/System32/Microsoft/Program Files (x86)/javac.doc
+Users/Microsoft/Drivers/Users/winword
+Users/Program Files/cmd.docx
+Users/Windows/System32/Microsoft/Program Files (x86)/codes.jar
+Users/SYSWOW64/javaw
+Users/SYSWOW64/Program Files/codes
+Users/SYSWOW64/Program Files (x86)/excel.docx
+Users/Program Files (x86)/explorer
+Users/Microsoft/minecraft.cmd
+Users/Windows/System32/Microsoft/Program Files (x86)/spotify
+Users/SYSWOW64/Program Files (x86)/minecraft.doc
+Users/Users/data.jar
+Users/Users/excel.exe
+Users/Microsoft/minecraft.bat
+Users/Microsoft/Drivers/Users/java.cmd
+Users/Program Files (x86)/chrome.exe
+Users/SYSWOW64/Program Files/python.bat
+Users/Program Files (x86)/explorer.jar
+Users/Windows/System32/Microsoft/Program Files (x86)/python.cmd
+Users/Program Files/excel.cmd
+Users/Users/excel.cmd

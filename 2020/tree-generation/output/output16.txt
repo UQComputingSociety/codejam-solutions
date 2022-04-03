@@ -1,0 +1,134 @@
+Program Files/
++-Drivers/
+| +-Program Files/
+| | +-Users/
+| |   +-SYSWOW64/
+| |     +-Riot Games/
+| |       +-cmd.jar
+| |       +-javac.exe
+| |       +-python.doc
+| +-Program Files (x86)/
+| | +-System32/
+| |   +-excel.cmd
+| |   +-ghci.docx
+| |   +-javac.exe
+| |   +-javaw.docx
+| +-python.cmd
+| +-winword
++-Microsoft/
+| +-Program Files/
+| | +-System32/
+| | | +-Riot Games/
+| | |   +-SYSWOW64/
+| | |     +-explorer
+| | +-javac.bat
+| | +-minecraft.jar
+| +-Windows/
+| | +-cmd.doc
+| | +-codes.bat
+| | +-data.exe
+| | +-winword.bat
+| +-cmd.bat
+| +-codes.exe
+| +-firefox.bat
+| +-java.bat
+| +-java.cmd
+| +-java.doc
++-Program Files/
+| +-SYSWOW64/
+| | +-Users/
+| | | +-Riot Games/
+| | |   +-firefox
+| | |   +-ghci.doc
+| | |   +-java.bat
+| | +-firefox.jar
+| | +-spotify.docx
+| | +-winword
+| +-Users/
+| | +-java.docx
+| +-explorer.exe
+| +-javaw
+| +-javaw.docx
++-Program Files (x86)/
+| +-Drivers/
+| | +-codes.cmd
+| | +-java.doc
+| | +-javac.bat
+| +-SYSWOW64/
+| | +-SYSWOW64/
+| | | +-python.doc
+| | +-java.bat
+| +-System32/
+| | +-codes.jar
+| | +-minecraft.cmd
+| +-explorer.cmd
+| +-firefox
+| +-javaw.doc
+| +-minecraft.exe
+| +-python.bat
++-Riot Games/
+| +-Users/
+| | +-data.doc
+| +-chrome.docx
+| +-winword
++-SYSWOW64/
+| +-Program Files (x86)/
+| | +-firefox.cmd
+| | +-java.doc
+| | +-java.docx
+| +-Riot Games/
+| | +-SYSWOW64/
+| |   +-java.jar
+| |   +-python.docx
+| |   +-spotify
+| +-chrome.bat
+| +-cmd.doc
+| +-data
+| +-firefox.cmd
+| +-firefox.exe
+| +-python.jar
+| +-winword.jar
++-System32/
+| +-Microsoft/
+| | +-firefox.jar
+| +-System32/
+| | +-winword.docx
+| +-Users/
+| | +-excel.doc
+| | +-ghci.exe
+| | +-javaw.doc
+| | +-minecraft.cmd
+| | +-python.doc
+| | +-winword.docx
+| +-Windows/
+| | +-Windows/
+| |   +-ghci.cmd
+| +-cmd.doc
+| +-cmd.exe
+| +-javac.docx
+| +-python
+| +-python.cmd
+| +-python.jar
++-Users/
+| +-Program Files (x86)/
+| | +-cmd
+| | +-data
+| | +-data.docx
+| | +-ghci.docx
+| +-System32/
+| | +-chrome.doc
+| +-Windows/
+| | +-Windows/
+| | | +-javaw.docx
+| | +-cmd.cmd
+| | +-spotify.cmd
+| +-data.cmd
+| +-data.docx
+| +-explorer.doc
+| +-java.jar
+| +-javac.jar
+| +-spotify
++-Windows/
+  +-firefox.jar
+  +-java
+  +-spotify.doc

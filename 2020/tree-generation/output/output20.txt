@@ -1,0 +1,75 @@
+SYSWOW64/
++-Drivers/
+| +-Drivers/
+| | +-java.doc
+| +-Program Files (x86)/
+| | +-excel.jar
+| | +-firefox.cmd
+| +-Riot Games/
+| | +-chrome
+| | +-java
+| | +-minecraft.docx
+| | +-winword.bat
+| +-Windows/
+| | +-codes.bat
+| | +-java.docx
+| +-chrome.exe
+| +-python.doc
++-Microsoft/
+| +-Windows/
+| | +-excel.bat
+| +-chrome.bat
+| +-javac.doc
+| +-spotify.doc
++-Program Files/
+| +-Riot Games/
+| | +-codes.jar
+| | +-data.bat
+| +-SYSWOW64/
+| | +-SYSWOW64/
+| |   +-Windows/
+| |     +-chrome.bat
+| +-System32/
+|   +-Program Files/
+|     +-cmd.doc
+|     +-cmd.jar
+|     +-spotify.bat
++-Program Files (x86)/
+| +-System32/
+| | +-data
+| +-winword.docx
++-Riot Games/
+| +-Program Files/
+| | +-Riot Games/
+| |   +-excel.doc
+| |   +-ghci
+| +-Riot Games/
+| | +-Microsoft/
+| |   +-Riot Games/
+| |     +-cmd.doc
+| |     +-excel.cmd
+| |     +-ghci.exe
+| |     +-ghci.jar
+| +-System32/
+| | +-cmd.doc
+| +-firefox.exe
++-SYSWOW64/
+| +-Program Files/
+|   +-Riot Games/
+|     +-javaw
+|     +-javaw.jar
++-System32/
+| +-Drivers/
+| | +-data.doc
+| +-Users/
+|   +-javac.docx
++-Users/
+| +-SYSWOW64/
+| | +-ghci.bat
+| | +-ghci.exe
+| +-Windows/
+| | +-codes.jar
+| +-javac.exe
++-Windows/
+  +-Microsoft/
+    +-excel.exe

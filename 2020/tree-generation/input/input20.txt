@@ -1,0 +1,41 @@
+40
+SYSWOW64/Program Files/System32/Program Files/cmd.jar
+SYSWOW64/Drivers/Program Files (x86)/firefox.cmd
+SYSWOW64/System32/Drivers/data.doc
+SYSWOW64/Users/SYSWOW64/ghci.exe
+SYSWOW64/SYSWOW64/Program Files/Riot Games/javaw.jar
+SYSWOW64/Program Files/SYSWOW64/SYSWOW64/Windows/chrome.bat
+SYSWOW64/SYSWOW64/Program Files/Riot Games/javaw
+SYSWOW64/System32/Users/javac.docx
+SYSWOW64/Drivers/Riot Games/java
+SYSWOW64/Drivers/Riot Games/chrome
+SYSWOW64/Program Files (x86)/winword.docx
+SYSWOW64/Program Files/System32/Program Files/cmd.doc
+SYSWOW64/Drivers/Riot Games/minecraft.docx
+SYSWOW64/Riot Games/Program Files/Riot Games/ghci
+SYSWOW64/Microsoft/javac.doc
+SYSWOW64/Riot Games/Riot Games/Microsoft/Riot Games/cmd.doc
+SYSWOW64/Riot Games/firefox.exe
+SYSWOW64/Program Files/Riot Games/data.bat
+SYSWOW64/Riot Games/Riot Games/Microsoft/Riot Games/ghci.jar
+SYSWOW64/Program Files/Riot Games/codes.jar
+SYSWOW64/Microsoft/chrome.bat
+SYSWOW64/Riot Games/Riot Games/Microsoft/Riot Games/excel.cmd
+SYSWOW64/Riot Games/Riot Games/Microsoft/Riot Games/ghci.exe
+SYSWOW64/Drivers/chrome.exe
+SYSWOW64/Microsoft/Windows/excel.bat
+SYSWOW64/Riot Games/System32/cmd.doc
+SYSWOW64/Program Files (x86)/System32/data
+SYSWOW64/Windows/Microsoft/excel.exe
+SYSWOW64/Drivers/python.doc
+SYSWOW64/Drivers/Drivers/java.doc
+SYSWOW64/Users/SYSWOW64/ghci.bat
+SYSWOW64/Drivers/Program Files (x86)/excel.jar
+SYSWOW64/Users/javac.exe
+SYSWOW64/Users/Windows/codes.jar
+SYSWOW64/Microsoft/spotify.doc
+SYSWOW64/Riot Games/Program Files/Riot Games/excel.doc
+SYSWOW64/Program Files/System32/Program Files/spotify.bat
+SYSWOW64/Drivers/Riot Games/winword.bat
+SYSWOW64/Drivers/Windows/java.docx
+SYSWOW64/Drivers/Windows/codes.bat

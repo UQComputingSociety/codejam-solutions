@@ -1,0 +1,4 @@
+System32/Microsoft/teapot.exe
+System32/drivers/toaster.sys
+System32/cmd.exe
+System32/explorer.exe

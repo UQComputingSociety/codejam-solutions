@@ -1,0 +1,3780 @@
+Users/Drivers/Drivers/Program Files/Windows/System32/chrome
+Users/Drivers/Drivers/Program Files/Windows/System32/chrome.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/chrome.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/chrome.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/chrome.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/chrome.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/chrome.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/cmd.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/cmd.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/cmd.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/cmd.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/cmd.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/cmd.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/codes
+Users/Drivers/Drivers/Program Files/Windows/System32/codes.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/codes.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/codes.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/codes.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/codes.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/codes.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/data
+Users/Drivers/Drivers/Program Files/Windows/System32/data.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/data.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/data.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/data.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/data.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/data.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/excel
+Users/Drivers/Drivers/Program Files/Windows/System32/excel.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/excel.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/excel.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/excel.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/excel.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/excel.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/explorer
+Users/Drivers/Drivers/Program Files/Windows/System32/explorer.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/explorer.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/explorer.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/explorer.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/explorer.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/explorer.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/firefox
+Users/Drivers/Drivers/Program Files/Windows/System32/firefox.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/firefox.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/firefox.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/firefox.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/firefox.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/firefox.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/ghci
+Users/Drivers/Drivers/Program Files/Windows/System32/ghci.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/ghci.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/ghci.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/ghci.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/ghci.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/ghci.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/java
+Users/Drivers/Drivers/Program Files/Windows/System32/java.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/java.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/java.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/java.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/java.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/java.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/javac
+Users/Drivers/Drivers/Program Files/Windows/System32/javac.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/javac.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/javac.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/javac.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/javac.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/javac.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/javaw
+Users/Drivers/Drivers/Program Files/Windows/System32/javaw.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/javaw.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/javaw.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/javaw.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/javaw.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/javaw.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/minecraft
+Users/Drivers/Drivers/Program Files/Windows/System32/minecraft.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/minecraft.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/minecraft.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/minecraft.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/minecraft.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/minecraft.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/python
+Users/Drivers/Drivers/Program Files/Windows/System32/python.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/python.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/python.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/python.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/python.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/python.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/spotify
+Users/Drivers/Drivers/Program Files/Windows/System32/spotify.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/spotify.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/spotify.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/spotify.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/spotify.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/spotify.jar
+Users/Drivers/Drivers/Program Files/Windows/System32/winword
+Users/Drivers/Drivers/Program Files/Windows/System32/winword.bat
+Users/Drivers/Drivers/Program Files/Windows/System32/winword.cmd
+Users/Drivers/Drivers/Program Files/Windows/System32/winword.doc
+Users/Drivers/Drivers/Program Files/Windows/System32/winword.docx
+Users/Drivers/Drivers/Program Files/Windows/System32/winword.exe
+Users/Drivers/Drivers/Program Files/Windows/System32/winword.jar
+Users/Drivers/Program Files (x86)/chrome
+Users/Drivers/Program Files (x86)/chrome.bat
+Users/Drivers/Program Files (x86)/chrome.cmd
+Users/Drivers/Program Files (x86)/chrome.doc
+Users/Drivers/Program Files (x86)/chrome.docx
+Users/Drivers/Program Files (x86)/chrome.exe
+Users/Drivers/Program Files (x86)/chrome.jar
+Users/Drivers/Program Files (x86)/cmd
+Users/Drivers/Program Files (x86)/cmd.bat
+Users/Drivers/Program Files (x86)/cmd.cmd
+Users/Drivers/Program Files (x86)/cmd.doc
+Users/Drivers/Program Files (x86)/cmd.docx
+Users/Drivers/Program Files (x86)/cmd.exe
+Users/Drivers/Program Files (x86)/cmd.jar
+Users/Drivers/Program Files (x86)/codes
+Users/Drivers/Program Files (x86)/codes.bat
+Users/Drivers/Program Files (x86)/codes.cmd
+Users/Drivers/Program Files (x86)/codes.doc
+Users/Drivers/Program Files (x86)/codes.docx
+Users/Drivers/Program Files (x86)/codes.exe
+Users/Drivers/Program Files (x86)/codes.jar
+Users/Drivers/Program Files (x86)/data
+Users/Drivers/Program Files (x86)/data.bat
+Users/Drivers/Program Files (x86)/data.cmd
+Users/Drivers/Program Files (x86)/data.doc
+Users/Drivers/Program Files (x86)/data.docx
+Users/Drivers/Program Files (x86)/data.exe
+Users/Drivers/Program Files (x86)/data.jar
+Users/Drivers/Program Files (x86)/excel
+Users/Drivers/Program Files (x86)/excel.bat
+Users/Drivers/Program Files (x86)/excel.cmd
+Users/Drivers/Program Files (x86)/excel.doc
+Users/Drivers/Program Files (x86)/excel.docx
+Users/Drivers/Program Files (x86)/excel.exe
+Users/Drivers/Program Files (x86)/excel.jar
+Users/Drivers/Program Files (x86)/explorer
+Users/Drivers/Program Files (x86)/explorer.bat
+Users/Drivers/Program Files (x86)/explorer.cmd
+Users/Drivers/Program Files (x86)/explorer.doc
+Users/Drivers/Program Files (x86)/explorer.docx
+Users/Drivers/Program Files (x86)/explorer.exe
+Users/Drivers/Program Files (x86)/explorer.jar
+Users/Drivers/Program Files (x86)/firefox
+Users/Drivers/Program Files (x86)/firefox.bat
+Users/Drivers/Program Files (x86)/firefox.cmd
+Users/Drivers/Program Files (x86)/firefox.doc
+Users/Drivers/Program Files (x86)/firefox.docx
+Users/Drivers/Program Files (x86)/firefox.exe
+Users/Drivers/Program Files (x86)/firefox.jar
+Users/Drivers/Program Files (x86)/ghci
+Users/Drivers/Program Files (x86)/ghci.bat
+Users/Drivers/Program Files (x86)/ghci.cmd
+Users/Drivers/Program Files (x86)/ghci.doc
+Users/Drivers/Program Files (x86)/ghci.docx
+Users/Drivers/Program Files (x86)/ghci.exe
+Users/Drivers/Program Files (x86)/ghci.jar
+Users/Drivers/Program Files (x86)/java
+Users/Drivers/Program Files (x86)/java.bat
+Users/Drivers/Program Files (x86)/java.cmd
+Users/Drivers/Program Files (x86)/java.doc
+Users/Drivers/Program Files (x86)/java.docx
+Users/Drivers/Program Files (x86)/java.exe
+Users/Drivers/Program Files (x86)/java.jar
+Users/Drivers/Program Files (x86)/javac
+Users/Drivers/Program Files (x86)/javac.bat
+Users/Drivers/Program Files (x86)/javac.cmd
+Users/Drivers/Program Files (x86)/javac.doc
+Users/Drivers/Program Files (x86)/javac.docx
+Users/Drivers/Program Files (x86)/javac.exe
+Users/Drivers/Program Files (x86)/javac.jar
+Users/Drivers/Program Files (x86)/javaw
+Users/Drivers/Program Files (x86)/javaw.bat
+Users/Drivers/Program Files (x86)/javaw.cmd
+Users/Drivers/Program Files (x86)/javaw.doc
+Users/Drivers/Program Files (x86)/javaw.docx
+Users/Drivers/Program Files (x86)/javaw.exe
+Users/Drivers/Program Files (x86)/javaw.jar
+Users/Drivers/Program Files (x86)/minecraft
+Users/Drivers/Program Files (x86)/minecraft.bat
+Users/Drivers/Program Files (x86)/minecraft.cmd
+Users/Drivers/Program Files (x86)/minecraft.doc
+Users/Drivers/Program Files (x86)/minecraft.docx
+Users/Drivers/Program Files (x86)/minecraft.exe
+Users/Drivers/Program Files (x86)/minecraft.jar
+Users/Drivers/Program Files (x86)/python
+Users/Drivers/Program Files (x86)/python.bat
+Users/Drivers/Program Files (x86)/python.cmd
+Users/Drivers/Program Files (x86)/python.doc
+Users/Drivers/Program Files (x86)/python.docx
+Users/Drivers/Program Files (x86)/python.exe
+Users/Drivers/Program Files (x86)/python.jar
+Users/Drivers/Program Files (x86)/spotify
+Users/Drivers/Program Files (x86)/spotify.bat
+Users/Drivers/Program Files (x86)/spotify.cmd
+Users/Drivers/Program Files (x86)/spotify.doc
+Users/Drivers/Program Files (x86)/spotify.docx
+Users/Drivers/Program Files (x86)/spotify.exe
+Users/Drivers/Program Files (x86)/spotify.jar
+Users/Drivers/Program Files (x86)/winword
+Users/Drivers/Program Files (x86)/winword.bat
+Users/Drivers/Program Files (x86)/winword.cmd
+Users/Drivers/Program Files (x86)/winword.doc
+Users/Drivers/Program Files (x86)/winword.docx
+Users/Drivers/Program Files (x86)/winword.exe
+Users/Drivers/Program Files (x86)/winword.jar
+Users/Drivers/SYSWOW64/chrome
+Users/Drivers/SYSWOW64/chrome.bat
+Users/Drivers/SYSWOW64/chrome.cmd
+Users/Drivers/SYSWOW64/chrome.doc
+Users/Drivers/SYSWOW64/chrome.docx
+Users/Drivers/SYSWOW64/chrome.exe
+Users/Drivers/SYSWOW64/chrome.jar
+Users/Drivers/SYSWOW64/cmd
+Users/Drivers/SYSWOW64/cmd.bat
+Users/Drivers/SYSWOW64/cmd.cmd
+Users/Drivers/SYSWOW64/cmd.doc
+Users/Drivers/SYSWOW64/cmd.docx
+Users/Drivers/SYSWOW64/cmd.exe
+Users/Drivers/SYSWOW64/cmd.jar
+Users/Drivers/SYSWOW64/codes
+Users/Drivers/SYSWOW64/codes.bat
+Users/Drivers/SYSWOW64/codes.cmd
+Users/Drivers/SYSWOW64/codes.doc
+Users/Drivers/SYSWOW64/codes.docx
+Users/Drivers/SYSWOW64/codes.exe
+Users/Drivers/SYSWOW64/codes.jar
+Users/Drivers/SYSWOW64/data
+Users/Drivers/SYSWOW64/data.bat
+Users/Drivers/SYSWOW64/data.cmd
+Users/Drivers/SYSWOW64/data.doc
+Users/Drivers/SYSWOW64/data.docx
+Users/Drivers/SYSWOW64/data.exe
+Users/Drivers/SYSWOW64/data.jar
+Users/Drivers/SYSWOW64/excel
+Users/Drivers/SYSWOW64/excel.bat
+Users/Drivers/SYSWOW64/excel.cmd
+Users/Drivers/SYSWOW64/excel.doc
+Users/Drivers/SYSWOW64/excel.docx
+Users/Drivers/SYSWOW64/excel.exe
+Users/Drivers/SYSWOW64/excel.jar
+Users/Drivers/SYSWOW64/explorer
+Users/Drivers/SYSWOW64/explorer.bat
+Users/Drivers/SYSWOW64/explorer.cmd
+Users/Drivers/SYSWOW64/explorer.doc
+Users/Drivers/SYSWOW64/explorer.docx
+Users/Drivers/SYSWOW64/explorer.exe
+Users/Drivers/SYSWOW64/explorer.jar
+Users/Drivers/SYSWOW64/firefox
+Users/Drivers/SYSWOW64/firefox.bat
+Users/Drivers/SYSWOW64/firefox.cmd
+Users/Drivers/SYSWOW64/firefox.doc
+Users/Drivers/SYSWOW64/firefox.docx
+Users/Drivers/SYSWOW64/firefox.exe
+Users/Drivers/SYSWOW64/firefox.jar
+Users/Drivers/SYSWOW64/ghci
+Users/Drivers/SYSWOW64/ghci.bat
+Users/Drivers/SYSWOW64/ghci.cmd
+Users/Drivers/SYSWOW64/ghci.doc
+Users/Drivers/SYSWOW64/ghci.docx
+Users/Drivers/SYSWOW64/ghci.exe
+Users/Drivers/SYSWOW64/ghci.jar
+Users/Drivers/SYSWOW64/java
+Users/Drivers/SYSWOW64/java.bat
+Users/Drivers/SYSWOW64/java.cmd
+Users/Drivers/SYSWOW64/java.doc
+Users/Drivers/SYSWOW64/java.docx
+Users/Drivers/SYSWOW64/java.exe
+Users/Drivers/SYSWOW64/java.jar
+Users/Drivers/SYSWOW64/javac
+Users/Drivers/SYSWOW64/javac.bat
+Users/Drivers/SYSWOW64/javac.cmd
+Users/Drivers/SYSWOW64/javac.doc
+Users/Drivers/SYSWOW64/javac.docx
+Users/Drivers/SYSWOW64/javac.exe
+Users/Drivers/SYSWOW64/javac.jar
+Users/Drivers/SYSWOW64/javaw
+Users/Drivers/SYSWOW64/javaw.bat
+Users/Drivers/SYSWOW64/javaw.cmd
+Users/Drivers/SYSWOW64/javaw.doc
+Users/Drivers/SYSWOW64/javaw.docx
+Users/Drivers/SYSWOW64/javaw.exe
+Users/Drivers/SYSWOW64/javaw.jar
+Users/Drivers/SYSWOW64/minecraft
+Users/Drivers/SYSWOW64/minecraft.bat
+Users/Drivers/SYSWOW64/minecraft.cmd
+Users/Drivers/SYSWOW64/minecraft.doc
+Users/Drivers/SYSWOW64/minecraft.docx
+Users/Drivers/SYSWOW64/minecraft.exe
+Users/Drivers/SYSWOW64/minecraft.jar
+Users/Drivers/SYSWOW64/python
+Users/Drivers/SYSWOW64/python.bat
+Users/Drivers/SYSWOW64/python.cmd
+Users/Drivers/SYSWOW64/python.doc
+Users/Drivers/SYSWOW64/python.docx
+Users/Drivers/SYSWOW64/python.exe
+Users/Drivers/SYSWOW64/python.jar
+Users/Drivers/SYSWOW64/spotify
+Users/Drivers/SYSWOW64/spotify.bat
+Users/Drivers/SYSWOW64/spotify.cmd
+Users/Drivers/SYSWOW64/spotify.doc
+Users/Drivers/SYSWOW64/spotify.docx
+Users/Drivers/SYSWOW64/spotify.exe
+Users/Drivers/SYSWOW64/spotify.jar
+Users/Drivers/SYSWOW64/winword
+Users/Drivers/SYSWOW64/winword.bat
+Users/Drivers/SYSWOW64/winword.cmd
+Users/Drivers/SYSWOW64/winword.doc
+Users/Drivers/SYSWOW64/winword.docx
+Users/Drivers/SYSWOW64/winword.exe
+Users/Drivers/SYSWOW64/winword.jar
+Users/Drivers/chrome
+Users/Drivers/chrome.bat
+Users/Drivers/chrome.cmd
+Users/Drivers/chrome.doc
+Users/Drivers/chrome.docx
+Users/Drivers/chrome.exe
+Users/Drivers/chrome.jar
+Users/Drivers/cmd
+Users/Drivers/cmd.bat
+Users/Drivers/cmd.cmd
+Users/Drivers/cmd.doc
+Users/Drivers/cmd.docx
+Users/Drivers/cmd.exe
+Users/Drivers/cmd.jar
+Users/Drivers/codes
+Users/Drivers/codes.bat
+Users/Drivers/codes.cmd
+Users/Drivers/codes.doc
+Users/Drivers/codes.docx
+Users/Drivers/codes.exe
+Users/Drivers/codes.jar
+Users/Drivers/data
+Users/Drivers/data.bat
+Users/Drivers/data.cmd
+Users/Drivers/data.doc
+Users/Drivers/data.docx
+Users/Drivers/data.exe
+Users/Drivers/data.jar
+Users/Drivers/excel
+Users/Drivers/excel.bat
+Users/Drivers/excel.cmd
+Users/Drivers/excel.doc
+Users/Drivers/excel.docx
+Users/Drivers/excel.exe
+Users/Drivers/excel.jar
+Users/Drivers/explorer
+Users/Drivers/explorer.bat
+Users/Drivers/explorer.cmd
+Users/Drivers/explorer.doc
+Users/Drivers/explorer.docx
+Users/Drivers/explorer.exe
+Users/Drivers/explorer.jar
+Users/Drivers/firefox
+Users/Drivers/firefox.bat
+Users/Drivers/firefox.cmd
+Users/Drivers/firefox.doc
+Users/Drivers/firefox.docx
+Users/Drivers/firefox.exe
+Users/Drivers/firefox.jar
+Users/Drivers/ghci
+Users/Drivers/ghci.bat
+Users/Drivers/ghci.cmd
+Users/Drivers/ghci.doc
+Users/Drivers/ghci.docx
+Users/Drivers/ghci.exe
+Users/Drivers/ghci.jar
+Users/Drivers/java
+Users/Drivers/java.bat
+Users/Drivers/java.cmd
+Users/Drivers/java.doc
+Users/Drivers/java.docx
+Users/Drivers/java.exe
+Users/Drivers/java.jar
+Users/Drivers/javac
+Users/Drivers/javac.bat
+Users/Drivers/javac.cmd
+Users/Drivers/javac.doc
+Users/Drivers/javac.docx
+Users/Drivers/javac.exe
+Users/Drivers/javac.jar
+Users/Drivers/javaw
+Users/Drivers/javaw.bat
+Users/Drivers/javaw.cmd
+Users/Drivers/javaw.doc
+Users/Drivers/javaw.docx
+Users/Drivers/javaw.exe
+Users/Drivers/javaw.jar
+Users/Drivers/minecraft
+Users/Drivers/minecraft.bat
+Users/Drivers/minecraft.cmd
+Users/Drivers/minecraft.doc
+Users/Drivers/minecraft.docx
+Users/Drivers/minecraft.exe
+Users/Drivers/minecraft.jar
+Users/Drivers/python
+Users/Drivers/python.bat
+Users/Drivers/python.cmd
+Users/Drivers/python.doc
+Users/Drivers/python.docx
+Users/Drivers/python.exe
+Users/Drivers/python.jar
+Users/Drivers/spotify
+Users/Drivers/spotify.bat
+Users/Drivers/spotify.cmd
+Users/Drivers/spotify.doc
+Users/Drivers/spotify.docx
+Users/Drivers/spotify.exe
+Users/Drivers/spotify.jar
+Users/Drivers/winword
+Users/Drivers/winword.bat
+Users/Drivers/winword.cmd
+Users/Drivers/winword.doc
+Users/Drivers/winword.docx
+Users/Drivers/winword.exe
+Users/Drivers/winword.jar
+Users/Microsoft/System32/chrome
+Users/Microsoft/System32/chrome.bat
+Users/Microsoft/System32/chrome.cmd
+Users/Microsoft/System32/chrome.doc
+Users/Microsoft/System32/chrome.docx
+Users/Microsoft/System32/chrome.exe
+Users/Microsoft/System32/chrome.jar
+Users/Microsoft/System32/cmd
+Users/Microsoft/System32/cmd.bat
+Users/Microsoft/System32/cmd.cmd
+Users/Microsoft/System32/cmd.doc
+Users/Microsoft/System32/cmd.docx
+Users/Microsoft/System32/cmd.exe
+Users/Microsoft/System32/cmd.jar
+Users/Microsoft/System32/codes
+Users/Microsoft/System32/codes.bat
+Users/Microsoft/System32/codes.cmd
+Users/Microsoft/System32/codes.doc
+Users/Microsoft/System32/codes.docx
+Users/Microsoft/System32/codes.exe
+Users/Microsoft/System32/codes.jar
+Users/Microsoft/System32/data
+Users/Microsoft/System32/data.bat
+Users/Microsoft/System32/data.cmd
+Users/Microsoft/System32/data.doc
+Users/Microsoft/System32/data.docx
+Users/Microsoft/System32/data.exe
+Users/Microsoft/System32/data.jar
+Users/Microsoft/System32/excel
+Users/Microsoft/System32/excel.bat
+Users/Microsoft/System32/excel.cmd
+Users/Microsoft/System32/excel.doc
+Users/Microsoft/System32/excel.docx
+Users/Microsoft/System32/excel.exe
+Users/Microsoft/System32/excel.jar
+Users/Microsoft/System32/explorer
+Users/Microsoft/System32/explorer.bat
+Users/Microsoft/System32/explorer.cmd
+Users/Microsoft/System32/explorer.doc
+Users/Microsoft/System32/explorer.docx
+Users/Microsoft/System32/explorer.exe
+Users/Microsoft/System32/explorer.jar
+Users/Microsoft/System32/firefox
+Users/Microsoft/System32/firefox.bat
+Users/Microsoft/System32/firefox.cmd
+Users/Microsoft/System32/firefox.doc
+Users/Microsoft/System32/firefox.docx
+Users/Microsoft/System32/firefox.exe
+Users/Microsoft/System32/firefox.jar
+Users/Microsoft/System32/ghci
+Users/Microsoft/System32/ghci.bat
+Users/Microsoft/System32/ghci.cmd
+Users/Microsoft/System32/ghci.doc
+Users/Microsoft/System32/ghci.docx
+Users/Microsoft/System32/ghci.exe
+Users/Microsoft/System32/ghci.jar
+Users/Microsoft/System32/java
+Users/Microsoft/System32/java.bat
+Users/Microsoft/System32/java.cmd
+Users/Microsoft/System32/java.doc
+Users/Microsoft/System32/java.docx
+Users/Microsoft/System32/java.exe
+Users/Microsoft/System32/java.jar
+Users/Microsoft/System32/javac
+Users/Microsoft/System32/javac.bat
+Users/Microsoft/System32/javac.cmd
+Users/Microsoft/System32/javac.doc
+Users/Microsoft/System32/javac.docx
+Users/Microsoft/System32/javac.exe
+Users/Microsoft/System32/javac.jar
+Users/Microsoft/System32/javaw
+Users/Microsoft/System32/javaw.bat
+Users/Microsoft/System32/javaw.cmd
+Users/Microsoft/System32/javaw.doc
+Users/Microsoft/System32/javaw.docx
+Users/Microsoft/System32/javaw.exe
+Users/Microsoft/System32/javaw.jar
+Users/Microsoft/System32/minecraft
+Users/Microsoft/System32/minecraft.bat
+Users/Microsoft/System32/minecraft.cmd
+Users/Microsoft/System32/minecraft.doc
+Users/Microsoft/System32/minecraft.docx
+Users/Microsoft/System32/minecraft.exe
+Users/Microsoft/System32/minecraft.jar
+Users/Microsoft/System32/python
+Users/Microsoft/System32/python.bat
+Users/Microsoft/System32/python.cmd
+Users/Microsoft/System32/python.doc
+Users/Microsoft/System32/python.docx
+Users/Microsoft/System32/python.exe
+Users/Microsoft/System32/python.jar
+Users/Microsoft/System32/spotify
+Users/Microsoft/System32/spotify.bat
+Users/Microsoft/System32/spotify.cmd
+Users/Microsoft/System32/spotify.doc
+Users/Microsoft/System32/spotify.docx
+Users/Microsoft/System32/spotify.exe
+Users/Microsoft/System32/spotify.jar
+Users/Microsoft/System32/winword
+Users/Microsoft/System32/winword.bat
+Users/Microsoft/System32/winword.cmd
+Users/Microsoft/System32/winword.doc
+Users/Microsoft/System32/winword.docx
+Users/Microsoft/System32/winword.exe
+Users/Microsoft/System32/winword.jar
+Users/Microsoft/Windows/Users/chrome
+Users/Microsoft/Windows/Users/chrome.bat
+Users/Microsoft/Windows/Users/chrome.cmd
+Users/Microsoft/Windows/Users/chrome.doc
+Users/Microsoft/Windows/Users/chrome.docx
+Users/Microsoft/Windows/Users/chrome.exe
+Users/Microsoft/Windows/Users/chrome.jar
+Users/Microsoft/Windows/Users/cmd
+Users/Microsoft/Windows/Users/cmd.bat
+Users/Microsoft/Windows/Users/cmd.cmd
+Users/Microsoft/Windows/Users/cmd.doc
+Users/Microsoft/Windows/Users/cmd.docx
+Users/Microsoft/Windows/Users/cmd.exe
+Users/Microsoft/Windows/Users/cmd.jar
+Users/Microsoft/Windows/Users/codes
+Users/Microsoft/Windows/Users/codes.bat
+Users/Microsoft/Windows/Users/codes.cmd
+Users/Microsoft/Windows/Users/codes.doc
+Users/Microsoft/Windows/Users/codes.docx
+Users/Microsoft/Windows/Users/codes.exe
+Users/Microsoft/Windows/Users/codes.jar
+Users/Microsoft/Windows/Users/data
+Users/Microsoft/Windows/Users/data.bat
+Users/Microsoft/Windows/Users/data.cmd
+Users/Microsoft/Windows/Users/data.doc
+Users/Microsoft/Windows/Users/data.docx
+Users/Microsoft/Windows/Users/data.exe
+Users/Microsoft/Windows/Users/data.jar
+Users/Microsoft/Windows/Users/excel
+Users/Microsoft/Windows/Users/excel.bat
+Users/Microsoft/Windows/Users/excel.cmd
+Users/Microsoft/Windows/Users/excel.doc
+Users/Microsoft/Windows/Users/excel.docx
+Users/Microsoft/Windows/Users/excel.exe
+Users/Microsoft/Windows/Users/excel.jar
+Users/Microsoft/Windows/Users/explorer
+Users/Microsoft/Windows/Users/explorer.bat
+Users/Microsoft/Windows/Users/explorer.cmd
+Users/Microsoft/Windows/Users/explorer.doc
+Users/Microsoft/Windows/Users/explorer.docx
+Users/Microsoft/Windows/Users/explorer.exe
+Users/Microsoft/Windows/Users/explorer.jar
+Users/Microsoft/Windows/Users/firefox
+Users/Microsoft/Windows/Users/firefox.bat
+Users/Microsoft/Windows/Users/firefox.cmd
+Users/Microsoft/Windows/Users/firefox.doc
+Users/Microsoft/Windows/Users/firefox.docx
+Users/Microsoft/Windows/Users/firefox.exe
+Users/Microsoft/Windows/Users/firefox.jar
+Users/Microsoft/Windows/Users/ghci
+Users/Microsoft/Windows/Users/ghci.bat
+Users/Microsoft/Windows/Users/ghci.cmd
+Users/Microsoft/Windows/Users/ghci.doc
+Users/Microsoft/Windows/Users/ghci.docx
+Users/Microsoft/Windows/Users/ghci.exe
+Users/Microsoft/Windows/Users/ghci.jar
+Users/Microsoft/Windows/Users/java
+Users/Microsoft/Windows/Users/java.bat
+Users/Microsoft/Windows/Users/java.cmd
+Users/Microsoft/Windows/Users/java.doc
+Users/Microsoft/Windows/Users/java.docx
+Users/Microsoft/Windows/Users/java.exe
+Users/Microsoft/Windows/Users/java.jar
+Users/Microsoft/Windows/Users/javac
+Users/Microsoft/Windows/Users/javac.bat
+Users/Microsoft/Windows/Users/javac.cmd
+Users/Microsoft/Windows/Users/javac.doc
+Users/Microsoft/Windows/Users/javac.docx
+Users/Microsoft/Windows/Users/javac.exe
+Users/Microsoft/Windows/Users/javac.jar
+Users/Microsoft/Windows/Users/javaw
+Users/Microsoft/Windows/Users/javaw.bat
+Users/Microsoft/Windows/Users/javaw.cmd
+Users/Microsoft/Windows/Users/javaw.doc
+Users/Microsoft/Windows/Users/javaw.docx
+Users/Microsoft/Windows/Users/javaw.exe
+Users/Microsoft/Windows/Users/javaw.jar
+Users/Microsoft/Windows/Users/minecraft
+Users/Microsoft/Windows/Users/minecraft.bat
+Users/Microsoft/Windows/Users/minecraft.cmd
+Users/Microsoft/Windows/Users/minecraft.doc
+Users/Microsoft/Windows/Users/minecraft.docx
+Users/Microsoft/Windows/Users/minecraft.exe
+Users/Microsoft/Windows/Users/minecraft.jar
+Users/Microsoft/Windows/Users/python
+Users/Microsoft/Windows/Users/python.bat
+Users/Microsoft/Windows/Users/python.cmd
+Users/Microsoft/Windows/Users/python.doc
+Users/Microsoft/Windows/Users/python.docx
+Users/Microsoft/Windows/Users/python.exe
+Users/Microsoft/Windows/Users/python.jar
+Users/Microsoft/Windows/Users/spotify
+Users/Microsoft/Windows/Users/spotify.bat
+Users/Microsoft/Windows/Users/spotify.cmd
+Users/Microsoft/Windows/Users/spotify.doc
+Users/Microsoft/Windows/Users/spotify.docx
+Users/Microsoft/Windows/Users/spotify.exe
+Users/Microsoft/Windows/Users/spotify.jar
+Users/Microsoft/Windows/Users/winword
+Users/Microsoft/Windows/Users/winword.bat
+Users/Microsoft/Windows/Users/winword.cmd
+Users/Microsoft/Windows/Users/winword.doc
+Users/Microsoft/Windows/Users/winword.docx
+Users/Microsoft/Windows/Users/winword.exe
+Users/Microsoft/Windows/Users/winword.jar
+Users/Microsoft/chrome
+Users/Microsoft/chrome.bat
+Users/Microsoft/chrome.cmd
+Users/Microsoft/chrome.doc
+Users/Microsoft/chrome.docx
+Users/Microsoft/chrome.exe
+Users/Microsoft/chrome.jar
+Users/Microsoft/cmd
+Users/Microsoft/cmd.bat
+Users/Microsoft/cmd.cmd
+Users/Microsoft/cmd.doc
+Users/Microsoft/cmd.docx
+Users/Microsoft/cmd.exe
+Users/Microsoft/cmd.jar
+Users/Microsoft/codes
+Users/Microsoft/codes.bat
+Users/Microsoft/codes.cmd
+Users/Microsoft/codes.doc
+Users/Microsoft/codes.docx
+Users/Microsoft/codes.exe
+Users/Microsoft/codes.jar
+Users/Microsoft/data
+Users/Microsoft/data.bat
+Users/Microsoft/data.cmd
+Users/Microsoft/data.doc
+Users/Microsoft/data.docx
+Users/Microsoft/data.exe
+Users/Microsoft/data.jar
+Users/Microsoft/excel
+Users/Microsoft/excel.bat
+Users/Microsoft/excel.cmd
+Users/Microsoft/excel.doc
+Users/Microsoft/excel.docx
+Users/Microsoft/excel.exe
+Users/Microsoft/excel.jar
+Users/Microsoft/explorer
+Users/Microsoft/explorer.bat
+Users/Microsoft/explorer.cmd
+Users/Microsoft/explorer.doc
+Users/Microsoft/explorer.docx
+Users/Microsoft/explorer.exe
+Users/Microsoft/explorer.jar
+Users/Microsoft/firefox
+Users/Microsoft/firefox.bat
+Users/Microsoft/firefox.cmd
+Users/Microsoft/firefox.doc
+Users/Microsoft/firefox.docx
+Users/Microsoft/firefox.exe
+Users/Microsoft/firefox.jar
+Users/Microsoft/ghci
+Users/Microsoft/ghci.bat
+Users/Microsoft/ghci.cmd
+Users/Microsoft/ghci.doc
+Users/Microsoft/ghci.docx
+Users/Microsoft/ghci.exe
+Users/Microsoft/ghci.jar
+Users/Microsoft/java
+Users/Microsoft/java.bat
+Users/Microsoft/java.cmd
+Users/Microsoft/java.doc
+Users/Microsoft/java.docx
+Users/Microsoft/java.exe
+Users/Microsoft/java.jar
+Users/Microsoft/javac
+Users/Microsoft/javac.bat
+Users/Microsoft/javac.cmd
+Users/Microsoft/javac.doc
+Users/Microsoft/javac.docx
+Users/Microsoft/javac.exe
+Users/Microsoft/javac.jar
+Users/Microsoft/javaw
+Users/Microsoft/javaw.bat
+Users/Microsoft/javaw.cmd
+Users/Microsoft/javaw.doc
+Users/Microsoft/javaw.docx
+Users/Microsoft/javaw.exe
+Users/Microsoft/javaw.jar
+Users/Microsoft/minecraft
+Users/Microsoft/minecraft.bat
+Users/Microsoft/minecraft.cmd
+Users/Microsoft/minecraft.doc
+Users/Microsoft/minecraft.docx
+Users/Microsoft/minecraft.exe
+Users/Microsoft/minecraft.jar
+Users/Microsoft/python
+Users/Microsoft/python.bat
+Users/Microsoft/python.cmd
+Users/Microsoft/python.doc
+Users/Microsoft/python.docx
+Users/Microsoft/python.exe
+Users/Microsoft/python.jar
+Users/Microsoft/spotify
+Users/Microsoft/spotify.bat
+Users/Microsoft/spotify.cmd
+Users/Microsoft/spotify.doc
+Users/Microsoft/spotify.docx
+Users/Microsoft/spotify.exe
+Users/Microsoft/spotify.jar
+Users/Microsoft/winword
+Users/Microsoft/winword.bat
+Users/Microsoft/winword.cmd
+Users/Microsoft/winword.doc
+Users/Microsoft/winword.docx
+Users/Microsoft/winword.exe
+Users/Microsoft/winword.jar
+Users/Program Files/Program Files/chrome
+Users/Program Files/Program Files/chrome.bat
+Users/Program Files/Program Files/chrome.cmd
+Users/Program Files/Program Files/chrome.doc
+Users/Program Files/Program Files/chrome.docx
+Users/Program Files/Program Files/chrome.exe
+Users/Program Files/Program Files/chrome.jar
+Users/Program Files/Program Files/cmd
+Users/Program Files/Program Files/cmd.bat
+Users/Program Files/Program Files/cmd.cmd
+Users/Program Files/Program Files/cmd.doc
+Users/Program Files/Program Files/cmd.docx
+Users/Program Files/Program Files/cmd.exe
+Users/Program Files/Program Files/cmd.jar
+Users/Program Files/Program Files/codes
+Users/Program Files/Program Files/codes.bat
+Users/Program Files/Program Files/codes.cmd
+Users/Program Files/Program Files/codes.doc
+Users/Program Files/Program Files/codes.docx
+Users/Program Files/Program Files/codes.exe
+Users/Program Files/Program Files/codes.jar
+Users/Program Files/Program Files/data
+Users/Program Files/Program Files/data.bat
+Users/Program Files/Program Files/data.cmd
+Users/Program Files/Program Files/data.doc
+Users/Program Files/Program Files/data.docx
+Users/Program Files/Program Files/data.exe
+Users/Program Files/Program Files/data.jar
+Users/Program Files/Program Files/excel
+Users/Program Files/Program Files/excel.bat
+Users/Program Files/Program Files/excel.cmd
+Users/Program Files/Program Files/excel.doc
+Users/Program Files/Program Files/excel.docx
+Users/Program Files/Program Files/excel.exe
+Users/Program Files/Program Files/excel.jar
+Users/Program Files/Program Files/explorer
+Users/Program Files/Program Files/explorer.bat
+Users/Program Files/Program Files/explorer.cmd
+Users/Program Files/Program Files/explorer.doc
+Users/Program Files/Program Files/explorer.docx
+Users/Program Files/Program Files/explorer.exe
+Users/Program Files/Program Files/explorer.jar
+Users/Program Files/Program Files/firefox
+Users/Program Files/Program Files/firefox.bat
+Users/Program Files/Program Files/firefox.cmd
+Users/Program Files/Program Files/firefox.doc
+Users/Program Files/Program Files/firefox.docx
+Users/Program Files/Program Files/firefox.exe
+Users/Program Files/Program Files/firefox.jar
+Users/Program Files/Program Files/ghci
+Users/Program Files/Program Files/ghci.bat
+Users/Program Files/Program Files/ghci.cmd
+Users/Program Files/Program Files/ghci.doc
+Users/Program Files/Program Files/ghci.docx
+Users/Program Files/Program Files/ghci.exe
+Users/Program Files/Program Files/ghci.jar
+Users/Program Files/Program Files/java
+Users/Program Files/Program Files/java.bat
+Users/Program Files/Program Files/java.cmd
+Users/Program Files/Program Files/java.doc
+Users/Program Files/Program Files/java.docx
+Users/Program Files/Program Files/java.exe
+Users/Program Files/Program Files/java.jar
+Users/Program Files/Program Files/javac
+Users/Program Files/Program Files/javac.bat
+Users/Program Files/Program Files/javac.cmd
+Users/Program Files/Program Files/javac.doc
+Users/Program Files/Program Files/javac.docx
+Users/Program Files/Program Files/javac.exe
+Users/Program Files/Program Files/javac.jar
+Users/Program Files/Program Files/javaw
+Users/Program Files/Program Files/javaw.bat
+Users/Program Files/Program Files/javaw.cmd
+Users/Program Files/Program Files/javaw.doc
+Users/Program Files/Program Files/javaw.docx
+Users/Program Files/Program Files/javaw.exe
+Users/Program Files/Program Files/javaw.jar
+Users/Program Files/Program Files/minecraft
+Users/Program Files/Program Files/minecraft.bat
+Users/Program Files/Program Files/minecraft.cmd
+Users/Program Files/Program Files/minecraft.doc
+Users/Program Files/Program Files/minecraft.docx
+Users/Program Files/Program Files/minecraft.exe
+Users/Program Files/Program Files/minecraft.jar
+Users/Program Files/Program Files/python
+Users/Program Files/Program Files/python.bat
+Users/Program Files/Program Files/python.cmd
+Users/Program Files/Program Files/python.doc
+Users/Program Files/Program Files/python.docx
+Users/Program Files/Program Files/python.exe
+Users/Program Files/Program Files/python.jar
+Users/Program Files/Program Files/spotify
+Users/Program Files/Program Files/spotify.bat
+Users/Program Files/Program Files/spotify.cmd
+Users/Program Files/Program Files/spotify.doc
+Users/Program Files/Program Files/spotify.docx
+Users/Program Files/Program Files/spotify.exe
+Users/Program Files/Program Files/spotify.jar
+Users/Program Files/Program Files/winword
+Users/Program Files/Program Files/winword.bat
+Users/Program Files/Program Files/winword.cmd
+Users/Program Files/Program Files/winword.doc
+Users/Program Files/Program Files/winword.docx
+Users/Program Files/Program Files/winword.exe
+Users/Program Files/Program Files/winword.jar
+Users/Program Files/Program Files (x86)/chrome
+Users/Program Files/Program Files (x86)/chrome.bat
+Users/Program Files/Program Files (x86)/chrome.cmd
+Users/Program Files/Program Files (x86)/chrome.doc
+Users/Program Files/Program Files (x86)/chrome.docx
+Users/Program Files/Program Files (x86)/chrome.exe
+Users/Program Files/Program Files (x86)/chrome.jar
+Users/Program Files/Program Files (x86)/cmd
+Users/Program Files/Program Files (x86)/cmd.bat
+Users/Program Files/Program Files (x86)/cmd.cmd
+Users/Program Files/Program Files (x86)/cmd.doc
+Users/Program Files/Program Files (x86)/cmd.docx
+Users/Program Files/Program Files (x86)/cmd.exe
+Users/Program Files/Program Files (x86)/cmd.jar
+Users/Program Files/Program Files (x86)/codes
+Users/Program Files/Program Files (x86)/codes.bat
+Users/Program Files/Program Files (x86)/codes.cmd
+Users/Program Files/Program Files (x86)/codes.doc
+Users/Program Files/Program Files (x86)/codes.docx
+Users/Program Files/Program Files (x86)/codes.exe
+Users/Program Files/Program Files (x86)/codes.jar
+Users/Program Files/Program Files (x86)/data
+Users/Program Files/Program Files (x86)/data.bat
+Users/Program Files/Program Files (x86)/data.cmd
+Users/Program Files/Program Files (x86)/data.doc
+Users/Program Files/Program Files (x86)/data.docx
+Users/Program Files/Program Files (x86)/data.exe
+Users/Program Files/Program Files (x86)/data.jar
+Users/Program Files/Program Files (x86)/excel
+Users/Program Files/Program Files (x86)/excel.bat
+Users/Program Files/Program Files (x86)/excel.cmd
+Users/Program Files/Program Files (x86)/excel.doc
+Users/Program Files/Program Files (x86)/excel.docx
+Users/Program Files/Program Files (x86)/excel.exe
+Users/Program Files/Program Files (x86)/excel.jar
+Users/Program Files/Program Files (x86)/explorer
+Users/Program Files/Program Files (x86)/explorer.bat
+Users/Program Files/Program Files (x86)/explorer.cmd
+Users/Program Files/Program Files (x86)/explorer.doc
+Users/Program Files/Program Files (x86)/explorer.docx
+Users/Program Files/Program Files (x86)/explorer.exe
+Users/Program Files/Program Files (x86)/explorer.jar
+Users/Program Files/Program Files (x86)/firefox
+Users/Program Files/Program Files (x86)/firefox.bat
+Users/Program Files/Program Files (x86)/firefox.cmd
+Users/Program Files/Program Files (x86)/firefox.doc
+Users/Program Files/Program Files (x86)/firefox.docx
+Users/Program Files/Program Files (x86)/firefox.exe
+Users/Program Files/Program Files (x86)/firefox.jar
+Users/Program Files/Program Files (x86)/ghci
+Users/Program Files/Program Files (x86)/ghci.bat
+Users/Program Files/Program Files (x86)/ghci.cmd
+Users/Program Files/Program Files (x86)/ghci.doc
+Users/Program Files/Program Files (x86)/ghci.docx
+Users/Program Files/Program Files (x86)/ghci.exe
+Users/Program Files/Program Files (x86)/ghci.jar
+Users/Program Files/Program Files (x86)/java
+Users/Program Files/Program Files (x86)/java.bat
+Users/Program Files/Program Files (x86)/java.cmd
+Users/Program Files/Program Files (x86)/java.doc
+Users/Program Files/Program Files (x86)/java.docx
+Users/Program Files/Program Files (x86)/java.exe
+Users/Program Files/Program Files (x86)/java.jar
+Users/Program Files/Program Files (x86)/javac
+Users/Program Files/Program Files (x86)/javac.bat
+Users/Program Files/Program Files (x86)/javac.cmd
+Users/Program Files/Program Files (x86)/javac.doc
+Users/Program Files/Program Files (x86)/javac.docx
+Users/Program Files/Program Files (x86)/javac.exe
+Users/Program Files/Program Files (x86)/javac.jar
+Users/Program Files/Program Files (x86)/javaw
+Users/Program Files/Program Files (x86)/javaw.bat
+Users/Program Files/Program Files (x86)/javaw.cmd
+Users/Program Files/Program Files (x86)/javaw.doc
+Users/Program Files/Program Files (x86)/javaw.docx
+Users/Program Files/Program Files (x86)/javaw.exe
+Users/Program Files/Program Files (x86)/javaw.jar
+Users/Program Files/Program Files (x86)/minecraft
+Users/Program Files/Program Files (x86)/minecraft.bat
+Users/Program Files/Program Files (x86)/minecraft.cmd
+Users/Program Files/Program Files (x86)/minecraft.doc
+Users/Program Files/Program Files (x86)/minecraft.docx
+Users/Program Files/Program Files (x86)/minecraft.exe
+Users/Program Files/Program Files (x86)/minecraft.jar
+Users/Program Files/Program Files (x86)/python
+Users/Program Files/Program Files (x86)/python.bat
+Users/Program Files/Program Files (x86)/python.cmd
+Users/Program Files/Program Files (x86)/python.doc
+Users/Program Files/Program Files (x86)/python.docx
+Users/Program Files/Program Files (x86)/python.exe
+Users/Program Files/Program Files (x86)/python.jar
+Users/Program Files/Program Files (x86)/spotify
+Users/Program Files/Program Files (x86)/spotify.bat
+Users/Program Files/Program Files (x86)/spotify.cmd
+Users/Program Files/Program Files (x86)/spotify.doc
+Users/Program Files/Program Files (x86)/spotify.docx
+Users/Program Files/Program Files (x86)/spotify.exe
+Users/Program Files/Program Files (x86)/spotify.jar
+Users/Program Files/Program Files (x86)/winword
+Users/Program Files/Program Files (x86)/winword.bat
+Users/Program Files/Program Files (x86)/winword.cmd
+Users/Program Files/Program Files (x86)/winword.doc
+Users/Program Files/Program Files (x86)/winword.docx
+Users/Program Files/Program Files (x86)/winword.exe
+Users/Program Files/Program Files (x86)/winword.jar
+Users/Program Files/System32/chrome
+Users/Program Files/System32/chrome.bat
+Users/Program Files/System32/chrome.cmd
+Users/Program Files/System32/chrome.doc
+Users/Program Files/System32/chrome.docx
+Users/Program Files/System32/chrome.exe
+Users/Program Files/System32/chrome.jar
+Users/Program Files/System32/cmd
+Users/Program Files/System32/cmd.bat
+Users/Program Files/System32/cmd.cmd
+Users/Program Files/System32/cmd.doc
+Users/Program Files/System32/cmd.docx
+Users/Program Files/System32/cmd.exe
+Users/Program Files/System32/cmd.jar
+Users/Program Files/System32/codes
+Users/Program Files/System32/codes.bat
+Users/Program Files/System32/codes.cmd
+Users/Program Files/System32/codes.doc
+Users/Program Files/System32/codes.docx
+Users/Program Files/System32/codes.exe
+Users/Program Files/System32/codes.jar
+Users/Program Files/System32/data
+Users/Program Files/System32/data.bat
+Users/Program Files/System32/data.cmd
+Users/Program Files/System32/data.doc
+Users/Program Files/System32/data.docx
+Users/Program Files/System32/data.exe
+Users/Program Files/System32/data.jar
+Users/Program Files/System32/excel
+Users/Program Files/System32/excel.bat
+Users/Program Files/System32/excel.cmd
+Users/Program Files/System32/excel.doc
+Users/Program Files/System32/excel.docx
+Users/Program Files/System32/excel.exe
+Users/Program Files/System32/excel.jar
+Users/Program Files/System32/explorer
+Users/Program Files/System32/explorer.bat
+Users/Program Files/System32/explorer.cmd
+Users/Program Files/System32/explorer.doc
+Users/Program Files/System32/explorer.docx
+Users/Program Files/System32/explorer.exe
+Users/Program Files/System32/explorer.jar
+Users/Program Files/System32/firefox
+Users/Program Files/System32/firefox.bat
+Users/Program Files/System32/firefox.cmd
+Users/Program Files/System32/firefox.doc
+Users/Program Files/System32/firefox.docx
+Users/Program Files/System32/firefox.exe
+Users/Program Files/System32/firefox.jar
+Users/Program Files/System32/ghci
+Users/Program Files/System32/ghci.bat
+Users/Program Files/System32/ghci.cmd
+Users/Program Files/System32/ghci.doc
+Users/Program Files/System32/ghci.docx
+Users/Program Files/System32/ghci.exe
+Users/Program Files/System32/ghci.jar
+Users/Program Files/System32/java
+Users/Program Files/System32/java.bat
+Users/Program Files/System32/java.cmd
+Users/Program Files/System32/java.doc
+Users/Program Files/System32/java.docx
+Users/Program Files/System32/java.exe
+Users/Program Files/System32/java.jar
+Users/Program Files/System32/javac
+Users/Program Files/System32/javac.bat
+Users/Program Files/System32/javac.cmd
+Users/Program Files/System32/javac.doc
+Users/Program Files/System32/javac.docx
+Users/Program Files/System32/javac.exe
+Users/Program Files/System32/javac.jar
+Users/Program Files/System32/javaw
+Users/Program Files/System32/javaw.bat
+Users/Program Files/System32/javaw.cmd
+Users/Program Files/System32/javaw.doc
+Users/Program Files/System32/javaw.docx
+Users/Program Files/System32/javaw.exe
+Users/Program Files/System32/javaw.jar
+Users/Program Files/System32/minecraft
+Users/Program Files/System32/minecraft.bat
+Users/Program Files/System32/minecraft.cmd
+Users/Program Files/System32/minecraft.doc
+Users/Program Files/System32/minecraft.docx
+Users/Program Files/System32/minecraft.exe
+Users/Program Files/System32/minecraft.jar
+Users/Program Files/System32/python
+Users/Program Files/System32/python.bat
+Users/Program Files/System32/python.cmd
+Users/Program Files/System32/python.doc
+Users/Program Files/System32/python.docx
+Users/Program Files/System32/python.exe
+Users/Program Files/System32/python.jar
+Users/Program Files/System32/spotify
+Users/Program Files/System32/spotify.bat
+Users/Program Files/System32/spotify.cmd
+Users/Program Files/System32/spotify.doc
+Users/Program Files/System32/spotify.docx
+Users/Program Files/System32/spotify.exe
+Users/Program Files/System32/spotify.jar
+Users/Program Files/System32/winword
+Users/Program Files/System32/winword.bat
+Users/Program Files/System32/winword.cmd
+Users/Program Files/System32/winword.doc
+Users/Program Files/System32/winword.docx
+Users/Program Files/System32/winword.exe
+Users/Program Files/System32/winword.jar
+Users/Program Files/Users/chrome
+Users/Program Files/Users/chrome.bat
+Users/Program Files/Users/chrome.cmd
+Users/Program Files/Users/chrome.doc
+Users/Program Files/Users/chrome.docx
+Users/Program Files/Users/chrome.exe
+Users/Program Files/Users/chrome.jar
+Users/Program Files/Users/cmd
+Users/Program Files/Users/cmd.bat
+Users/Program Files/Users/cmd.cmd
+Users/Program Files/Users/cmd.doc
+Users/Program Files/Users/cmd.docx
+Users/Program Files/Users/cmd.exe
+Users/Program Files/Users/cmd.jar
+Users/Program Files/Users/codes
+Users/Program Files/Users/codes.bat
+Users/Program Files/Users/codes.cmd
+Users/Program Files/Users/codes.doc
+Users/Program Files/Users/codes.docx
+Users/Program Files/Users/codes.exe
+Users/Program Files/Users/codes.jar
+Users/Program Files/Users/data
+Users/Program Files/Users/data.bat
+Users/Program Files/Users/data.cmd
+Users/Program Files/Users/data.doc
+Users/Program Files/Users/data.docx
+Users/Program Files/Users/data.exe
+Users/Program Files/Users/data.jar
+Users/Program Files/Users/excel
+Users/Program Files/Users/excel.bat
+Users/Program Files/Users/excel.cmd
+Users/Program Files/Users/excel.doc
+Users/Program Files/Users/excel.docx
+Users/Program Files/Users/excel.exe
+Users/Program Files/Users/excel.jar
+Users/Program Files/Users/explorer
+Users/Program Files/Users/explorer.bat
+Users/Program Files/Users/explorer.cmd
+Users/Program Files/Users/explorer.doc
+Users/Program Files/Users/explorer.docx
+Users/Program Files/Users/explorer.exe
+Users/Program Files/Users/explorer.jar
+Users/Program Files/Users/firefox
+Users/Program Files/Users/firefox.bat
+Users/Program Files/Users/firefox.cmd
+Users/Program Files/Users/firefox.doc
+Users/Program Files/Users/firefox.docx
+Users/Program Files/Users/firefox.exe
+Users/Program Files/Users/firefox.jar
+Users/Program Files/Users/ghci
+Users/Program Files/Users/ghci.bat
+Users/Program Files/Users/ghci.cmd
+Users/Program Files/Users/ghci.doc
+Users/Program Files/Users/ghci.docx
+Users/Program Files/Users/ghci.exe
+Users/Program Files/Users/ghci.jar
+Users/Program Files/Users/java
+Users/Program Files/Users/java.bat
+Users/Program Files/Users/java.cmd
+Users/Program Files/Users/java.doc
+Users/Program Files/Users/java.docx
+Users/Program Files/Users/java.exe
+Users/Program Files/Users/java.jar
+Users/Program Files/Users/javac
+Users/Program Files/Users/javac.bat
+Users/Program Files/Users/javac.cmd
+Users/Program Files/Users/javac.doc
+Users/Program Files/Users/javac.docx
+Users/Program Files/Users/javac.exe
+Users/Program Files/Users/javac.jar
+Users/Program Files/Users/javaw
+Users/Program Files/Users/javaw.bat
+Users/Program Files/Users/javaw.cmd
+Users/Program Files/Users/javaw.doc
+Users/Program Files/Users/javaw.docx
+Users/Program Files/Users/javaw.exe
+Users/Program Files/Users/javaw.jar
+Users/Program Files/Users/minecraft
+Users/Program Files/Users/minecraft.bat
+Users/Program Files/Users/minecraft.cmd
+Users/Program Files/Users/minecraft.doc
+Users/Program Files/Users/minecraft.docx
+Users/Program Files/Users/minecraft.exe
+Users/Program Files/Users/minecraft.jar
+Users/Program Files/Users/python
+Users/Program Files/Users/python.bat
+Users/Program Files/Users/python.cmd
+Users/Program Files/Users/python.doc
+Users/Program Files/Users/python.docx
+Users/Program Files/Users/python.exe
+Users/Program Files/Users/python.jar
+Users/Program Files/Users/spotify
+Users/Program Files/Users/spotify.bat
+Users/Program Files/Users/spotify.cmd
+Users/Program Files/Users/spotify.doc
+Users/Program Files/Users/spotify.docx
+Users/Program Files/Users/spotify.exe
+Users/Program Files/Users/spotify.jar
+Users/Program Files/Users/winword
+Users/Program Files/Users/winword.bat
+Users/Program Files/Users/winword.cmd
+Users/Program Files/Users/winword.doc
+Users/Program Files/Users/winword.docx
+Users/Program Files/Users/winword.exe
+Users/Program Files/Users/winword.jar
+Users/Program Files/chrome
+Users/Program Files/chrome.bat
+Users/Program Files/chrome.cmd
+Users/Program Files/chrome.doc
+Users/Program Files/chrome.docx
+Users/Program Files/chrome.exe
+Users/Program Files/chrome.jar
+Users/Program Files/cmd
+Users/Program Files/cmd.bat
+Users/Program Files/cmd.cmd
+Users/Program Files/cmd.doc
+Users/Program Files/cmd.docx
+Users/Program Files/cmd.exe
+Users/Program Files/cmd.jar
+Users/Program Files/codes
+Users/Program Files/codes.bat
+Users/Program Files/codes.cmd
+Users/Program Files/codes.doc
+Users/Program Files/codes.docx
+Users/Program Files/codes.exe
+Users/Program Files/codes.jar
+Users/Program Files/data
+Users/Program Files/data.bat
+Users/Program Files/data.cmd
+Users/Program Files/data.doc
+Users/Program Files/data.docx
+Users/Program Files/data.exe
+Users/Program Files/data.jar
+Users/Program Files/excel
+Users/Program Files/excel.bat
+Users/Program Files/excel.cmd
+Users/Program Files/excel.doc
+Users/Program Files/excel.docx
+Users/Program Files/excel.exe
+Users/Program Files/excel.jar
+Users/Program Files/explorer
+Users/Program Files/explorer.bat
+Users/Program Files/explorer.cmd
+Users/Program Files/explorer.doc
+Users/Program Files/explorer.docx
+Users/Program Files/explorer.exe
+Users/Program Files/explorer.jar
+Users/Program Files/firefox
+Users/Program Files/firefox.bat
+Users/Program Files/firefox.cmd
+Users/Program Files/firefox.doc
+Users/Program Files/firefox.docx
+Users/Program Files/firefox.exe
+Users/Program Files/firefox.jar
+Users/Program Files/ghci
+Users/Program Files/ghci.bat
+Users/Program Files/ghci.cmd
+Users/Program Files/ghci.doc
+Users/Program Files/ghci.docx
+Users/Program Files/ghci.exe
+Users/Program Files/ghci.jar
+Users/Program Files/java
+Users/Program Files/java.bat
+Users/Program Files/java.cmd
+Users/Program Files/java.doc
+Users/Program Files/java.docx
+Users/Program Files/java.exe
+Users/Program Files/java.jar
+Users/Program Files/javac
+Users/Program Files/javac.bat
+Users/Program Files/javac.cmd
+Users/Program Files/javac.doc
+Users/Program Files/javac.docx
+Users/Program Files/javac.exe
+Users/Program Files/javac.jar
+Users/Program Files/javaw
+Users/Program Files/javaw.bat
+Users/Program Files/javaw.cmd
+Users/Program Files/javaw.doc
+Users/Program Files/javaw.docx
+Users/Program Files/javaw.exe
+Users/Program Files/javaw.jar
+Users/Program Files/minecraft
+Users/Program Files/minecraft.bat
+Users/Program Files/minecraft.cmd
+Users/Program Files/minecraft.doc
+Users/Program Files/minecraft.docx
+Users/Program Files/minecraft.exe
+Users/Program Files/minecraft.jar
+Users/Program Files/python
+Users/Program Files/python.bat
+Users/Program Files/python.cmd
+Users/Program Files/python.doc
+Users/Program Files/python.docx
+Users/Program Files/python.exe
+Users/Program Files/python.jar
+Users/Program Files/spotify
+Users/Program Files/spotify.bat
+Users/Program Files/spotify.cmd
+Users/Program Files/spotify.doc
+Users/Program Files/spotify.docx
+Users/Program Files/spotify.exe
+Users/Program Files/spotify.jar
+Users/Program Files/winword
+Users/Program Files/winword.bat
+Users/Program Files/winword.cmd
+Users/Program Files/winword.doc
+Users/Program Files/winword.docx
+Users/Program Files/winword.exe
+Users/Program Files/winword.jar
+Users/Program Files (x86)/Microsoft/Windows/chrome
+Users/Program Files (x86)/Microsoft/Windows/chrome.bat
+Users/Program Files (x86)/Microsoft/Windows/chrome.cmd
+Users/Program Files (x86)/Microsoft/Windows/chrome.doc
+Users/Program Files (x86)/Microsoft/Windows/chrome.docx
+Users/Program Files (x86)/Microsoft/Windows/chrome.exe
+Users/Program Files (x86)/Microsoft/Windows/chrome.jar
+Users/Program Files (x86)/Microsoft/Windows/cmd
+Users/Program Files (x86)/Microsoft/Windows/cmd.bat
+Users/Program Files (x86)/Microsoft/Windows/cmd.cmd
+Users/Program Files (x86)/Microsoft/Windows/cmd.doc
+Users/Program Files (x86)/Microsoft/Windows/cmd.docx
+Users/Program Files (x86)/Microsoft/Windows/cmd.exe
+Users/Program Files (x86)/Microsoft/Windows/cmd.jar
+Users/Program Files (x86)/Microsoft/Windows/codes
+Users/Program Files (x86)/Microsoft/Windows/codes.bat
+Users/Program Files (x86)/Microsoft/Windows/codes.cmd
+Users/Program Files (x86)/Microsoft/Windows/codes.doc
+Users/Program Files (x86)/Microsoft/Windows/codes.docx
+Users/Program Files (x86)/Microsoft/Windows/codes.exe
+Users/Program Files (x86)/Microsoft/Windows/codes.jar
+Users/Program Files (x86)/Microsoft/Windows/data
+Users/Program Files (x86)/Microsoft/Windows/data.bat
+Users/Program Files (x86)/Microsoft/Windows/data.cmd
+Users/Program Files (x86)/Microsoft/Windows/data.doc
+Users/Program Files (x86)/Microsoft/Windows/data.docx
+Users/Program Files (x86)/Microsoft/Windows/data.exe
+Users/Program Files (x86)/Microsoft/Windows/data.jar
+Users/Program Files (x86)/Microsoft/Windows/excel
+Users/Program Files (x86)/Microsoft/Windows/excel.bat
+Users/Program Files (x86)/Microsoft/Windows/excel.cmd
+Users/Program Files (x86)/Microsoft/Windows/excel.doc
+Users/Program Files (x86)/Microsoft/Windows/excel.docx
+Users/Program Files (x86)/Microsoft/Windows/excel.exe
+Users/Program Files (x86)/Microsoft/Windows/excel.jar
+Users/Program Files (x86)/Microsoft/Windows/explorer
+Users/Program Files (x86)/Microsoft/Windows/explorer.bat
+Users/Program Files (x86)/Microsoft/Windows/explorer.cmd
+Users/Program Files (x86)/Microsoft/Windows/explorer.doc
+Users/Program Files (x86)/Microsoft/Windows/explorer.docx
+Users/Program Files (x86)/Microsoft/Windows/explorer.exe
+Users/Program Files (x86)/Microsoft/Windows/explorer.jar
+Users/Program Files (x86)/Microsoft/Windows/firefox
+Users/Program Files (x86)/Microsoft/Windows/firefox.bat
+Users/Program Files (x86)/Microsoft/Windows/firefox.cmd
+Users/Program Files (x86)/Microsoft/Windows/firefox.doc
+Users/Program Files (x86)/Microsoft/Windows/firefox.docx
+Users/Program Files (x86)/Microsoft/Windows/firefox.exe
+Users/Program Files (x86)/Microsoft/Windows/firefox.jar
+Users/Program Files (x86)/Microsoft/Windows/ghci
+Users/Program Files (x86)/Microsoft/Windows/ghci.bat
+Users/Program Files (x86)/Microsoft/Windows/ghci.cmd
+Users/Program Files (x86)/Microsoft/Windows/ghci.doc
+Users/Program Files (x86)/Microsoft/Windows/ghci.docx
+Users/Program Files (x86)/Microsoft/Windows/ghci.exe
+Users/Program Files (x86)/Microsoft/Windows/ghci.jar
+Users/Program Files (x86)/Microsoft/Windows/java
+Users/Program Files (x86)/Microsoft/Windows/java.bat
+Users/Program Files (x86)/Microsoft/Windows/java.cmd
+Users/Program Files (x86)/Microsoft/Windows/java.doc
+Users/Program Files (x86)/Microsoft/Windows/java.docx
+Users/Program Files (x86)/Microsoft/Windows/java.exe
+Users/Program Files (x86)/Microsoft/Windows/java.jar
+Users/Program Files (x86)/Microsoft/Windows/javac
+Users/Program Files (x86)/Microsoft/Windows/javac.bat
+Users/Program Files (x86)/Microsoft/Windows/javac.cmd
+Users/Program Files (x86)/Microsoft/Windows/javac.doc
+Users/Program Files (x86)/Microsoft/Windows/javac.docx
+Users/Program Files (x86)/Microsoft/Windows/javac.exe
+Users/Program Files (x86)/Microsoft/Windows/javac.jar
+Users/Program Files (x86)/Microsoft/Windows/javaw
+Users/Program Files (x86)/Microsoft/Windows/javaw.bat
+Users/Program Files (x86)/Microsoft/Windows/javaw.cmd
+Users/Program Files (x86)/Microsoft/Windows/javaw.doc
+Users/Program Files (x86)/Microsoft/Windows/javaw.docx
+Users/Program Files (x86)/Microsoft/Windows/javaw.exe
+Users/Program Files (x86)/Microsoft/Windows/javaw.jar
+Users/Program Files (x86)/Microsoft/Windows/minecraft
+Users/Program Files (x86)/Microsoft/Windows/minecraft.bat
+Users/Program Files (x86)/Microsoft/Windows/minecraft.cmd
+Users/Program Files (x86)/Microsoft/Windows/minecraft.doc
+Users/Program Files (x86)/Microsoft/Windows/minecraft.docx
+Users/Program Files (x86)/Microsoft/Windows/minecraft.exe
+Users/Program Files (x86)/Microsoft/Windows/minecraft.jar
+Users/Program Files (x86)/Microsoft/Windows/python
+Users/Program Files (x86)/Microsoft/Windows/python.bat
+Users/Program Files (x86)/Microsoft/Windows/python.cmd
+Users/Program Files (x86)/Microsoft/Windows/python.doc
+Users/Program Files (x86)/Microsoft/Windows/python.docx
+Users/Program Files (x86)/Microsoft/Windows/python.exe
+Users/Program Files (x86)/Microsoft/Windows/python.jar
+Users/Program Files (x86)/Microsoft/Windows/spotify
+Users/Program Files (x86)/Microsoft/Windows/spotify.bat
+Users/Program Files (x86)/Microsoft/Windows/spotify.cmd
+Users/Program Files (x86)/Microsoft/Windows/spotify.doc
+Users/Program Files (x86)/Microsoft/Windows/spotify.docx
+Users/Program Files (x86)/Microsoft/Windows/spotify.exe
+Users/Program Files (x86)/Microsoft/Windows/spotify.jar
+Users/Program Files (x86)/Microsoft/Windows/winword
+Users/Program Files (x86)/Microsoft/Windows/winword.bat
+Users/Program Files (x86)/Microsoft/Windows/winword.cmd
+Users/Program Files (x86)/Microsoft/Windows/winword.doc
+Users/Program Files (x86)/Microsoft/Windows/winword.docx
+Users/Program Files (x86)/Microsoft/Windows/winword.exe
+Users/Program Files (x86)/Microsoft/Windows/winword.jar
+Users/Program Files (x86)/chrome
+Users/Program Files (x86)/chrome.bat
+Users/Program Files (x86)/chrome.cmd
+Users/Program Files (x86)/chrome.doc
+Users/Program Files (x86)/chrome.docx
+Users/Program Files (x86)/chrome.exe
+Users/Program Files (x86)/chrome.jar
+Users/Program Files (x86)/cmd
+Users/Program Files (x86)/cmd.bat
+Users/Program Files (x86)/cmd.cmd
+Users/Program Files (x86)/cmd.doc
+Users/Program Files (x86)/cmd.docx
+Users/Program Files (x86)/cmd.exe
+Users/Program Files (x86)/cmd.jar
+Users/Program Files (x86)/codes
+Users/Program Files (x86)/codes.bat
+Users/Program Files (x86)/codes.cmd
+Users/Program Files (x86)/codes.doc
+Users/Program Files (x86)/codes.docx
+Users/Program Files (x86)/codes.exe
+Users/Program Files (x86)/codes.jar
+Users/Program Files (x86)/data
+Users/Program Files (x86)/data.bat
+Users/Program Files (x86)/data.cmd
+Users/Program Files (x86)/data.doc
+Users/Program Files (x86)/data.docx
+Users/Program Files (x86)/data.exe
+Users/Program Files (x86)/data.jar
+Users/Program Files (x86)/excel
+Users/Program Files (x86)/excel.bat
+Users/Program Files (x86)/excel.cmd
+Users/Program Files (x86)/excel.doc
+Users/Program Files (x86)/excel.docx
+Users/Program Files (x86)/excel.exe
+Users/Program Files (x86)/excel.jar
+Users/Program Files (x86)/explorer
+Users/Program Files (x86)/explorer.bat
+Users/Program Files (x86)/explorer.cmd
+Users/Program Files (x86)/explorer.doc
+Users/Program Files (x86)/explorer.docx
+Users/Program Files (x86)/explorer.exe
+Users/Program Files (x86)/explorer.jar
+Users/Program Files (x86)/firefox
+Users/Program Files (x86)/firefox.bat
+Users/Program Files (x86)/firefox.cmd
+Users/Program Files (x86)/firefox.doc
+Users/Program Files (x86)/firefox.docx
+Users/Program Files (x86)/firefox.exe
+Users/Program Files (x86)/firefox.jar
+Users/Program Files (x86)/ghci
+Users/Program Files (x86)/ghci.bat
+Users/Program Files (x86)/ghci.cmd
+Users/Program Files (x86)/ghci.doc
+Users/Program Files (x86)/ghci.docx
+Users/Program Files (x86)/ghci.exe
+Users/Program Files (x86)/ghci.jar
+Users/Program Files (x86)/java
+Users/Program Files (x86)/java.bat
+Users/Program Files (x86)/java.cmd
+Users/Program Files (x86)/java.doc
+Users/Program Files (x86)/java.docx
+Users/Program Files (x86)/java.exe
+Users/Program Files (x86)/java.jar
+Users/Program Files (x86)/javac
+Users/Program Files (x86)/javac.bat
+Users/Program Files (x86)/javac.cmd
+Users/Program Files (x86)/javac.doc
+Users/Program Files (x86)/javac.docx
+Users/Program Files (x86)/javac.exe
+Users/Program Files (x86)/javac.jar
+Users/Program Files (x86)/javaw
+Users/Program Files (x86)/javaw.bat
+Users/Program Files (x86)/javaw.cmd
+Users/Program Files (x86)/javaw.doc
+Users/Program Files (x86)/javaw.docx
+Users/Program Files (x86)/javaw.exe
+Users/Program Files (x86)/javaw.jar
+Users/Program Files (x86)/minecraft
+Users/Program Files (x86)/minecraft.bat
+Users/Program Files (x86)/minecraft.cmd
+Users/Program Files (x86)/minecraft.doc
+Users/Program Files (x86)/minecraft.docx
+Users/Program Files (x86)/minecraft.exe
+Users/Program Files (x86)/minecraft.jar
+Users/Program Files (x86)/python
+Users/Program Files (x86)/python.bat
+Users/Program Files (x86)/python.cmd
+Users/Program Files (x86)/python.doc
+Users/Program Files (x86)/python.docx
+Users/Program Files (x86)/python.exe
+Users/Program Files (x86)/python.jar
+Users/Program Files (x86)/spotify
+Users/Program Files (x86)/spotify.bat
+Users/Program Files (x86)/spotify.cmd
+Users/Program Files (x86)/spotify.doc
+Users/Program Files (x86)/spotify.docx
+Users/Program Files (x86)/spotify.exe
+Users/Program Files (x86)/spotify.jar
+Users/Program Files (x86)/winword
+Users/Program Files (x86)/winword.bat
+Users/Program Files (x86)/winword.cmd
+Users/Program Files (x86)/winword.doc
+Users/Program Files (x86)/winword.docx
+Users/Program Files (x86)/winword.exe
+Users/Program Files (x86)/winword.jar
+Users/Riot Games/Drivers/chrome
+Users/Riot Games/Drivers/chrome.bat
+Users/Riot Games/Drivers/chrome.cmd
+Users/Riot Games/Drivers/chrome.doc
+Users/Riot Games/Drivers/chrome.docx
+Users/Riot Games/Drivers/chrome.exe
+Users/Riot Games/Drivers/chrome.jar
+Users/Riot Games/Drivers/cmd
+Users/Riot Games/Drivers/cmd.bat
+Users/Riot Games/Drivers/cmd.cmd
+Users/Riot Games/Drivers/cmd.doc
+Users/Riot Games/Drivers/cmd.docx
+Users/Riot Games/Drivers/cmd.exe
+Users/Riot Games/Drivers/cmd.jar
+Users/Riot Games/Drivers/codes
+Users/Riot Games/Drivers/codes.bat
+Users/Riot Games/Drivers/codes.cmd
+Users/Riot Games/Drivers/codes.doc
+Users/Riot Games/Drivers/codes.docx
+Users/Riot Games/Drivers/codes.exe
+Users/Riot Games/Drivers/codes.jar
+Users/Riot Games/Drivers/data
+Users/Riot Games/Drivers/data.bat
+Users/Riot Games/Drivers/data.cmd
+Users/Riot Games/Drivers/data.doc
+Users/Riot Games/Drivers/data.docx
+Users/Riot Games/Drivers/data.exe
+Users/Riot Games/Drivers/data.jar
+Users/Riot Games/Drivers/excel
+Users/Riot Games/Drivers/excel.bat
+Users/Riot Games/Drivers/excel.cmd
+Users/Riot Games/Drivers/excel.doc
+Users/Riot Games/Drivers/excel.docx
+Users/Riot Games/Drivers/excel.exe
+Users/Riot Games/Drivers/excel.jar
+Users/Riot Games/Drivers/explorer
+Users/Riot Games/Drivers/explorer.bat
+Users/Riot Games/Drivers/explorer.cmd
+Users/Riot Games/Drivers/explorer.doc
+Users/Riot Games/Drivers/explorer.docx
+Users/Riot Games/Drivers/explorer.exe
+Users/Riot Games/Drivers/explorer.jar
+Users/Riot Games/Drivers/firefox
+Users/Riot Games/Drivers/firefox.bat
+Users/Riot Games/Drivers/firefox.cmd
+Users/Riot Games/Drivers/firefox.doc
+Users/Riot Games/Drivers/firefox.docx
+Users/Riot Games/Drivers/firefox.exe
+Users/Riot Games/Drivers/firefox.jar
+Users/Riot Games/Drivers/ghci
+Users/Riot Games/Drivers/ghci.bat
+Users/Riot Games/Drivers/ghci.cmd
+Users/Riot Games/Drivers/ghci.doc
+Users/Riot Games/Drivers/ghci.docx
+Users/Riot Games/Drivers/ghci.exe
+Users/Riot Games/Drivers/ghci.jar
+Users/Riot Games/Drivers/java
+Users/Riot Games/Drivers/java.bat
+Users/Riot Games/Drivers/java.cmd
+Users/Riot Games/Drivers/java.doc
+Users/Riot Games/Drivers/java.docx
+Users/Riot Games/Drivers/java.exe
+Users/Riot Games/Drivers/java.jar
+Users/Riot Games/Drivers/javac
+Users/Riot Games/Drivers/javac.bat
+Users/Riot Games/Drivers/javac.cmd
+Users/Riot Games/Drivers/javac.doc
+Users/Riot Games/Drivers/javac.docx
+Users/Riot Games/Drivers/javac.exe
+Users/Riot Games/Drivers/javac.jar
+Users/Riot Games/Drivers/javaw
+Users/Riot Games/Drivers/javaw.bat
+Users/Riot Games/Drivers/javaw.cmd
+Users/Riot Games/Drivers/javaw.doc
+Users/Riot Games/Drivers/javaw.docx
+Users/Riot Games/Drivers/javaw.exe
+Users/Riot Games/Drivers/javaw.jar
+Users/Riot Games/Drivers/minecraft
+Users/Riot Games/Drivers/minecraft.bat
+Users/Riot Games/Drivers/minecraft.cmd
+Users/Riot Games/Drivers/minecraft.doc
+Users/Riot Games/Drivers/minecraft.docx
+Users/Riot Games/Drivers/minecraft.exe
+Users/Riot Games/Drivers/minecraft.jar
+Users/Riot Games/Drivers/python
+Users/Riot Games/Drivers/python.bat
+Users/Riot Games/Drivers/python.cmd
+Users/Riot Games/Drivers/python.doc
+Users/Riot Games/Drivers/python.docx
+Users/Riot Games/Drivers/python.exe
+Users/Riot Games/Drivers/python.jar
+Users/Riot Games/Drivers/spotify
+Users/Riot Games/Drivers/spotify.bat
+Users/Riot Games/Drivers/spotify.cmd
+Users/Riot Games/Drivers/spotify.doc
+Users/Riot Games/Drivers/spotify.docx
+Users/Riot Games/Drivers/spotify.exe
+Users/Riot Games/Drivers/spotify.jar
+Users/Riot Games/Drivers/winword
+Users/Riot Games/Drivers/winword.bat
+Users/Riot Games/Drivers/winword.cmd
+Users/Riot Games/Drivers/winword.doc
+Users/Riot Games/Drivers/winword.docx
+Users/Riot Games/Drivers/winword.exe
+Users/Riot Games/Drivers/winword.jar
+Users/Riot Games/Program Files/chrome
+Users/Riot Games/Program Files/chrome.bat
+Users/Riot Games/Program Files/chrome.cmd
+Users/Riot Games/Program Files/chrome.doc
+Users/Riot Games/Program Files/chrome.docx
+Users/Riot Games/Program Files/chrome.exe
+Users/Riot Games/Program Files/chrome.jar
+Users/Riot Games/Program Files/cmd
+Users/Riot Games/Program Files/cmd.bat
+Users/Riot Games/Program Files/cmd.cmd
+Users/Riot Games/Program Files/cmd.doc
+Users/Riot Games/Program Files/cmd.docx
+Users/Riot Games/Program Files/cmd.exe
+Users/Riot Games/Program Files/cmd.jar
+Users/Riot Games/Program Files/codes
+Users/Riot Games/Program Files/codes.bat
+Users/Riot Games/Program Files/codes.cmd
+Users/Riot Games/Program Files/codes.doc
+Users/Riot Games/Program Files/codes.docx
+Users/Riot Games/Program Files/codes.exe
+Users/Riot Games/Program Files/codes.jar
+Users/Riot Games/Program Files/data
+Users/Riot Games/Program Files/data.bat
+Users/Riot Games/Program Files/data.cmd
+Users/Riot Games/Program Files/data.doc
+Users/Riot Games/Program Files/data.docx
+Users/Riot Games/Program Files/data.exe
+Users/Riot Games/Program Files/data.jar
+Users/Riot Games/Program Files/excel
+Users/Riot Games/Program Files/excel.bat
+Users/Riot Games/Program Files/excel.cmd
+Users/Riot Games/Program Files/excel.doc
+Users/Riot Games/Program Files/excel.docx
+Users/Riot Games/Program Files/excel.exe
+Users/Riot Games/Program Files/excel.jar
+Users/Riot Games/Program Files/explorer
+Users/Riot Games/Program Files/explorer.bat
+Users/Riot Games/Program Files/explorer.cmd
+Users/Riot Games/Program Files/explorer.doc
+Users/Riot Games/Program Files/explorer.docx
+Users/Riot Games/Program Files/explorer.exe
+Users/Riot Games/Program Files/explorer.jar
+Users/Riot Games/Program Files/firefox
+Users/Riot Games/Program Files/firefox.bat
+Users/Riot Games/Program Files/firefox.cmd
+Users/Riot Games/Program Files/firefox.doc
+Users/Riot Games/Program Files/firefox.docx
+Users/Riot Games/Program Files/firefox.exe
+Users/Riot Games/Program Files/firefox.jar
+Users/Riot Games/Program Files/ghci
+Users/Riot Games/Program Files/ghci.bat
+Users/Riot Games/Program Files/ghci.cmd
+Users/Riot Games/Program Files/ghci.doc
+Users/Riot Games/Program Files/ghci.docx
+Users/Riot Games/Program Files/ghci.exe
+Users/Riot Games/Program Files/ghci.jar
+Users/Riot Games/Program Files/java
+Users/Riot Games/Program Files/java.bat
+Users/Riot Games/Program Files/java.cmd
+Users/Riot Games/Program Files/java.doc
+Users/Riot Games/Program Files/java.docx
+Users/Riot Games/Program Files/java.exe
+Users/Riot Games/Program Files/java.jar
+Users/Riot Games/Program Files/javac
+Users/Riot Games/Program Files/javac.bat
+Users/Riot Games/Program Files/javac.cmd
+Users/Riot Games/Program Files/javac.doc
+Users/Riot Games/Program Files/javac.docx
+Users/Riot Games/Program Files/javac.exe
+Users/Riot Games/Program Files/javac.jar
+Users/Riot Games/Program Files/javaw
+Users/Riot Games/Program Files/javaw.bat
+Users/Riot Games/Program Files/javaw.cmd
+Users/Riot Games/Program Files/javaw.doc
+Users/Riot Games/Program Files/javaw.docx
+Users/Riot Games/Program Files/javaw.exe
+Users/Riot Games/Program Files/javaw.jar
+Users/Riot Games/Program Files/minecraft
+Users/Riot Games/Program Files/minecraft.bat
+Users/Riot Games/Program Files/minecraft.cmd
+Users/Riot Games/Program Files/minecraft.doc
+Users/Riot Games/Program Files/minecraft.docx
+Users/Riot Games/Program Files/minecraft.exe
+Users/Riot Games/Program Files/minecraft.jar
+Users/Riot Games/Program Files/python
+Users/Riot Games/Program Files/python.bat
+Users/Riot Games/Program Files/python.cmd
+Users/Riot Games/Program Files/python.doc
+Users/Riot Games/Program Files/python.docx
+Users/Riot Games/Program Files/python.exe
+Users/Riot Games/Program Files/python.jar
+Users/Riot Games/Program Files/spotify
+Users/Riot Games/Program Files/spotify.bat
+Users/Riot Games/Program Files/spotify.cmd
+Users/Riot Games/Program Files/spotify.doc
+Users/Riot Games/Program Files/spotify.docx
+Users/Riot Games/Program Files/spotify.exe
+Users/Riot Games/Program Files/spotify.jar
+Users/Riot Games/Program Files/winword
+Users/Riot Games/Program Files/winword.bat
+Users/Riot Games/Program Files/winword.cmd
+Users/Riot Games/Program Files/winword.doc
+Users/Riot Games/Program Files/winword.docx
+Users/Riot Games/Program Files/winword.exe
+Users/Riot Games/Program Files/winword.jar
+Users/Riot Games/chrome
+Users/Riot Games/chrome.bat
+Users/Riot Games/chrome.cmd
+Users/Riot Games/chrome.doc
+Users/Riot Games/chrome.docx
+Users/Riot Games/chrome.exe
+Users/Riot Games/chrome.jar
+Users/Riot Games/cmd
+Users/Riot Games/cmd.bat
+Users/Riot Games/cmd.cmd
+Users/Riot Games/cmd.doc
+Users/Riot Games/cmd.docx
+Users/Riot Games/cmd.exe
+Users/Riot Games/cmd.jar
+Users/Riot Games/codes
+Users/Riot Games/codes.bat
+Users/Riot Games/codes.cmd
+Users/Riot Games/codes.doc
+Users/Riot Games/codes.docx
+Users/Riot Games/codes.exe
+Users/Riot Games/codes.jar
+Users/Riot Games/data
+Users/Riot Games/data.bat
+Users/Riot Games/data.cmd
+Users/Riot Games/data.doc
+Users/Riot Games/data.docx
+Users/Riot Games/data.exe
+Users/Riot Games/data.jar
+Users/Riot Games/excel
+Users/Riot Games/excel.bat
+Users/Riot Games/excel.cmd
+Users/Riot Games/excel.doc
+Users/Riot Games/excel.docx
+Users/Riot Games/excel.exe
+Users/Riot Games/excel.jar
+Users/Riot Games/explorer
+Users/Riot Games/explorer.bat
+Users/Riot Games/explorer.cmd
+Users/Riot Games/explorer.doc
+Users/Riot Games/explorer.docx
+Users/Riot Games/explorer.exe
+Users/Riot Games/explorer.jar
+Users/Riot Games/firefox
+Users/Riot Games/firefox.bat
+Users/Riot Games/firefox.cmd
+Users/Riot Games/firefox.doc
+Users/Riot Games/firefox.docx
+Users/Riot Games/firefox.exe
+Users/Riot Games/firefox.jar
+Users/Riot Games/ghci
+Users/Riot Games/ghci.bat
+Users/Riot Games/ghci.cmd
+Users/Riot Games/ghci.doc
+Users/Riot Games/ghci.docx
+Users/Riot Games/ghci.exe
+Users/Riot Games/ghci.jar
+Users/Riot Games/java
+Users/Riot Games/java.bat
+Users/Riot Games/java.cmd
+Users/Riot Games/java.doc
+Users/Riot Games/java.docx
+Users/Riot Games/java.exe
+Users/Riot Games/java.jar
+Users/Riot Games/javac
+Users/Riot Games/javac.bat
+Users/Riot Games/javac.cmd
+Users/Riot Games/javac.doc
+Users/Riot Games/javac.docx
+Users/Riot Games/javac.exe
+Users/Riot Games/javac.jar
+Users/Riot Games/javaw
+Users/Riot Games/javaw.bat
+Users/Riot Games/javaw.cmd
+Users/Riot Games/javaw.doc
+Users/Riot Games/javaw.docx
+Users/Riot Games/javaw.exe
+Users/Riot Games/javaw.jar
+Users/Riot Games/minecraft
+Users/Riot Games/minecraft.bat
+Users/Riot Games/minecraft.cmd
+Users/Riot Games/minecraft.doc
+Users/Riot Games/minecraft.docx
+Users/Riot Games/minecraft.exe
+Users/Riot Games/minecraft.jar
+Users/Riot Games/python
+Users/Riot Games/python.bat
+Users/Riot Games/python.cmd
+Users/Riot Games/python.doc
+Users/Riot Games/python.docx
+Users/Riot Games/python.exe
+Users/Riot Games/python.jar
+Users/Riot Games/spotify
+Users/Riot Games/spotify.bat
+Users/Riot Games/spotify.cmd
+Users/Riot Games/spotify.doc
+Users/Riot Games/spotify.docx
+Users/Riot Games/spotify.exe
+Users/Riot Games/spotify.jar
+Users/Riot Games/winword
+Users/Riot Games/winword.bat
+Users/Riot Games/winword.cmd
+Users/Riot Games/winword.doc
+Users/Riot Games/winword.docx
+Users/Riot Games/winword.exe
+Users/Riot Games/winword.jar
+Users/SYSWOW64/Microsoft/Drivers/chrome
+Users/SYSWOW64/Microsoft/Drivers/chrome.bat
+Users/SYSWOW64/Microsoft/Drivers/chrome.cmd
+Users/SYSWOW64/Microsoft/Drivers/chrome.doc
+Users/SYSWOW64/Microsoft/Drivers/chrome.docx
+Users/SYSWOW64/Microsoft/Drivers/chrome.exe
+Users/SYSWOW64/Microsoft/Drivers/chrome.jar
+Users/SYSWOW64/Microsoft/Drivers/cmd
+Users/SYSWOW64/Microsoft/Drivers/cmd.bat
+Users/SYSWOW64/Microsoft/Drivers/cmd.cmd
+Users/SYSWOW64/Microsoft/Drivers/cmd.doc
+Users/SYSWOW64/Microsoft/Drivers/cmd.docx
+Users/SYSWOW64/Microsoft/Drivers/cmd.exe
+Users/SYSWOW64/Microsoft/Drivers/cmd.jar
+Users/SYSWOW64/Microsoft/Drivers/codes
+Users/SYSWOW64/Microsoft/Drivers/codes.bat
+Users/SYSWOW64/Microsoft/Drivers/codes.cmd
+Users/SYSWOW64/Microsoft/Drivers/codes.doc
+Users/SYSWOW64/Microsoft/Drivers/codes.docx
+Users/SYSWOW64/Microsoft/Drivers/codes.exe
+Users/SYSWOW64/Microsoft/Drivers/codes.jar
+Users/SYSWOW64/Microsoft/Drivers/data
+Users/SYSWOW64/Microsoft/Drivers/data.bat
+Users/SYSWOW64/Microsoft/Drivers/data.cmd
+Users/SYSWOW64/Microsoft/Drivers/data.doc
+Users/SYSWOW64/Microsoft/Drivers/data.docx
+Users/SYSWOW64/Microsoft/Drivers/data.exe
+Users/SYSWOW64/Microsoft/Drivers/data.jar
+Users/SYSWOW64/Microsoft/Drivers/excel
+Users/SYSWOW64/Microsoft/Drivers/excel.bat
+Users/SYSWOW64/Microsoft/Drivers/excel.cmd
+Users/SYSWOW64/Microsoft/Drivers/excel.doc
+Users/SYSWOW64/Microsoft/Drivers/excel.docx
+Users/SYSWOW64/Microsoft/Drivers/excel.exe
+Users/SYSWOW64/Microsoft/Drivers/excel.jar
+Users/SYSWOW64/Microsoft/Drivers/explorer
+Users/SYSWOW64/Microsoft/Drivers/explorer.bat
+Users/SYSWOW64/Microsoft/Drivers/explorer.cmd
+Users/SYSWOW64/Microsoft/Drivers/explorer.doc
+Users/SYSWOW64/Microsoft/Drivers/explorer.docx
+Users/SYSWOW64/Microsoft/Drivers/explorer.exe
+Users/SYSWOW64/Microsoft/Drivers/explorer.jar
+Users/SYSWOW64/Microsoft/Drivers/firefox
+Users/SYSWOW64/Microsoft/Drivers/firefox.bat
+Users/SYSWOW64/Microsoft/Drivers/firefox.cmd
+Users/SYSWOW64/Microsoft/Drivers/firefox.doc
+Users/SYSWOW64/Microsoft/Drivers/firefox.docx
+Users/SYSWOW64/Microsoft/Drivers/firefox.exe
+Users/SYSWOW64/Microsoft/Drivers/firefox.jar
+Users/SYSWOW64/Microsoft/Drivers/ghci
+Users/SYSWOW64/Microsoft/Drivers/ghci.bat
+Users/SYSWOW64/Microsoft/Drivers/ghci.cmd
+Users/SYSWOW64/Microsoft/Drivers/ghci.doc
+Users/SYSWOW64/Microsoft/Drivers/ghci.docx
+Users/SYSWOW64/Microsoft/Drivers/ghci.exe
+Users/SYSWOW64/Microsoft/Drivers/ghci.jar
+Users/SYSWOW64/Microsoft/Drivers/java
+Users/SYSWOW64/Microsoft/Drivers/java.bat
+Users/SYSWOW64/Microsoft/Drivers/java.cmd
+Users/SYSWOW64/Microsoft/Drivers/java.doc
+Users/SYSWOW64/Microsoft/Drivers/java.docx
+Users/SYSWOW64/Microsoft/Drivers/java.exe
+Users/SYSWOW64/Microsoft/Drivers/java.jar
+Users/SYSWOW64/Microsoft/Drivers/javac
+Users/SYSWOW64/Microsoft/Drivers/javac.bat
+Users/SYSWOW64/Microsoft/Drivers/javac.cmd
+Users/SYSWOW64/Microsoft/Drivers/javac.doc
+Users/SYSWOW64/Microsoft/Drivers/javac.docx
+Users/SYSWOW64/Microsoft/Drivers/javac.exe
+Users/SYSWOW64/Microsoft/Drivers/javac.jar
+Users/SYSWOW64/Microsoft/Drivers/javaw
+Users/SYSWOW64/Microsoft/Drivers/javaw.bat
+Users/SYSWOW64/Microsoft/Drivers/javaw.cmd
+Users/SYSWOW64/Microsoft/Drivers/javaw.doc
+Users/SYSWOW64/Microsoft/Drivers/javaw.docx
+Users/SYSWOW64/Microsoft/Drivers/javaw.exe
+Users/SYSWOW64/Microsoft/Drivers/javaw.jar
+Users/SYSWOW64/Microsoft/Drivers/minecraft
+Users/SYSWOW64/Microsoft/Drivers/minecraft.bat
+Users/SYSWOW64/Microsoft/Drivers/minecraft.cmd
+Users/SYSWOW64/Microsoft/Drivers/minecraft.doc
+Users/SYSWOW64/Microsoft/Drivers/minecraft.docx
+Users/SYSWOW64/Microsoft/Drivers/minecraft.exe
+Users/SYSWOW64/Microsoft/Drivers/minecraft.jar
+Users/SYSWOW64/Microsoft/Drivers/python
+Users/SYSWOW64/Microsoft/Drivers/python.bat
+Users/SYSWOW64/Microsoft/Drivers/python.cmd
+Users/SYSWOW64/Microsoft/Drivers/python.doc
+Users/SYSWOW64/Microsoft/Drivers/python.docx
+Users/SYSWOW64/Microsoft/Drivers/python.exe
+Users/SYSWOW64/Microsoft/Drivers/python.jar
+Users/SYSWOW64/Microsoft/Drivers/spotify
+Users/SYSWOW64/Microsoft/Drivers/spotify.bat
+Users/SYSWOW64/Microsoft/Drivers/spotify.cmd
+Users/SYSWOW64/Microsoft/Drivers/spotify.doc
+Users/SYSWOW64/Microsoft/Drivers/spotify.docx
+Users/SYSWOW64/Microsoft/Drivers/spotify.exe
+Users/SYSWOW64/Microsoft/Drivers/spotify.jar
+Users/SYSWOW64/Microsoft/Drivers/winword
+Users/SYSWOW64/Microsoft/Drivers/winword.bat
+Users/SYSWOW64/Microsoft/Drivers/winword.cmd
+Users/SYSWOW64/Microsoft/Drivers/winword.doc
+Users/SYSWOW64/Microsoft/Drivers/winword.docx
+Users/SYSWOW64/Microsoft/Drivers/winword.exe
+Users/SYSWOW64/Microsoft/Drivers/winword.jar
+Users/SYSWOW64/Program Files/chrome
+Users/SYSWOW64/Program Files/chrome.bat
+Users/SYSWOW64/Program Files/chrome.cmd
+Users/SYSWOW64/Program Files/chrome.doc
+Users/SYSWOW64/Program Files/chrome.docx
+Users/SYSWOW64/Program Files/chrome.exe
+Users/SYSWOW64/Program Files/chrome.jar
+Users/SYSWOW64/Program Files/cmd
+Users/SYSWOW64/Program Files/cmd.bat
+Users/SYSWOW64/Program Files/cmd.cmd
+Users/SYSWOW64/Program Files/cmd.doc
+Users/SYSWOW64/Program Files/cmd.docx
+Users/SYSWOW64/Program Files/cmd.exe
+Users/SYSWOW64/Program Files/cmd.jar
+Users/SYSWOW64/Program Files/codes
+Users/SYSWOW64/Program Files/codes.bat
+Users/SYSWOW64/Program Files/codes.cmd
+Users/SYSWOW64/Program Files/codes.doc
+Users/SYSWOW64/Program Files/codes.docx
+Users/SYSWOW64/Program Files/codes.exe
+Users/SYSWOW64/Program Files/codes.jar
+Users/SYSWOW64/Program Files/data
+Users/SYSWOW64/Program Files/data.bat
+Users/SYSWOW64/Program Files/data.cmd
+Users/SYSWOW64/Program Files/data.doc
+Users/SYSWOW64/Program Files/data.docx
+Users/SYSWOW64/Program Files/data.exe
+Users/SYSWOW64/Program Files/data.jar
+Users/SYSWOW64/Program Files/excel
+Users/SYSWOW64/Program Files/excel.bat
+Users/SYSWOW64/Program Files/excel.cmd
+Users/SYSWOW64/Program Files/excel.doc
+Users/SYSWOW64/Program Files/excel.docx
+Users/SYSWOW64/Program Files/excel.exe
+Users/SYSWOW64/Program Files/excel.jar
+Users/SYSWOW64/Program Files/explorer
+Users/SYSWOW64/Program Files/explorer.bat
+Users/SYSWOW64/Program Files/explorer.cmd
+Users/SYSWOW64/Program Files/explorer.doc
+Users/SYSWOW64/Program Files/explorer.docx
+Users/SYSWOW64/Program Files/explorer.exe
+Users/SYSWOW64/Program Files/explorer.jar
+Users/SYSWOW64/Program Files/firefox
+Users/SYSWOW64/Program Files/firefox.bat
+Users/SYSWOW64/Program Files/firefox.cmd
+Users/SYSWOW64/Program Files/firefox.doc
+Users/SYSWOW64/Program Files/firefox.docx
+Users/SYSWOW64/Program Files/firefox.exe
+Users/SYSWOW64/Program Files/firefox.jar
+Users/SYSWOW64/Program Files/ghci
+Users/SYSWOW64/Program Files/ghci.bat
+Users/SYSWOW64/Program Files/ghci.cmd
+Users/SYSWOW64/Program Files/ghci.doc
+Users/SYSWOW64/Program Files/ghci.docx
+Users/SYSWOW64/Program Files/ghci.exe
+Users/SYSWOW64/Program Files/ghci.jar
+Users/SYSWOW64/Program Files/java
+Users/SYSWOW64/Program Files/java.bat
+Users/SYSWOW64/Program Files/java.cmd
+Users/SYSWOW64/Program Files/java.doc
+Users/SYSWOW64/Program Files/java.docx
+Users/SYSWOW64/Program Files/java.exe
+Users/SYSWOW64/Program Files/java.jar
+Users/SYSWOW64/Program Files/javac
+Users/SYSWOW64/Program Files/javac.bat
+Users/SYSWOW64/Program Files/javac.cmd
+Users/SYSWOW64/Program Files/javac.doc
+Users/SYSWOW64/Program Files/javac.docx
+Users/SYSWOW64/Program Files/javac.exe
+Users/SYSWOW64/Program Files/javac.jar
+Users/SYSWOW64/Program Files/javaw
+Users/SYSWOW64/Program Files/javaw.bat
+Users/SYSWOW64/Program Files/javaw.cmd
+Users/SYSWOW64/Program Files/javaw.doc
+Users/SYSWOW64/Program Files/javaw.docx
+Users/SYSWOW64/Program Files/javaw.exe
+Users/SYSWOW64/Program Files/javaw.jar
+Users/SYSWOW64/Program Files/minecraft
+Users/SYSWOW64/Program Files/minecraft.bat
+Users/SYSWOW64/Program Files/minecraft.cmd
+Users/SYSWOW64/Program Files/minecraft.doc
+Users/SYSWOW64/Program Files/minecraft.docx
+Users/SYSWOW64/Program Files/minecraft.exe
+Users/SYSWOW64/Program Files/minecraft.jar
+Users/SYSWOW64/Program Files/python
+Users/SYSWOW64/Program Files/python.bat
+Users/SYSWOW64/Program Files/python.cmd
+Users/SYSWOW64/Program Files/python.doc
+Users/SYSWOW64/Program Files/python.docx
+Users/SYSWOW64/Program Files/python.exe
+Users/SYSWOW64/Program Files/python.jar
+Users/SYSWOW64/Program Files/spotify
+Users/SYSWOW64/Program Files/spotify.bat
+Users/SYSWOW64/Program Files/spotify.cmd
+Users/SYSWOW64/Program Files/spotify.doc
+Users/SYSWOW64/Program Files/spotify.docx
+Users/SYSWOW64/Program Files/spotify.exe
+Users/SYSWOW64/Program Files/spotify.jar
+Users/SYSWOW64/Program Files/winword
+Users/SYSWOW64/Program Files/winword.bat
+Users/SYSWOW64/Program Files/winword.cmd
+Users/SYSWOW64/Program Files/winword.doc
+Users/SYSWOW64/Program Files/winword.docx
+Users/SYSWOW64/Program Files/winword.exe
+Users/SYSWOW64/Program Files/winword.jar
+Users/SYSWOW64/Program Files (x86)/chrome
+Users/SYSWOW64/Program Files (x86)/chrome.bat
+Users/SYSWOW64/Program Files (x86)/chrome.cmd
+Users/SYSWOW64/Program Files (x86)/chrome.doc
+Users/SYSWOW64/Program Files (x86)/chrome.docx
+Users/SYSWOW64/Program Files (x86)/chrome.exe
+Users/SYSWOW64/Program Files (x86)/chrome.jar
+Users/SYSWOW64/Program Files (x86)/cmd
+Users/SYSWOW64/Program Files (x86)/cmd.bat
+Users/SYSWOW64/Program Files (x86)/cmd.cmd
+Users/SYSWOW64/Program Files (x86)/cmd.doc
+Users/SYSWOW64/Program Files (x86)/cmd.docx
+Users/SYSWOW64/Program Files (x86)/cmd.exe
+Users/SYSWOW64/Program Files (x86)/cmd.jar
+Users/SYSWOW64/Program Files (x86)/codes
+Users/SYSWOW64/Program Files (x86)/codes.bat
+Users/SYSWOW64/Program Files (x86)/codes.cmd
+Users/SYSWOW64/Program Files (x86)/codes.doc
+Users/SYSWOW64/Program Files (x86)/codes.docx
+Users/SYSWOW64/Program Files (x86)/codes.exe
+Users/SYSWOW64/Program Files (x86)/codes.jar
+Users/SYSWOW64/Program Files (x86)/data
+Users/SYSWOW64/Program Files (x86)/data.bat
+Users/SYSWOW64/Program Files (x86)/data.cmd
+Users/SYSWOW64/Program Files (x86)/data.doc
+Users/SYSWOW64/Program Files (x86)/data.docx
+Users/SYSWOW64/Program Files (x86)/data.exe
+Users/SYSWOW64/Program Files (x86)/data.jar
+Users/SYSWOW64/Program Files (x86)/excel
+Users/SYSWOW64/Program Files (x86)/excel.bat
+Users/SYSWOW64/Program Files (x86)/excel.cmd
+Users/SYSWOW64/Program Files (x86)/excel.doc
+Users/SYSWOW64/Program Files (x86)/excel.docx
+Users/SYSWOW64/Program Files (x86)/excel.exe
+Users/SYSWOW64/Program Files (x86)/excel.jar
+Users/SYSWOW64/Program Files (x86)/explorer
+Users/SYSWOW64/Program Files (x86)/explorer.bat
+Users/SYSWOW64/Program Files (x86)/explorer.cmd
+Users/SYSWOW64/Program Files (x86)/explorer.doc
+Users/SYSWOW64/Program Files (x86)/explorer.docx
+Users/SYSWOW64/Program Files (x86)/explorer.exe
+Users/SYSWOW64/Program Files (x86)/explorer.jar
+Users/SYSWOW64/Program Files (x86)/firefox
+Users/SYSWOW64/Program Files (x86)/firefox.bat
+Users/SYSWOW64/Program Files (x86)/firefox.cmd
+Users/SYSWOW64/Program Files (x86)/firefox.doc
+Users/SYSWOW64/Program Files (x86)/firefox.docx
+Users/SYSWOW64/Program Files (x86)/firefox.exe
+Users/SYSWOW64/Program Files (x86)/firefox.jar
+Users/SYSWOW64/Program Files (x86)/ghci
+Users/SYSWOW64/Program Files (x86)/ghci.bat
+Users/SYSWOW64/Program Files (x86)/ghci.cmd
+Users/SYSWOW64/Program Files (x86)/ghci.doc
+Users/SYSWOW64/Program Files (x86)/ghci.docx
+Users/SYSWOW64/Program Files (x86)/ghci.exe
+Users/SYSWOW64/Program Files (x86)/ghci.jar
+Users/SYSWOW64/Program Files (x86)/java
+Users/SYSWOW64/Program Files (x86)/java.bat
+Users/SYSWOW64/Program Files (x86)/java.cmd
+Users/SYSWOW64/Program Files (x86)/java.doc
+Users/SYSWOW64/Program Files (x86)/java.docx
+Users/SYSWOW64/Program Files (x86)/java.exe
+Users/SYSWOW64/Program Files (x86)/java.jar
+Users/SYSWOW64/Program Files (x86)/javac
+Users/SYSWOW64/Program Files (x86)/javac.bat
+Users/SYSWOW64/Program Files (x86)/javac.cmd
+Users/SYSWOW64/Program Files (x86)/javac.doc
+Users/SYSWOW64/Program Files (x86)/javac.docx
+Users/SYSWOW64/Program Files (x86)/javac.exe
+Users/SYSWOW64/Program Files (x86)/javac.jar
+Users/SYSWOW64/Program Files (x86)/javaw
+Users/SYSWOW64/Program Files (x86)/javaw.bat
+Users/SYSWOW64/Program Files (x86)/javaw.cmd
+Users/SYSWOW64/Program Files (x86)/javaw.doc
+Users/SYSWOW64/Program Files (x86)/javaw.docx
+Users/SYSWOW64/Program Files (x86)/javaw.exe
+Users/SYSWOW64/Program Files (x86)/javaw.jar
+Users/SYSWOW64/Program Files (x86)/minecraft
+Users/SYSWOW64/Program Files (x86)/minecraft.bat
+Users/SYSWOW64/Program Files (x86)/minecraft.cmd
+Users/SYSWOW64/Program Files (x86)/minecraft.doc
+Users/SYSWOW64/Program Files (x86)/minecraft.docx
+Users/SYSWOW64/Program Files (x86)/minecraft.exe
+Users/SYSWOW64/Program Files (x86)/minecraft.jar
+Users/SYSWOW64/Program Files (x86)/python
+Users/SYSWOW64/Program Files (x86)/python.bat
+Users/SYSWOW64/Program Files (x86)/python.cmd
+Users/SYSWOW64/Program Files (x86)/python.doc
+Users/SYSWOW64/Program Files (x86)/python.docx
+Users/SYSWOW64/Program Files (x86)/python.exe
+Users/SYSWOW64/Program Files (x86)/python.jar
+Users/SYSWOW64/Program Files (x86)/spotify
+Users/SYSWOW64/Program Files (x86)/spotify.bat
+Users/SYSWOW64/Program Files (x86)/spotify.cmd
+Users/SYSWOW64/Program Files (x86)/spotify.doc
+Users/SYSWOW64/Program Files (x86)/spotify.docx
+Users/SYSWOW64/Program Files (x86)/spotify.exe
+Users/SYSWOW64/Program Files (x86)/spotify.jar
+Users/SYSWOW64/Program Files (x86)/winword
+Users/SYSWOW64/Program Files (x86)/winword.bat
+Users/SYSWOW64/Program Files (x86)/winword.cmd
+Users/SYSWOW64/Program Files (x86)/winword.doc
+Users/SYSWOW64/Program Files (x86)/winword.docx
+Users/SYSWOW64/Program Files (x86)/winword.exe
+Users/SYSWOW64/Program Files (x86)/winword.jar
+Users/SYSWOW64/SYSWOW64/chrome
+Users/SYSWOW64/SYSWOW64/chrome.bat
+Users/SYSWOW64/SYSWOW64/chrome.cmd
+Users/SYSWOW64/SYSWOW64/chrome.doc
+Users/SYSWOW64/SYSWOW64/chrome.docx
+Users/SYSWOW64/SYSWOW64/chrome.exe
+Users/SYSWOW64/SYSWOW64/chrome.jar
+Users/SYSWOW64/SYSWOW64/cmd
+Users/SYSWOW64/SYSWOW64/cmd.bat
+Users/SYSWOW64/SYSWOW64/cmd.cmd
+Users/SYSWOW64/SYSWOW64/cmd.doc
+Users/SYSWOW64/SYSWOW64/cmd.docx
+Users/SYSWOW64/SYSWOW64/cmd.exe
+Users/SYSWOW64/SYSWOW64/cmd.jar
+Users/SYSWOW64/SYSWOW64/codes
+Users/SYSWOW64/SYSWOW64/codes.bat
+Users/SYSWOW64/SYSWOW64/codes.cmd
+Users/SYSWOW64/SYSWOW64/codes.doc
+Users/SYSWOW64/SYSWOW64/codes.docx
+Users/SYSWOW64/SYSWOW64/codes.exe
+Users/SYSWOW64/SYSWOW64/codes.jar
+Users/SYSWOW64/SYSWOW64/data
+Users/SYSWOW64/SYSWOW64/data.bat
+Users/SYSWOW64/SYSWOW64/data.cmd
+Users/SYSWOW64/SYSWOW64/data.doc
+Users/SYSWOW64/SYSWOW64/data.docx
+Users/SYSWOW64/SYSWOW64/data.exe
+Users/SYSWOW64/SYSWOW64/data.jar
+Users/SYSWOW64/SYSWOW64/excel
+Users/SYSWOW64/SYSWOW64/excel.bat
+Users/SYSWOW64/SYSWOW64/excel.cmd
+Users/SYSWOW64/SYSWOW64/excel.doc
+Users/SYSWOW64/SYSWOW64/excel.docx
+Users/SYSWOW64/SYSWOW64/excel.exe
+Users/SYSWOW64/SYSWOW64/excel.jar
+Users/SYSWOW64/SYSWOW64/explorer
+Users/SYSWOW64/SYSWOW64/explorer.bat
+Users/SYSWOW64/SYSWOW64/explorer.cmd
+Users/SYSWOW64/SYSWOW64/explorer.doc
+Users/SYSWOW64/SYSWOW64/explorer.docx
+Users/SYSWOW64/SYSWOW64/explorer.exe
+Users/SYSWOW64/SYSWOW64/explorer.jar
+Users/SYSWOW64/SYSWOW64/firefox
+Users/SYSWOW64/SYSWOW64/firefox.bat
+Users/SYSWOW64/SYSWOW64/firefox.cmd
+Users/SYSWOW64/SYSWOW64/firefox.doc
+Users/SYSWOW64/SYSWOW64/firefox.docx
+Users/SYSWOW64/SYSWOW64/firefox.exe
+Users/SYSWOW64/SYSWOW64/firefox.jar
+Users/SYSWOW64/SYSWOW64/ghci
+Users/SYSWOW64/SYSWOW64/ghci.bat
+Users/SYSWOW64/SYSWOW64/ghci.cmd
+Users/SYSWOW64/SYSWOW64/ghci.doc
+Users/SYSWOW64/SYSWOW64/ghci.docx
+Users/SYSWOW64/SYSWOW64/ghci.exe
+Users/SYSWOW64/SYSWOW64/ghci.jar
+Users/SYSWOW64/SYSWOW64/java
+Users/SYSWOW64/SYSWOW64/java.bat
+Users/SYSWOW64/SYSWOW64/java.cmd
+Users/SYSWOW64/SYSWOW64/java.doc
+Users/SYSWOW64/SYSWOW64/java.docx
+Users/SYSWOW64/SYSWOW64/java.exe
+Users/SYSWOW64/SYSWOW64/java.jar
+Users/SYSWOW64/SYSWOW64/javac
+Users/SYSWOW64/SYSWOW64/javac.bat
+Users/SYSWOW64/SYSWOW64/javac.cmd
+Users/SYSWOW64/SYSWOW64/javac.doc
+Users/SYSWOW64/SYSWOW64/javac.docx
+Users/SYSWOW64/SYSWOW64/javac.exe
+Users/SYSWOW64/SYSWOW64/javac.jar
+Users/SYSWOW64/SYSWOW64/javaw
+Users/SYSWOW64/SYSWOW64/javaw.bat
+Users/SYSWOW64/SYSWOW64/javaw.cmd
+Users/SYSWOW64/SYSWOW64/javaw.doc
+Users/SYSWOW64/SYSWOW64/javaw.docx
+Users/SYSWOW64/SYSWOW64/javaw.exe
+Users/SYSWOW64/SYSWOW64/javaw.jar
+Users/SYSWOW64/SYSWOW64/minecraft
+Users/SYSWOW64/SYSWOW64/minecraft.bat
+Users/SYSWOW64/SYSWOW64/minecraft.cmd
+Users/SYSWOW64/SYSWOW64/minecraft.doc
+Users/SYSWOW64/SYSWOW64/minecraft.docx
+Users/SYSWOW64/SYSWOW64/minecraft.exe
+Users/SYSWOW64/SYSWOW64/minecraft.jar
+Users/SYSWOW64/SYSWOW64/python
+Users/SYSWOW64/SYSWOW64/python.bat
+Users/SYSWOW64/SYSWOW64/python.cmd
+Users/SYSWOW64/SYSWOW64/python.doc
+Users/SYSWOW64/SYSWOW64/python.docx
+Users/SYSWOW64/SYSWOW64/python.exe
+Users/SYSWOW64/SYSWOW64/python.jar
+Users/SYSWOW64/SYSWOW64/spotify
+Users/SYSWOW64/SYSWOW64/spotify.bat
+Users/SYSWOW64/SYSWOW64/spotify.cmd
+Users/SYSWOW64/SYSWOW64/spotify.doc
+Users/SYSWOW64/SYSWOW64/spotify.docx
+Users/SYSWOW64/SYSWOW64/spotify.exe
+Users/SYSWOW64/SYSWOW64/spotify.jar
+Users/SYSWOW64/SYSWOW64/winword
+Users/SYSWOW64/SYSWOW64/winword.bat
+Users/SYSWOW64/SYSWOW64/winword.cmd
+Users/SYSWOW64/SYSWOW64/winword.doc
+Users/SYSWOW64/SYSWOW64/winword.docx
+Users/SYSWOW64/SYSWOW64/winword.exe
+Users/SYSWOW64/SYSWOW64/winword.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/chrome
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/chrome.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/chrome.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/chrome.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/chrome.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/chrome.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/chrome.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/cmd.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/cmd.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/cmd.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/cmd.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/cmd.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/cmd.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/codes
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/codes.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/codes.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/codes.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/codes.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/codes.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/codes.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/data
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/data.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/data.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/data.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/data.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/data.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/data.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/excel
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/excel.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/excel.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/excel.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/excel.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/excel.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/excel.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/explorer
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/explorer.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/explorer.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/explorer.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/explorer.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/explorer.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/explorer.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/firefox
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/firefox.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/firefox.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/firefox.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/firefox.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/firefox.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/firefox.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/ghci
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/ghci.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/ghci.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/ghci.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/ghci.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/ghci.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/ghci.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/java
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/java.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/java.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/java.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/java.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/java.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/java.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javac
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javac.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javac.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javac.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javac.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javac.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javac.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javaw
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javaw.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javaw.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javaw.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javaw.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javaw.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/javaw.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/minecraft
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/minecraft.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/minecraft.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/minecraft.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/minecraft.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/minecraft.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/minecraft.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/python
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/python.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/python.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/python.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/python.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/python.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/python.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/spotify
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/spotify.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/spotify.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/spotify.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/spotify.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/spotify.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/spotify.jar
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/winword
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/winword.bat
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/winword.cmd
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/winword.doc
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/winword.docx
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/winword.exe
+Users/SYSWOW64/System32/Drivers/Program Files/Program Files (x86)/winword.jar
+Users/SYSWOW64/chrome
+Users/SYSWOW64/chrome.bat
+Users/SYSWOW64/chrome.cmd
+Users/SYSWOW64/chrome.doc
+Users/SYSWOW64/chrome.docx
+Users/SYSWOW64/chrome.exe
+Users/SYSWOW64/chrome.jar
+Users/SYSWOW64/cmd
+Users/SYSWOW64/cmd.bat
+Users/SYSWOW64/cmd.cmd
+Users/SYSWOW64/cmd.doc
+Users/SYSWOW64/cmd.docx
+Users/SYSWOW64/cmd.exe
+Users/SYSWOW64/cmd.jar
+Users/SYSWOW64/codes
+Users/SYSWOW64/codes.bat
+Users/SYSWOW64/codes.cmd
+Users/SYSWOW64/codes.doc
+Users/SYSWOW64/codes.docx
+Users/SYSWOW64/codes.exe
+Users/SYSWOW64/codes.jar
+Users/SYSWOW64/data
+Users/SYSWOW64/data.bat
+Users/SYSWOW64/data.cmd
+Users/SYSWOW64/data.doc
+Users/SYSWOW64/data.docx
+Users/SYSWOW64/data.exe
+Users/SYSWOW64/data.jar
+Users/SYSWOW64/excel
+Users/SYSWOW64/excel.bat
+Users/SYSWOW64/excel.cmd
+Users/SYSWOW64/excel.doc
+Users/SYSWOW64/excel.docx
+Users/SYSWOW64/excel.exe
+Users/SYSWOW64/excel.jar
+Users/SYSWOW64/explorer
+Users/SYSWOW64/explorer.bat
+Users/SYSWOW64/explorer.cmd
+Users/SYSWOW64/explorer.doc
+Users/SYSWOW64/explorer.docx
+Users/SYSWOW64/explorer.exe
+Users/SYSWOW64/explorer.jar
+Users/SYSWOW64/firefox
+Users/SYSWOW64/firefox.bat
+Users/SYSWOW64/firefox.cmd
+Users/SYSWOW64/firefox.doc
+Users/SYSWOW64/firefox.docx
+Users/SYSWOW64/firefox.exe
+Users/SYSWOW64/firefox.jar
+Users/SYSWOW64/ghci
+Users/SYSWOW64/ghci.bat
+Users/SYSWOW64/ghci.cmd
+Users/SYSWOW64/ghci.doc
+Users/SYSWOW64/ghci.docx
+Users/SYSWOW64/ghci.exe
+Users/SYSWOW64/ghci.jar
+Users/SYSWOW64/java
+Users/SYSWOW64/java.bat
+Users/SYSWOW64/java.cmd
+Users/SYSWOW64/java.doc
+Users/SYSWOW64/java.docx
+Users/SYSWOW64/java.exe
+Users/SYSWOW64/java.jar
+Users/SYSWOW64/javac
+Users/SYSWOW64/javac.bat
+Users/SYSWOW64/javac.cmd
+Users/SYSWOW64/javac.doc
+Users/SYSWOW64/javac.docx
+Users/SYSWOW64/javac.exe
+Users/SYSWOW64/javac.jar
+Users/SYSWOW64/javaw
+Users/SYSWOW64/javaw.bat
+Users/SYSWOW64/javaw.cmd
+Users/SYSWOW64/javaw.doc
+Users/SYSWOW64/javaw.docx
+Users/SYSWOW64/javaw.exe
+Users/SYSWOW64/javaw.jar
+Users/SYSWOW64/minecraft
+Users/SYSWOW64/minecraft.bat
+Users/SYSWOW64/minecraft.cmd
+Users/SYSWOW64/minecraft.doc
+Users/SYSWOW64/minecraft.docx
+Users/SYSWOW64/minecraft.exe
+Users/SYSWOW64/minecraft.jar
+Users/SYSWOW64/python
+Users/SYSWOW64/python.bat
+Users/SYSWOW64/python.cmd
+Users/SYSWOW64/python.doc
+Users/SYSWOW64/python.docx
+Users/SYSWOW64/python.exe
+Users/SYSWOW64/python.jar
+Users/SYSWOW64/spotify
+Users/SYSWOW64/spotify.bat
+Users/SYSWOW64/spotify.cmd
+Users/SYSWOW64/spotify.doc
+Users/SYSWOW64/spotify.docx
+Users/SYSWOW64/spotify.exe
+Users/SYSWOW64/spotify.jar
+Users/SYSWOW64/winword
+Users/SYSWOW64/winword.bat
+Users/SYSWOW64/winword.cmd
+Users/SYSWOW64/winword.doc
+Users/SYSWOW64/winword.docx
+Users/SYSWOW64/winword.exe
+Users/SYSWOW64/winword.jar
+Users/System32/Microsoft/Riot Games/Users/chrome
+Users/System32/Microsoft/Riot Games/Users/chrome.bat
+Users/System32/Microsoft/Riot Games/Users/chrome.cmd
+Users/System32/Microsoft/Riot Games/Users/chrome.doc
+Users/System32/Microsoft/Riot Games/Users/chrome.docx
+Users/System32/Microsoft/Riot Games/Users/chrome.exe
+Users/System32/Microsoft/Riot Games/Users/chrome.jar
+Users/System32/Microsoft/Riot Games/Users/cmd
+Users/System32/Microsoft/Riot Games/Users/cmd.bat
+Users/System32/Microsoft/Riot Games/Users/cmd.cmd
+Users/System32/Microsoft/Riot Games/Users/cmd.doc
+Users/System32/Microsoft/Riot Games/Users/cmd.docx
+Users/System32/Microsoft/Riot Games/Users/cmd.exe
+Users/System32/Microsoft/Riot Games/Users/cmd.jar
+Users/System32/Microsoft/Riot Games/Users/codes
+Users/System32/Microsoft/Riot Games/Users/codes.bat
+Users/System32/Microsoft/Riot Games/Users/codes.cmd
+Users/System32/Microsoft/Riot Games/Users/codes.doc
+Users/System32/Microsoft/Riot Games/Users/codes.docx
+Users/System32/Microsoft/Riot Games/Users/codes.exe
+Users/System32/Microsoft/Riot Games/Users/codes.jar
+Users/System32/Microsoft/Riot Games/Users/data
+Users/System32/Microsoft/Riot Games/Users/data.bat
+Users/System32/Microsoft/Riot Games/Users/data.cmd
+Users/System32/Microsoft/Riot Games/Users/data.doc
+Users/System32/Microsoft/Riot Games/Users/data.docx
+Users/System32/Microsoft/Riot Games/Users/data.exe
+Users/System32/Microsoft/Riot Games/Users/data.jar
+Users/System32/Microsoft/Riot Games/Users/excel
+Users/System32/Microsoft/Riot Games/Users/excel.bat
+Users/System32/Microsoft/Riot Games/Users/excel.cmd
+Users/System32/Microsoft/Riot Games/Users/excel.doc
+Users/System32/Microsoft/Riot Games/Users/excel.docx
+Users/System32/Microsoft/Riot Games/Users/excel.exe
+Users/System32/Microsoft/Riot Games/Users/excel.jar
+Users/System32/Microsoft/Riot Games/Users/explorer
+Users/System32/Microsoft/Riot Games/Users/explorer.bat
+Users/System32/Microsoft/Riot Games/Users/explorer.cmd
+Users/System32/Microsoft/Riot Games/Users/explorer.doc
+Users/System32/Microsoft/Riot Games/Users/explorer.docx
+Users/System32/Microsoft/Riot Games/Users/explorer.exe
+Users/System32/Microsoft/Riot Games/Users/explorer.jar
+Users/System32/Microsoft/Riot Games/Users/firefox
+Users/System32/Microsoft/Riot Games/Users/firefox.bat
+Users/System32/Microsoft/Riot Games/Users/firefox.cmd
+Users/System32/Microsoft/Riot Games/Users/firefox.doc
+Users/System32/Microsoft/Riot Games/Users/firefox.docx
+Users/System32/Microsoft/Riot Games/Users/firefox.exe
+Users/System32/Microsoft/Riot Games/Users/firefox.jar
+Users/System32/Microsoft/Riot Games/Users/ghci
+Users/System32/Microsoft/Riot Games/Users/ghci.bat
+Users/System32/Microsoft/Riot Games/Users/ghci.cmd
+Users/System32/Microsoft/Riot Games/Users/ghci.doc
+Users/System32/Microsoft/Riot Games/Users/ghci.docx
+Users/System32/Microsoft/Riot Games/Users/ghci.exe
+Users/System32/Microsoft/Riot Games/Users/ghci.jar
+Users/System32/Microsoft/Riot Games/Users/java
+Users/System32/Microsoft/Riot Games/Users/java.bat
+Users/System32/Microsoft/Riot Games/Users/java.cmd
+Users/System32/Microsoft/Riot Games/Users/java.doc
+Users/System32/Microsoft/Riot Games/Users/java.docx
+Users/System32/Microsoft/Riot Games/Users/java.exe
+Users/System32/Microsoft/Riot Games/Users/java.jar
+Users/System32/Microsoft/Riot Games/Users/javac
+Users/System32/Microsoft/Riot Games/Users/javac.bat
+Users/System32/Microsoft/Riot Games/Users/javac.cmd
+Users/System32/Microsoft/Riot Games/Users/javac.doc
+Users/System32/Microsoft/Riot Games/Users/javac.docx
+Users/System32/Microsoft/Riot Games/Users/javac.exe
+Users/System32/Microsoft/Riot Games/Users/javac.jar
+Users/System32/Microsoft/Riot Games/Users/javaw
+Users/System32/Microsoft/Riot Games/Users/javaw.bat
+Users/System32/Microsoft/Riot Games/Users/javaw.cmd
+Users/System32/Microsoft/Riot Games/Users/javaw.doc
+Users/System32/Microsoft/Riot Games/Users/javaw.docx
+Users/System32/Microsoft/Riot Games/Users/javaw.exe
+Users/System32/Microsoft/Riot Games/Users/javaw.jar
+Users/System32/Microsoft/Riot Games/Users/minecraft
+Users/System32/Microsoft/Riot Games/Users/minecraft.bat
+Users/System32/Microsoft/Riot Games/Users/minecraft.cmd
+Users/System32/Microsoft/Riot Games/Users/minecraft.doc
+Users/System32/Microsoft/Riot Games/Users/minecraft.docx
+Users/System32/Microsoft/Riot Games/Users/minecraft.exe
+Users/System32/Microsoft/Riot Games/Users/minecraft.jar
+Users/System32/Microsoft/Riot Games/Users/python
+Users/System32/Microsoft/Riot Games/Users/python.bat
+Users/System32/Microsoft/Riot Games/Users/python.cmd
+Users/System32/Microsoft/Riot Games/Users/python.doc
+Users/System32/Microsoft/Riot Games/Users/python.docx
+Users/System32/Microsoft/Riot Games/Users/python.exe
+Users/System32/Microsoft/Riot Games/Users/python.jar
+Users/System32/Microsoft/Riot Games/Users/spotify
+Users/System32/Microsoft/Riot Games/Users/spotify.bat
+Users/System32/Microsoft/Riot Games/Users/spotify.cmd
+Users/System32/Microsoft/Riot Games/Users/spotify.doc
+Users/System32/Microsoft/Riot Games/Users/spotify.docx
+Users/System32/Microsoft/Riot Games/Users/spotify.exe
+Users/System32/Microsoft/Riot Games/Users/spotify.jar
+Users/System32/Microsoft/Riot Games/Users/winword
+Users/System32/Microsoft/Riot Games/Users/winword.bat
+Users/System32/Microsoft/Riot Games/Users/winword.cmd
+Users/System32/Microsoft/Riot Games/Users/winword.doc
+Users/System32/Microsoft/Riot Games/Users/winword.docx
+Users/System32/Microsoft/Riot Games/Users/winword.exe
+Users/System32/Microsoft/Riot Games/Users/winword.jar
+Users/System32/chrome
+Users/System32/chrome.bat
+Users/System32/chrome.cmd
+Users/System32/chrome.doc
+Users/System32/chrome.docx
+Users/System32/chrome.exe
+Users/System32/chrome.jar
+Users/System32/cmd
+Users/System32/cmd.bat
+Users/System32/cmd.cmd
+Users/System32/cmd.doc
+Users/System32/cmd.docx
+Users/System32/cmd.exe
+Users/System32/cmd.jar
+Users/System32/codes
+Users/System32/codes.bat
+Users/System32/codes.cmd
+Users/System32/codes.doc
+Users/System32/codes.docx
+Users/System32/codes.exe
+Users/System32/codes.jar
+Users/System32/data
+Users/System32/data.bat
+Users/System32/data.cmd
+Users/System32/data.doc
+Users/System32/data.docx
+Users/System32/data.exe
+Users/System32/data.jar
+Users/System32/excel
+Users/System32/excel.bat
+Users/System32/excel.cmd
+Users/System32/excel.doc
+Users/System32/excel.docx
+Users/System32/excel.exe
+Users/System32/excel.jar
+Users/System32/explorer
+Users/System32/explorer.bat
+Users/System32/explorer.cmd
+Users/System32/explorer.doc
+Users/System32/explorer.docx
+Users/System32/explorer.exe
+Users/System32/explorer.jar
+Users/System32/firefox
+Users/System32/firefox.bat
+Users/System32/firefox.cmd
+Users/System32/firefox.doc
+Users/System32/firefox.docx
+Users/System32/firefox.exe
+Users/System32/firefox.jar
+Users/System32/ghci
+Users/System32/ghci.bat
+Users/System32/ghci.cmd
+Users/System32/ghci.doc
+Users/System32/ghci.docx
+Users/System32/ghci.exe
+Users/System32/ghci.jar
+Users/System32/java
+Users/System32/java.bat
+Users/System32/java.cmd
+Users/System32/java.doc
+Users/System32/java.docx
+Users/System32/java.exe
+Users/System32/java.jar
+Users/System32/javac
+Users/System32/javac.bat
+Users/System32/javac.cmd
+Users/System32/javac.doc
+Users/System32/javac.docx
+Users/System32/javac.exe
+Users/System32/javac.jar
+Users/System32/javaw
+Users/System32/javaw.bat
+Users/System32/javaw.cmd
+Users/System32/javaw.doc
+Users/System32/javaw.docx
+Users/System32/javaw.exe
+Users/System32/javaw.jar
+Users/System32/minecraft
+Users/System32/minecraft.bat
+Users/System32/minecraft.cmd
+Users/System32/minecraft.doc
+Users/System32/minecraft.docx
+Users/System32/minecraft.exe
+Users/System32/minecraft.jar
+Users/System32/python
+Users/System32/python.bat
+Users/System32/python.cmd
+Users/System32/python.doc
+Users/System32/python.docx
+Users/System32/python.exe
+Users/System32/python.jar
+Users/System32/spotify
+Users/System32/spotify.bat
+Users/System32/spotify.cmd
+Users/System32/spotify.doc
+Users/System32/spotify.docx
+Users/System32/spotify.exe
+Users/System32/spotify.jar
+Users/System32/winword
+Users/System32/winword.bat
+Users/System32/winword.cmd
+Users/System32/winword.doc
+Users/System32/winword.docx
+Users/System32/winword.exe
+Users/System32/winword.jar
+Users/Users/Riot Games/chrome
+Users/Users/Riot Games/chrome.bat
+Users/Users/Riot Games/chrome.cmd
+Users/Users/Riot Games/chrome.doc
+Users/Users/Riot Games/chrome.docx
+Users/Users/Riot Games/chrome.exe
+Users/Users/Riot Games/chrome.jar
+Users/Users/Riot Games/cmd
+Users/Users/Riot Games/cmd.bat
+Users/Users/Riot Games/cmd.cmd
+Users/Users/Riot Games/cmd.doc
+Users/Users/Riot Games/cmd.docx
+Users/Users/Riot Games/cmd.exe
+Users/Users/Riot Games/cmd.jar
+Users/Users/Riot Games/codes
+Users/Users/Riot Games/codes.bat
+Users/Users/Riot Games/codes.cmd
+Users/Users/Riot Games/codes.doc
+Users/Users/Riot Games/codes.docx
+Users/Users/Riot Games/codes.exe
+Users/Users/Riot Games/codes.jar
+Users/Users/Riot Games/data
+Users/Users/Riot Games/data.bat
+Users/Users/Riot Games/data.cmd
+Users/Users/Riot Games/data.doc
+Users/Users/Riot Games/data.docx
+Users/Users/Riot Games/data.exe
+Users/Users/Riot Games/data.jar
+Users/Users/Riot Games/excel
+Users/Users/Riot Games/excel.bat
+Users/Users/Riot Games/excel.cmd
+Users/Users/Riot Games/excel.doc
+Users/Users/Riot Games/excel.docx
+Users/Users/Riot Games/excel.exe
+Users/Users/Riot Games/excel.jar
+Users/Users/Riot Games/explorer
+Users/Users/Riot Games/explorer.bat
+Users/Users/Riot Games/explorer.cmd
+Users/Users/Riot Games/explorer.doc
+Users/Users/Riot Games/explorer.docx
+Users/Users/Riot Games/explorer.exe
+Users/Users/Riot Games/explorer.jar
+Users/Users/Riot Games/firefox
+Users/Users/Riot Games/firefox.bat
+Users/Users/Riot Games/firefox.cmd
+Users/Users/Riot Games/firefox.doc
+Users/Users/Riot Games/firefox.docx
+Users/Users/Riot Games/firefox.exe
+Users/Users/Riot Games/firefox.jar
+Users/Users/Riot Games/ghci
+Users/Users/Riot Games/ghci.bat
+Users/Users/Riot Games/ghci.cmd
+Users/Users/Riot Games/ghci.doc
+Users/Users/Riot Games/ghci.docx
+Users/Users/Riot Games/ghci.exe
+Users/Users/Riot Games/ghci.jar
+Users/Users/Riot Games/java
+Users/Users/Riot Games/java.bat
+Users/Users/Riot Games/java.cmd
+Users/Users/Riot Games/java.doc
+Users/Users/Riot Games/java.docx
+Users/Users/Riot Games/java.exe
+Users/Users/Riot Games/java.jar
+Users/Users/Riot Games/javac
+Users/Users/Riot Games/javac.bat
+Users/Users/Riot Games/javac.cmd
+Users/Users/Riot Games/javac.doc
+Users/Users/Riot Games/javac.docx
+Users/Users/Riot Games/javac.exe
+Users/Users/Riot Games/javac.jar
+Users/Users/Riot Games/javaw
+Users/Users/Riot Games/javaw.bat
+Users/Users/Riot Games/javaw.cmd
+Users/Users/Riot Games/javaw.doc
+Users/Users/Riot Games/javaw.docx
+Users/Users/Riot Games/javaw.exe
+Users/Users/Riot Games/javaw.jar
+Users/Users/Riot Games/minecraft
+Users/Users/Riot Games/minecraft.bat
+Users/Users/Riot Games/minecraft.cmd
+Users/Users/Riot Games/minecraft.doc
+Users/Users/Riot Games/minecraft.docx
+Users/Users/Riot Games/minecraft.exe
+Users/Users/Riot Games/minecraft.jar
+Users/Users/Riot Games/python
+Users/Users/Riot Games/python.bat
+Users/Users/Riot Games/python.cmd
+Users/Users/Riot Games/python.doc
+Users/Users/Riot Games/python.docx
+Users/Users/Riot Games/python.exe
+Users/Users/Riot Games/python.jar
+Users/Users/Riot Games/spotify
+Users/Users/Riot Games/spotify.bat
+Users/Users/Riot Games/spotify.cmd
+Users/Users/Riot Games/spotify.doc
+Users/Users/Riot Games/spotify.docx
+Users/Users/Riot Games/spotify.exe
+Users/Users/Riot Games/spotify.jar
+Users/Users/Riot Games/winword
+Users/Users/Riot Games/winword.bat
+Users/Users/Riot Games/winword.cmd
+Users/Users/Riot Games/winword.doc
+Users/Users/Riot Games/winword.docx
+Users/Users/Riot Games/winword.exe
+Users/Users/Riot Games/winword.jar
+Users/Users/SYSWOW64/chrome
+Users/Users/SYSWOW64/chrome.bat
+Users/Users/SYSWOW64/chrome.cmd
+Users/Users/SYSWOW64/chrome.doc
+Users/Users/SYSWOW64/chrome.docx
+Users/Users/SYSWOW64/chrome.exe
+Users/Users/SYSWOW64/chrome.jar
+Users/Users/SYSWOW64/cmd
+Users/Users/SYSWOW64/cmd.bat
+Users/Users/SYSWOW64/cmd.cmd
+Users/Users/SYSWOW64/cmd.doc
+Users/Users/SYSWOW64/cmd.docx
+Users/Users/SYSWOW64/cmd.exe
+Users/Users/SYSWOW64/cmd.jar
+Users/Users/SYSWOW64/codes
+Users/Users/SYSWOW64/codes.bat
+Users/Users/SYSWOW64/codes.cmd
+Users/Users/SYSWOW64/codes.doc
+Users/Users/SYSWOW64/codes.docx
+Users/Users/SYSWOW64/codes.exe
+Users/Users/SYSWOW64/codes.jar
+Users/Users/SYSWOW64/data
+Users/Users/SYSWOW64/data.bat
+Users/Users/SYSWOW64/data.cmd
+Users/Users/SYSWOW64/data.doc
+Users/Users/SYSWOW64/data.docx
+Users/Users/SYSWOW64/data.exe
+Users/Users/SYSWOW64/data.jar
+Users/Users/SYSWOW64/excel
+Users/Users/SYSWOW64/excel.bat
+Users/Users/SYSWOW64/excel.cmd
+Users/Users/SYSWOW64/excel.doc
+Users/Users/SYSWOW64/excel.docx
+Users/Users/SYSWOW64/excel.exe
+Users/Users/SYSWOW64/excel.jar
+Users/Users/SYSWOW64/explorer
+Users/Users/SYSWOW64/explorer.bat
+Users/Users/SYSWOW64/explorer.cmd
+Users/Users/SYSWOW64/explorer.doc
+Users/Users/SYSWOW64/explorer.docx
+Users/Users/SYSWOW64/explorer.exe
+Users/Users/SYSWOW64/explorer.jar
+Users/Users/SYSWOW64/firefox
+Users/Users/SYSWOW64/firefox.bat
+Users/Users/SYSWOW64/firefox.cmd
+Users/Users/SYSWOW64/firefox.doc
+Users/Users/SYSWOW64/firefox.docx
+Users/Users/SYSWOW64/firefox.exe
+Users/Users/SYSWOW64/firefox.jar
+Users/Users/SYSWOW64/ghci
+Users/Users/SYSWOW64/ghci.bat
+Users/Users/SYSWOW64/ghci.cmd
+Users/Users/SYSWOW64/ghci.doc
+Users/Users/SYSWOW64/ghci.docx
+Users/Users/SYSWOW64/ghci.exe
+Users/Users/SYSWOW64/ghci.jar
+Users/Users/SYSWOW64/java
+Users/Users/SYSWOW64/java.bat
+Users/Users/SYSWOW64/java.cmd
+Users/Users/SYSWOW64/java.doc
+Users/Users/SYSWOW64/java.docx
+Users/Users/SYSWOW64/java.exe
+Users/Users/SYSWOW64/java.jar
+Users/Users/SYSWOW64/javac
+Users/Users/SYSWOW64/javac.bat
+Users/Users/SYSWOW64/javac.cmd
+Users/Users/SYSWOW64/javac.doc
+Users/Users/SYSWOW64/javac.docx
+Users/Users/SYSWOW64/javac.exe
+Users/Users/SYSWOW64/javac.jar
+Users/Users/SYSWOW64/javaw
+Users/Users/SYSWOW64/javaw.bat
+Users/Users/SYSWOW64/javaw.cmd
+Users/Users/SYSWOW64/javaw.doc
+Users/Users/SYSWOW64/javaw.docx
+Users/Users/SYSWOW64/javaw.exe
+Users/Users/SYSWOW64/javaw.jar
+Users/Users/SYSWOW64/minecraft
+Users/Users/SYSWOW64/minecraft.bat
+Users/Users/SYSWOW64/minecraft.cmd
+Users/Users/SYSWOW64/minecraft.doc
+Users/Users/SYSWOW64/minecraft.docx
+Users/Users/SYSWOW64/minecraft.exe
+Users/Users/SYSWOW64/minecraft.jar
+Users/Users/SYSWOW64/python
+Users/Users/SYSWOW64/python.bat
+Users/Users/SYSWOW64/python.cmd
+Users/Users/SYSWOW64/python.doc
+Users/Users/SYSWOW64/python.docx
+Users/Users/SYSWOW64/python.exe
+Users/Users/SYSWOW64/python.jar
+Users/Users/SYSWOW64/spotify
+Users/Users/SYSWOW64/spotify.bat
+Users/Users/SYSWOW64/spotify.cmd
+Users/Users/SYSWOW64/spotify.doc
+Users/Users/SYSWOW64/spotify.docx
+Users/Users/SYSWOW64/spotify.exe
+Users/Users/SYSWOW64/spotify.jar
+Users/Users/SYSWOW64/winword
+Users/Users/SYSWOW64/winword.bat
+Users/Users/SYSWOW64/winword.cmd
+Users/Users/SYSWOW64/winword.doc
+Users/Users/SYSWOW64/winword.docx
+Users/Users/SYSWOW64/winword.exe
+Users/Users/SYSWOW64/winword.jar
+Users/Users/System32/chrome
+Users/Users/System32/chrome.bat
+Users/Users/System32/chrome.cmd
+Users/Users/System32/chrome.doc
+Users/Users/System32/chrome.docx
+Users/Users/System32/chrome.exe
+Users/Users/System32/chrome.jar
+Users/Users/System32/cmd
+Users/Users/System32/cmd.bat
+Users/Users/System32/cmd.cmd
+Users/Users/System32/cmd.doc
+Users/Users/System32/cmd.docx
+Users/Users/System32/cmd.exe
+Users/Users/System32/cmd.jar
+Users/Users/System32/codes
+Users/Users/System32/codes.bat
+Users/Users/System32/codes.cmd
+Users/Users/System32/codes.doc
+Users/Users/System32/codes.docx
+Users/Users/System32/codes.exe
+Users/Users/System32/codes.jar
+Users/Users/System32/data
+Users/Users/System32/data.bat
+Users/Users/System32/data.cmd
+Users/Users/System32/data.doc
+Users/Users/System32/data.docx
+Users/Users/System32/data.exe
+Users/Users/System32/data.jar
+Users/Users/System32/excel
+Users/Users/System32/excel.bat
+Users/Users/System32/excel.cmd
+Users/Users/System32/excel.doc
+Users/Users/System32/excel.docx
+Users/Users/System32/excel.exe
+Users/Users/System32/excel.jar
+Users/Users/System32/explorer
+Users/Users/System32/explorer.bat
+Users/Users/System32/explorer.cmd
+Users/Users/System32/explorer.doc
+Users/Users/System32/explorer.docx
+Users/Users/System32/explorer.exe
+Users/Users/System32/explorer.jar
+Users/Users/System32/firefox
+Users/Users/System32/firefox.bat
+Users/Users/System32/firefox.cmd
+Users/Users/System32/firefox.doc
+Users/Users/System32/firefox.docx
+Users/Users/System32/firefox.exe
+Users/Users/System32/firefox.jar
+Users/Users/System32/ghci
+Users/Users/System32/ghci.bat
+Users/Users/System32/ghci.cmd
+Users/Users/System32/ghci.doc
+Users/Users/System32/ghci.docx
+Users/Users/System32/ghci.exe
+Users/Users/System32/ghci.jar
+Users/Users/System32/java
+Users/Users/System32/java.bat
+Users/Users/System32/java.cmd
+Users/Users/System32/java.doc
+Users/Users/System32/java.docx
+Users/Users/System32/java.exe
+Users/Users/System32/java.jar
+Users/Users/System32/javac
+Users/Users/System32/javac.bat
+Users/Users/System32/javac.cmd
+Users/Users/System32/javac.doc
+Users/Users/System32/javac.docx
+Users/Users/System32/javac.exe
+Users/Users/System32/javac.jar
+Users/Users/System32/javaw
+Users/Users/System32/javaw.bat
+Users/Users/System32/javaw.cmd
+Users/Users/System32/javaw.doc
+Users/Users/System32/javaw.docx
+Users/Users/System32/javaw.exe
+Users/Users/System32/javaw.jar
+Users/Users/System32/minecraft
+Users/Users/System32/minecraft.bat
+Users/Users/System32/minecraft.cmd
+Users/Users/System32/minecraft.doc
+Users/Users/System32/minecraft.docx
+Users/Users/System32/minecraft.exe
+Users/Users/System32/minecraft.jar
+Users/Users/System32/python
+Users/Users/System32/python.bat
+Users/Users/System32/python.cmd
+Users/Users/System32/python.doc
+Users/Users/System32/python.docx
+Users/Users/System32/python.exe
+Users/Users/System32/python.jar
+Users/Users/System32/spotify
+Users/Users/System32/spotify.bat
+Users/Users/System32/spotify.cmd
+Users/Users/System32/spotify.doc
+Users/Users/System32/spotify.docx
+Users/Users/System32/spotify.exe
+Users/Users/System32/spotify.jar
+Users/Users/System32/winword
+Users/Users/System32/winword.bat
+Users/Users/System32/winword.cmd
+Users/Users/System32/winword.doc
+Users/Users/System32/winword.docx
+Users/Users/System32/winword.exe
+Users/Users/System32/winword.jar
+Users/Users/chrome
+Users/Users/chrome.bat
+Users/Users/chrome.cmd
+Users/Users/chrome.doc
+Users/Users/chrome.docx
+Users/Users/chrome.exe
+Users/Users/chrome.jar
+Users/Users/cmd
+Users/Users/cmd.bat
+Users/Users/cmd.cmd
+Users/Users/cmd.doc
+Users/Users/cmd.docx
+Users/Users/cmd.exe
+Users/Users/cmd.jar
+Users/Users/codes
+Users/Users/codes.bat
+Users/Users/codes.cmd
+Users/Users/codes.doc
+Users/Users/codes.docx
+Users/Users/codes.exe
+Users/Users/codes.jar
+Users/Users/data
+Users/Users/data.bat
+Users/Users/data.cmd
+Users/Users/data.doc
+Users/Users/data.docx
+Users/Users/data.exe
+Users/Users/data.jar
+Users/Users/excel
+Users/Users/excel.bat
+Users/Users/excel.cmd
+Users/Users/excel.doc
+Users/Users/excel.docx
+Users/Users/excel.exe
+Users/Users/excel.jar
+Users/Users/explorer
+Users/Users/explorer.bat
+Users/Users/explorer.cmd
+Users/Users/explorer.doc
+Users/Users/explorer.docx
+Users/Users/explorer.exe
+Users/Users/explorer.jar
+Users/Users/firefox
+Users/Users/firefox.bat
+Users/Users/firefox.cmd
+Users/Users/firefox.doc
+Users/Users/firefox.docx
+Users/Users/firefox.exe
+Users/Users/firefox.jar
+Users/Users/ghci
+Users/Users/ghci.bat
+Users/Users/ghci.cmd
+Users/Users/ghci.doc
+Users/Users/ghci.docx
+Users/Users/ghci.exe
+Users/Users/ghci.jar
+Users/Users/java
+Users/Users/java.bat
+Users/Users/java.cmd
+Users/Users/java.doc
+Users/Users/java.docx
+Users/Users/java.exe
+Users/Users/java.jar
+Users/Users/javac
+Users/Users/javac.bat
+Users/Users/javac.cmd
+Users/Users/javac.doc
+Users/Users/javac.docx
+Users/Users/javac.exe
+Users/Users/javac.jar
+Users/Users/javaw
+Users/Users/javaw.bat
+Users/Users/javaw.cmd
+Users/Users/javaw.doc
+Users/Users/javaw.docx
+Users/Users/javaw.exe
+Users/Users/javaw.jar
+Users/Users/minecraft
+Users/Users/minecraft.bat
+Users/Users/minecraft.cmd
+Users/Users/minecraft.doc
+Users/Users/minecraft.docx
+Users/Users/minecraft.exe
+Users/Users/minecraft.jar
+Users/Users/python
+Users/Users/python.bat
+Users/Users/python.cmd
+Users/Users/python.doc
+Users/Users/python.docx
+Users/Users/python.exe
+Users/Users/python.jar
+Users/Users/spotify
+Users/Users/spotify.bat
+Users/Users/spotify.cmd
+Users/Users/spotify.doc
+Users/Users/spotify.docx
+Users/Users/spotify.exe
+Users/Users/spotify.jar
+Users/Users/winword
+Users/Users/winword.bat
+Users/Users/winword.cmd
+Users/Users/winword.doc
+Users/Users/winword.docx
+Users/Users/winword.exe
+Users/Users/winword.jar
+Users/Windows/Program Files/chrome
+Users/Windows/Program Files/chrome.bat
+Users/Windows/Program Files/chrome.cmd
+Users/Windows/Program Files/chrome.doc
+Users/Windows/Program Files/chrome.docx
+Users/Windows/Program Files/chrome.exe
+Users/Windows/Program Files/chrome.jar
+Users/Windows/Program Files/cmd
+Users/Windows/Program Files/cmd.bat
+Users/Windows/Program Files/cmd.cmd
+Users/Windows/Program Files/cmd.doc
+Users/Windows/Program Files/cmd.docx
+Users/Windows/Program Files/cmd.exe
+Users/Windows/Program Files/cmd.jar
+Users/Windows/Program Files/codes
+Users/Windows/Program Files/codes.bat
+Users/Windows/Program Files/codes.cmd
+Users/Windows/Program Files/codes.doc
+Users/Windows/Program Files/codes.docx
+Users/Windows/Program Files/codes.exe
+Users/Windows/Program Files/codes.jar
+Users/Windows/Program Files/data
+Users/Windows/Program Files/data.bat
+Users/Windows/Program Files/data.cmd
+Users/Windows/Program Files/data.doc
+Users/Windows/Program Files/data.docx
+Users/Windows/Program Files/data.exe
+Users/Windows/Program Files/data.jar
+Users/Windows/Program Files/excel
+Users/Windows/Program Files/excel.bat
+Users/Windows/Program Files/excel.cmd
+Users/Windows/Program Files/excel.doc
+Users/Windows/Program Files/excel.docx
+Users/Windows/Program Files/excel.exe
+Users/Windows/Program Files/excel.jar
+Users/Windows/Program Files/explorer
+Users/Windows/Program Files/explorer.bat
+Users/Windows/Program Files/explorer.cmd
+Users/Windows/Program Files/explorer.doc
+Users/Windows/Program Files/explorer.docx
+Users/Windows/Program Files/explorer.exe
+Users/Windows/Program Files/explorer.jar
+Users/Windows/Program Files/firefox
+Users/Windows/Program Files/firefox.bat
+Users/Windows/Program Files/firefox.cmd
+Users/Windows/Program Files/firefox.doc
+Users/Windows/Program Files/firefox.docx
+Users/Windows/Program Files/firefox.exe
+Users/Windows/Program Files/firefox.jar
+Users/Windows/Program Files/ghci
+Users/Windows/Program Files/ghci.bat
+Users/Windows/Program Files/ghci.cmd
+Users/Windows/Program Files/ghci.doc
+Users/Windows/Program Files/ghci.docx
+Users/Windows/Program Files/ghci.exe
+Users/Windows/Program Files/ghci.jar
+Users/Windows/Program Files/java
+Users/Windows/Program Files/java.bat
+Users/Windows/Program Files/java.cmd
+Users/Windows/Program Files/java.doc
+Users/Windows/Program Files/java.docx
+Users/Windows/Program Files/java.exe
+Users/Windows/Program Files/java.jar
+Users/Windows/Program Files/javac
+Users/Windows/Program Files/javac.bat
+Users/Windows/Program Files/javac.cmd
+Users/Windows/Program Files/javac.doc
+Users/Windows/Program Files/javac.docx
+Users/Windows/Program Files/javac.exe
+Users/Windows/Program Files/javac.jar
+Users/Windows/Program Files/javaw
+Users/Windows/Program Files/javaw.bat
+Users/Windows/Program Files/javaw.cmd
+Users/Windows/Program Files/javaw.doc
+Users/Windows/Program Files/javaw.docx
+Users/Windows/Program Files/javaw.exe
+Users/Windows/Program Files/javaw.jar
+Users/Windows/Program Files/minecraft
+Users/Windows/Program Files/minecraft.bat
+Users/Windows/Program Files/minecraft.cmd
+Users/Windows/Program Files/minecraft.doc
+Users/Windows/Program Files/minecraft.docx
+Users/Windows/Program Files/minecraft.exe
+Users/Windows/Program Files/minecraft.jar
+Users/Windows/Program Files/python
+Users/Windows/Program Files/python.bat
+Users/Windows/Program Files/python.cmd
+Users/Windows/Program Files/python.doc
+Users/Windows/Program Files/python.docx
+Users/Windows/Program Files/python.exe
+Users/Windows/Program Files/python.jar
+Users/Windows/Program Files/spotify
+Users/Windows/Program Files/spotify.bat
+Users/Windows/Program Files/spotify.cmd
+Users/Windows/Program Files/spotify.doc
+Users/Windows/Program Files/spotify.docx
+Users/Windows/Program Files/spotify.exe
+Users/Windows/Program Files/spotify.jar
+Users/Windows/Program Files/winword
+Users/Windows/Program Files/winword.bat
+Users/Windows/Program Files/winword.cmd
+Users/Windows/Program Files/winword.doc
+Users/Windows/Program Files/winword.docx
+Users/Windows/Program Files/winword.exe
+Users/Windows/Program Files/winword.jar
+Users/Windows/Program Files (x86)/chrome
+Users/Windows/Program Files (x86)/chrome.bat
+Users/Windows/Program Files (x86)/chrome.cmd
+Users/Windows/Program Files (x86)/chrome.doc
+Users/Windows/Program Files (x86)/chrome.docx
+Users/Windows/Program Files (x86)/chrome.exe
+Users/Windows/Program Files (x86)/chrome.jar
+Users/Windows/Program Files (x86)/cmd
+Users/Windows/Program Files (x86)/cmd.bat
+Users/Windows/Program Files (x86)/cmd.cmd
+Users/Windows/Program Files (x86)/cmd.doc
+Users/Windows/Program Files (x86)/cmd.docx
+Users/Windows/Program Files (x86)/cmd.exe
+Users/Windows/Program Files (x86)/cmd.jar
+Users/Windows/Program Files (x86)/codes
+Users/Windows/Program Files (x86)/codes.bat
+Users/Windows/Program Files (x86)/codes.cmd
+Users/Windows/Program Files (x86)/codes.doc
+Users/Windows/Program Files (x86)/codes.docx
+Users/Windows/Program Files (x86)/codes.exe
+Users/Windows/Program Files (x86)/codes.jar
+Users/Windows/Program Files (x86)/data
+Users/Windows/Program Files (x86)/data.bat
+Users/Windows/Program Files (x86)/data.cmd
+Users/Windows/Program Files (x86)/data.doc
+Users/Windows/Program Files (x86)/data.docx
+Users/Windows/Program Files (x86)/data.exe
+Users/Windows/Program Files (x86)/data.jar
+Users/Windows/Program Files (x86)/excel
+Users/Windows/Program Files (x86)/excel.bat
+Users/Windows/Program Files (x86)/excel.cmd
+Users/Windows/Program Files (x86)/excel.doc
+Users/Windows/Program Files (x86)/excel.docx
+Users/Windows/Program Files (x86)/excel.exe
+Users/Windows/Program Files (x86)/excel.jar
+Users/Windows/Program Files (x86)/explorer
+Users/Windows/Program Files (x86)/explorer.bat
+Users/Windows/Program Files (x86)/explorer.cmd
+Users/Windows/Program Files (x86)/explorer.doc
+Users/Windows/Program Files (x86)/explorer.docx
+Users/Windows/Program Files (x86)/explorer.exe
+Users/Windows/Program Files (x86)/explorer.jar
+Users/Windows/Program Files (x86)/firefox
+Users/Windows/Program Files (x86)/firefox.bat
+Users/Windows/Program Files (x86)/firefox.cmd
+Users/Windows/Program Files (x86)/firefox.doc
+Users/Windows/Program Files (x86)/firefox.docx
+Users/Windows/Program Files (x86)/firefox.exe
+Users/Windows/Program Files (x86)/firefox.jar
+Users/Windows/Program Files (x86)/ghci
+Users/Windows/Program Files (x86)/ghci.bat
+Users/Windows/Program Files (x86)/ghci.cmd
+Users/Windows/Program Files (x86)/ghci.doc
+Users/Windows/Program Files (x86)/ghci.docx
+Users/Windows/Program Files (x86)/ghci.exe
+Users/Windows/Program Files (x86)/ghci.jar
+Users/Windows/Program Files (x86)/java
+Users/Windows/Program Files (x86)/java.bat
+Users/Windows/Program Files (x86)/java.cmd
+Users/Windows/Program Files (x86)/java.doc
+Users/Windows/Program Files (x86)/java.docx
+Users/Windows/Program Files (x86)/java.exe
+Users/Windows/Program Files (x86)/java.jar
+Users/Windows/Program Files (x86)/javac
+Users/Windows/Program Files (x86)/javac.bat
+Users/Windows/Program Files (x86)/javac.cmd
+Users/Windows/Program Files (x86)/javac.doc
+Users/Windows/Program Files (x86)/javac.docx
+Users/Windows/Program Files (x86)/javac.exe
+Users/Windows/Program Files (x86)/javac.jar
+Users/Windows/Program Files (x86)/javaw
+Users/Windows/Program Files (x86)/javaw.bat
+Users/Windows/Program Files (x86)/javaw.cmd
+Users/Windows/Program Files (x86)/javaw.doc
+Users/Windows/Program Files (x86)/javaw.docx
+Users/Windows/Program Files (x86)/javaw.exe
+Users/Windows/Program Files (x86)/javaw.jar
+Users/Windows/Program Files (x86)/minecraft
+Users/Windows/Program Files (x86)/minecraft.bat
+Users/Windows/Program Files (x86)/minecraft.cmd
+Users/Windows/Program Files (x86)/minecraft.doc
+Users/Windows/Program Files (x86)/minecraft.docx
+Users/Windows/Program Files (x86)/minecraft.exe
+Users/Windows/Program Files (x86)/minecraft.jar
+Users/Windows/Program Files (x86)/python
+Users/Windows/Program Files (x86)/python.bat
+Users/Windows/Program Files (x86)/python.cmd
+Users/Windows/Program Files (x86)/python.doc
+Users/Windows/Program Files (x86)/python.docx
+Users/Windows/Program Files (x86)/python.exe
+Users/Windows/Program Files (x86)/python.jar
+Users/Windows/Program Files (x86)/spotify
+Users/Windows/Program Files (x86)/spotify.bat
+Users/Windows/Program Files (x86)/spotify.cmd
+Users/Windows/Program Files (x86)/spotify.doc
+Users/Windows/Program Files (x86)/spotify.docx
+Users/Windows/Program Files (x86)/spotify.exe
+Users/Windows/Program Files (x86)/spotify.jar
+Users/Windows/Program Files (x86)/winword
+Users/Windows/Program Files (x86)/winword.bat
+Users/Windows/Program Files (x86)/winword.cmd
+Users/Windows/Program Files (x86)/winword.doc
+Users/Windows/Program Files (x86)/winword.docx
+Users/Windows/Program Files (x86)/winword.exe
+Users/Windows/Program Files (x86)/winword.jar
+Users/Windows/SYSWOW64/Riot Games/chrome
+Users/Windows/SYSWOW64/Riot Games/chrome.bat
+Users/Windows/SYSWOW64/Riot Games/chrome.cmd
+Users/Windows/SYSWOW64/Riot Games/chrome.doc
+Users/Windows/SYSWOW64/Riot Games/chrome.docx
+Users/Windows/SYSWOW64/Riot Games/chrome.exe
+Users/Windows/SYSWOW64/Riot Games/chrome.jar
+Users/Windows/SYSWOW64/Riot Games/cmd
+Users/Windows/SYSWOW64/Riot Games/cmd.bat
+Users/Windows/SYSWOW64/Riot Games/cmd.cmd
+Users/Windows/SYSWOW64/Riot Games/cmd.doc
+Users/Windows/SYSWOW64/Riot Games/cmd.docx
+Users/Windows/SYSWOW64/Riot Games/cmd.exe
+Users/Windows/SYSWOW64/Riot Games/cmd.jar
+Users/Windows/SYSWOW64/Riot Games/codes
+Users/Windows/SYSWOW64/Riot Games/codes.bat
+Users/Windows/SYSWOW64/Riot Games/codes.cmd
+Users/Windows/SYSWOW64/Riot Games/codes.doc
+Users/Windows/SYSWOW64/Riot Games/codes.docx
+Users/Windows/SYSWOW64/Riot Games/codes.exe
+Users/Windows/SYSWOW64/Riot Games/codes.jar
+Users/Windows/SYSWOW64/Riot Games/data
+Users/Windows/SYSWOW64/Riot Games/data.bat
+Users/Windows/SYSWOW64/Riot Games/data.cmd
+Users/Windows/SYSWOW64/Riot Games/data.doc
+Users/Windows/SYSWOW64/Riot Games/data.docx
+Users/Windows/SYSWOW64/Riot Games/data.exe
+Users/Windows/SYSWOW64/Riot Games/data.jar
+Users/Windows/SYSWOW64/Riot Games/excel
+Users/Windows/SYSWOW64/Riot Games/excel.bat
+Users/Windows/SYSWOW64/Riot Games/excel.cmd
+Users/Windows/SYSWOW64/Riot Games/excel.doc
+Users/Windows/SYSWOW64/Riot Games/excel.docx
+Users/Windows/SYSWOW64/Riot Games/excel.exe
+Users/Windows/SYSWOW64/Riot Games/excel.jar
+Users/Windows/SYSWOW64/Riot Games/explorer
+Users/Windows/SYSWOW64/Riot Games/explorer.bat
+Users/Windows/SYSWOW64/Riot Games/explorer.cmd
+Users/Windows/SYSWOW64/Riot Games/explorer.doc
+Users/Windows/SYSWOW64/Riot Games/explorer.docx
+Users/Windows/SYSWOW64/Riot Games/explorer.exe
+Users/Windows/SYSWOW64/Riot Games/explorer.jar
+Users/Windows/SYSWOW64/Riot Games/firefox
+Users/Windows/SYSWOW64/Riot Games/firefox.bat
+Users/Windows/SYSWOW64/Riot Games/firefox.cmd
+Users/Windows/SYSWOW64/Riot Games/firefox.doc
+Users/Windows/SYSWOW64/Riot Games/firefox.docx
+Users/Windows/SYSWOW64/Riot Games/firefox.exe
+Users/Windows/SYSWOW64/Riot Games/firefox.jar
+Users/Windows/SYSWOW64/Riot Games/ghci
+Users/Windows/SYSWOW64/Riot Games/ghci.bat
+Users/Windows/SYSWOW64/Riot Games/ghci.cmd
+Users/Windows/SYSWOW64/Riot Games/ghci.doc
+Users/Windows/SYSWOW64/Riot Games/ghci.docx
+Users/Windows/SYSWOW64/Riot Games/ghci.exe
+Users/Windows/SYSWOW64/Riot Games/ghci.jar
+Users/Windows/SYSWOW64/Riot Games/java
+Users/Windows/SYSWOW64/Riot Games/java.bat
+Users/Windows/SYSWOW64/Riot Games/java.cmd
+Users/Windows/SYSWOW64/Riot Games/java.doc
+Users/Windows/SYSWOW64/Riot Games/java.docx
+Users/Windows/SYSWOW64/Riot Games/java.exe
+Users/Windows/SYSWOW64/Riot Games/java.jar
+Users/Windows/SYSWOW64/Riot Games/javac
+Users/Windows/SYSWOW64/Riot Games/javac.bat
+Users/Windows/SYSWOW64/Riot Games/javac.cmd
+Users/Windows/SYSWOW64/Riot Games/javac.doc
+Users/Windows/SYSWOW64/Riot Games/javac.docx
+Users/Windows/SYSWOW64/Riot Games/javac.exe
+Users/Windows/SYSWOW64/Riot Games/javac.jar
+Users/Windows/SYSWOW64/Riot Games/javaw
+Users/Windows/SYSWOW64/Riot Games/javaw.bat
+Users/Windows/SYSWOW64/Riot Games/javaw.cmd
+Users/Windows/SYSWOW64/Riot Games/javaw.doc
+Users/Windows/SYSWOW64/Riot Games/javaw.docx
+Users/Windows/SYSWOW64/Riot Games/javaw.exe
+Users/Windows/SYSWOW64/Riot Games/javaw.jar
+Users/Windows/SYSWOW64/Riot Games/minecraft
+Users/Windows/SYSWOW64/Riot Games/minecraft.bat
+Users/Windows/SYSWOW64/Riot Games/minecraft.cmd
+Users/Windows/SYSWOW64/Riot Games/minecraft.doc
+Users/Windows/SYSWOW64/Riot Games/minecraft.docx
+Users/Windows/SYSWOW64/Riot Games/minecraft.exe
+Users/Windows/SYSWOW64/Riot Games/minecraft.jar
+Users/Windows/SYSWOW64/Riot Games/python
+Users/Windows/SYSWOW64/Riot Games/python.bat
+Users/Windows/SYSWOW64/Riot Games/python.cmd
+Users/Windows/SYSWOW64/Riot Games/python.doc
+Users/Windows/SYSWOW64/Riot Games/python.docx
+Users/Windows/SYSWOW64/Riot Games/python.exe
+Users/Windows/SYSWOW64/Riot Games/python.jar
+Users/Windows/SYSWOW64/Riot Games/spotify
+Users/Windows/SYSWOW64/Riot Games/spotify.bat
+Users/Windows/SYSWOW64/Riot Games/spotify.cmd
+Users/Windows/SYSWOW64/Riot Games/spotify.doc
+Users/Windows/SYSWOW64/Riot Games/spotify.docx
+Users/Windows/SYSWOW64/Riot Games/spotify.exe
+Users/Windows/SYSWOW64/Riot Games/spotify.jar
+Users/Windows/SYSWOW64/Riot Games/winword
+Users/Windows/SYSWOW64/Riot Games/winword.bat
+Users/Windows/SYSWOW64/Riot Games/winword.cmd
+Users/Windows/SYSWOW64/Riot Games/winword.doc
+Users/Windows/SYSWOW64/Riot Games/winword.docx
+Users/Windows/SYSWOW64/Riot Games/winword.exe
+Users/Windows/SYSWOW64/Riot Games/winword.jar
+Users/Windows/SYSWOW64/SYSWOW64/chrome
+Users/Windows/SYSWOW64/SYSWOW64/chrome.bat
+Users/Windows/SYSWOW64/SYSWOW64/chrome.cmd
+Users/Windows/SYSWOW64/SYSWOW64/chrome.doc
+Users/Windows/SYSWOW64/SYSWOW64/chrome.docx
+Users/Windows/SYSWOW64/SYSWOW64/chrome.exe
+Users/Windows/SYSWOW64/SYSWOW64/chrome.jar
+Users/Windows/SYSWOW64/SYSWOW64/cmd
+Users/Windows/SYSWOW64/SYSWOW64/cmd.bat
+Users/Windows/SYSWOW64/SYSWOW64/cmd.cmd
+Users/Windows/SYSWOW64/SYSWOW64/cmd.doc
+Users/Windows/SYSWOW64/SYSWOW64/cmd.docx
+Users/Windows/SYSWOW64/SYSWOW64/cmd.exe
+Users/Windows/SYSWOW64/SYSWOW64/cmd.jar
+Users/Windows/SYSWOW64/SYSWOW64/codes
+Users/Windows/SYSWOW64/SYSWOW64/codes.bat
+Users/Windows/SYSWOW64/SYSWOW64/codes.cmd
+Users/Windows/SYSWOW64/SYSWOW64/codes.doc
+Users/Windows/SYSWOW64/SYSWOW64/codes.docx
+Users/Windows/SYSWOW64/SYSWOW64/codes.exe
+Users/Windows/SYSWOW64/SYSWOW64/codes.jar
+Users/Windows/SYSWOW64/SYSWOW64/data
+Users/Windows/SYSWOW64/SYSWOW64/data.bat
+Users/Windows/SYSWOW64/SYSWOW64/data.cmd
+Users/Windows/SYSWOW64/SYSWOW64/data.doc
+Users/Windows/SYSWOW64/SYSWOW64/data.docx
+Users/Windows/SYSWOW64/SYSWOW64/data.exe
+Users/Windows/SYSWOW64/SYSWOW64/data.jar
+Users/Windows/SYSWOW64/SYSWOW64/excel
+Users/Windows/SYSWOW64/SYSWOW64/excel.bat
+Users/Windows/SYSWOW64/SYSWOW64/excel.cmd
+Users/Windows/SYSWOW64/SYSWOW64/excel.doc
+Users/Windows/SYSWOW64/SYSWOW64/excel.docx
+Users/Windows/SYSWOW64/SYSWOW64/excel.exe
+Users/Windows/SYSWOW64/SYSWOW64/excel.jar
+Users/Windows/SYSWOW64/SYSWOW64/explorer
+Users/Windows/SYSWOW64/SYSWOW64/explorer.bat
+Users/Windows/SYSWOW64/SYSWOW64/explorer.cmd
+Users/Windows/SYSWOW64/SYSWOW64/explorer.doc
+Users/Windows/SYSWOW64/SYSWOW64/explorer.docx
+Users/Windows/SYSWOW64/SYSWOW64/explorer.exe
+Users/Windows/SYSWOW64/SYSWOW64/explorer.jar
+Users/Windows/SYSWOW64/SYSWOW64/firefox
+Users/Windows/SYSWOW64/SYSWOW64/firefox.bat
+Users/Windows/SYSWOW64/SYSWOW64/firefox.cmd
+Users/Windows/SYSWOW64/SYSWOW64/firefox.doc
+Users/Windows/SYSWOW64/SYSWOW64/firefox.docx
+Users/Windows/SYSWOW64/SYSWOW64/firefox.exe
+Users/Windows/SYSWOW64/SYSWOW64/firefox.jar
+Users/Windows/SYSWOW64/SYSWOW64/ghci
+Users/Windows/SYSWOW64/SYSWOW64/ghci.bat
+Users/Windows/SYSWOW64/SYSWOW64/ghci.cmd
+Users/Windows/SYSWOW64/SYSWOW64/ghci.doc
+Users/Windows/SYSWOW64/SYSWOW64/ghci.docx
+Users/Windows/SYSWOW64/SYSWOW64/ghci.exe
+Users/Windows/SYSWOW64/SYSWOW64/ghci.jar
+Users/Windows/SYSWOW64/SYSWOW64/java
+Users/Windows/SYSWOW64/SYSWOW64/java.bat
+Users/Windows/SYSWOW64/SYSWOW64/java.cmd
+Users/Windows/SYSWOW64/SYSWOW64/java.doc
+Users/Windows/SYSWOW64/SYSWOW64/java.docx
+Users/Windows/SYSWOW64/SYSWOW64/java.exe
+Users/Windows/SYSWOW64/SYSWOW64/java.jar
+Users/Windows/SYSWOW64/SYSWOW64/javac
+Users/Windows/SYSWOW64/SYSWOW64/javac.bat
+Users/Windows/SYSWOW64/SYSWOW64/javac.cmd
+Users/Windows/SYSWOW64/SYSWOW64/javac.doc
+Users/Windows/SYSWOW64/SYSWOW64/javac.docx
+Users/Windows/SYSWOW64/SYSWOW64/javac.exe
+Users/Windows/SYSWOW64/SYSWOW64/javac.jar
+Users/Windows/SYSWOW64/SYSWOW64/javaw
+Users/Windows/SYSWOW64/SYSWOW64/javaw.bat
+Users/Windows/SYSWOW64/SYSWOW64/javaw.cmd
+Users/Windows/SYSWOW64/SYSWOW64/javaw.doc
+Users/Windows/SYSWOW64/SYSWOW64/javaw.docx
+Users/Windows/SYSWOW64/SYSWOW64/javaw.exe
+Users/Windows/SYSWOW64/SYSWOW64/javaw.jar
+Users/Windows/SYSWOW64/SYSWOW64/minecraft
+Users/Windows/SYSWOW64/SYSWOW64/minecraft.bat
+Users/Windows/SYSWOW64/SYSWOW64/minecraft.cmd
+Users/Windows/SYSWOW64/SYSWOW64/minecraft.doc
+Users/Windows/SYSWOW64/SYSWOW64/minecraft.docx
+Users/Windows/SYSWOW64/SYSWOW64/minecraft.exe
+Users/Windows/SYSWOW64/SYSWOW64/minecraft.jar
+Users/Windows/SYSWOW64/SYSWOW64/python
+Users/Windows/SYSWOW64/SYSWOW64/python.bat
+Users/Windows/SYSWOW64/SYSWOW64/python.cmd
+Users/Windows/SYSWOW64/SYSWOW64/python.doc
+Users/Windows/SYSWOW64/SYSWOW64/python.docx
+Users/Windows/SYSWOW64/SYSWOW64/python.exe
+Users/Windows/SYSWOW64/SYSWOW64/python.jar
+Users/Windows/SYSWOW64/SYSWOW64/spotify
+Users/Windows/SYSWOW64/SYSWOW64/spotify.bat
+Users/Windows/SYSWOW64/SYSWOW64/spotify.cmd
+Users/Windows/SYSWOW64/SYSWOW64/spotify.doc
+Users/Windows/SYSWOW64/SYSWOW64/spotify.docx
+Users/Windows/SYSWOW64/SYSWOW64/spotify.exe
+Users/Windows/SYSWOW64/SYSWOW64/spotify.jar
+Users/Windows/SYSWOW64/SYSWOW64/winword
+Users/Windows/SYSWOW64/SYSWOW64/winword.bat
+Users/Windows/SYSWOW64/SYSWOW64/winword.cmd
+Users/Windows/SYSWOW64/SYSWOW64/winword.doc
+Users/Windows/SYSWOW64/SYSWOW64/winword.docx
+Users/Windows/SYSWOW64/SYSWOW64/winword.exe
+Users/Windows/SYSWOW64/SYSWOW64/winword.jar
+Users/Windows/System32/chrome
+Users/Windows/System32/chrome.bat
+Users/Windows/System32/chrome.cmd
+Users/Windows/System32/chrome.doc
+Users/Windows/System32/chrome.docx
+Users/Windows/System32/chrome.exe
+Users/Windows/System32/chrome.jar
+Users/Windows/System32/cmd
+Users/Windows/System32/cmd.bat
+Users/Windows/System32/cmd.cmd
+Users/Windows/System32/cmd.doc
+Users/Windows/System32/cmd.docx
+Users/Windows/System32/cmd.exe
+Users/Windows/System32/cmd.jar
+Users/Windows/System32/codes
+Users/Windows/System32/codes.bat
+Users/Windows/System32/codes.cmd
+Users/Windows/System32/codes.doc
+Users/Windows/System32/codes.docx
+Users/Windows/System32/codes.exe
+Users/Windows/System32/codes.jar
+Users/Windows/System32/data
+Users/Windows/System32/data.bat
+Users/Windows/System32/data.cmd
+Users/Windows/System32/data.doc
+Users/Windows/System32/data.docx
+Users/Windows/System32/data.exe
+Users/Windows/System32/data.jar
+Users/Windows/System32/excel
+Users/Windows/System32/excel.bat
+Users/Windows/System32/excel.cmd
+Users/Windows/System32/excel.doc
+Users/Windows/System32/excel.docx
+Users/Windows/System32/excel.exe
+Users/Windows/System32/excel.jar
+Users/Windows/System32/explorer
+Users/Windows/System32/explorer.bat
+Users/Windows/System32/explorer.cmd
+Users/Windows/System32/explorer.doc
+Users/Windows/System32/explorer.docx
+Users/Windows/System32/explorer.exe
+Users/Windows/System32/explorer.jar
+Users/Windows/System32/firefox
+Users/Windows/System32/firefox.bat
+Users/Windows/System32/firefox.cmd
+Users/Windows/System32/firefox.doc
+Users/Windows/System32/firefox.docx
+Users/Windows/System32/firefox.exe
+Users/Windows/System32/firefox.jar
+Users/Windows/System32/ghci
+Users/Windows/System32/ghci.bat
+Users/Windows/System32/ghci.cmd
+Users/Windows/System32/ghci.doc
+Users/Windows/System32/ghci.docx
+Users/Windows/System32/ghci.exe
+Users/Windows/System32/ghci.jar
+Users/Windows/System32/java
+Users/Windows/System32/java.bat
+Users/Windows/System32/java.cmd
+Users/Windows/System32/java.doc
+Users/Windows/System32/java.docx
+Users/Windows/System32/java.exe
+Users/Windows/System32/java.jar
+Users/Windows/System32/javac
+Users/Windows/System32/javac.bat
+Users/Windows/System32/javac.cmd
+Users/Windows/System32/javac.doc
+Users/Windows/System32/javac.docx
+Users/Windows/System32/javac.exe
+Users/Windows/System32/javac.jar
+Users/Windows/System32/javaw
+Users/Windows/System32/javaw.bat
+Users/Windows/System32/javaw.cmd
+Users/Windows/System32/javaw.doc
+Users/Windows/System32/javaw.docx
+Users/Windows/System32/javaw.exe
+Users/Windows/System32/javaw.jar
+Users/Windows/System32/minecraft
+Users/Windows/System32/minecraft.bat
+Users/Windows/System32/minecraft.cmd
+Users/Windows/System32/minecraft.doc
+Users/Windows/System32/minecraft.docx
+Users/Windows/System32/minecraft.exe
+Users/Windows/System32/minecraft.jar
+Users/Windows/System32/python
+Users/Windows/System32/python.bat
+Users/Windows/System32/python.cmd
+Users/Windows/System32/python.doc
+Users/Windows/System32/python.docx
+Users/Windows/System32/python.exe
+Users/Windows/System32/python.jar
+Users/Windows/System32/spotify
+Users/Windows/System32/spotify.bat
+Users/Windows/System32/spotify.cmd
+Users/Windows/System32/spotify.doc
+Users/Windows/System32/spotify.docx
+Users/Windows/System32/spotify.exe
+Users/Windows/System32/spotify.jar
+Users/Windows/System32/winword
+Users/Windows/System32/winword.bat
+Users/Windows/System32/winword.cmd
+Users/Windows/System32/winword.doc
+Users/Windows/System32/winword.docx
+Users/Windows/System32/winword.exe
+Users/Windows/System32/winword.jar
+Users/Windows/Windows/chrome
+Users/Windows/Windows/chrome.bat
+Users/Windows/Windows/chrome.cmd
+Users/Windows/Windows/chrome.doc
+Users/Windows/Windows/chrome.docx
+Users/Windows/Windows/chrome.exe
+Users/Windows/Windows/chrome.jar
+Users/Windows/Windows/cmd
+Users/Windows/Windows/cmd.bat
+Users/Windows/Windows/cmd.cmd
+Users/Windows/Windows/cmd.doc
+Users/Windows/Windows/cmd.docx
+Users/Windows/Windows/cmd.exe
+Users/Windows/Windows/cmd.jar
+Users/Windows/Windows/codes
+Users/Windows/Windows/codes.bat
+Users/Windows/Windows/codes.cmd
+Users/Windows/Windows/codes.doc
+Users/Windows/Windows/codes.docx
+Users/Windows/Windows/codes.exe
+Users/Windows/Windows/codes.jar
+Users/Windows/Windows/data
+Users/Windows/Windows/data.bat
+Users/Windows/Windows/data.cmd
+Users/Windows/Windows/data.doc
+Users/Windows/Windows/data.docx
+Users/Windows/Windows/data.exe
+Users/Windows/Windows/data.jar
+Users/Windows/Windows/excel
+Users/Windows/Windows/excel.bat
+Users/Windows/Windows/excel.cmd
+Users/Windows/Windows/excel.doc
+Users/Windows/Windows/excel.docx
+Users/Windows/Windows/excel.exe
+Users/Windows/Windows/excel.jar
+Users/Windows/Windows/explorer
+Users/Windows/Windows/explorer.bat
+Users/Windows/Windows/explorer.cmd
+Users/Windows/Windows/explorer.doc
+Users/Windows/Windows/explorer.docx
+Users/Windows/Windows/explorer.exe
+Users/Windows/Windows/explorer.jar
+Users/Windows/Windows/firefox
+Users/Windows/Windows/firefox.bat
+Users/Windows/Windows/firefox.cmd
+Users/Windows/Windows/firefox.doc
+Users/Windows/Windows/firefox.docx
+Users/Windows/Windows/firefox.exe
+Users/Windows/Windows/firefox.jar
+Users/Windows/Windows/ghci
+Users/Windows/Windows/ghci.bat
+Users/Windows/Windows/ghci.cmd
+Users/Windows/Windows/ghci.doc
+Users/Windows/Windows/ghci.docx
+Users/Windows/Windows/ghci.exe
+Users/Windows/Windows/ghci.jar
+Users/Windows/Windows/java
+Users/Windows/Windows/java.bat
+Users/Windows/Windows/java.cmd
+Users/Windows/Windows/java.doc
+Users/Windows/Windows/java.docx
+Users/Windows/Windows/java.exe
+Users/Windows/Windows/java.jar
+Users/Windows/Windows/javac
+Users/Windows/Windows/javac.bat
+Users/Windows/Windows/javac.cmd
+Users/Windows/Windows/javac.doc
+Users/Windows/Windows/javac.docx
+Users/Windows/Windows/javac.exe
+Users/Windows/Windows/javac.jar
+Users/Windows/Windows/javaw
+Users/Windows/Windows/javaw.bat
+Users/Windows/Windows/javaw.cmd
+Users/Windows/Windows/javaw.doc
+Users/Windows/Windows/javaw.docx
+Users/Windows/Windows/javaw.exe
+Users/Windows/Windows/javaw.jar
+Users/Windows/Windows/minecraft
+Users/Windows/Windows/minecraft.bat
+Users/Windows/Windows/minecraft.cmd
+Users/Windows/Windows/minecraft.doc
+Users/Windows/Windows/minecraft.docx
+Users/Windows/Windows/minecraft.exe
+Users/Windows/Windows/minecraft.jar
+Users/Windows/Windows/python
+Users/Windows/Windows/python.bat
+Users/Windows/Windows/python.cmd
+Users/Windows/Windows/python.doc
+Users/Windows/Windows/python.docx
+Users/Windows/Windows/python.exe
+Users/Windows/Windows/python.jar
+Users/Windows/Windows/spotify
+Users/Windows/Windows/spotify.bat
+Users/Windows/Windows/spotify.cmd
+Users/Windows/Windows/spotify.doc
+Users/Windows/Windows/spotify.docx
+Users/Windows/Windows/spotify.exe
+Users/Windows/Windows/spotify.jar
+Users/Windows/Windows/winword
+Users/Windows/Windows/winword.bat
+Users/Windows/Windows/winword.cmd
+Users/Windows/Windows/winword.doc
+Users/Windows/Windows/winword.docx
+Users/Windows/Windows/winword.exe
+Users/Windows/Windows/winword.jar
+Users/Windows/chrome
+Users/Windows/chrome.bat
+Users/Windows/chrome.cmd
+Users/Windows/chrome.doc
+Users/Windows/chrome.docx
+Users/Windows/chrome.exe
+Users/Windows/chrome.jar
+Users/Windows/cmd
+Users/Windows/cmd.bat
+Users/Windows/cmd.cmd
+Users/Windows/cmd.doc
+Users/Windows/cmd.docx
+Users/Windows/cmd.exe
+Users/Windows/cmd.jar
+Users/Windows/codes
+Users/Windows/codes.bat
+Users/Windows/codes.cmd
+Users/Windows/codes.doc
+Users/Windows/codes.docx
+Users/Windows/codes.exe
+Users/Windows/codes.jar
+Users/Windows/data
+Users/Windows/data.bat
+Users/Windows/data.cmd
+Users/Windows/data.doc
+Users/Windows/data.docx
+Users/Windows/data.exe
+Users/Windows/data.jar
+Users/Windows/excel
+Users/Windows/excel.bat
+Users/Windows/excel.cmd
+Users/Windows/excel.doc
+Users/Windows/excel.docx
+Users/Windows/excel.exe
+Users/Windows/excel.jar
+Users/Windows/explorer
+Users/Windows/explorer.bat
+Users/Windows/explorer.cmd
+Users/Windows/explorer.doc
+Users/Windows/explorer.docx
+Users/Windows/explorer.exe
+Users/Windows/explorer.jar
+Users/Windows/firefox
+Users/Windows/firefox.bat
+Users/Windows/firefox.cmd
+Users/Windows/firefox.doc
+Users/Windows/firefox.docx
+Users/Windows/firefox.exe
+Users/Windows/firefox.jar
+Users/Windows/ghci
+Users/Windows/ghci.bat
+Users/Windows/ghci.cmd
+Users/Windows/ghci.doc
+Users/Windows/ghci.docx
+Users/Windows/ghci.exe
+Users/Windows/ghci.jar
+Users/Windows/java
+Users/Windows/java.bat
+Users/Windows/java.cmd
+Users/Windows/java.doc
+Users/Windows/java.docx
+Users/Windows/java.exe
+Users/Windows/java.jar
+Users/Windows/javac
+Users/Windows/javac.bat
+Users/Windows/javac.cmd
+Users/Windows/javac.doc
+Users/Windows/javac.docx
+Users/Windows/javac.exe
+Users/Windows/javac.jar
+Users/Windows/javaw
+Users/Windows/javaw.bat
+Users/Windows/javaw.cmd
+Users/Windows/javaw.doc
+Users/Windows/javaw.docx
+Users/Windows/javaw.exe
+Users/Windows/javaw.jar
+Users/Windows/minecraft
+Users/Windows/minecraft.bat
+Users/Windows/minecraft.cmd
+Users/Windows/minecraft.doc
+Users/Windows/minecraft.docx
+Users/Windows/minecraft.exe
+Users/Windows/minecraft.jar
+Users/Windows/python
+Users/Windows/python.bat
+Users/Windows/python.cmd
+Users/Windows/python.doc
+Users/Windows/python.docx
+Users/Windows/python.exe
+Users/Windows/python.jar
+Users/Windows/spotify
+Users/Windows/spotify.bat
+Users/Windows/spotify.cmd
+Users/Windows/spotify.doc
+Users/Windows/spotify.docx
+Users/Windows/spotify.exe
+Users/Windows/spotify.jar
+Users/Windows/winword
+Users/Windows/winword.bat
+Users/Windows/winword.cmd
+Users/Windows/winword.doc
+Users/Windows/winword.docx
+Users/Windows/winword.exe
+Users/Windows/winword.jar

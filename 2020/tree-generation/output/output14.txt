@@ -1,0 +1,65 @@
+Users/
++-Drivers/
+| +-firefox.docx
+| +-winword.jar
++-Microsoft/
+| +-Drivers/
+| | +-Users/
+| |   +-java.cmd
+| |   +-python
+| |   +-winword
+| +-chrome.doc
+| +-chrome.jar
+| +-codes.cmd
+| +-java.doc
+| +-javac.cmd
+| +-minecraft.bat
+| +-minecraft.cmd
++-Program Files/
+| +-cmd.docx
+| +-excel.cmd
+| +-firefox.exe
+| +-winword.bat
++-Program Files (x86)/
+| +-chrome.exe
+| +-explorer
+| +-explorer.jar
+| +-python.doc
++-Riot Games/
+| +-Drivers/
+|   +-data.docx
+|   +-excel.jar
+|   +-minecraft
++-SYSWOW64/
+| +-Program Files/
+| | +-codes
+| | +-javac.exe
+| | +-python
+| | +-python.bat
+| +-Program Files (x86)/
+| | +-excel.docx
+| | +-minecraft.doc
+| +-SYSWOW64/
+| | +-explorer.docx
+| +-javac
+| +-javaw
++-System32/
+| +-javac.jar
+| +-python.cmd
++-Users/
+| +-codes
+| +-data.jar
+| +-excel.cmd
+| +-excel.exe
+| +-firefox.doc
+| +-ghci
++-Windows/
+  +-System32/
+    +-Microsoft/
+      +-Program Files (x86)/
+        +-codes.jar
+        +-data
+        +-javac.doc
+        +-minecraft
+        +-python.cmd
+        +-spotify

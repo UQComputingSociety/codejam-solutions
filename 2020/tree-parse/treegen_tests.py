@@ -1,0 +1,44 @@
+import os
+import random
+import string
+
+FOLDER_PARTS = [
+    'System32', 'Windows', 'Microsoft', 'Drivers', 'SYSWOW64', 'Program Files', 'Program Files (x86)', 'Users', 'Riot Games',
+    #'ProgramData', 'AppData', 'Games', '.minecraft', 'SteamLibrary', 'Documents', 'Desktop', 'Python38', 'jdk1.8.0_181',
+]
+
+FILE_NAMES = [
+    'minecraft', 'explorer', 'cmd', 'chrome', 'firefox', 'spotify', 'data', 'codes', 'java', 'javaw', 'javac',
+    'python', 'ghci', 'excel', 'winword', 'ruby', 'choco', 'regedit', 'vimtutor', 'vim', 'ssh', 'cat', 'ls', 'dir',
+    "admin","alias","ar","asa","at","awk","basename","batch","bc","bg","cal","cat","cd","cflow","chgrp","chmod","chown","cksum","cmp","comm","command","compress","cp","crontab","csplit","ctags","cut","cxref","date","dd","delta","df","diff","dirname","du","echo","ed","env","ex","expand","expr","false","fc","fg","file","find","fold","fort77","fuser","gencat","get","getconf","getopts","grep","hash","head","iconv","id","ipcrm","ipcs","jobs","join","kill","lex","link","ln","locale","localedef","logger","logname","lp","ls","m4","mailx","make","man","mesg","mkdir","mkfifo","more","mv","newgrp","nice","nl","nm","nohup","od","paste","patch","pathchk","pax","pr","printf","prs","ps","pwd","qalter","qdel","qhold","qmove","qmsg","qrerun","qrls","qselect","qsig","qstat","qsub","read","renice","rm","rmdel","rmdir","sact","sccs","sed","sh","sleep","sort","split","strings","strip","stty","tabs","tail","talk","tee","test","time","touch","tput","tr","true","tsort","tty","type","ulimit","umask","unalias","uname","uncompress","unexpand","unget","uniq","unlink","uucp","uudecode","uuencode","uustat","uux","val","vi","wait","wc","what","who","write","xargs","yacc","zcat"
+]
+
+FILE_EXTENSIONS = [
+    '', '.exe', '.jar', '.bat', '.cmd', '.docx', '.doc'
+]
+
+def random_folder():
+    p = 0.3
+    s = []
+    while not s or random.random() < p:
+        s.append(random.choice(FOLDER_PARTS))
+    return '/'.join(s)
+
+def random_file():
+    return random.choice(FILE_NAMES) + random.choice(FILE_EXTENSIONS)
+
+def make_file_list():
+    root = random.choice(FOLDER_PARTS)
+    N_folders = random.randint(100, 1000)
+    folders = list(set(root + '/' + random_folder() for _ in range(N_folders)))
+    N_files = random.randint(100, 10000)
+    files = set(random.choice(folders) + '/' + random_file() for _ in range(N_files))
+    
+    return [str(len(files))] + list(files)
+    
+
+if __name__ == "__main__":
+    os.makedirs('input', exist_ok=1)
+    for n in range(10, 30):
+        with open(f'input/input{n}.txt', 'w') as f:
+            f.write('\n'.join(make_file_list()))

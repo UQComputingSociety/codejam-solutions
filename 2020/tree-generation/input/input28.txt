@@ -1,0 +1,571 @@
+570
+System32/Program Files (x86)/Program Files/Riot Games/Windows/explorer.jar
+System32/Program Files (x86)/firefox.cmd
+System32/Users/Program Files/codes.doc
+System32/Program Files (x86)/Microsoft/chrome.docx
+System32/Program Files (x86)/Microsoft/codes.doc
+System32/Program Files (x86)/Microsoft/data.bat
+System32/Program Files (x86)/Drivers/Drivers/winword.cmd
+System32/Program Files (x86)/Drivers/Drivers/cmd.bat
+System32/Users/Windows/spotify.cmd
+System32/Riot Games/minecraft.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/winword.jar
+System32/Riot Games/explorer.bat
+System32/Program Files (x86)/Microsoft/ghci.jar
+System32/Users/Program Files/excel.doc
+System32/System32/Users/firefox.doc
+System32/Windows/codes.doc
+System32/Drivers/data.docx
+System32/Program Files (x86)/Windows/python.bat
+System32/Users/Windows/excel.doc
+System32/Program Files (x86)/Windows/explorer.docx
+System32/Drivers/python.doc
+System32/Microsoft/data.doc
+System32/Windows/excel.doc
+System32/Windows/spotify.bat
+System32/Windows/cmd
+System32/Program Files (x86)/Drivers/Drivers/javac.docx
+System32/Program Files (x86)/Microsoft/java.bat
+System32/Microsoft/Drivers/winword
+System32/Program Files (x86)/Program Files/Riot Games/Windows/codes.docx
+System32/Microsoft/Drivers/spotify.jar
+System32/Program Files (x86)/javac.cmd
+System32/Drivers/ghci
+System32/Program Files (x86)/Drivers/Drivers/minecraft.cmd
+System32/Riot Games/ghci.docx
+System32/Program Files (x86)/Drivers/Drivers/spotify.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/explorer.docx
+System32/Microsoft/firefox
+System32/Program Files (x86)/Drivers/Drivers/data.bat
+System32/Users/Windows/java.exe
+System32/Program Files (x86)/Drivers/Drivers/cmd.jar
+System32/Program Files (x86)/Drivers/Drivers/minecraft.docx
+System32/Riot Games/python.cmd
+System32/Program Files (x86)/codes.doc
+System32/Program Files (x86)/Drivers/Drivers/explorer.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/java.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/python.jar
+System32/Program Files/javac
+System32/Windows/python.doc
+System32/Program Files (x86)/minecraft.jar
+System32/Program Files (x86)/spotify.jar
+System32/Windows/python.docx
+System32/Program Files (x86)/excel.jar
+System32/Microsoft/Drivers/javac.exe
+System32/Program Files (x86)/Windows/spotify.docx
+System32/Program Files (x86)/chrome
+System32/Program Files (x86)/Windows/ghci.cmd
+System32/Drivers/codes.exe
+System32/Program Files (x86)/Drivers/Drivers/cmd.exe
+System32/Microsoft/Drivers/firefox.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/spotify.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/minecraft
+System32/Program Files (x86)/Windows/cmd.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/cmd.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/ghci
+System32/Windows/javaw.cmd
+System32/Program Files (x86)/Drivers/Drivers/cmd
+System32/Windows/excel
+System32/System32/Users/minecraft.docx
+System32/Microsoft/java.docx
+System32/Users/Windows/java.cmd
+System32/Users/Windows/chrome.jar
+System32/Microsoft/java.exe
+System32/System32/Users/firefox.jar
+System32/Program Files (x86)/Drivers/Drivers/chrome.bat
+System32/Program Files/python.bat
+System32/Riot Games/minecraft
+System32/Program Files/javaw.doc
+System32/Program Files (x86)/Drivers/Drivers/data.doc
+System32/Program Files (x86)/javaw.doc
+System32/Riot Games/winword.doc
+System32/Users/Windows/codes.docx
+System32/Microsoft/Drivers/ghci
+System32/System32/Users/winword.docx
+System32/Drivers/javaw.bat
+System32/System32/Users/cmd.bat
+System32/Program Files (x86)/Drivers/Drivers/minecraft.jar
+System32/Program Files (x86)/spotify
+System32/Program Files (x86)/Drivers/Drivers/javac.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/javac.docx
+System32/System32/Users/minecraft.jar
+System32/Program Files (x86)/Windows/minecraft.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/spotify.doc
+System32/Users/Windows/chrome.exe
+System32/Program Files (x86)/Microsoft/javaw.jar
+System32/Program Files (x86)/Drivers/Drivers/codes.doc
+System32/Program Files (x86)/Windows/chrome.jar
+System32/System32/Users/javaw.cmd
+System32/Program Files (x86)/firefox.docx
+System32/Program Files (x86)/Program Files/Riot Games/Windows/winword.cmd
+System32/System32/Users/winword.bat
+System32/Drivers/java
+System32/Users/Program Files/python.exe
+System32/Program Files (x86)/codes.exe
+System32/Program Files (x86)/Microsoft/explorer.doc
+System32/Drivers/codes.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/minecraft.docx
+System32/Microsoft/codes.bat
+System32/Program Files (x86)/Drivers/Drivers/winword
+System32/Users/Program Files/data.exe
+System32/Users/Windows/spotify.bat
+System32/Windows/ghci.bat
+System32/Windows/data.bat
+System32/Microsoft/excel.bat
+System32/Users/Program Files/java.exe
+System32/Program Files (x86)/Microsoft/firefox
+System32/Program Files (x86)/Drivers/Drivers/javaw.bat
+System32/Users/Program Files/minecraft
+System32/Program Files (x86)/Drivers/Drivers/ghci.docx
+System32/Program Files (x86)/Windows/ghci
+System32/Program Files/explorer
+System32/Program Files (x86)/Microsoft/explorer.exe
+System32/Users/Program Files/excel.bat
+System32/Windows/explorer.exe
+System32/Drivers/firefox.doc
+System32/Drivers/excel
+System32/Users/Windows/cmd
+System32/Microsoft/ghci.doc
+System32/Program Files (x86)/Microsoft/javac.doc
+System32/Program Files (x86)/Drivers/Drivers/winword.docx
+System32/Users/Program Files/spotify.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/codes
+System32/Program Files (x86)/Drivers/Drivers/java.bat
+System32/Program Files (x86)/Windows/chrome.doc
+System32/Drivers/data.doc
+System32/Program Files (x86)/Drivers/Drivers/java.docx
+System32/Program Files/minecraft.doc
+System32/Program Files/java.exe
+System32/Drivers/chrome.cmd
+System32/Program Files (x86)/Microsoft/spotify.cmd
+System32/System32/Users/cmd.doc
+System32/Users/Program Files/javaw
+System32/Program Files (x86)/Windows/winword.jar
+System32/System32/Users/cmd.docx
+System32/Windows/data.docx
+System32/Windows/chrome.docx
+System32/Program Files (x86)/data.docx
+System32/Program Files (x86)/Drivers/Drivers/ghci.cmd
+System32/Microsoft/Drivers/firefox.cmd
+System32/Drivers/firefox.docx
+System32/Users/Windows/excel.docx
+System32/Program Files (x86)/ghci.exe
+System32/System32/Users/python
+System32/Microsoft/javac.doc
+System32/Drivers/spotify.cmd
+System32/Users/Program Files/firefox.jar
+System32/Windows/javaw.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/explorer
+System32/Program Files/chrome
+System32/Windows/data.exe
+System32/Program Files (x86)/excel.bat
+System32/Users/Program Files/minecraft.jar
+System32/Users/Windows/firefox.docx
+System32/Program Files (x86)/Microsoft/cmd.bat
+System32/Microsoft/explorer.cmd
+System32/System32/Users/javac.cmd
+System32/Program Files/javac.cmd
+System32/Users/Windows/java.bat
+System32/Users/Program Files/python
+System32/Program Files/java.docx
+System32/Drivers/spotify.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/firefox.doc
+System32/Riot Games/explorer
+System32/Program Files (x86)/Microsoft/python.bat
+System32/Users/Windows/excel.bat
+System32/Program Files (x86)/Drivers/Drivers/data.docx
+System32/Users/Program Files/minecraft.exe
+System32/Microsoft/minecraft.exe
+System32/Program Files (x86)/Microsoft/codes.jar
+System32/System32/Users/firefox.exe
+System32/Users/Windows/python.exe
+System32/Users/Program Files/data
+System32/Users/Windows/chrome
+System32/Users/Windows/cmd.docx
+System32/Program Files (x86)/explorer.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/java.jar
+System32/System32/Users/spotify.cmd
+System32/Windows/excel.exe
+System32/Windows/cmd.cmd
+System32/Program Files (x86)/Drivers/Drivers/codes.jar
+System32/Microsoft/explorer.jar
+System32/Program Files (x86)/Microsoft/chrome.cmd
+System32/Microsoft/Drivers/ghci.bat
+System32/Users/Program Files/firefox.exe
+System32/Microsoft/python.jar
+System32/Program Files (x86)/Windows/data
+System32/Users/Windows/minecraft.exe
+System32/Microsoft/chrome
+System32/Program Files (x86)/Windows/winword.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/winword.bat
+System32/Program Files (x86)/Drivers/Drivers/firefox.doc
+System32/Windows/firefox.cmd
+System32/Program Files (x86)/Drivers/Drivers/winword.jar
+System32/Microsoft/explorer
+System32/Drivers/winword.exe
+System32/Program Files (x86)/winword.jar
+System32/Users/Windows/java.docx
+System32/Program Files (x86)/Microsoft/codes.cmd
+System32/Program Files (x86)/Drivers/Drivers/python.bat
+System32/Microsoft/data
+System32/Users/Windows/minecraft.doc
+System32/Microsoft/spotify.exe
+System32/Program Files (x86)/cmd.bat
+System32/Program Files (x86)/python
+System32/Program Files (x86)/Windows/winword.cmd
+System32/Riot Games/firefox.doc
+System32/System32/Users/winword.exe
+System32/Riot Games/spotify
+System32/System32/Users/cmd
+System32/System32/Users/firefox.cmd
+System32/Program Files (x86)/javaw.cmd
+System32/Program Files (x86)/Microsoft/javac.jar
+System32/Program Files (x86)/Windows/firefox.exe
+System32/Windows/javac.exe
+System32/Program Files/codes.bat
+System32/Program Files (x86)/cmd.jar
+System32/Users/Windows/winword.bat
+System32/Program Files (x86)/python.cmd
+System32/Program Files (x86)/Drivers/Drivers/python.jar
+System32/Windows/codes.exe
+System32/Drivers/minecraft.docx
+System32/Users/Program Files/python.doc
+System32/Microsoft/Drivers/winword.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/winword.exe
+System32/Program Files (x86)/Drivers/Drivers/chrome.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/cmd.bat
+System32/Windows/python
+System32/Microsoft/firefox.cmd
+System32/Microsoft/Drivers/data.exe
+System32/Riot Games/codes.cmd
+System32/Program Files/java.jar
+System32/Program Files (x86)/Windows/explorer.bat
+System32/Program Files/chrome.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/javaw.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/codes.bat
+System32/Microsoft/minecraft
+System32/Program Files (x86)/Windows/cmd
+System32/Microsoft/excel.exe
+System32/Program Files (x86)/javac
+System32/Drivers/codes.doc
+System32/Microsoft/Drivers/chrome.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/firefox.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/minecraft.doc
+System32/Users/Program Files/javac.cmd
+System32/Users/Program Files/chrome.doc
+System32/Users/Program Files/javaw.bat
+System32/Program Files (x86)/Drivers/Drivers/python.doc
+System32/Riot Games/spotify.bat
+System32/Users/Program Files/explorer
+System32/Riot Games/codes.exe
+System32/Microsoft/Drivers/firefox.exe
+System32/Program Files (x86)/Drivers/Drivers/javac.jar
+System32/Microsoft/Drivers/ghci.docx
+System32/Windows/firefox.exe
+System32/Microsoft/Drivers/python.cmd
+System32/Riot Games/excel.docx
+System32/Microsoft/Drivers/minecraft.jar
+System32/Microsoft/firefox.bat
+System32/Program Files (x86)/data
+System32/Program Files (x86)/Microsoft/javac.cmd
+System32/Microsoft/Drivers/javac.cmd
+System32/Windows/javaw.doc
+System32/System32/Users/codes
+System32/Drivers/chrome
+System32/Program Files (x86)/Drivers/Drivers/cmd.cmd
+System32/Windows/data.cmd
+System32/Program Files (x86)/Windows/javac.docx
+System32/Windows/winword.docx
+System32/Riot Games/winword.exe
+System32/System32/Users/java.cmd
+System32/Windows/cmd.jar
+System32/Program Files (x86)/Windows/java.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/python.doc
+System32/Windows/winword.jar
+System32/Program Files (x86)/Drivers/Drivers/data.cmd
+System32/Microsoft/ghci.jar
+System32/Program Files (x86)/Drivers/Drivers/spotify.bat
+System32/Microsoft/Drivers/minecraft.docx
+System32/Riot Games/ghci.exe
+System32/Program Files (x86)/Drivers/Drivers/explorer.jar
+System32/Users/Program Files/spotify.jar
+System32/Drivers/explorer.doc
+System32/System32/Users/explorer.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/python
+System32/Users/Program Files/firefox
+System32/Program Files (x86)/excel.exe
+System32/Windows/chrome.exe
+System32/Microsoft/Drivers/explorer.jar
+System32/Program Files/data.cmd
+System32/Program Files (x86)/Windows/codes.docx
+System32/Riot Games/winword.bat
+System32/Riot Games/java.bat
+System32/Users/Program Files/excel
+System32/Riot Games/data.bat
+System32/Program Files (x86)/Microsoft/codes.docx
+System32/Riot Games/spotify.doc
+System32/Program Files (x86)/Drivers/Drivers/codes.exe
+System32/Windows/minecraft.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/explorer.bat
+System32/Users/Windows/java.doc
+System32/Windows/cmd.bat
+System32/Program Files/excel.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/minecraft.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/chrome.jar
+System32/Program Files (x86)/Microsoft/data.jar
+System32/Drivers/codes.jar
+System32/Microsoft/Drivers/cmd.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/spotify
+System32/Program Files (x86)/Windows/codes.exe
+System32/Program Files (x86)/Microsoft/javaw
+System32/Users/Program Files/firefox.cmd
+System32/Microsoft/Drivers/cmd.cmd
+System32/Windows/chrome.doc
+System32/Program Files (x86)/Microsoft/cmd.jar
+System32/Program Files (x86)/Drivers/Drivers/data.exe
+System32/Program Files (x86)/Windows/javaw.bat
+System32/System32/Users/winword.jar
+System32/Microsoft/Drivers/excel.exe
+System32/Users/Program Files/codes.jar
+System32/Program Files (x86)/Windows/spotify.cmd
+System32/Users/Program Files/explorer.bat
+System32/System32/Users/javaw
+System32/Program Files (x86)/Windows/cmd.docx
+System32/Program Files (x86)/Drivers/Drivers/ghci
+System32/Riot Games/chrome.docx
+System32/Microsoft/Drivers/chrome.cmd
+System32/Microsoft/spotify.jar
+System32/Microsoft/Drivers/excel.jar
+System32/Program Files (x86)/Program Files/Riot Games/Windows/data.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/chrome.bat
+System32/Program Files (x86)/Windows/minecraft.bat
+System32/Program Files (x86)/Microsoft/spotify.docx
+System32/Windows/data.doc
+System32/Users/Windows/ghci
+System32/Program Files (x86)/Microsoft/excel.jar
+System32/Riot Games/excel
+System32/Riot Games/python.exe
+System32/Program Files (x86)/Drivers/Drivers/data.jar
+System32/Riot Games/explorer.doc
+System32/Drivers/excel.exe
+System32/Program Files (x86)/Drivers/Drivers/chrome.docx
+System32/Users/Windows/ghci.docx
+System32/Drivers/javaw.jar
+System32/Windows/minecraft
+System32/Program Files (x86)/Windows/javaw.exe
+System32/Microsoft/Drivers/java.docx
+System32/Program Files (x86)/Drivers/Drivers/excel.bat
+System32/Users/Program Files/cmd.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/spotify.exe
+System32/Program Files (x86)/java
+System32/Program Files (x86)/Microsoft/javac.docx
+System32/Users/Windows/spotify.jar
+System32/Microsoft/Drivers/explorer.cmd
+System32/Program Files (x86)/firefox
+System32/Program Files (x86)/Program Files/Riot Games/Windows/javaw.exe
+System32/Microsoft/excel.docx
+System32/Windows/data.jar
+System32/Program Files (x86)/excel.cmd
+System32/Riot Games/explorer.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/java.exe
+System32/Drivers/minecraft
+System32/Program Files/cmd.exe
+System32/Program Files (x86)/Microsoft/codes
+System32/System32/Users/javaw.exe
+System32/System32/Users/spotify.jar
+System32/Program Files (x86)/Windows/cmd.cmd
+System32/Users/Program Files/spotify.cmd
+System32/Users/Windows/chrome.docx
+System32/Microsoft/Drivers/spotify.exe
+System32/Program Files/spotify.exe
+System32/Program Files (x86)/Program Files/Riot Games/Windows/data.jar
+System32/Users/Windows/data.bat
+System32/Microsoft/data.bat
+System32/Users/Windows/firefox.bat
+System32/Microsoft/Drivers/codes.docx
+System32/Windows/firefox.jar
+System32/Drivers/minecraft.exe
+System32/Users/Program Files/chrome.exe
+System32/Microsoft/spotify.docx
+System32/Drivers/codes.bat
+System32/System32/Users/javaw.bat
+System32/Program Files/firefox
+System32/Microsoft/Drivers/data.bat
+System32/System32/Users/minecraft.bat
+System32/Program Files (x86)/Windows/ghci.docx
+System32/Windows/codes.bat
+System32/Program Files (x86)/spotify.docx
+System32/Program Files (x86)/Program Files/Riot Games/Windows/javaw.cmd
+System32/Program Files/minecraft.exe
+System32/Program Files (x86)/Windows/spotify.bat
+System32/Microsoft/Drivers/minecraft
+System32/Drivers/chrome.docx
+System32/Microsoft/Drivers/python.doc
+System32/Drivers/firefox.cmd
+System32/Program Files (x86)/Microsoft/codes.bat
+System32/Users/Program Files/java.docx
+System32/Program Files (x86)/Windows/data.docx
+System32/Program Files/explorer.doc
+System32/Program Files/cmd.doc
+System32/System32/Users/codes.exe
+System32/Program Files (x86)/Windows/java.bat
+System32/Program Files (x86)/Microsoft/spotify.exe
+System32/Drivers/javaw.exe
+System32/System32/Users/codes.cmd
+System32/Microsoft/Drivers/java.jar
+System32/System32/Users/minecraft.exe
+System32/Program Files (x86)/chrome.docx
+System32/System32/Users/spotify.exe
+System32/Microsoft/Drivers/java.bat
+System32/System32/Users/chrome
+System32/Users/Program Files/ghci.exe
+System32/Program Files/spotify.doc
+System32/Program Files (x86)/Drivers/Drivers/python.docx
+System32/Program Files/chrome.cmd
+System32/Users/Program Files/firefox.docx
+System32/System32/Users/excel.exe
+System32/System32/Users/ghci.doc
+System32/Microsoft/chrome.exe
+System32/Program Files/excel.jar
+System32/Program Files (x86)/excel.docx
+System32/Program Files (x86)/Windows/winword.bat
+System32/Program Files (x86)/Drivers/Drivers/minecraft.exe
+System32/Program Files (x86)/chrome.exe
+System32/Riot Games/javaw
+System32/System32/Users/javac.bat
+System32/Program Files/python.doc
+System32/Microsoft/Drivers/spotify.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/spotify.jar
+System32/Microsoft/spotify
+System32/Microsoft/Drivers/firefox.jar
+System32/Users/Windows/javac.cmd
+System32/Riot Games/minecraft.doc
+System32/Users/Windows/javaw.exe
+System32/Program Files (x86)/Drivers/Drivers/java.jar
+System32/Users/Windows/minecraft.cmd
+System32/Program Files (x86)/Drivers/Drivers/firefox.exe
+System32/System32/Users/chrome.exe
+System32/Users/Windows/minecraft.jar
+System32/System32/Users/excel
+System32/Program Files (x86)/javac.bat
+System32/Microsoft/codes.doc
+System32/Program Files (x86)/Drivers/Drivers/explorer.exe
+System32/Riot Games/winword.cmd
+System32/Program Files/firefox.exe
+System32/Drivers/minecraft.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/excel
+System32/Microsoft/winword.cmd
+System32/Microsoft/codes.cmd
+System32/Windows/javaw.bat
+System32/Drivers/minecraft.cmd
+System32/Windows/codes.jar
+System32/Windows/winword.bat
+System32/Program Files (x86)/Windows/minecraft.jar
+System32/Drivers/javac.doc
+System32/Microsoft/javac.jar
+System32/Users/Program Files/javac.doc
+System32/Riot Games/java.doc
+System32/Program Files (x86)/Microsoft/javaw.exe
+System32/Microsoft/Drivers/java
+System32/System32/Users/java.jar
+System32/Drivers/winword
+System32/Program Files (x86)/Windows/chrome.bat
+System32/Microsoft/Drivers/minecraft.exe
+System32/Program Files/python
+System32/Riot Games/firefox.cmd
+System32/Program Files (x86)/Drivers/Drivers/cmd.doc
+System32/Program Files/winword
+System32/Program Files (x86)/Drivers/Drivers/winword.bat
+System32/Users/Windows/javaw.docx
+System32/Drivers/javaw
+System32/Program Files (x86)/Program Files/Riot Games/Windows/excel.jar
+System32/Microsoft/Drivers/ghci.doc
+System32/Program Files (x86)/explorer.docx
+System32/Microsoft/Drivers/winword.exe
+System32/Users/Program Files/codes.exe
+System32/System32/Users/excel.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/data.bat
+System32/Program Files (x86)/Drivers/Drivers/javaw.docx
+System32/Program Files (x86)/javac.jar
+System32/Users/Windows/minecraft.docx
+System32/Microsoft/Drivers/java.doc
+System32/Drivers/chrome.exe
+System32/Program Files (x86)/explorer.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/java.doc
+System32/Riot Games/firefox.docx
+System32/Program Files (x86)/Program Files/Riot Games/Windows/winword
+System32/System32/Users/data.doc
+System32/Program Files (x86)/Microsoft/explorer.docx
+System32/Users/Windows/java
+System32/Riot Games/excel.exe
+System32/Program Files/minecraft
+System32/Users/Windows/cmd.cmd
+System32/Program Files (x86)/Program Files/Riot Games/Windows/ghci.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/javac.cmd
+System32/Users/Program Files/minecraft.bat
+System32/Microsoft/Drivers/java.cmd
+System32/Program Files/codes.docx
+System32/Program Files (x86)/Windows/excel.doc
+System32/Microsoft/codes.docx
+System32/Program Files/codes
+System32/Riot Games/python.bat
+System32/Program Files (x86)/Microsoft/python.jar
+System32/Program Files (x86)/ghci.jar
+System32/Microsoft/Drivers/chrome.docx
+System32/Microsoft/spotify.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/javac.bat
+System32/Program Files (x86)/Microsoft/java.exe
+System32/Users/Program Files/cmd.bat
+System32/Riot Games/codes.docx
+System32/Program Files/spotify
+System32/System32/Users/explorer.bat
+System32/Program Files (x86)/Program Files/Riot Games/Windows/javaw.jar
+System32/Users/Windows/explorer.exe
+System32/Users/Windows/javac
+System32/System32/Users/explorer.jar
+System32/Microsoft/Drivers/explorer.bat
+System32/Program Files (x86)/javaw.exe
+System32/Microsoft/Drivers/winword.jar
+System32/Program Files (x86)/java.jar
+System32/Users/Program Files/chrome
+System32/Microsoft/javaw.jar
+System32/Drivers/excel.jar
+System32/Drivers/firefox.jar
+System32/Program Files (x86)/Microsoft/python.exe
+System32/Program Files (x86)/Microsoft/minecraft.doc
+System32/Program Files (x86)/Program Files/Riot Games/Windows/data
+System32/Program Files (x86)/Microsoft/explorer.cmd
+System32/Riot Games/cmd.jar
+System32/Program Files (x86)/chrome.jar
+System32/Microsoft/chrome.doc
+System32/Program Files (x86)/Windows/data.cmd
+System32/Program Files (x86)/Drivers/Drivers/javac.bat
+System32/Windows/javac
+System32/Program Files (x86)/Windows/cmd.exe
+System32/Windows/chrome.bat
+System32/Users/Windows/javac.exe
+System32/Program Files (x86)/Microsoft/java.doc
+System32/Users/Windows/codes.bat
+System32/Users/Windows/ghci.doc
+System32/Users/Windows/python.docx
+System32/Users/Windows/data.cmd
+System32/Drivers/data.cmd
+System32/Microsoft/Drivers/ghci.exe
+System32/Program Files (x86)/Microsoft/minecraft.jar
+System32/Users/Program Files/javac.docx
+System32/Riot Games/cmd.doc
+System32/Windows/winword.cmd
+System32/Windows/minecraft.bat
+System32/Program Files (x86)/winword.bat
+System32/Riot Games/java.docx
+System32/Users/Windows/chrome.bat
+System32/Windows/java
+System32/Users/Windows/python.jar
+System32/Program Files (x86)/python.exe
+System32/Riot Games/javac.exe
+System32/Program Files (x86)/Windows/javac
+System32/System32/Users/data.jar
+System32/Drivers/python.bat
+System32/Users/Program Files/codes.bat
+System32/System32/Users/minecraft.doc
+System32/Microsoft/Drivers/data.jar

@@ -1,0 +1,105 @@
+SYSWOW64/
++-Drivers/
+| +-System32/
+| | +-Drivers/
+| |   +-chrome.docx
+| |   +-cmd.exe
+| |   +-javac
+| |   +-winword.doc
+| +-Windows/
+| | +-explorer.docx
+| | +-firefox.bat
+| | +-ghci.bat
+| +-chrome.jar
+| +-excel.jar
+| +-explorer.cmd
+| +-firefox.doc
+| +-minecraft.bat
++-Microsoft/
+| +-Program Files (x86)/
+| | +-Users/
+| |   +-explorer.jar
+| |   +-firefox.exe
+| |   +-javac
+| |   +-javac.bat
+| |   +-python.jar
+| +-cmd.bat
+| +-excel.exe
+| +-explorer.exe
+| +-winword.bat
++-Program Files/
+| +-Microsoft/
+| | +-data.cmd
+| | +-excel.cmd
+| | +-explorer.doc
+| | +-firefox
+| | +-firefox.bat
+| | +-firefox.cmd
+| +-Program Files (x86)/
+| | +-System32/
+| | | +-Windows/
+| | |   +-codes.docx
+| | |   +-data.doc
+| | |   +-firefox.jar
+| | |   +-javac.exe
+| | |   +-javaw.jar
+| | +-chrome.bat
+| | +-explorer.exe
+| | +-javac
+| +-codes
+| +-explorer.doc
+| +-javaw.docx
++-Program Files (x86)/
+| +-firefox.doc
+| +-ghci.bat
++-Riot Games/
+| +-Drivers/
+| | +-codes.bat
+| | +-excel.doc
+| +-winword.bat
++-SYSWOW64/
+| +-Program Files (x86)/
+| | +-cmd.docx
+| | +-java.exe
+| +-chrome
+| +-cmd.doc
+| +-excel.docx
+| +-ghci.bat
+| +-javac.exe
++-System32/
+| +-System32/
+| | +-chrome.bat
+| | +-codes.doc
+| +-cmd.exe
+| +-java.doc
+| +-javac.doc
+| +-javaw.doc
+| +-python.cmd
++-Users/
+| +-Program Files/
+| | +-chrome.exe
+| | +-codes
+| | +-explorer
+| | +-explorer.jar
+| | +-firefox.bat
+| +-SYSWOW64/
+| | +-data.docx
+| | +-explorer.exe
+| +-cmd.exe
+| +-firefox.jar
+| +-ghci.exe
+| +-ghci.jar
+| +-java.bat
+| +-python.cmd
++-Windows/
+  +-Program Files/
+  | +-chrome.docx
+  | +-cmd.cmd
+  | +-java.cmd
+  | +-minecraft.exe
+  +-cmd
+  +-java.doc
+  +-minecraft
+  +-minecraft.cmd
+  +-python.jar
+  +-winword.jar

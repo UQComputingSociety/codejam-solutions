@@ -1,0 +1,8756 @@
+8755
+Drivers/
++-Drivers/
+| +-Users/
+| | +-admin
+| | +-ar.jar
+| | +-at.bat
+| | +-awk.cmd
+| | +-awk.jar
+| | +-bg.jar
+| | +-cal.bat
+| | +-cat.exe
+| | +-cd.cmd
+| | +-cflow.doc
+| | +-chmod.docx
+| | +-choco
+| | +-cmd
+| | +-cmd.bat
+| | +-cmd.doc
+| | +-codes.doc
+| | +-command
+| | +-crontab.cmd
+| | +-csplit.doc
+| | +-csplit.docx
+| | +-csplit.jar
+| | +-cut.bat
+| | +-cut.cmd
+| | +-cxref.exe
+| | +-date
+| | +-date.exe
+| | +-date.jar
+| | +-dd.cmd
+| | +-df.bat
+| | +-dirname.cmd
+| | +-dirname.jar
+| | +-du.jar
+| | +-echo.cmd
+| | +-echo.docx
+| | +-echo.jar
+| | +-ex
+| | +-expr.docx
+| | +-fg.doc
+| | +-find.docx
+| | +-firefox.bat
+| | +-fold.bat
+| | +-fort77
+| | +-get.bat
+| | +-get.cmd
+| | +-getconf.cmd
+| | +-ghci.jar
+| | +-grep
+| | +-iconv.doc
+| | +-ipcrm.jar
+| | +-java
+| | +-java.jar
+| | +-javac.bat
+| | +-javaw.cmd
+| | +-link.docx
+| | +-localedef.cmd
+| | +-logname
+| | +-lp.doc
+| | +-ls.docx
+| | +-m4
+| | +-make.cmd
+| | +-minecraft.bat
+| | +-minecraft.cmd
+| | +-minecraft.doc
+| | +-mkfifo.doc
+| | +-more.bat
+| | +-more.exe
+| | +-mv.jar
+| | +-newgrp.docx
+| | +-nice.exe
+| | +-nl.jar
+| | +-nm.jar
+| | +-od.exe
+| | +-paste.exe
+| | +-patch.jar
+| | +-pathchk.cmd
+| | +-pax.docx
+| | +-printf.bat
+| | +-prs.bat
+| | +-ps
+| | +-qhold.jar
+| | +-qmsg
+| | +-qmsg.exe
+| | +-qsub.doc
+| | +-qsub.jar
+| | +-renice.cmd
+| | +-rmdel
+| | +-rmdel.jar
+| | +-rmdir.exe
+| | +-ruby.cmd
+| | +-sact.doc
+| | +-sccs.bat
+| | +-sh
+| | +-sh.cmd
+| | +-sleep
+| | +-sleep.exe
+| | +-sort.exe
+| | +-spotify
+| | +-spotify.doc
+| | +-strings.docx
+| | +-strings.jar
+| | +-strip.bat
+| | +-strip.doc
+| | +-stty.bat
+| | +-tee.doc
+| | +-test.doc
+| | +-time.cmd
+| | +-tput.bat
+| | +-tr.docx
+| | +-tr.exe
+| | +-tr.jar
+| | +-tty.docx
+| | +-type.exe
+| | +-type.jar
+| | +-ulimit.bat
+| | +-ulimit.doc
+| | +-ulimit.exe
+| | +-umask
+| | +-uname.doc
+| | +-uncompress.doc
+| | +-unexpand.doc
+| | +-uniq
+| | +-uudecode.bat
+| | +-uuencode.doc
+| | +-uustat.bat
+| | +-uux.doc
+| | +-val.docx
+| | +-vi.exe
+| | +-vim.jar
+| | +-vimtutor
+| | +-wc.bat
+| | +-who.doc
+| | +-winword.docx
+| | +-yacc.docx
+| +-Windows/
+| | +-Riot Games/
+| |   +-admin.exe
+| |   +-alias.bat
+| |   +-alias.cmd
+| |   +-at.exe
+| |   +-awk.docx
+| |   +-batch.docx
+| |   +-batch.exe
+| |   +-cal.jar
+| |   +-cat.jar
+| |   +-cd.doc
+| |   +-chgrp.cmd
+| |   +-chgrp.doc
+| |   +-chmod.bat
+| |   +-chmod.docx
+| |   +-choco.doc
+| |   +-chown
+| |   +-comm.jar
+| |   +-command.doc
+| |   +-cp.doc
+| |   +-crontab.doc
+| |   +-crontab.exe
+| |   +-crontab.jar
+| |   +-csplit.doc
+| |   +-cut.exe
+| |   +-cxref.doc
+| |   +-echo.doc
+| |   +-env.cmd
+| |   +-env.exe
+| |   +-ex.docx
+| |   +-ex.jar
+| |   +-false.jar
+| |   +-fc
+| |   +-fc.exe
+| |   +-fg.cmd
+| |   +-file.bat
+| |   +-file.cmd
+| |   +-file.docx
+| |   +-file.jar
+| |   +-fold
+| |   +-fold.doc
+| |   +-fold.exe
+| |   +-fort77.bat
+| |   +-fuser.bat
+| |   +-fuser.exe
+| |   +-gencat.exe
+| |   +-get.bat
+| |   +-get.cmd
+| |   +-get.doc
+| |   +-getopts.cmd
+| |   +-ghci.docx
+| |   +-ghci.exe
+| |   +-grep
+| |   +-hash.doc
+| |   +-head.cmd
+| |   +-iconv.docx
+| |   +-id.doc
+| |   +-java
+| |   +-javac.bat
+| |   +-javac.jar
+| |   +-join.doc
+| |   +-kill.docx
+| |   +-kill.jar
+| |   +-lex.bat
+| |   +-lex.exe
+| |   +-ln.jar
+| |   +-locale
+| |   +-locale.cmd
+| |   +-locale.doc
+| |   +-locale.jar
+| |   +-localedef.jar
+| |   +-lp
+| |   +-ls
+| |   +-ls.jar
+| |   +-m4.jar
+| |   +-mailx.bat
+| |   +-make.bat
+| |   +-mesg
+| |   +-minecraft
+| |   +-minecraft.doc
+| |   +-minecraft.jar
+| |   +-mkdir.exe
+| |   +-more
+| |   +-nm.bat
+| |   +-paste.cmd
+| |   +-pathchk.exe
+| |   +-pax.cmd
+| |   +-printf.bat
+| |   +-printf.cmd
+| |   +-qalter.bat
+| |   +-qdel.bat
+| |   +-qdel.cmd
+| |   +-qhold.bat
+| |   +-qmove.jar
+| |   +-qrls.bat
+| |   +-qsig.bat
+| |   +-qsig.cmd
+| |   +-qstat
+| |   +-qstat.cmd
+| |   +-read.jar
+| |   +-rm.docx
+| |   +-strings.bat
+| |   +-strings.doc
+| |   +-strip.jar
+| |   +-stty.jar
+| |   +-tabs.cmd
+| |   +-talk.exe
+| |   +-test
+| |   +-test.bat
+| |   +-test.doc
+| |   +-test.docx
+| |   +-time.bat
+| |   +-time.cmd
+| |   +-time.docx
+| |   +-touch.cmd
+| |   +-tput.cmd
+| |   +-tsort.docx
+| |   +-tty.doc
+| |   +-tty.docx
+| |   +-tty.exe
+| |   +-tty.jar
+| |   +-ulimit
+| |   +-ulimit.docx
+| |   +-unalias.cmd
+| |   +-unalias.doc
+| |   +-uniq.cmd
+| |   +-uucp.cmd
+| |   +-uudecode.jar
+| |   +-uuencode.cmd
+| |   +-uuencode.docx
+| |   +-uuencode.exe
+| |   +-uustat.docx
+| |   +-uux.bat
+| |   +-val.bat
+| |   +-val.cmd
+| |   +-val.docx
+| |   +-val.jar
+| |   +-vim.docx
+| |   +-vim.jar
+| |   +-vimtutor.cmd
+| |   +-wait.exe
+| |   +-wc
+| |   +-winword.bat
+| |   +-zcat.bat
+| |   +-zcat.exe
+| |   +-zcat.jar
+| +-alias.docx
+| +-at.bat
+| +-awk.bat
+| +-awk.doc
+| +-basename
+| +-batch
+| +-batch.doc
+| +-batch.exe
+| +-bg.cmd
+| +-cal.docx
+| +-cat.jar
+| +-cd
+| +-chmod.exe
+| +-chown.cmd
+| +-cmd
+| +-cmd.bat
+| +-cmp.cmd
+| +-comm.cmd
+| +-comm.docx
+| +-csplit.cmd
+| +-csplit.exe
+| +-cut.cmd
+| +-data
+| +-dd
+| +-df.bat
+| +-df.doc
+| +-diff.jar
+| +-dir.bat
+| +-du
+| +-echo.doc
+| +-ex.cmd
+| +-excel
+| +-excel.cmd
+| +-expand.doc
+| +-explorer.docx
+| +-expr.jar
+| +-fc.cmd
+| +-fg.exe
+| +-file.bat
+| +-file.jar
+| +-find.bat
+| +-fold.cmd
+| +-get
+| +-getconf.bat
+| +-getconf.docx
+| +-getopts.bat
+| +-grep
+| +-hash.docx
+| +-iconv.bat
+| +-id.bat
+| +-ipcs
+| +-ipcs.bat
+| +-ipcs.doc
+| +-java.exe
+| +-jobs
+| +-kill.bat
+| +-link.exe
+| +-ln.bat
+| +-ln.doc
+| +-localedef.cmd
+| +-localedef.exe
+| +-ls.doc
+| +-ls.jar
+| +-mailx.jar
+| +-man.doc
+| +-man.exe
+| +-mesg
+| +-mesg.doc
+| +-mesg.exe
+| +-mkdir.bat
+| +-mkdir.jar
+| +-nl
+| +-od.jar
+| +-paste.cmd
+| +-patch.docx
+| +-pathchk.exe
+| +-pax.docx
+| +-printf.docx
+| +-pwd.bat
+| +-python.bat
+| +-qdel.bat
+| +-qhold.bat
+| +-qmsg
+| +-qmsg.docx
+| +-qrerun
+| +-qrerun.doc
+| +-qrls.bat
+| +-qrls.cmd
+| +-qsig
+| +-qstat.cmd
+| +-qstat.jar
+| +-qsub.bat
+| +-renice
+| +-rm.bat
+| +-rm.docx
+| +-rmdel.docx
+| +-rmdir.bat
+| +-rmdir.doc
+| +-ruby.bat
+| +-sact.bat
+| +-sact.docx
+| +-sed.docx
+| +-sh.docx
+| +-split.docx
+| +-spotify
+| +-spotify.cmd
+| +-spotify.exe
+| +-strings.jar
+| +-strip.doc
+| +-stty.exe
+| +-tabs.doc
+| +-tabs.exe
+| +-tail.cmd
+| +-talk.bat
+| +-talk.exe
+| +-talk.jar
+| +-time.bat
+| +-time.doc
+| +-touch.doc
+| +-tput.docx
+| +-tsort.jar
+| +-tty.exe
+| +-ulimit.cmd
+| +-ulimit.jar
+| +-unalias.cmd
+| +-unalias.exe
+| +-unexpand.exe
+| +-unget.jar
+| +-uniq
+| +-unlink.jar
+| +-uucp.cmd
+| +-uudecode.doc
+| +-uustat
+| +-uux.docx
+| +-val.bat
+| +-val.doc
+| +-vi
+| +-vi.bat
+| +-vi.doc
+| +-vim.cmd
+| +-wait.cmd
+| +-what.jar
+| +-write.bat
+| +-write.jar
+| +-yacc
+| +-yacc.bat
++-Microsoft/
+| +-Drivers/
+| | +-at
+| | +-batch.cmd
+| | +-bc
+| | +-bc.bat
+| | +-bg.doc
+| | +-cat.exe
+| | +-cd.doc
+| | +-cd.docx
+| | +-cd.exe
+| | +-chgrp.bat
+| | +-chgrp.doc
+| | +-chrome
+| | +-chrome.docx
+| | +-chrome.exe
+| | +-cksum.bat
+| | +-cmp.docx
+| | +-codes.exe
+| | +-codes.jar
+| | +-comm
+| | +-comm.cmd
+| | +-compress
+| | +-compress.bat
+| | +-cp.doc
+| | +-crontab
+| | +-crontab.bat
+| | +-csplit.exe
+| | +-ctags.docx
+| | +-ctags.jar
+| | +-cxref.cmd
+| | +-data.cmd
+| | +-df.jar
+| | +-diff.exe
+| | +-diff.jar
+| | +-dir.docx
+| | +-dirname.cmd
+| | +-dirname.docx
+| | +-dirname.exe
+| | +-du.bat
+| | +-env
+| | +-env.docx
+| | +-excel.bat
+| | +-excel.cmd
+| | +-excel.jar
+| | +-explorer.docx
+| | +-false.cmd
+| | +-find
+| | +-fort77.jar
+| | +-fuser.cmd
+| | +-fuser.exe
+| | +-fuser.jar
+| | +-gencat.docx
+| | +-getconf.doc
+| | +-getconf.jar
+| | +-getopts.exe
+| | +-getopts.jar
+| | +-ghci
+| | +-ghci.bat
+| | +-hash.cmd
+| | +-ipcs.cmd
+| | +-java.doc
+| | +-javac.jar
+| | +-javaw
+| | +-javaw.cmd
+| | +-javaw.doc
+| | +-jobs
+| | +-link
+| | +-localedef.exe
+| | +-logname.exe
+| | +-lp
+| | +-make.cmd
+| | +-make.docx
+| | +-more.doc
+| | +-nice
+| | +-nohup
+| | +-nohup.cmd
+| | +-od.cmd
+| | +-od.exe
+| | +-paste.cmd
+| | +-pathchk.jar
+| | +-pax
+| | +-pax.exe
+| | +-printf.docx
+| | +-prs
+| | +-prs.cmd
+| | +-prs.docx
+| | +-pwd.bat
+| | +-qdel
+| | +-qdel.cmd
+| | +-qdel.doc
+| | +-qrerun.cmd
+| | +-qrls.docx
+| | +-qselect.docx
+| | +-qsig.cmd
+| | +-qstat.exe
+| | +-qstat.jar
+| | +-qsub.exe
+| | +-read.jar
+| | +-renice.doc
+| | +-rmdel
+| | +-rmdir.bat
+| | +-split.doc
+| | +-spotify.bat
+| | +-strip
+| | +-strip.bat
+| | +-stty.jar
+| | +-talk.doc
+| | +-tee
+| | +-test.cmd
+| | +-test.exe
+| | +-test.jar
+| | +-time.cmd
+| | +-touch.cmd
+| | +-touch.exe
+| | +-tput.exe
+| | +-tr.cmd
+| | +-tsort
+| | +-type.docx
+| | +-type.exe
+| | +-umask.docx
+| | +-uname.docx
+| | +-uname.exe
+| | +-uucp.jar
+| | +-uudecode.doc
+| | +-uuencode.docx
+| | +-uustat.cmd
+| | +-vi.cmd
+| | +-vi.doc
+| | +-vim.bat
+| | +-who.exe
+| | +-winword.bat
+| | +-winword.jar
+| | +-write.docx
+| | +-xargs.bat
+| | +-zcat.exe
+| +-Program Files/
+| | +-System32/
+| | | +-admin.cmd
+| | | +-alias.bat
+| | | +-alias.jar
+| | | +-asa.bat
+| | | +-asa.exe
+| | | +-at.cmd
+| | | +-awk
+| | | +-awk.docx
+| | | +-basename.jar
+| | | +-bc.cmd
+| | | +-bg
+| | | +-bg.bat
+| | | +-bg.docx
+| | | +-cal
+| | | +-cat.doc
+| | | +-cflow
+| | | +-cflow.cmd
+| | | +-chgrp.bat
+| | | +-chgrp.docx
+| | | +-choco
+| | | +-comm.docx
+| | | +-cp.bat
+| | | +-ctags.cmd
+| | | +-ctags.exe
+| | | +-data.cmd
+| | | +-date.doc
+| | | +-dd.cmd
+| | | +-dd.exe
+| | | +-df
+| | | +-dir.exe
+| | | +-du.cmd
+| | | +-du.doc
+| | | +-ed.doc
+| | | +-excel.cmd
+| | | +-expand.cmd
+| | | +-expand.doc
+| | | +-expand.jar
+| | | +-expr
+| | | +-expr.cmd
+| | | +-expr.doc
+| | | +-false.bat
+| | | +-fc
+| | | +-fc.doc
+| | | +-fc.docx
+| | | +-fg.exe
+| | | +-fg.jar
+| | | +-file
+| | | +-file.cmd
+| | | +-firefox.docx
+| | | +-fold.cmd
+| | | +-fuser.exe
+| | | +-get.cmd
+| | | +-getconf.doc
+| | | +-grep.exe
+| | | +-hash
+| | | +-hash.cmd
+| | | +-head
+| | | +-id.docx
+| | | +-java
+| | | +-java.docx
+| | | +-javac.cmd
+| | | +-javac.jar
+| | | +-javaw
+| | | +-javaw.exe
+| | | +-jobs.cmd
+| | | +-jobs.docx
+| | | +-join.bat
+| | | +-kill.bat
+| | | +-kill.jar
+| | | +-lex.exe
+| | | +-locale
+| | | +-locale.bat
+| | | +-logname.cmd
+| | | +-lp.exe
+| | | +-ls.exe
+| | | +-ls.jar
+| | | +-mailx.jar
+| | | +-make
+| | | +-man.bat
+| | | +-mkdir.doc
+| | | +-mkdir.docx
+| | | +-mkfifo.cmd
+| | | +-mkfifo.jar
+| | | +-newgrp
+| | | +-nl.doc
+| | | +-nm.cmd
+| | | +-nm.doc
+| | | +-od.docx
+| | | +-od.exe
+| | | +-paste.exe
+| | | +-patch
+| | | +-patch.exe
+| | | +-pathchk.bat
+| | | +-pathchk.doc
+| | | +-pax
+| | | +-printf
+| | | +-printf.docx
+| | | +-prs.docx
+| | | +-ps.cmd
+| | | +-pwd
+| | | +-qalter.doc
+| | | +-qhold.bat
+| | | +-qhold.jar
+| | | +-qmove.cmd
+| | | +-qselect
+| | | +-qselect.cmd
+| | | +-qsig.cmd
+| | | +-qsub
+| | | +-qsub.bat
+| | | +-qsub.jar
+| | | +-read.bat
+| | | +-regedit.cmd
+| | | +-renice.bat
+| | | +-renice.jar
+| | | +-ruby.cmd
+| | | +-sccs.doc
+| | | +-sed.cmd
+| | | +-sleep.cmd
+| | | +-sort.bat
+| | | +-spotify.docx
+| | | +-ssh.docx
+| | | +-tabs
+| | | +-tee.doc
+| | | +-test.bat
+| | | +-touch.jar
+| | | +-true
+| | | +-tty.exe
+| | | +-type.exe
+| | | +-type.jar
+| | | +-ulimit
+| | | +-umask
+| | | +-umask.exe
+| | | +-unalias.bat
+| | | +-unalias.doc
+| | | +-uname.exe
+| | | +-uncompress.doc
+| | | +-unexpand.jar
+| | | +-unget
+| | | +-unget.cmd
+| | | +-unlink.bat
+| | | +-unlink.cmd
+| | | +-uudecode
+| | | +-uudecode.bat
+| | | +-uudecode.cmd
+| | | +-uuencode
+| | | +-uuencode.exe
+| | | +-uustat.bat
+| | | +-uustat.cmd
+| | | +-vim
+| | | +-wait.cmd
+| | | +-wc.doc
+| | | +-what.jar
+| | | +-xargs
+| | | +-zcat
+| | | +-zcat.bat
+| | +-Users/
+| |   +-Program Files (x86)/
+| |     +-admin.cmd
+| |     +-alias.cmd
+| |     +-at.bat
+| |     +-awk.docx
+| |     +-basename.cmd
+| |     +-batch
+| |     +-bg.docx
+| |     +-bg.jar
+| |     +-cal.doc
+| |     +-cat.cmd
+| |     +-cflow.docx
+| |     +-chmod
+| |     +-chmod.bat
+| |     +-chmod.cmd
+| |     +-choco.jar
+| |     +-chown.docx
+| |     +-chrome
+| |     +-chrome.doc
+| |     +-cksum.cmd
+| |     +-cksum.jar
+| |     +-cmp.cmd
+| |     +-codes.doc
+| |     +-compress.jar
+| |     +-crontab.doc
+| |     +-csplit.cmd
+| |     +-ctags.cmd
+| |     +-cut
+| |     +-cxref
+| |     +-date.cmd
+| |     +-du.bat
+| |     +-echo.jar
+| |     +-ed.bat
+| |     +-env.doc
+| |     +-ex.cmd
+| |     +-excel.bat
+| |     +-excel.exe
+| |     +-expr.bat
+| |     +-false.exe
+| |     +-fg.bat
+| |     +-fg.doc
+| |     +-fold.bat
+| |     +-fold.doc
+| |     +-fold.exe
+| |     +-fort77.cmd
+| |     +-fuser.jar
+| |     +-gencat.docx
+| |     +-getconf
+| |     +-getconf.cmd
+| |     +-getconf.jar
+| |     +-getopts.exe
+| |     +-grep.exe
+| |     +-hash.docx
+| |     +-iconv.doc
+| |     +-id
+| |     +-ipcs.bat
+| |     +-ipcs.doc
+| |     +-join.docx
+| |     +-lex
+| |     +-ln
+| |     +-localedef.bat
+| |     +-logger.bat
+| |     +-logname.exe
+| |     +-lp.exe
+| |     +-ls.cmd
+| |     +-ls.doc
+| |     +-mailx
+| |     +-mailx.cmd
+| |     +-mailx.doc
+| |     +-man.cmd
+| |     +-minecraft.exe
+| |     +-minecraft.jar
+| |     +-mkdir.bat
+| |     +-mkdir.cmd
+| |     +-mkdir.jar
+| |     +-mkfifo
+| |     +-mv
+| |     +-mv.docx
+| |     +-nl
+| |     +-paste.bat
+| |     +-patch.doc
+| |     +-pathchk.doc
+| |     +-pax
+| |     +-pr.bat
+| |     +-pr.doc
+| |     +-printf.cmd
+| |     +-ps.cmd
+| |     +-pwd.exe
+| |     +-pwd.jar
+| |     +-python
+| |     +-qdel.bat
+| |     +-qdel.doc
+| |     +-qhold.doc
+| |     +-qrerun.cmd
+| |     +-qrls.jar
+| |     +-qselect
+| |     +-qsig.jar
+| |     +-qstat.doc
+| |     +-qsub.bat
+| |     +-read.doc
+| |     +-regedit
+| |     +-regedit.bat
+| |     +-renice.cmd
+| |     +-rmdel.bat
+| |     +-sact.cmd
+| |     +-sccs.bat
+| |     +-sccs.jar
+| |     +-sleep
+| |     +-sort.cmd
+| |     +-split.jar
+| |     +-spotify.doc
+| |     +-tabs.bat
+| |     +-tabs.cmd
+| |     +-talk.jar
+| |     +-test.jar
+| |     +-time.docx
+| |     +-time.exe
+| |     +-true.bat
+| |     +-tsort
+| |     +-tsort.cmd
+| |     +-tty.bat
+| |     +-tty.exe
+| |     +-type.docx
+| |     +-type.exe
+| |     +-ulimit.jar
+| |     +-unexpand.doc
+| |     +-unget.doc
+| |     +-uniq.docx
+| |     +-unlink.exe
+| |     +-uuencode
+| |     +-uustat
+| |     +-uux.doc
+| |     +-wait.bat
+| |     +-wc
+| |     +-what.docx
+| |     +-what.jar
+| |     +-who.cmd
+| |     +-who.jar
+| |     +-write.exe
+| +-Riot Games/
+| | +-admin.cmd
+| | +-asa.docx
+| | +-at.cmd
+| | +-awk
+| | +-awk.jar
+| | +-basename.bat
+| | +-cal.jar
+| | +-cat.bat
+| | +-cat.cmd
+| | +-cd
+| | +-chmod.bat
+| | +-chmod.jar
+| | +-choco.jar
+| | +-chown.exe
+| | +-chown.jar
+| | +-chrome.exe
+| | +-cmd.bat
+| | +-cmp
+| | +-cmp.bat
+| | +-codes.doc
+| | +-codes.exe
+| | +-command
+| | +-command.cmd
+| | +-compress.exe
+| | +-cp
+| | +-crontab.exe
+| | +-csplit
+| | +-csplit.doc
+| | +-ctags.docx
+| | +-date.doc
+| | +-delta
+| | +-delta.doc
+| | +-df.doc
+| | +-dir
+| | +-dirname.bat
+| | +-dirname.doc
+| | +-dirname.docx
+| | +-ex.doc
+| | +-expand.cmd
+| | +-explorer.docx
+| | +-false
+| | +-false.cmd
+| | +-fc.docx
+| | +-file.docx
+| | +-firefox.bat
+| | +-firefox.cmd
+| | +-fort77
+| | +-fort77.cmd
+| | +-gencat.cmd
+| | +-get.jar
+| | +-getconf.cmd
+| | +-getopts
+| | +-ghci.bat
+| | +-ghci.cmd
+| | +-ghci.docx
+| | +-hash.exe
+| | +-hash.jar
+| | +-head.exe
+| | +-iconv.bat
+| | +-ipcrm
+| | +-java
+| | +-java.bat
+| | +-javaw
+| | +-jobs.jar
+| | +-join.docx
+| | +-ln.cmd
+| | +-ln.jar
+| | +-locale.bat
+| | +-locale.docx
+| | +-logname.bat
+| | +-lp
+| | +-m4.cmd
+| | +-m4.jar
+| | +-make.exe
+| | +-make.jar
+| | +-man.exe
+| | +-mesg
+| | +-minecraft.bat
+| | +-minecraft.cmd
+| | +-mkfifo
+| | +-mkfifo.bat
+| | +-mkfifo.docx
+| | +-mkfifo.exe
+| | +-more.exe
+| | +-mv.doc
+| | +-mv.docx
+| | +-newgrp.jar
+| | +-nice.doc
+| | +-nl.docx
+| | +-nohup.cmd
+| | +-nohup.docx
+| | +-od
+| | +-od.exe
+| | +-pathchk.docx
+| | +-pax.docx
+| | +-pax.exe
+| | +-prs.bat
+| | +-pwd.bat
+| | +-pwd.doc
+| | +-qdel.jar
+| | +-qmsg
+| | +-qrerun.docx
+| | +-qrls.docx
+| | +-qsig
+| | +-qsig.bat
+| | +-qsig.doc
+| | +-qsig.jar
+| | +-qstat.cmd
+| | +-read.bat
+| | +-read.cmd
+| | +-rm.bat
+| | +-rmdel.cmd
+| | +-rmdel.jar
+| | +-sact.bat
+| | +-sccs.cmd
+| | +-sh
+| | +-sh.bat
+| | +-split.bat
+| | +-split.doc
+| | +-split.exe
+| | +-split.jar
+| | +-strip.doc
+| | +-stty.cmd
+| | +-tabs.docx
+| | +-talk.exe
+| | +-tee.doc
+| | +-test.exe
+| | +-time.docx
+| | +-touch.bat
+| | +-touch.jar
+| | +-tr.docx
+| | +-tsort.doc
+| | +-tsort.docx
+| | +-ulimit.bat
+| | +-ulimit.doc
+| | +-umask.jar
+| | +-uname.cmd
+| | +-uname.doc
+| | +-uncompress.bat
+| | +-uncompress.docx
+| | +-unget.cmd
+| | +-unlink.exe
+| | +-uuencode.exe
+| | +-uuencode.jar
+| | +-uux.docx
+| | +-vim.docx
+| | +-vimtutor.exe
+| | +-wait
+| | +-wc.cmd
+| | +-wc.jar
+| | +-zcat.jar
+| +-SYSWOW64/
+| | +-alias.doc
+| | +-alias.exe
+| | +-ar.docx
+| | +-awk.cmd
+| | +-awk.docx
+| | +-batch.cmd
+| | +-cat
+| | +-cat.jar
+| | +-cd.cmd
+| | +-chgrp.doc
+| | +-chrome.doc
+| | +-chrome.exe
+| | +-cksum.cmd
+| | +-cmd
+| | +-cmd.docx
+| | +-cmp.cmd
+| | +-codes.docx
+| | +-comm
+| | +-comm.jar
+| | +-crontab.cmd
+| | +-csplit.jar
+| | +-ctags.cmd
+| | +-cut.cmd
+| | +-data.jar
+| | +-dd.jar
+| | +-diff.cmd
+| | +-dirname
+| | +-env.cmd
+| | +-ex.exe
+| | +-ex.jar
+| | +-excel.doc
+| | +-excel.jar
+| | +-expr.bat
+| | +-expr.docx
+| | +-fc.exe
+| | +-fg
+| | +-file
+| | +-firefox.exe
+| | +-fold
+| | +-fold.docx
+| | +-fuser.bat
+| | +-gencat.bat
+| | +-gencat.doc
+| | +-getconf.jar
+| | +-getopts.cmd
+| | +-getopts.doc
+| | +-ghci.bat
+| | +-ghci.cmd
+| | +-grep.docx
+| | +-head.docx
+| | +-iconv.cmd
+| | +-iconv.exe
+| | +-iconv.jar
+| | +-id.cmd
+| | +-id.docx
+| | +-java.cmd
+| | +-java.exe
+| | +-java.jar
+| | +-javac
+| | +-javaw.cmd
+| | +-kill.cmd
+| | +-link.bat
+| | +-ln.cmd
+| | +-ln.exe
+| | +-lp
+| | +-ls
+| | +-ls.doc
+| | +-ls.docx
+| | +-m4.docx
+| | +-m4.exe
+| | +-make
+| | +-minecraft.cmd
+| | +-minecraft.jar
+| | +-mkfifo.exe
+| | +-newgrp.cmd
+| | +-newgrp.doc
+| | +-newgrp.jar
+| | +-nl.doc
+| | +-nm.docx
+| | +-nm.exe
+| | +-nohup.cmd
+| | +-od.cmd
+| | +-od.jar
+| | +-paste.bat
+| | +-paste.doc
+| | +-pathchk.exe
+| | +-pax.exe
+| | +-pr.exe
+| | +-ps
+| | +-ps.cmd
+| | +-pwd.cmd
+| | +-python.cmd
+| | +-qalter.docx
+| | +-qdel.exe
+| | +-qmove.bat
+| | +-qmsg.docx
+| | +-qrerun.exe
+| | +-qrls.doc
+| | +-qselect.doc
+| | +-qselect.exe
+| | +-read.cmd
+| | +-regedit.bat
+| | +-renice.exe
+| | +-rm.jar
+| | +-sact
+| | +-sccs.exe
+| | +-sed.bat
+| | +-sh.cmd
+| | +-sh.exe
+| | +-sleep
+| | +-sleep.exe
+| | +-spotify.cmd
+| | +-spotify.docx
+| | +-ssh.docx
+| | +-strings.docx
+| | +-tabs.jar
+| | +-talk.exe
+| | +-time.doc
+| | +-time.docx
+| | +-time.exe
+| | +-time.jar
+| | +-touch.cmd
+| | +-tput.bat
+| | +-tput.cmd
+| | +-tput.doc
+| | +-tput.exe
+| | +-tr.exe
+| | +-true
+| | +-true.bat
+| | +-tsort
+| | +-tty.cmd
+| | +-umask.doc
+| | +-unalias.exe
+| | +-uname.jar
+| | +-uncompress
+| | +-unget.bat
+| | +-unget.doc
+| | +-unlink.docx
+| | +-unlink.jar
+| | +-uucp.bat
+| | +-uudecode.bat
+| | +-uuencode.doc
+| | +-val.bat
+| | +-vi.jar
+| | +-vim
+| | +-vim.jar
+| | +-what.doc
+| | +-who.exe
+| | +-who.jar
+| | +-zcat.docx
+| | +-zcat.exe
+| | +-zcat.jar
+| +-Users/
+| | +-System32/
+| | | +-alias.bat
+| | | +-ar.bat
+| | | +-asa.bat
+| | | +-at
+| | | +-basename.doc
+| | | +-batch.doc
+| | | +-cal.docx
+| | | +-cal.jar
+| | | +-cat.exe
+| | | +-cd.cmd
+| | | +-cflow.doc
+| | | +-cflow.docx
+| | | +-cflow.jar
+| | | +-choco.cmd
+| | | +-chown.exe
+| | | +-cksum.docx
+| | | +-cksum.exe
+| | | +-cmd.cmd
+| | | +-codes.jar
+| | | +-cp.jar
+| | | +-ctags.bat
+| | | +-data.doc
+| | | +-date.jar
+| | | +-dd.docx
+| | | +-delta.cmd
+| | | +-delta.doc
+| | | +-dir
+| | | +-dir.bat
+| | | +-ed.jar
+| | | +-env.bat
+| | | +-expr.bat
+| | | +-fc.exe
+| | | +-fg.cmd
+| | | +-gencat.bat
+| | | +-gencat.docx
+| | | +-get.exe
+| | | +-getconf.docx
+| | | +-getopts.doc
+| | | +-ghci.docx
+| | | +-grep.cmd
+| | | +-head.jar
+| | | +-java
+| | | +-javac.cmd
+| | | +-javac.exe
+| | | +-javaw.bat
+| | | +-jobs.doc
+| | | +-link.doc
+| | | +-logger.bat
+| | | +-logname.bat
+| | | +-lp.exe
+| | | +-m4.cmd
+| | | +-mailx
+| | | +-make.doc
+| | | +-man
+| | | +-minecraft.bat
+| | | +-minecraft.jar
+| | | +-newgrp.exe
+| | | +-nice.doc
+| | | +-nl.cmd
+| | | +-nl.doc
+| | | +-nl.exe
+| | | +-nm.cmd
+| | | +-od.exe
+| | | +-pathchk.exe
+| | | +-pax
+| | | +-pax.jar
+| | | +-pwd.cmd
+| | | +-qalter.docx
+| | | +-qalter.jar
+| | | +-qdel.bat
+| | | +-qmove
+| | | +-qmove.bat
+| | | +-qmove.docx
+| | | +-qmove.exe
+| | | +-qmsg.docx
+| | | +-qmsg.jar
+| | | +-qrerun.jar
+| | | +-qrls.bat
+| | | +-qsig
+| | | +-qstat
+| | | +-rm.cmd
+| | | +-rmdel
+| | | +-rmdir
+| | | +-ruby.cmd
+| | | +-ruby.exe
+| | | +-sccs
+| | | +-sccs.cmd
+| | | +-sed.cmd
+| | | +-sh.bat
+| | | +-sh.exe
+| | | +-sort.cmd
+| | | +-split.bat
+| | | +-split.doc
+| | | +-spotify.bat
+| | | +-ssh
+| | | +-ssh.docx
+| | | +-strings.docx
+| | | +-stty.bat
+| | | +-stty.doc
+| | | +-tabs.docx
+| | | +-talk.bat
+| | | +-talk.exe
+| | | +-time.jar
+| | | +-tput.cmd
+| | | +-tput.docx
+| | | +-tr.doc
+| | | +-ulimit.exe
+| | | +-unalias.jar
+| | | +-uname.bat
+| | | +-uname.doc
+| | | +-uncompress.bat
+| | | +-unexpand.docx
+| | | +-unget.cmd
+| | | +-unget.jar
+| | | +-uucp
+| | | +-uucp.bat
+| | | +-val.bat
+| | | +-vim.bat
+| | | +-vimtutor.docx
+| | | +-vimtutor.jar
+| | | +-wc.doc
+| | | +-wc.docx
+| | | +-what.cmd
+| | | +-who
+| | | +-who.bat
+| | | +-winword
+| | | +-winword.doc
+| | | +-write
+| | +-admin.bat
+| | +-ar.bat
+| | +-at.cmd
+| | +-at.docx
+| | +-awk.doc
+| | +-basename.bat
+| | +-bc.exe
+| | +-bg.bat
+| | +-bg.exe
+| | +-cat.cmd
+| | +-cat.doc
+| | +-cd.cmd
+| | +-cd.exe
+| | +-cflow.jar
+| | +-chmod
+| | +-chown.bat
+| | +-chrome.bat
+| | +-chrome.doc
+| | +-cksum.cmd
+| | +-cksum.exe
+| | +-cmp.doc
+| | +-comm.jar
+| | +-compress.bat
+| | +-compress.exe
+| | +-cp.jar
+| | +-crontab.bat
+| | +-crontab.docx
+| | +-csplit.doc
+| | +-ctags.bat
+| | +-cut.docx
+| | +-cut.jar
+| | +-cxref.jar
+| | +-date.jar
+| | +-dd
+| | +-dd.docx
+| | +-delta.doc
+| | +-delta.jar
+| | +-diff
+| | +-diff.bat
+| | +-diff.cmd
+| | +-diff.doc
+| | +-dirname.doc
+| | +-echo.docx
+| | +-env.jar
+| | +-ex.jar
+| | +-expand.doc
+| | +-explorer
+| | +-explorer.jar
+| | +-false.docx
+| | +-false.jar
+| | +-find.jar
+| | +-firefox.doc
+| | +-fold.doc
+| | +-gencat.jar
+| | +-get.doc
+| | +-get.jar
+| | +-ipcrm.cmd
+| | +-ipcs
+| | +-ipcs.jar
+| | +-java.cmd
+| | +-java.doc
+| | +-javac.cmd
+| | +-javac.doc
+| | +-kill
+| | +-lex.jar
+| | +-link.exe
+| | +-ln
+| | +-ln.exe
+| | +-localedef.doc
+| | +-localedef.docx
+| | +-logger
+| | +-logname
+| | +-logname.doc
+| | +-lp
+| | +-ls
+| | +-minecraft.cmd
+| | +-more.cmd
+| | +-more.exe
+| | +-mv
+| | +-newgrp
+| | +-newgrp.bat
+| | +-nm.bat
+| | +-nm.docx
+| | +-patch.cmd
+| | +-patch.jar
+| | +-pr.docx
+| | +-printf
+| | +-python
+| | +-python.docx
+| | +-qdel.docx
+| | +-qmove.jar
+| | +-qrerun.exe
+| | +-qselect
+| | +-qsig.jar
+| | +-rm
+| | +-rmdir.bat
+| | +-rmdir.doc
+| | +-ruby.cmd
+| | +-sccs.jar
+| | +-split.bat
+| | +-spotify
+| | +-spotify.cmd
+| | +-spotify.exe
+| | +-ssh.bat
+| | +-tabs.cmd
+| | +-tabs.doc
+| | +-tabs.docx
+| | +-talk.exe
+| | +-tee.docx
+| | +-test
+| | +-time.doc
+| | +-touch.cmd
+| | +-tput.cmd
+| | +-tput.exe
+| | +-true.jar
+| | +-tsort.bat
+| | +-tsort.cmd
+| | +-tty.doc
+| | +-tty.docx
+| | +-ulimit.jar
+| | +-umask
+| | +-uncompress.cmd
+| | +-uncompress.docx
+| | +-unexpand.bat
+| | +-uniq.docx
+| | +-unlink.doc
+| | +-uuencode.exe
+| | +-uux.bat
+| | +-val.jar
+| | +-vi.docx
+| | +-vim.bat
+| | +-vim.docx
+| | +-vim.jar
+| | +-wait.bat
+| | +-what.exe
+| | +-winword
+| | +-winword.cmd
+| | +-winword.jar
+| | +-xargs.bat
+| | +-xargs.jar
+| | +-yacc
+| | +-yacc.cmd
+| | +-zcat
+| +-alias
+| +-awk
+| +-awk.docx
+| +-awk.jar
+| +-basename.doc
+| +-basename.exe
+| +-bg.exe
+| +-bg.jar
+| +-cat.doc
+| +-cat.docx
+| +-cflow
+| +-chgrp.cmd
+| +-chown
+| +-chown.exe
+| +-cmp.doc
+| +-codes.cmd
+| +-comm.cmd
+| +-command.doc
+| +-command.docx
+| +-compress.jar
+| +-ctags.bat
+| +-cxref.docx
+| +-data.bat
+| +-delta.docx
+| +-diff.cmd
+| +-du.doc
+| +-du.docx
+| +-env.exe
+| +-excel.bat
+| +-explorer.jar
+| +-expr
+| +-expr.cmd
+| +-expr.jar
+| +-false.docx
+| +-fc.doc
+| +-file.doc
+| +-find
+| +-fort77.bat
+| +-fort77.doc
+| +-fuser.docx
+| +-gencat.doc
+| +-gencat.exe
+| +-get.cmd
+| +-getconf.exe
+| +-getconf.jar
+| +-getopts.cmd
+| +-ghci.jar
+| +-hash
+| +-hash.cmd
+| +-iconv
+| +-ipcrm.docx
+| +-ipcrm.jar
+| +-javac.bat
+| +-javaw.jar
+| +-join
+| +-join.doc
+| +-kill
+| +-kill.cmd
+| +-lex.doc
+| +-lex.docx
+| +-locale.bat
+| +-locale.doc
+| +-localedef.docx
+| +-localedef.jar
+| +-logger.cmd
+| +-m4.docx
+| +-mailx.exe
+| +-make.cmd
+| +-make.docx
+| +-man.cmd
+| +-mkdir.doc
+| +-nice.jar
+| +-nl.cmd
+| +-nm.cmd
+| +-patch.doc
+| +-patch.docx
+| +-pathchk.exe
+| +-pathchk.jar
+| +-pax
+| +-printf
+| +-prs.doc
+| +-python.jar
+| +-qalter.exe
+| +-qmove
+| +-qmove.exe
+| +-qmsg.cmd
+| +-qrls
+| +-qselect
+| +-qsig
+| +-qsig.exe
+| +-read
+| +-read.exe
+| +-read.jar
+| +-regedit
+| +-regedit.doc
+| +-renice.cmd
+| +-renice.doc
+| +-rm.cmd
+| +-rm.exe
+| +-ruby.doc
+| +-sccs.cmd
+| +-sed.bat
+| +-spotify.bat
+| +-spotify.docx
+| +-ssh.bat
+| +-ssh.doc
+| +-strings.bat
+| +-strip.cmd
+| +-strip.docx
+| +-stty.bat
+| +-tail.bat
+| +-talk.jar
+| +-tee
+| +-test
+| +-test.jar
+| +-time.doc
+| +-tr
+| +-uname.doc
+| +-unexpand.doc
+| +-unget.cmd
+| +-unlink
+| +-uustat.docx
+| +-val.bat
+| +-val.docx
+| +-vi.doc
+| +-vi.jar
+| +-vimtutor.doc
+| +-wc
+| +-wc.doc
+| +-what.exe
+| +-what.jar
+| +-who
+| +-who.doc
+| +-winword.doc
+| +-winword.docx
+| +-write
+| +-xargs.doc
++-Program Files/
+| +-Drivers/
+| | +-Riot Games/
+| |   +-admin.cmd
+| |   +-ar.cmd
+| |   +-ar.exe
+| |   +-at.jar
+| |   +-awk
+| |   +-awk.bat
+| |   +-basename
+| |   +-basename.bat
+| |   +-bc.cmd
+| |   +-bc.jar
+| |   +-bg.docx
+| |   +-cal
+| |   +-cat.cmd
+| |   +-chmod.doc
+| |   +-choco.cmd
+| |   +-chown.doc
+| |   +-chrome.cmd
+| |   +-cmd.jar
+| |   +-cmp.exe
+| |   +-cp
+| |   +-csplit.cmd
+| |   +-csplit.doc
+| |   +-ctags.doc
+| |   +-cut
+| |   +-date.docx
+| |   +-dd.doc
+| |   +-delta.cmd
+| |   +-diff.jar
+| |   +-dirname.doc
+| |   +-env.jar
+| |   +-ex.docx
+| |   +-expand.doc
+| |   +-find
+| |   +-firefox.exe
+| |   +-fort77.doc
+| |   +-fort77.docx
+| |   +-fuser
+| |   +-fuser.cmd
+| |   +-fuser.jar
+| |   +-getopts
+| |   +-getopts.exe
+| |   +-grep.doc
+| |   +-hash.doc
+| |   +-head.bat
+| |   +-iconv.cmd
+| |   +-ipcrm
+| |   +-ipcrm.doc
+| |   +-java.bat
+| |   +-java.jar
+| |   +-javac.cmd
+| |   +-javac.docx
+| |   +-javaw.doc
+| |   +-join.cmd
+| |   +-lex.bat
+| |   +-ln.jar
+| |   +-ls
+| |   +-ls.bat
+| |   +-ls.jar
+| |   +-m4
+| |   +-mailx
+| |   +-minecraft
+| |   +-minecraft.bat
+| |   +-minecraft.docx
+| |   +-mkfifo.exe
+| |   +-more.bat
+| |   +-nl.cmd
+| |   +-nl.doc
+| |   +-nm.bat
+| |   +-od.docx
+| |   +-paste
+| |   +-patch
+| |   +-pathchk.bat
+| |   +-pathchk.exe
+| |   +-pax
+| |   +-pax.cmd
+| |   +-prs.doc
+| |   +-pwd.bat
+| |   +-pwd.cmd
+| |   +-pwd.jar
+| |   +-qalter.bat
+| |   +-qalter.docx
+| |   +-qdel.cmd
+| |   +-qhold.bat
+| |   +-qmove.jar
+| |   +-qmsg.jar
+| |   +-qrerun.exe
+| |   +-qstat.jar
+| |   +-qsub.doc
+| |   +-read.cmd
+| |   +-read.doc
+| |   +-regedit.exe
+| |   +-regedit.jar
+| |   +-renice.exe
+| |   +-rmdel.cmd
+| |   +-rmdel.jar
+| |   +-rmdir.doc
+| |   +-sact.docx
+| |   +-sact.jar
+| |   +-sh
+| |   +-sleep.exe
+| |   +-strip.docx
+| |   +-strip.jar
+| |   +-stty.exe
+| |   +-tabs.doc
+| |   +-tabs.jar
+| |   +-tail.docx
+| |   +-tee.doc
+| |   +-test.bat
+| |   +-true.exe
+| |   +-true.jar
+| |   +-ulimit.doc
+| |   +-ulimit.docx
+| |   +-uname.bat
+| |   +-uname.docx
+| |   +-unget.jar
+| |   +-uniq.exe
+| |   +-unlink.docx
+| |   +-uudecode.docx
+| |   +-uuencode
+| |   +-uux.jar
+| |   +-vi.bat
+| |   +-vimtutor
+| |   +-vimtutor.bat
+| |   +-vimtutor.docx
+| |   +-wc.cmd
+| |   +-wc.exe
+| |   +-winword.exe
+| |   +-xargs.exe
+| +-SYSWOW64/
+| | +-admin.cmd
+| | +-admin.docx
+| | +-ar.cmd
+| | +-at.bat
+| | +-awk
+| | +-batch.docx
+| | +-bg.exe
+| | +-cal.doc
+| | +-cat.doc
+| | +-cflow
+| | +-choco.cmd
+| | +-chown
+| | +-chown.docx
+| | +-chrome.doc
+| | +-chrome.jar
+| | +-cksum.doc
+| | +-cmp.exe
+| | +-codes
+| | +-comm.exe
+| | +-ctags.docx
+| | +-cut
+| | +-cut.exe
+| | +-dd
+| | +-delta.cmd
+| | +-diff.docx
+| | +-du
+| | +-echo
+| | +-excel.doc
+| | +-excel.jar
+| | +-expr.bat
+| | +-expr.cmd
+| | +-false
+| | +-false.docx
+| | +-fc.jar
+| | +-fort77.bat
+| | +-fort77.docx
+| | +-fuser.cmd
+| | +-fuser.exe
+| | +-fuser.jar
+| | +-gencat.bat
+| | +-gencat.docx
+| | +-gencat.jar
+| | +-get
+| | +-getopts.exe
+| | +-ghci.exe
+| | +-grep.bat
+| | +-iconv.jar
+| | +-id.docx
+| | +-javaw.jar
+| | +-join.exe
+| | +-kill.doc
+| | +-ln.doc
+| | +-ln.docx
+| | +-localedef.bat
+| | +-logger.exe
+| | +-logname.doc
+| | +-mailx
+| | +-mailx.bat
+| | +-mailx.docx
+| | +-mailx.jar
+| | +-make.jar
+| | +-mesg.docx
+| | +-more.docx
+| | +-mv.doc
+| | +-newgrp.jar
+| | +-nm.doc
+| | +-od.bat
+| | +-paste.exe
+| | +-patch.exe
+| | +-pr.doc
+| | +-prs.bat
+| | +-pwd.docx
+| | +-pwd.exe
+| | +-qalter.doc
+| | +-qalter.jar
+| | +-qhold.bat
+| | +-qsig
+| | +-read
+| | +-regedit.jar
+| | +-rmdel.doc
+| | +-rmdel.jar
+| | +-rmdir.cmd
+| | +-ruby.exe
+| | +-sh.doc
+| | +-sleep.docx
+| | +-sort.bat
+| | +-split.bat
+| | +-strings.bat
+| | +-stty.bat
+| | +-tabs.docx
+| | +-talk.docx
+| | +-talk.jar
+| | +-time
+| | +-time.bat
+| | +-time.docx
+| | +-tr.jar
+| | +-type.bat
+| | +-unget.bat
+| | +-unget.exe
+| | +-uniq.docx
+| | +-uucp.exe
+| | +-uucp.jar
+| | +-uudecode.doc
+| | +-val
+| | +-vim.jar
+| | +-wait.doc
+| | +-wc.exe
+| | +-who.docx
+| | +-winword.doc
+| | +-write.docx
+| | +-xargs.bat
+| | +-yacc.cmd
+| | +-yacc.doc
+| +-Users/
+| | +-asa.jar
+| | +-basename.jar
+| | +-batch.bat
+| | +-batch.cmd
+| | +-bc
+| | +-cd.bat
+| | +-cflow.jar
+| | +-chmod.jar
+| | +-choco.exe
+| | +-chrome.bat
+| | +-cksum.docx
+| | +-cmp.docx
+| | +-codes.cmd
+| | +-codes.doc
+| | +-comm.exe
+| | +-command.bat
+| | +-ctags.doc
+| | +-cxref.docx
+| | +-delta.docx
+| | +-df.jar
+| | +-dir.doc
+| | +-dirname.doc
+| | +-dirname.exe
+| | +-du.jar
+| | +-echo
+| | +-excel.cmd
+| | +-expand.bat
+| | +-explorer
+| | +-fc.cmd
+| | +-file
+| | +-find.cmd
+| | +-firefox.docx
+| | +-fold
+| | +-fuser.bat
+| | +-gencat
+| | +-gencat.exe
+| | +-grep
+| | +-iconv.doc
+| | +-iconv.exe
+| | +-ipcrm
+| | +-ipcs
+| | +-java.bat
+| | +-lex
+| | +-link.doc
+| | +-link.jar
+| | +-ln
+| | +-ln.bat
+| | +-ln.jar
+| | +-locale.cmd
+| | +-ls
+| | +-ls.bat
+| | +-m4.cmd
+| | +-mailx.cmd
+| | +-mailx.jar
+| | +-mesg.bat
+| | +-mkdir.cmd
+| | +-mkdir.docx
+| | +-mkfifo
+| | +-mkfifo.doc
+| | +-more
+| | +-more.exe
+| | +-newgrp.doc
+| | +-nl.jar
+| | +-nohup
+| | +-pathchk.docx
+| | +-printf.cmd
+| | +-printf.doc
+| | +-prs.cmd
+| | +-prs.exe
+| | +-ps.bat
+| | +-pwd.bat
+| | +-python
+| | +-qalter.cmd
+| | +-qalter.jar
+| | +-qdel.docx
+| | +-qdel.exe
+| | +-qmove
+| | +-qrls.cmd
+| | +-qselect.cmd
+| | +-qsig.bat
+| | +-qsub.bat
+| | +-qsub.docx
+| | +-qsub.exe
+| | +-renice
+| | +-renice.exe
+| | +-rm.bat
+| | +-rmdir
+| | +-ruby.cmd
+| | +-ruby.docx
+| | +-ruby.exe
+| | +-sed.doc
+| | +-test.docx
+| | +-test.jar
+| | +-time.doc
+| | +-touch.docx
+| | +-touch.exe
+| | +-tr.jar
+| | +-tty.exe
+| | +-umask.docx
+| | +-unalias.docx
+| | +-uniq.doc
+| | +-uucp.bat
+| | +-uucp.doc
+| | +-uucp.jar
+| | +-uudecode
+| | +-uudecode.bat
+| | +-uuencode
+| | +-uuencode.bat
+| | +-uuencode.doc
+| | +-uux.cmd
+| | +-vimtutor
+| | +-winword.docx
+| | +-write
+| | +-xargs.exe
+| | +-xargs.jar
+| | +-zcat.docx
+| +-Windows/
+| | +-admin.doc
+| | +-at.jar
+| | +-awk.exe
+| | +-basename.doc
+| | +-basename.jar
+| | +-bc.jar
+| | +-bg
+| | +-cat
+| | +-cat.docx
+| | +-chgrp.bat
+| | +-cmp.cmd
+| | +-codes
+| | +-codes.docx
+| | +-comm.bat
+| | +-comm.doc
+| | +-cp.bat
+| | +-crontab.cmd
+| | +-crontab.doc
+| | +-crontab.docx
+| | +-csplit.doc
+| | +-cut.exe
+| | +-cxref.exe
+| | +-data.jar
+| | +-delta.jar
+| | +-diff.bat
+| | +-dir
+| | +-echo.cmd
+| | +-ex.docx
+| | +-false.cmd
+| | +-false.exe
+| | +-fc.jar
+| | +-fg.exe
+| | +-fold.cmd
+| | +-fold.jar
+| | +-fort77.docx
+| | +-gencat.cmd
+| | +-gencat.doc
+| | +-getconf
+| | +-getopts.docx
+| | +-ghci.bat
+| | +-grep.bat
+| | +-hash.cmd
+| | +-id.jar
+| | +-ipcrm.cmd
+| | +-java.bat
+| | +-java.jar
+| | +-javac.bat
+| | +-javac.doc
+| | +-javac.jar
+| | +-join.docx
+| | +-kill.bat
+| | +-kill.jar
+| | +-lex.jar
+| | +-link.jar
+| | +-ln
+| | +-locale
+| | +-locale.exe
+| | +-localedef.exe
+| | +-localedef.jar
+| | +-logname.cmd
+| | +-ls.cmd
+| | +-m4.docx
+| | +-mailx.jar
+| | +-make.cmd
+| | +-make.exe
+| | +-mesg.doc
+| | +-mkfifo.docx
+| | +-newgrp.docx
+| | +-nl
+| | +-pax
+| | +-printf.exe
+| | +-prs.doc
+| | +-ps.docx
+| | +-pwd.bat
+| | +-qalter
+| | +-qalter.docx
+| | +-qhold.jar
+| | +-qmove.cmd
+| | +-qrls
+| | +-qselect
+| | +-qselect.jar
+| | +-qstat.bat
+| | +-qstat.doc
+| | +-qsub.bat
+| | +-rmdel
+| | +-rmdel.exe
+| | +-ruby.bat
+| | +-sccs
+| | +-sort.bat
+| | +-ssh.doc
+| | +-tabs.cmd
+| | +-tabs.docx
+| | +-tabs.jar
+| | +-tput
+| | +-tput.docx
+| | +-tr
+| | +-true
+| | +-true.docx
+| | +-true.exe
+| | +-tty.jar
+| | +-type
+| | +-ulimit.jar
+| | +-unexpand
+| | +-unexpand.doc
+| | +-uudecode.jar
+| | +-uuencode.bat
+| | +-uuencode.cmd
+| | +-uuencode.doc
+| | +-val.jar
+| | +-vim.cmd
+| | +-vimtutor.docx
+| | +-vimtutor.exe
+| | +-wc.doc
+| | +-wc.exe
+| | +-what
+| | +-what.jar
+| | +-who
+| | +-winword.cmd
+| | +-write.docx
+| | +-xargs.bat
+| | +-xargs.jar
+| | +-yacc
+| | +-yacc.cmd
+| | +-zcat.bat
+| | +-zcat.cmd
+| +-ar
+| +-ar.bat
+| +-asa.doc
+| +-asa.jar
+| +-at
+| +-basename.doc
+| +-batch.docx
+| +-batch.exe
+| +-bc.docx
+| +-cal.exe
+| +-cat.doc
+| +-cflow.cmd
+| +-chgrp.cmd
+| +-choco.doc
+| +-chown.jar
+| +-chrome
+| +-chrome.jar
+| +-cksum.doc
+| +-cmd.doc
+| +-cmp.bat
+| +-codes.cmd
+| +-codes.doc
+| +-compress.doc
+| +-cut.doc
+| +-dd.jar
+| +-du.jar
+| +-ed
+| +-env
+| +-env.exe
+| +-env.jar
+| +-excel.exe
+| +-expand.doc
+| +-expr.bat
+| +-false.docx
+| +-fc.exe
+| +-fc.jar
+| +-fg.doc
+| +-fg.exe
+| +-find.jar
+| +-fold.jar
+| +-gencat.cmd
+| +-get.cmd
+| +-hash.docx
+| +-iconv.doc
+| +-id.exe
+| +-java.bat
+| +-java.exe
+| +-javac.doc
+| +-javaw.exe
+| +-join.bat
+| +-lex
+| +-lex.doc
+| +-lex.jar
+| +-ln
+| +-ln.bat
+| +-locale.bat
+| +-locale.cmd
+| +-locale.jar
+| +-ls.exe
+| +-mailx.cmd
+| +-mailx.exe
+| +-make.jar
+| +-man.doc
+| +-mesg.cmd
+| +-nice.exe
+| +-nm.exe
+| +-nohup.docx
+| +-od.doc
+| +-paste.docx
+| +-patch
+| +-pax.jar
+| +-printf.docx
+| +-prs.exe
+| +-ps.docx
+| +-pwd
+| +-qalter.cmd
+| +-qhold.docx
+| +-qhold.exe
+| +-qhold.jar
+| +-qrerun
+| +-qrls.cmd
+| +-qsig.cmd
+| +-qstat.docx
+| +-read.docx
+| +-renice.doc
+| +-rmdel.docx
+| +-ruby.cmd
+| +-sact.doc
+| +-sed.doc
+| +-sed.jar
+| +-sleep.docx
+| +-sort.bat
+| +-split.cmd
+| +-strings
+| +-strip.docx
+| +-stty.exe
+| +-tabs.bat
+| +-tabs.doc
+| +-tail.docx
+| +-talk.doc
+| +-test.docx
+| +-time.bat
+| +-time.cmd
+| +-touch.bat
+| +-touch.exe
+| +-tput.bat
+| +-tr.cmd
+| +-true.cmd
+| +-tsort
+| +-tsort.docx
+| +-tty.bat
+| +-type
+| +-uname.bat
+| +-uname.cmd
+| +-uncompress.jar
+| +-unget
+| +-unget.cmd
+| +-unget.jar
+| +-uucp.cmd
+| +-uudecode.exe
+| +-uuencode.exe
+| +-uux.bat
+| +-uux.doc
+| +-uux.docx
+| +-val.doc
+| +-val.jar
+| +-wait.bat
+| +-wait.doc
+| +-wc.doc
+| +-what.jar
+| +-winword.docx
+| +-write
+| +-write.bat
+| +-write.jar
++-Program Files (x86)/
+| +-Program Files/
+| | +-ar.cmd
+| | +-asa
+| | +-asa.docx
+| | +-at.jar
+| | +-bc
+| | +-bg
+| | +-cal.jar
+| | +-cat.jar
+| | +-chgrp.doc
+| | +-cksum.jar
+| | +-cmp.docx
+| | +-codes.bat
+| | +-compress.doc
+| | +-csplit.exe
+| | +-csplit.jar
+| | +-cut.bat
+| | +-cut.cmd
+| | +-data.exe
+| | +-delta
+| | +-df.cmd
+| | +-diff.bat
+| | +-dir.docx
+| | +-du
+| | +-ex.cmd
+| | +-excel.doc
+| | +-explorer.doc
+| | +-expr.doc
+| | +-false.jar
+| | +-find.exe
+| | +-fuser.cmd
+| | +-fuser.doc
+| | +-getconf.docx
+| | +-getconf.jar
+| | +-getopts.docx
+| | +-ghci.cmd
+| | +-head
+| | +-iconv.bat
+| | +-iconv.jar
+| | +-id.exe
+| | +-ipcs.cmd
+| | +-javac.jar
+| | +-link.exe
+| | +-localedef.doc
+| | +-localedef.docx
+| | +-logger.bat
+| | +-logger.doc
+| | +-logname.cmd
+| | +-ls.exe
+| | +-m4.exe
+| | +-make.cmd
+| | +-make.doc
+| | +-minecraft.exe
+| | +-mkdir.bat
+| | +-mv.jar
+| | +-nm.bat
+| | +-od.cmd
+| | +-od.doc
+| | +-pathchk.cmd
+| | +-pax.doc
+| | +-pr.exe
+| | +-prs.docx
+| | +-python.cmd
+| | +-qhold.exe
+| | +-qrls.bat
+| | +-qsig.jar
+| | +-rm.docx
+| | +-rmdel.bat
+| | +-rmdir.cmd
+| | +-sact.exe
+| | +-sed.bat
+| | +-sed.docx
+| | +-sh.bat
+| | +-sort.doc
+| | +-strings.cmd
+| | +-strip.exe
+| | +-stty.bat
+| | +-talk.cmd
+| | +-talk.docx
+| | +-talk.exe
+| | +-test.exe
+| | +-touch.doc
+| | +-tput.doc
+| | +-tput.docx
+| | +-tput.exe
+| | +-tr.doc
+| | +-uncompress.cmd
+| | +-unget
+| | +-uniq.jar
+| | +-unlink
+| | +-unlink.jar
+| | +-uuencode.exe
+| | +-uustat.cmd
+| | +-val.docx
+| | +-vi
+| | +-vim.jar
+| | +-wait.cmd
+| | +-wait.jar
+| | +-wc.bat
+| | +-who.docx
+| | +-write.cmd
+| | +-write.exe
+| | +-zcat.cmd
+| +-Program Files (x86)/
+| | +-Riot Games/
+| |   +-Drivers/
+| |     +-admin.cmd
+| |     +-admin.jar
+| |     +-ar
+| |     +-asa.bat
+| |     +-asa.doc
+| |     +-asa.docx
+| |     +-at.bat
+| |     +-awk.bat
+| |     +-cal
+| |     +-cal.docx
+| |     +-cat.docx
+| |     +-cat.jar
+| |     +-cflow.doc
+| |     +-chgrp
+| |     +-chgrp.exe
+| |     +-chmod.docx
+| |     +-chmod.exe
+| |     +-chown.jar
+| |     +-chrome
+| |     +-cksum
+| |     +-cmd.bat
+| |     +-cmd.jar
+| |     +-comm.cmd
+| |     +-comm.doc
+| |     +-comm.docx
+| |     +-cp.exe
+| |     +-cut
+| |     +-cut.cmd
+| |     +-cut.exe
+| |     +-cxref.doc
+| |     +-cxref.exe
+| |     +-data.docx
+| |     +-dd.doc
+| |     +-dd.jar
+| |     +-delta.bat
+| |     +-delta.cmd
+| |     +-df.bat
+| |     +-diff.docx
+| |     +-diff.jar
+| |     +-dirname.bat
+| |     +-echo.cmd
+| |     +-env.bat
+| |     +-ex
+| |     +-excel.docx
+| |     +-excel.exe
+| |     +-explorer.bat
+| |     +-explorer.doc
+| |     +-expr
+| |     +-false
+| |     +-false.jar
+| |     +-fc
+| |     +-fc.docx
+| |     +-fg.exe
+| |     +-fg.jar
+| |     +-file
+| |     +-find.bat
+| |     +-fuser
+| |     +-fuser.bat
+| |     +-fuser.cmd
+| |     +-fuser.exe
+| |     +-gencat.exe
+| |     +-head.bat
+| |     +-head.doc
+| |     +-iconv.cmd
+| |     +-id.docx
+| |     +-id.exe
+| |     +-ipcrm.cmd
+| |     +-ipcrm.jar
+| |     +-javac.doc
+| |     +-jobs.doc
+| |     +-jobs.exe
+| |     +-join.doc
+| |     +-join.exe
+| |     +-kill.bat
+| |     +-lex
+| |     +-lex.jar
+| |     +-link.exe
+| |     +-link.jar
+| |     +-ln
+| |     +-localedef.bat
+| |     +-localedef.doc
+| |     +-ls
+| |     +-mailx
+| |     +-make.cmd
+| |     +-minecraft.doc
+| |     +-mkdir.exe
+| |     +-mkfifo.docx
+| |     +-mkfifo.jar
+| |     +-mv.cmd
+| |     +-mv.doc
+| |     +-nl.exe
+| |     +-od.bat
+| |     +-paste.bat
+| |     +-patch.bat
+| |     +-pathchk.bat
+| |     +-pathchk.cmd
+| |     +-pathchk.docx
+| |     +-printf.bat
+| |     +-prs.cmd
+| |     +-ps.cmd
+| |     +-pwd
+| |     +-python.doc
+| |     +-qalter
+| |     +-qalter.jar
+| |     +-qdel
+| |     +-qmsg
+| |     +-qmsg.bat
+| |     +-qrerun.cmd
+| |     +-qrls.docx
+| |     +-qselect.cmd
+| |     +-qsig
+| |     +-qsig.jar
+| |     +-qstat.doc
+| |     +-qsub.bat
+| |     +-qsub.exe
+| |     +-read.bat
+| |     +-regedit
+| |     +-regedit.bat
+| |     +-renice.cmd
+| |     +-sccs.bat
+| |     +-sed
+| |     +-sed.bat
+| |     +-sed.jar
+| |     +-sleep.bat
+| |     +-sort
+| |     +-sort.doc
+| |     +-split
+| |     +-spotify.cmd
+| |     +-spotify.doc
+| |     +-stty.exe
+| |     +-tail.docx
+| |     +-talk.jar
+| |     +-tee.docx
+| |     +-test.exe
+| |     +-touch.jar
+| |     +-tput.cmd
+| |     +-tput.jar
+| |     +-tr.docx
+| |     +-true.bat
+| |     +-true.cmd
+| |     +-true.exe
+| |     +-tty.docx
+| |     +-unalias.jar
+| |     +-unget
+| |     +-uudecode.bat
+| |     +-uuencode
+| |     +-uuencode.bat
+| |     +-uustat.exe
+| |     +-what.doc
+| |     +-what.jar
+| |     +-who
+| |     +-xargs.docx
+| |     +-yacc.cmd
+| |     +-zcat.docx
+| |     +-zcat.exe
+| +-Riot Games/
+| | +-Windows/
+| |   +-Program Files/
+| |     +-asa.doc
+| |     +-basename.docx
+| |     +-batch
+| |     +-cal.docx
+| |     +-cflow.jar
+| |     +-choco.exe
+| |     +-chown
+| |     +-chrome.bat
+| |     +-chrome.cmd
+| |     +-cksum.bat
+| |     +-cksum.docx
+| |     +-cmp.docx
+| |     +-comm.bat
+| |     +-command.bat
+| |     +-cp.cmd
+| |     +-crontab
+| |     +-crontab.docx
+| |     +-csplit
+| |     +-ctags.cmd
+| |     +-ctags.docx
+| |     +-cut.bat
+| |     +-cut.doc
+| |     +-cut.exe
+| |     +-data.cmd
+| |     +-date.doc
+| |     +-date.docx
+| |     +-date.exe
+| |     +-delta.cmd
+| |     +-df
+| |     +-df.doc
+| |     +-diff.docx
+| |     +-dirname.doc
+| |     +-du
+| |     +-env
+| |     +-env.bat
+| |     +-ex.bat
+| |     +-false.exe
+| |     +-fc.exe
+| |     +-file.bat
+| |     +-firefox
+| |     +-firefox.jar
+| |     +-fort77.cmd
+| |     +-gencat
+| |     +-getconf.docx
+| |     +-grep.cmd
+| |     +-grep.jar
+| |     +-hash.bat
+| |     +-id.cmd
+| |     +-ipcrm.bat
+| |     +-ipcrm.doc
+| |     +-ipcrm.exe
+| |     +-ipcs.cmd
+| |     +-ipcs.doc
+| |     +-javac.cmd
+| |     +-javaw.docx
+| |     +-jobs.exe
+| |     +-join.docx
+| |     +-kill.exe
+| |     +-lex.exe
+| |     +-link.doc
+| |     +-link.jar
+| |     +-ln.bat
+| |     +-lp.docx
+| |     +-ls.bat
+| |     +-ls.doc
+| |     +-minecraft
+| |     +-minecraft.exe
+| |     +-mkfifo.doc
+| |     +-mkfifo.docx
+| |     +-more
+| |     +-more.exe
+| |     +-mv.cmd
+| |     +-nl.cmd
+| |     +-nohup.jar
+| |     +-od.doc
+| |     +-paste.doc
+| |     +-paste.docx
+| |     +-patch.exe
+| |     +-pathchk.docx
+| |     +-pax.bat
+| |     +-pr.docx
+| |     +-printf.doc
+| |     +-printf.jar
+| |     +-ps
+| |     +-ps.bat
+| |     +-ps.cmd
+| |     +-ps.jar
+| |     +-python.doc
+| |     +-python.exe
+| |     +-qdel.docx
+| |     +-qhold.cmd
+| |     +-qmsg
+| |     +-qmsg.bat
+| |     +-qrerun.jar
+| |     +-qselect
+| |     +-qselect.bat
+| |     +-qselect.exe
+| |     +-qsig.cmd
+| |     +-qsub.bat
+| |     +-regedit
+| |     +-rmdel.doc
+| |     +-sact.jar
+| |     +-sccs
+| |     +-sccs.bat
+| |     +-sh
+| |     +-sh.exe
+| |     +-sh.jar
+| |     +-sleep.doc
+| |     +-sort.bat
+| |     +-sort.exe
+| |     +-ssh.docx
+| |     +-strip
+| |     +-strip.docx
+| |     +-tabs.exe
+| |     +-tabs.jar
+| |     +-tail.cmd
+| |     +-talk
+| |     +-tee.bat
+| |     +-tee.cmd
+| |     +-tee.doc
+| |     +-tee.exe
+| |     +-test.bat
+| |     +-time.exe
+| |     +-touch.exe
+| |     +-tput.bat
+| |     +-unalias
+| |     +-unalias.bat
+| |     +-uname.docx
+| |     +-uncompress.cmd
+| |     +-uncompress.docx
+| |     +-unexpand.exe
+| |     +-unget.bat
+| |     +-uniq.docx
+| |     +-unlink.cmd
+| |     +-uucp.docx
+| |     +-uudecode
+| |     +-uuencode.docx
+| |     +-uustat.exe
+| |     +-uux.docx
+| |     +-val.bat
+| |     +-vi.docx
+| |     +-vimtutor.doc
+| |     +-wait
+| |     +-wc.cmd
+| |     +-who.bat
+| |     +-who.cmd
+| |     +-winword.bat
+| |     +-winword.docx
+| |     +-write.cmd
+| |     +-write.docx
+| |     +-yacc.bat
+| +-SYSWOW64/
+| | +-Windows/
+| | | +-admin.jar
+| | | +-alias.cmd
+| | | +-ar.bat
+| | | +-ar.jar
+| | | +-asa.docx
+| | | +-at
+| | | +-basename.docx
+| | | +-bc
+| | | +-bg
+| | | +-cal
+| | | +-cal.cmd
+| | | +-cal.doc
+| | | +-cat.bat
+| | | +-cat.jar
+| | | +-chgrp.jar
+| | | +-chown
+| | | +-chown.exe
+| | | +-cksum.doc
+| | | +-cksum.jar
+| | | +-cmd.cmd
+| | | +-cmd.doc
+| | | +-cmp.bat
+| | | +-cmp.docx
+| | | +-codes
+| | | +-codes.jar
+| | | +-cp
+| | | +-cp.jar
+| | | +-csplit.docx
+| | | +-cut.cmd
+| | | +-cut.docx
+| | | +-cut.jar
+| | | +-data.docx
+| | | +-dd.doc
+| | | +-dir.doc
+| | | +-echo.bat
+| | | +-env.bat
+| | | +-ex.doc
+| | | +-expand.doc
+| | | +-explorer
+| | | +-explorer.bat
+| | | +-explorer.docx
+| | | +-expr.cmd
+| | | +-expr.jar
+| | | +-file.doc
+| | | +-file.jar
+| | | +-find.bat
+| | | +-find.cmd
+| | | +-fold.bat
+| | | +-fold.docx
+| | | +-fort77
+| | | +-fuser.doc
+| | | +-gencat.exe
+| | | +-getconf.exe
+| | | +-getconf.jar
+| | | +-grep.jar
+| | | +-hash
+| | | +-hash.doc
+| | | +-head.docx
+| | | +-iconv.docx
+| | | +-id.doc
+| | | +-ipcrm.cmd
+| | | +-ipcrm.doc
+| | | +-ipcrm.exe
+| | | +-javaw.docx
+| | | +-kill.jar
+| | | +-lex.cmd
+| | | +-lex.exe
+| | | +-link.doc
+| | | +-link.docx
+| | | +-ln
+| | | +-locale.doc
+| | | +-locale.docx
+| | | +-localedef
+| | | +-logger.doc
+| | | +-logname.bat
+| | | +-ls
+| | | +-ls.exe
+| | | +-m4.docx
+| | | +-make.doc
+| | | +-mesg.doc
+| | | +-mkdir.doc
+| | | +-mkfifo
+| | | +-newgrp
+| | | +-newgrp.bat
+| | | +-newgrp.doc
+| | | +-newgrp.exe
+| | | +-nice.jar
+| | | +-od.docx
+| | | +-patch.exe
+| | | +-pathchk.cmd
+| | | +-pathchk.doc
+| | | +-pax.cmd
+| | | +-pr
+| | | +-printf.docx
+| | | +-ps.doc
+| | | +-pwd.bat
+| | | +-pwd.doc
+| | | +-pwd.docx
+| | | +-python.bat
+| | | +-qdel.jar
+| | | +-qmove.bat
+| | | +-qmove.exe
+| | | +-qmsg.cmd
+| | | +-qmsg.jar
+| | | +-qrerun.docx
+| | | +-qrls.cmd
+| | | +-qsig.cmd
+| | | +-qsig.doc
+| | | +-qstat
+| | | +-qstat.docx
+| | | +-qsub.exe
+| | | +-regedit
+| | | +-rm.bat
+| | | +-rm.cmd
+| | | +-rm.jar
+| | | +-rmdir.cmd
+| | | +-sact.exe
+| | | +-sccs
+| | | +-sleep.bat
+| | | +-sort.exe
+| | | +-sort.jar
+| | | +-split.cmd
+| | | +-spotify
+| | | +-ssh.bat
+| | | +-strings.cmd
+| | | +-strip.bat
+| | | +-strip.jar
+| | | +-tail.bat
+| | | +-talk.docx
+| | | +-tee
+| | | +-tee.jar
+| | | +-test.docx
+| | | +-touch.doc
+| | | +-touch.jar
+| | | +-tr
+| | | +-tr.docx
+| | | +-true.bat
+| | | +-true.cmd
+| | | +-true.docx
+| | | +-true.jar
+| | | +-tty.cmd
+| | | +-type.doc
+| | | +-ulimit.bat
+| | | +-ulimit.docx
+| | | +-ulimit.exe
+| | | +-uname
+| | | +-uname.cmd
+| | | +-uname.docx
+| | | +-uncompress.bat
+| | | +-unexpand
+| | | +-uucp.bat
+| | | +-uudecode.docx
+| | | +-uudecode.exe
+| | | +-uuencode.cmd
+| | | +-uuencode.doc
+| | | +-uuencode.docx
+| | | +-uustat.cmd
+| | | +-uux.doc
+| | | +-val.jar
+| | | +-vi.bat
+| | | +-vim.bat
+| | | +-vim.cmd
+| | | +-vim.jar
+| | | +-wait
+| | | +-wait.jar
+| | | +-wc.jar
+| | | +-who.bat
+| | | +-who.doc
+| | | +-who.docx
+| | | +-winword.bat
+| | | +-winword.cmd
+| | | +-write.bat
+| | | +-write.docx
+| | | +-xargs.bat
+| | +-alias.bat
+| | +-asa.doc
+| | +-at.exe
+| | +-awk.cmd
+| | +-basename.docx
+| | +-batch.doc
+| | +-bg.jar
+| | +-cat.bat
+| | +-cd.doc
+| | +-cd.jar
+| | +-chmod.doc
+| | +-chown.jar
+| | +-chrome.jar
+| | +-cksum.exe
+| | +-comm
+| | +-command.bat
+| | +-crontab.jar
+| | +-cut
+| | +-cut.exe
+| | +-cxref.doc
+| | +-cxref.docx
+| | +-data.doc
+| | +-dd
+| | +-dd.bat
+| | +-delta.doc
+| | +-diff.bat
+| | +-dir
+| | +-dir.cmd
+| | +-du.cmd
+| | +-du.doc
+| | +-du.docx
+| | +-echo.doc
+| | +-env.cmd
+| | +-env.doc
+| | +-env.jar
+| | +-expand
+| | +-expand.exe
+| | +-fc.exe
+| | +-fg.bat
+| | +-find.jar
+| | +-fold
+| | +-fort77.docx
+| | +-fuser.cmd
+| | +-fuser.doc
+| | +-getconf
+| | +-getconf.docx
+| | +-grep.exe
+| | +-head.doc
+| | +-iconv.bat
+| | +-id.cmd
+| | +-ipcrm
+| | +-ipcrm.doc
+| | +-java.docx
+| | +-javac.doc
+| | +-javaw.cmd
+| | +-jobs.docx
+| | +-join.bat
+| | +-join.cmd
+| | +-join.docx
+| | +-join.exe
+| | +-kill.doc
+| | +-lex.doc
+| | +-link.doc
+| | +-link.docx
+| | +-ln.exe
+| | +-ln.jar
+| | +-locale.exe
+| | +-locale.jar
+| | +-localedef.jar
+| | +-logger
+| | +-logger.docx
+| | +-lp.bat
+| | +-ls.bat
+| | +-ls.cmd
+| | +-ls.doc
+| | +-ls.docx
+| | +-ls.jar
+| | +-m4.cmd
+| | +-make
+| | +-make.doc
+| | +-man.cmd
+| | +-man.doc
+| | +-mesg.cmd
+| | +-mesg.docx
+| | +-mkdir.doc
+| | +-mkfifo
+| | +-more.bat
+| | +-newgrp.exe
+| | +-nl.bat
+| | +-nl.doc
+| | +-nohup.bat
+| | +-od.bat
+| | +-patch.jar
+| | +-pathchk.doc
+| | +-pax
+| | +-pax.docx
+| | +-pr.exe
+| | +-printf.exe
+| | +-ps.bat
+| | +-pwd.doc
+| | +-pwd.docx
+| | +-qhold.jar
+| | +-qmove.jar
+| | +-qrerun.bat
+| | +-qrerun.jar
+| | +-qrls.bat
+| | +-qrls.cmd
+| | +-qstat
+| | +-qstat.cmd
+| | +-qsub.bat
+| | +-renice.bat
+| | +-rm.bat
+| | +-rmdel.doc
+| | +-rmdir.doc
+| | +-ruby.bat
+| | +-sccs.docx
+| | +-sed.cmd
+| | +-sleep.bat
+| | +-sleep.exe
+| | +-sort.doc
+| | +-ssh
+| | +-ssh.bat
+| | +-ssh.doc
+| | +-ssh.jar
+| | +-stty
+| | +-tabs.jar
+| | +-talk.bat
+| | +-tee.bat
+| | +-test.cmd
+| | +-test.exe
+| | +-time.docx
+| | +-time.jar
+| | +-tput.exe
+| | +-tr.doc
+| | +-tty.jar
+| | +-type.doc
+| | +-unalias.jar
+| | +-uncompress
+| | +-uncompress.doc
+| | +-uncompress.jar
+| | +-uniq.cmd
+| | +-unlink.exe
+| | +-uustat.doc
+| | +-uux.exe
+| | +-val.cmd
+| | +-val.doc
+| | +-vi.docx
+| | +-vimtutor.cmd
+| | +-wait
+| | +-wait.docx
+| | +-wc
+| | +-wc.cmd
+| | +-who.docx
+| | +-xargs.bat
+| | +-xargs.cmd
+| | +-xargs.jar
+| | +-zcat
+| | +-zcat.docx
+| +-System32/
+| | +-Users/
+| |   +-Riot Games/
+| |     +-admin.bat
+| |     +-admin.jar
+| |     +-alias.jar
+| |     +-at.jar
+| |     +-awk.jar
+| |     +-basename.cmd
+| |     +-bc.cmd
+| |     +-bc.doc
+| |     +-cat.cmd
+| |     +-cat.docx
+| |     +-cd.docx
+| |     +-cflow.exe
+| |     +-chgrp.docx
+| |     +-chgrp.jar
+| |     +-chmod.doc
+| |     +-chown.bat
+| |     +-chown.doc
+| |     +-chrome.exe
+| |     +-cmd.cmd
+| |     +-cmd.exe
+| |     +-cmp
+| |     +-codes.docx
+| |     +-crontab.bat
+| |     +-crontab.doc
+| |     +-csplit.docx
+| |     +-cut.docx
+| |     +-cxref.exe
+| |     +-delta.bat
+| |     +-delta.jar
+| |     +-diff.cmd
+| |     +-dirname.doc
+| |     +-du.bat
+| |     +-echo.exe
+| |     +-ed.bat
+| |     +-ed.jar
+| |     +-env.bat
+| |     +-env.exe
+| |     +-excel.jar
+| |     +-explorer.bat
+| |     +-expr.docx
+| |     +-fc.bat
+| |     +-fc.cmd
+| |     +-fc.jar
+| |     +-fg.jar
+| |     +-file.docx
+| |     +-fold.exe
+| |     +-fort77.cmd
+| |     +-fuser
+| |     +-fuser.exe
+| |     +-gencat.docx
+| |     +-gencat.exe
+| |     +-getconf.cmd
+| |     +-getconf.doc
+| |     +-hash.cmd
+| |     +-head.bat
+| |     +-iconv.doc
+| |     +-ipcrm.doc
+| |     +-ipcs.cmd
+| |     +-ipcs.exe
+| |     +-java.jar
+| |     +-jobs.doc
+| |     +-jobs.jar
+| |     +-join.docx
+| |     +-kill
+| |     +-lex.bat
+| |     +-link
+| |     +-link.doc
+| |     +-link.exe
+| |     +-ln.bat
+| |     +-locale
+| |     +-logger.doc
+| |     +-logger.exe
+| |     +-logname.bat
+| |     +-logname.cmd
+| |     +-m4.cmd
+| |     +-m4.docx
+| |     +-mailx
+| |     +-mailx.bat
+| |     +-man.doc
+| |     +-minecraft.bat
+| |     +-minecraft.doc
+| |     +-mkdir.bat
+| |     +-newgrp.docx
+| |     +-nice.cmd
+| |     +-nice.exe
+| |     +-nl.bat
+| |     +-nl.cmd
+| |     +-nm.docx
+| |     +-od.cmd
+| |     +-patch.doc
+| |     +-pax.cmd
+| |     +-pax.exe
+| |     +-pr.exe
+| |     +-printf.jar
+| |     +-prs.bat
+| |     +-ps.docx
+| |     +-ps.exe
+| |     +-pwd
+| |     +-pwd.bat
+| |     +-qalter
+| |     +-qalter.bat
+| |     +-qdel.doc
+| |     +-qmsg.cmd
+| |     +-qmsg.jar
+| |     +-qrerun.doc
+| |     +-qrerun.docx
+| |     +-qrls.bat
+| |     +-qrls.cmd
+| |     +-qstat.cmd
+| |     +-qstat.doc
+| |     +-qstat.docx
+| |     +-qsub.cmd
+| |     +-read.cmd
+| |     +-sact.cmd
+| |     +-sact.jar
+| |     +-sccs.exe
+| |     +-sort.docx
+| |     +-spotify.cmd
+| |     +-ssh.docx
+| |     +-ssh.jar
+| |     +-strings.bat
+| |     +-strings.cmd
+| |     +-strings.jar
+| |     +-tabs.doc
+| |     +-tabs.docx
+| |     +-tabs.jar
+| |     +-tee.bat
+| |     +-tput.docx
+| |     +-tr.cmd
+| |     +-true.bat
+| |     +-uname.jar
+| |     +-uniq.cmd
+| |     +-unlink.cmd
+| |     +-unlink.jar
+| |     +-uucp.doc
+| |     +-uuencode.doc
+| |     +-val.jar
+| |     +-who.doc
+| |     +-winword.cmd
+| |     +-winword.exe
+| |     +-winword.jar
+| |     +-yacc.docx
+| |     +-zcat.doc
+| +-Users/
+| | +-admin.doc
+| | +-ar.cmd
+| | +-ar.docx
+| | +-asa.cmd
+| | +-at.doc
+| | +-awk.docx
+| | +-basename.cmd
+| | +-batch.cmd
+| | +-batch.exe
+| | +-bc.doc
+| | +-bc.docx
+| | +-bg
+| | +-bg.cmd
+| | +-bg.docx
+| | +-cal.cmd
+| | +-cal.jar
+| | +-cat.docx
+| | +-cflow.exe
+| | +-chmod.docx
+| | +-chown.cmd
+| | +-cmd.doc
+| | +-codes.jar
+| | +-compress.bat
+| | +-compress.cmd
+| | +-compress.doc
+| | +-cp.cmd
+| | +-cut.doc
+| | +-data.bat
+| | +-data.exe
+| | +-date.doc
+| | +-df.doc
+| | +-diff
+| | +-diff.cmd
+| | +-dir
+| | +-dir.cmd
+| | +-du.jar
+| | +-echo.docx
+| | +-ed.jar
+| | +-excel.docx
+| | +-excel.exe
+| | +-excel.jar
+| | +-expand
+| | +-expand.bat
+| | +-expand.cmd
+| | +-expr.exe
+| | +-file.docx
+| | +-file.exe
+| | +-firefox.bat
+| | +-firefox.exe
+| | +-fort77.exe
+| | +-gencat.bat
+| | +-gencat.doc
+| | +-gencat.jar
+| | +-get.exe
+| | +-get.jar
+| | +-grep
+| | +-hash.cmd
+| | +-hash.doc
+| | +-head
+| | +-head.cmd
+| | +-iconv.jar
+| | +-id.bat
+| | +-id.docx
+| | +-ipcs.cmd
+| | +-javac.cmd
+| | +-javaw.bat
+| | +-javaw.docx
+| | +-javaw.exe
+| | +-jobs.doc
+| | +-lex.cmd
+| | +-ln.bat
+| | +-ln.doc
+| | +-ln.jar
+| | +-locale
+| | +-locale.jar
+| | +-logger.cmd
+| | +-logname
+| | +-lp
+| | +-lp.cmd
+| | +-ls.cmd
+| | +-mailx.jar
+| | +-make.doc
+| | +-mv.doc
+| | +-mv.docx
+| | +-newgrp.docx
+| | +-nice.jar
+| | +-nl.cmd
+| | +-nm.jar
+| | +-pathchk.jar
+| | +-pr.jar
+| | +-printf.doc
+| | +-printf.jar
+| | +-prs
+| | +-ps.docx
+| | +-qalter.bat
+| | +-qdel.exe
+| | +-qrls.bat
+| | +-qrls.exe
+| | +-qselect
+| | +-qsig.exe
+| | +-qsub.doc
+| | +-read.cmd
+| | +-read.exe
+| | +-renice
+| | +-rmdir.cmd
+| | +-rmdir.doc
+| | +-sact
+| | +-sccs.doc
+| | +-sh
+| | +-sh.exe
+| | +-sleep.cmd
+| | +-sleep.doc
+| | +-spotify.exe
+| | +-strings.jar
+| | +-strip.docx
+| | +-strip.jar
+| | +-stty
+| | +-tabs.docx
+| | +-tail.exe
+| | +-talk.bat
+| | +-talk.jar
+| | +-tee.exe
+| | +-test
+| | +-test.exe
+| | +-time
+| | +-time.docx
+| | +-touch.cmd
+| | +-tput.bat
+| | +-tty.bat
+| | +-ulimit
+| | +-ulimit.cmd
+| | +-ulimit.jar
+| | +-uname.jar
+| | +-uncompress.jar
+| | +-unexpand.bat
+| | +-unexpand.cmd
+| | +-unexpand.docx
+| | +-uniq
+| | +-uniq.docx
+| | +-uniq.jar
+| | +-unlink.docx
+| | +-uucp.doc
+| | +-uudecode.docx
+| | +-uuencode.jar
+| | +-uustat.jar
+| | +-val.cmd
+| | +-val.docx
+| | +-wait.bat
+| | +-what.jar
+| | +-who
+| | +-write.jar
+| | +-xargs.jar
+| | +-zcat.cmd
+| +-admin.bat
+| +-ar
+| +-asa
+| +-asa.bat
+| +-asa.docx
+| +-at.jar
+| +-awk
+| +-awk.bat
+| +-basename.jar
+| +-bc.docx
+| +-bg.doc
+| +-bg.jar
+| +-cal.exe
+| +-cat.cmd
+| +-cat.doc
+| +-cd.doc
+| +-cflow.exe
+| +-chgrp
+| +-choco.bat
+| +-choco.docx
+| +-choco.jar
+| +-chown.exe
+| +-chrome.jar
+| +-cksum.jar
+| +-cmd.bat
+| +-cmp.bat
+| +-codes
+| +-codes.docx
+| +-command
+| +-compress.docx
+| +-crontab.jar
+| +-ctags.cmd
+| +-ctags.doc
+| +-cut.jar
+| +-cxref.exe
+| +-data.exe
+| +-diff
+| +-dir
+| +-dirname.bat
+| +-dirname.cmd
+| +-dirname.docx
+| +-dirname.exe
+| +-du.exe
+| +-ed.cmd
+| +-env.jar
+| +-ex.docx
+| +-ex.exe
+| +-excel.exe
+| +-explorer.bat
+| +-fg.cmd
+| +-file.cmd
+| +-firefox.cmd
+| +-fort77.jar
+| +-fuser.cmd
+| +-fuser.doc
+| +-getconf
+| +-getconf.docx
+| +-getconf.jar
+| +-getopts.cmd
+| +-getopts.jar
+| +-ipcs.jar
+| +-java.bat
+| +-java.docx
+| +-java.jar
+| +-jobs.docx
+| +-jobs.exe
+| +-join.doc
+| +-lex.doc
+| +-ln.cmd
+| +-localedef
+| +-ls.bat
+| +-mailx.doc
+| +-make.exe
+| +-mkdir.docx
+| +-mkfifo
+| +-mv
+| +-newgrp.bat
+| +-nl
+| +-nohup.bat
+| +-paste
+| +-patch.doc
+| +-patch.jar
+| +-pathchk.bat
+| +-pr.jar
+| +-prs
+| +-prs.doc
+| +-ps
+| +-ps.jar
+| +-pwd.cmd
+| +-qalter.exe
+| +-qdel.exe
+| +-qmsg.jar
+| +-qrerun.exe
+| +-qrls.exe
+| +-qselect.bat
+| +-qselect.docx
+| +-qsig.exe
+| +-qstat
+| +-rm.docx
+| +-rmdel.exe
+| +-rmdir.docx
+| +-rmdir.exe
+| +-ruby
+| +-ruby.bat
+| +-sact.docx
+| +-sccs.bat
+| +-sed.bat
+| +-sed.doc
+| +-sleep
+| +-sort.doc
+| +-strip.docx
+| +-strip.exe
+| +-strip.jar
+| +-tabs.bat
+| +-tee.doc
+| +-test
+| +-touch.exe
+| +-tr.doc
+| +-true.doc
+| +-tsort.bat
+| +-type
+| +-ulimit
+| +-unalias
+| +-unlink.doc
+| +-unlink.docx
+| +-uucp.exe
+| +-uudecode.bat
+| +-uuencode.bat
+| +-uux.doc
+| +-val.bat
+| +-val.exe
+| +-vi.cmd
+| +-vi.doc
+| +-vim.docx
+| +-vimtutor.cmd
+| +-who.bat
+| +-who.doc
+| +-xargs.docx
++-Riot Games/
+| +-Drivers/
+| | +-Microsoft/
+| |   +-admin.exe
+| |   +-alias.bat
+| |   +-alias.docx
+| |   +-ar.docx
+| |   +-asa.cmd
+| |   +-asa.exe
+| |   +-at.jar
+| |   +-basename.bat
+| |   +-basename.cmd
+| |   +-basename.doc
+| |   +-basename.docx
+| |   +-bc.bat
+| |   +-bg.jar
+| |   +-cal
+| |   +-cal.cmd
+| |   +-cal.exe
+| |   +-cat
+| |   +-cat.bat
+| |   +-cat.cmd
+| |   +-cat.doc
+| |   +-cflow.exe
+| |   +-chown
+| |   +-chown.cmd
+| |   +-chown.docx
+| |   +-cksum
+| |   +-cksum.doc
+| |   +-codes.cmd
+| |   +-cp.docx
+| |   +-crontab.docx
+| |   +-ctags.doc
+| |   +-cxref.bat
+| |   +-data.docx
+| |   +-dd.docx
+| |   +-delta.docx
+| |   +-df.cmd
+| |   +-diff.jar
+| |   +-echo.bat
+| |   +-ed.cmd
+| |   +-ed.docx
+| |   +-env.jar
+| |   +-expand.docx
+| |   +-fc.cmd
+| |   +-file
+| |   +-file.bat
+| |   +-file.docx
+| |   +-find
+| |   +-find.bat
+| |   +-firefox.doc
+| |   +-ghci
+| |   +-ghci.jar
+| |   +-grep
+| |   +-grep.bat
+| |   +-head.exe
+| |   +-head.jar
+| |   +-iconv.exe
+| |   +-id.doc
+| |   +-id.exe
+| |   +-id.jar
+| |   +-ipcrm.bat
+| |   +-ipcrm.exe
+| |   +-java.cmd
+| |   +-java.docx
+| |   +-javac.bat
+| |   +-javac.cmd
+| |   +-jobs
+| |   +-jobs.cmd
+| |   +-jobs.exe
+| |   +-join.cmd
+| |   +-lex.cmd
+| |   +-lex.docx
+| |   +-ln.bat
+| |   +-ln.doc
+| |   +-localedef.bat
+| |   +-lp
+| |   +-lp.docx
+| |   +-ls.exe
+| |   +-ls.jar
+| |   +-m4.bat
+| |   +-m4.exe
+| |   +-make.bat
+| |   +-make.jar
+| |   +-man.cmd
+| |   +-nice.cmd
+| |   +-nl
+| |   +-nm.bat
+| |   +-nm.docx
+| |   +-od.bat
+| |   +-pathchk
+| |   +-pathchk.docx
+| |   +-pathchk.exe
+| |   +-pr
+| |   +-pr.exe
+| |   +-printf.docx
+| |   +-ps
+| |   +-ps.docx
+| |   +-python.bat
+| |   +-python.exe
+| |   +-python.jar
+| |   +-qalter.bat
+| |   +-qhold
+| |   +-qmove.bat
+| |   +-qmsg.doc
+| |   +-qmsg.jar
+| |   +-qrerun.docx
+| |   +-qsub.jar
+| |   +-read
+| |   +-regedit.bat
+| |   +-rm.doc
+| |   +-sed.doc
+| |   +-sort.docx
+| |   +-spotify.doc
+| |   +-spotify.exe
+| |   +-strings
+| |   +-strings.docx
+| |   +-strip.docx
+| |   +-strip.jar
+| |   +-tail.docx
+| |   +-tee.doc
+| |   +-touch
+| |   +-touch.docx
+| |   +-tr.doc
+| |   +-tsort.bat
+| |   +-tty.cmd
+| |   +-umask.docx
+| |   +-unalias.jar
+| |   +-unexpand.doc
+| |   +-unexpand.docx
+| |   +-unexpand.exe
+| |   +-unget.cmd
+| |   +-unget.doc
+| |   +-unget.exe
+| |   +-unlink
+| |   +-uucp.cmd
+| |   +-uucp.exe
+| |   +-uuencode.bat
+| |   +-uustat.exe
+| |   +-wait.jar
+| |   +-wc.bat
+| |   +-who.cmd
+| |   +-who.doc
+| |   +-who.jar
+| |   +-write
+| |   +-write.docx
+| |   +-xargs.bat
+| |   +-xargs.cmd
+| |   +-zcat.doc
+| +-Microsoft/
+| | +-admin
+| | +-admin.doc
+| | +-ar.bat
+| | +-ar.cmd
+| | +-ar.docx
+| | +-asa.exe
+| | +-at
+| | +-at.bat
+| | +-awk.exe
+| | +-basename
+| | +-basename.doc
+| | +-batch.docx
+| | +-bg.doc
+| | +-cal.doc
+| | +-cat
+| | +-chmod.cmd
+| | +-chown.exe
+| | +-chrome.cmd
+| | +-cmd.doc
+| | +-cmd.jar
+| | +-codes
+| | +-codes.docx
+| | +-comm.jar
+| | +-command.cmd
+| | +-command.jar
+| | +-cp.jar
+| | +-crontab.cmd
+| | +-csplit
+| | +-csplit.doc
+| | +-ctags.doc
+| | +-ctags.exe
+| | +-cut.docx
+| | +-cut.exe
+| | +-cxref.docx
+| | +-delta.exe
+| | +-df.cmd
+| | +-df.doc
+| | +-dirname.doc
+| | +-echo
+| | +-ed.jar
+| | +-env.bat
+| | +-env.jar
+| | +-explorer.jar
+| | +-false.cmd
+| | +-fc.jar
+| | +-fg.bat
+| | +-fg.cmd
+| | +-file.docx
+| | +-file.jar
+| | +-fort77.bat
+| | +-gencat.exe
+| | +-get.jar
+| | +-getopts.docx
+| | +-getopts.exe
+| | +-ghci.jar
+| | +-grep.cmd
+| | +-hash.doc
+| | +-hash.docx
+| | +-hash.exe
+| | +-head.bat
+| | +-head.exe
+| | +-iconv
+| | +-ipcrm.doc
+| | +-ipcs.bat
+| | +-ipcs.cmd
+| | +-java
+| | +-java.jar
+| | +-javac
+| | +-join.bat
+| | +-kill.exe
+| | +-lex
+| | +-link.doc
+| | +-locale
+| | +-locale.cmd
+| | +-localedef.exe
+| | +-lp.exe
+| | +-ls.bat
+| | +-ls.jar
+| | +-make.doc
+| | +-man.doc
+| | +-minecraft.cmd
+| | +-mkfifo
+| | +-mkfifo.bat
+| | +-more.jar
+| | +-mv
+| | +-mv.exe
+| | +-mv.jar
+| | +-newgrp.jar
+| | +-nl.cmd
+| | +-nm
+| | +-nohup
+| | +-nohup.docx
+| | +-paste
+| | +-pr.cmd
+| | +-printf.bat
+| | +-ps.docx
+| | +-ps.jar
+| | +-pwd.jar
+| | +-qalter.jar
+| | +-qdel
+| | +-qdel.docx
+| | +-qdel.exe
+| | +-qhold.docx
+| | +-qhold.exe
+| | +-qmove.exe
+| | +-qmsg.cmd
+| | +-qmsg.exe
+| | +-qrerun.bat
+| | +-qrerun.docx
+| | +-qrls.docx
+| | +-qrls.exe
+| | +-qstat.bat
+| | +-qsub
+| | +-qsub.docx
+| | +-read
+| | +-read.exe
+| | +-regedit.docx
+| | +-regedit.jar
+| | +-rm.bat
+| | +-sed.cmd
+| | +-sh
+| | +-split
+| | +-split.docx
+| | +-split.jar
+| | +-spotify.docx
+| | +-strings
+| | +-strings.cmd
+| | +-strip
+| | +-tabs.bat
+| | +-talk.exe
+| | +-test.jar
+| | +-time.doc
+| | +-time.jar
+| | +-touch
+| | +-touch.exe
+| | +-tr.exe
+| | +-true.cmd
+| | +-true.doc
+| | +-true.jar
+| | +-tsort.cmd
+| | +-tty.bat
+| | +-type.exe
+| | +-type.jar
+| | +-ulimit
+| | +-ulimit.exe
+| | +-uncompress.exe
+| | +-unget.docx
+| | +-unget.exe
+| | +-unlink.cmd
+| | +-uudecode.doc
+| | +-uudecode.jar
+| | +-uux.cmd
+| | +-vim.bat
+| | +-vimtutor.bat
+| | +-vimtutor.docx
+| | +-wc.exe
+| | +-who.cmd
+| | +-xargs.bat
+| | +-xargs.jar
+| | +-yacc
+| | +-yacc.doc
+| +-Program Files/
+| | +-alias.cmd
+| | +-ar.doc
+| | +-ar.jar
+| | +-asa.doc
+| | +-at.docx
+| | +-awk
+| | +-batch
+| | +-bc
+| | +-bg.bat
+| | +-cal.exe
+| | +-cd.jar
+| | +-choco.cmd
+| | +-chown.cmd
+| | +-chown.docx
+| | +-chrome.docx
+| | +-cksum
+| | +-cmp
+| | +-cmp.bat
+| | +-codes.cmd
+| | +-codes.exe
+| | +-comm.exe
+| | +-command.docx
+| | +-compress.cmd
+| | +-cp.jar
+| | +-csplit.cmd
+| | +-ctags.exe
+| | +-cxref
+| | +-data.exe
+| | +-date.jar
+| | +-dd
+| | +-delta.bat
+| | +-dir.docx
+| | +-dir.exe
+| | +-dirname.bat
+| | +-dirname.doc
+| | +-dirname.jar
+| | +-du.docx
+| | +-ex.cmd
+| | +-explorer
+| | +-expr.jar
+| | +-false.bat
+| | +-false.docx
+| | +-fc.docx
+| | +-file.docx
+| | +-firefox.bat
+| | +-firefox.docx
+| | +-fuser.docx
+| | +-gencat.doc
+| | +-grep.exe
+| | +-hash.cmd
+| | +-id.docx
+| | +-ipcrm
+| | +-ipcs.jar
+| | +-java
+| | +-lex.cmd
+| | +-ln.cmd
+| | +-ln.doc
+| | +-ln.jar
+| | +-localedef.jar
+| | +-ls
+| | +-ls.bat
+| | +-make.exe
+| | +-mesg.bat
+| | +-mesg.doc
+| | +-mkdir.docx
+| | +-newgrp
+| | +-nm.jar
+| | +-nohup.bat
+| | +-nohup.doc
+| | +-od
+| | +-pr.doc
+| | +-pr.exe
+| | +-prs.exe
+| | +-ps.docx
+| | +-pwd.exe
+| | +-python.docx
+| | +-qdel.doc
+| | +-qhold.cmd
+| | +-qhold.exe
+| | +-qmove.exe
+| | +-qrerun.bat
+| | +-qrerun.docx
+| | +-qrerun.exe
+| | +-qselect.doc
+| | +-qselect.jar
+| | +-regedit
+| | +-ruby.bat
+| | +-sact.exe
+| | +-sccs.docx
+| | +-sed
+| | +-sed.bat
+| | +-sh.cmd
+| | +-sh.exe
+| | +-sh.jar
+| | +-sleep
+| | +-sleep.docx
+| | +-strings.doc
+| | +-strip
+| | +-strip.docx
+| | +-tail.cmd
+| | +-talk.doc
+| | +-talk.exe
+| | +-tee.bat
+| | +-tee.cmd
+| | +-test
+| | +-touch
+| | +-touch.bat
+| | +-tput.doc
+| | +-tput.exe
+| | +-tr.bat
+| | +-tr.jar
+| | +-true.cmd
+| | +-type
+| | +-ulimit.doc
+| | +-ulimit.docx
+| | +-ulimit.jar
+| | +-unalias.exe
+| | +-unexpand.bat
+| | +-unget.cmd
+| | +-uniq.jar
+| | +-unlink.jar
+| | +-uucp.bat
+| | +-uucp.doc
+| | +-uudecode
+| | +-uuencode
+| | +-uux.docx
+| | +-uux.exe
+| | +-val
+| | +-vi.jar
+| | +-vim.bat
+| | +-vim.exe
+| | +-vimtutor.exe
+| | +-wc.docx
+| | +-wc.exe
+| | +-what.docx
+| | +-who
+| | +-winword.exe
+| | +-write.docx
+| | +-yacc.exe
+| +-System32/
+| | +-admin.cmd
+| | +-alias.bat
+| | +-asa.cmd
+| | +-batch.docx
+| | +-bg
+| | +-cd
+| | +-cd.cmd
+| | +-choco
+| | +-choco.exe
+| | +-chrome.doc
+| | +-chrome.exe
+| | +-cmp.exe
+| | +-codes.jar
+| | +-compress.jar
+| | +-cp.exe
+| | +-csplit.bat
+| | +-csplit.cmd
+| | +-ctags
+| | +-ctags.bat
+| | +-cut.exe
+| | +-data.doc
+| | +-dd.doc
+| | +-df.cmd
+| | +-diff
+| | +-diff.bat
+| | +-diff.exe
+| | +-env.docx
+| | +-excel.jar
+| | +-explorer.cmd
+| | +-explorer.doc
+| | +-explorer.jar
+| | +-false.bat
+| | +-false.docx
+| | +-fc.cmd
+| | +-fc.jar
+| | +-find
+| | +-firefox.jar
+| | +-fold.exe
+| | +-fuser.cmd
+| | +-gencat.cmd
+| | +-gencat.doc
+| | +-getopts.doc
+| | +-ghci.jar
+| | +-head.doc
+| | +-id.bat
+| | +-id.jar
+| | +-ipcs.docx
+| | +-java.bat
+| | +-java.cmd
+| | +-java.docx
+| | +-javac
+| | +-javac.bat
+| | +-javaw.docx
+| | +-javaw.exe
+| | +-ln.docx
+| | +-locale.cmd
+| | +-lp
+| | +-ls
+| | +-ls.docx
+| | +-ls.jar
+| | +-m4
+| | +-m4.bat
+| | +-m4.docx
+| | +-mesg.exe
+| | +-mesg.jar
+| | +-mkdir.doc
+| | +-mkdir.jar
+| | +-mkfifo.cmd
+| | +-mkfifo.docx
+| | +-newgrp.jar
+| | +-nm.cmd
+| | +-nohup.bat
+| | +-od.cmd
+| | +-paste
+| | +-printf.jar
+| | +-ps.jar
+| | +-pwd.jar
+| | +-qalter.doc
+| | +-qhold.cmd
+| | +-qmsg.cmd
+| | +-qrerun.bat
+| | +-qrls
+| | +-qrls.bat
+| | +-qrls.docx
+| | +-qsig.jar
+| | +-qstat.jar
+| | +-qsub.bat
+| | +-qsub.doc
+| | +-qsub.exe
+| | +-qsub.jar
+| | +-read.bat
+| | +-renice.bat
+| | +-renice.doc
+| | +-renice.exe
+| | +-rm.exe
+| | +-rm.jar
+| | +-rmdel.exe
+| | +-rmdir.cmd
+| | +-ruby.cmd
+| | +-sact.cmd
+| | +-sccs.docx
+| | +-sh.exe
+| | +-sleep.docx
+| | +-ssh.bat
+| | +-stty.doc
+| | +-tabs.jar
+| | +-tail.docx
+| | +-tee.jar
+| | +-touch.jar
+| | +-tput.bat
+| | +-tr.exe
+| | +-tr.jar
+| | +-umask.docx
+| | +-uname.doc
+| | +-uncompress
+| | +-unexpand.docx
+| | +-unget.docx
+| | +-uniq.bat
+| | +-uniq.docx
+| | +-unlink.bat
+| | +-uudecode.doc
+| | +-uudecode.exe
+| | +-uuencode.cmd
+| | +-uustat.cmd
+| | +-val.bat
+| | +-vim.bat
+| | +-wait.doc
+| | +-what.doc
+| | +-what.docx
+| | +-what.jar
+| | +-who.bat
+| | +-winword.doc
+| | +-write.bat
+| | +-yacc.bat
+| | +-yacc.docx
+| +-admin.cmd
+| +-admin.docx
+| +-alias.doc
+| +-ar.exe
+| +-asa.exe
+| +-at.cmd
+| +-awk
+| +-awk.jar
+| +-basename.bat
+| +-batch
+| +-batch.exe
+| +-bg.bat
+| +-cat.doc
+| +-cat.docx
+| +-cd.cmd
+| +-cd.docx
+| +-chrome.docx
+| +-cksum.exe
+| +-cmd.cmd
+| +-codes.exe
+| +-codes.jar
+| +-command.exe
+| +-compress
+| +-crontab
+| +-csplit
+| +-ctags.docx
+| +-cut.doc
+| +-cxref.bat
+| +-cxref.doc
+| +-cxref.exe
+| +-data
+| +-data.bat
+| +-dd
+| +-delta
+| +-df.doc
+| +-diff.bat
+| +-du.docx
+| +-echo.doc
+| +-ed.cmd
+| +-ed.exe
+| +-env.doc
+| +-env.jar
+| +-excel.cmd
+| +-excel.doc
+| +-expand.exe
+| +-false.docx
+| +-file.doc
+| +-fold.jar
+| +-fuser.cmd
+| +-gencat.exe
+| +-get.exe
+| +-getconf.doc
+| +-getconf.exe
+| +-getopts.bat
+| +-getopts.doc
+| +-grep
+| +-hash.docx
+| +-iconv
+| +-iconv.jar
+| +-ipcrm.cmd
+| +-ipcrm.exe
+| +-ipcs.doc
+| +-join.cmd
+| +-join.docx
+| +-locale.bat
+| +-locale.docx
+| +-localedef
+| +-localedef.docx
+| +-logger.docx
+| +-logname.doc
+| +-lp.jar
+| +-ls.exe
+| +-m4
+| +-make.docx
+| +-minecraft
+| +-minecraft.exe
+| +-mkfifo.doc
+| +-mkfifo.docx
+| +-mv.doc
+| +-nice.exe
+| +-nm.cmd
+| +-nohup.bat
+| +-nohup.cmd
+| +-patch
+| +-patch.bat
+| +-pax
+| +-pax.exe
+| +-pr.doc
+| +-printf.jar
+| +-pwd.exe
+| +-python.doc
+| +-qdel.exe
+| +-qhold.bat
+| +-qmove.cmd
+| +-qmsg.bat
+| +-qmsg.exe
+| +-qrerun
+| +-qstat.bat
+| +-read
+| +-regedit.docx
+| +-rmdel
+| +-rmdel.doc
+| +-rmdel.exe
+| +-rmdel.jar
+| +-rmdir
+| +-ruby.docx
+| +-sccs.jar
+| +-sed.exe
+| +-split.docx
+| +-split.exe
+| +-spotify.docx
+| +-ssh
+| +-ssh.doc
+| +-stty.cmd
+| +-stty.jar
+| +-tabs.docx
+| +-talk.bat
+| +-tee
+| +-test.bat
+| +-true.jar
+| +-tsort.cmd
+| +-tsort.docx
+| +-type
+| +-umask.bat
+| +-umask.cmd
+| +-umask.docx
+| +-umask.jar
+| +-unalias
+| +-unalias.cmd
+| +-unalias.docx
+| +-uname.exe
+| +-unexpand.exe
+| +-unget.bat
+| +-uniq
+| +-unlink.exe
+| +-uucp
+| +-uucp.bat
+| +-uudecode
+| +-uuencode.docx
+| +-uustat.exe
+| +-uux
+| +-uux.cmd
+| +-uux.docx
+| +-vim.jar
+| +-vimtutor
+| +-wc.docx
+| +-what.cmd
+| +-who.jar
+| +-winword.cmd
+| +-winword.jar
+| +-write.exe
+| +-zcat.bat
++-SYSWOW64/
+| +-Program Files/
+| | +-admin.doc
+| | +-ar.cmd
+| | +-ar.docx
+| | +-asa.doc
+| | +-at.bat
+| | +-awk.cmd
+| | +-basename.doc
+| | +-bg.bat
+| | +-cat.bat
+| | +-cat.exe
+| | +-cflow.docx
+| | +-chmod.cmd
+| | +-chmod.exe
+| | +-choco.docx
+| | +-cmd.doc
+| | +-codes
+| | +-command
+| | +-compress.cmd
+| | +-compress.docx
+| | +-cp.jar
+| | +-crontab.cmd
+| | +-csplit.cmd
+| | +-ctags.bat
+| | +-cut.bat
+| | +-cut.doc
+| | +-cxref.docx
+| | +-dd.bat
+| | +-dd.doc
+| | +-dir.doc
+| | +-dir.jar
+| | +-dirname.docx
+| | +-du
+| | +-du.docx
+| | +-ed.cmd
+| | +-ex
+| | +-explorer.doc
+| | +-false.doc
+| | +-fc.doc
+| | +-fg.bat
+| | +-fg.cmd
+| | +-file.cmd
+| | +-file.jar
+| | +-find.jar
+| | +-firefox.cmd
+| | +-fort77
+| | +-fort77.docx
+| | +-gencat.bat
+| | +-get.docx
+| | +-getopts.cmd
+| | +-ghci.cmd
+| | +-grep.bat
+| | +-hash.cmd
+| | +-hash.jar
+| | +-iconv.exe
+| | +-id.doc
+| | +-id.jar
+| | +-ipcs.doc
+| | +-javac
+| | +-javac.docx
+| | +-javac.jar
+| | +-javaw.doc
+| | +-jobs
+| | +-join.docx
+| | +-kill
+| | +-kill.doc
+| | +-lex
+| | +-link.docx
+| | +-localedef.doc
+| | +-logger.docx
+| | +-logname
+| | +-logname.cmd
+| | +-lp
+| | +-lp.exe
+| | +-ls.jar
+| | +-mailx.docx
+| | +-make.doc
+| | +-make.jar
+| | +-mv.doc
+| | +-mv.jar
+| | +-nm.exe
+| | +-nohup.doc
+| | +-paste
+| | +-pathchk.cmd
+| | +-pax.bat
+| | +-printf.bat
+| | +-printf.cmd
+| | +-pwd.cmd
+| | +-pwd.docx
+| | +-qdel.bat
+| | +-qmove.exe
+| | +-qmsg.jar
+| | +-qrerun.docx
+| | +-qrerun.jar
+| | +-qrls.docx
+| | +-qsig.doc
+| | +-qstat
+| | +-qstat.cmd
+| | +-read.cmd
+| | +-regedit.docx
+| | +-regedit.exe
+| | +-regedit.jar
+| | +-renice.jar
+| | +-rmdir
+| | +-rmdir.bat
+| | +-sact.bat
+| | +-sact.cmd
+| | +-sed.doc
+| | +-sleep.bat
+| | +-sleep.cmd
+| | +-sort
+| | +-sort.bat
+| | +-sort.exe
+| | +-sort.jar
+| | +-spotify.docx
+| | +-spotify.exe
+| | +-strings.bat
+| | +-strip
+| | +-strip.docx
+| | +-strip.jar
+| | +-stty
+| | +-tabs.docx
+| | +-tail.exe
+| | +-tee.cmd
+| | +-tee.docx
+| | +-test.exe
+| | +-time.doc
+| | +-time.jar
+| | +-touch.doc
+| | +-tput.docx
+| | +-tsort.jar
+| | +-tty.exe
+| | +-type.bat
+| | +-type.cmd
+| | +-type.jar
+| | +-umask.docx
+| | +-unalias.doc
+| | +-unalias.jar
+| | +-uname.cmd
+| | +-uname.exe
+| | +-unexpand.cmd
+| | +-uucp.docx
+| | +-uudecode.docx
+| | +-uuencode.docx
+| | +-uustat.bat
+| | +-uux.jar
+| | +-what
+| | +-who.bat
+| | +-write.bat
+| | +-write.jar
+| | +-xargs.cmd
+| | +-yacc
+| | +-zcat.bat
+| +-Program Files (x86)/
+| | +-SYSWOW64/
+| | | +-SYSWOW64/
+| | |   +-Microsoft/
+| | |     +-System32/
+| | |       +-Program Files (x86)/
+| | |         +-Program Files (x86)/
+| | |           +-admin
+| | |           +-admin.exe
+| | |           +-admin.jar
+| | |           +-alias.cmd
+| | |           +-asa.doc
+| | |           +-at.docx
+| | |           +-batch.docx
+| | |           +-bg.doc
+| | |           +-cal
+| | |           +-cat.bat
+| | |           +-cat.exe
+| | |           +-cflow.doc
+| | |           +-chgrp.doc
+| | |           +-chgrp.docx
+| | |           +-chmod.jar
+| | |           +-chrome
+| | |           +-chrome.doc
+| | |           +-chrome.exe
+| | |           +-cksum.cmd
+| | |           +-cmd.doc
+| | |           +-cmp
+| | |           +-codes.docx
+| | |           +-command.jar
+| | |           +-compress.bat
+| | |           +-csplit
+| | |           +-csplit.docx
+| | |           +-ctags.bat
+| | |           +-cut.doc
+| | |           +-cxref.bat
+| | |           +-cxref.doc
+| | |           +-data.cmd
+| | |           +-data.doc
+| | |           +-data.jar
+| | |           +-date.doc
+| | |           +-date.jar
+| | |           +-dd.jar
+| | |           +-diff.bat
+| | |           +-du.bat
+| | |           +-du.doc
+| | |           +-ed.jar
+| | |           +-excel.bat
+| | |           +-excel.exe
+| | |           +-expand.cmd
+| | |           +-expr.cmd
+| | |           +-expr.exe
+| | |           +-fc.docx
+| | |           +-fc.exe
+| | |           +-firefox.cmd
+| | |           +-fuser
+| | |           +-gencat.docx
+| | |           +-get.exe
+| | |           +-getconf.cmd
+| | |           +-grep.docx
+| | |           +-head
+| | |           +-head.doc
+| | |           +-id.doc
+| | |           +-ipcrm.exe
+| | |           +-ipcs.jar
+| | |           +-javac.bat
+| | |           +-join.exe
+| | |           +-link.exe
+| | |           +-ln.exe
+| | |           +-locale.doc
+| | |           +-localedef
+| | |           +-localedef.exe
+| | |           +-logger
+| | |           +-logname.doc
+| | |           +-logname.docx
+| | |           +-logname.jar
+| | |           +-lp.cmd
+| | |           +-ls.cmd
+| | |           +-mailx.cmd
+| | |           +-make.cmd
+| | |           +-make.exe
+| | |           +-man
+| | |           +-man.cmd
+| | |           +-mkdir
+| | |           +-mkfifo.bat
+| | |           +-mv.exe
+| | |           +-mv.jar
+| | |           +-newgrp.exe
+| | |           +-nice.exe
+| | |           +-nl.docx
+| | |           +-nm.exe
+| | |           +-od
+| | |           +-paste.bat
+| | |           +-pathchk.exe
+| | |           +-pr.bat
+| | |           +-pr.jar
+| | |           +-prs
+| | |           +-python.jar
+| | |           +-qalter.docx
+| | |           +-qdel
+| | |           +-qdel.bat
+| | |           +-qmsg.exe
+| | |           +-qrerun.cmd
+| | |           +-qrls.cmd
+| | |           +-qstat.jar
+| | |           +-renice.exe
+| | |           +-rm.exe
+| | |           +-rmdir.doc
+| | |           +-rmdir.docx
+| | |           +-rmdir.jar
+| | |           +-sact
+| | |           +-sed.docx
+| | |           +-sh.jar
+| | |           +-sleep.jar
+| | |           +-spotify.exe
+| | |           +-ssh
+| | |           +-strip.bat
+| | |           +-strip.exe
+| | |           +-stty.doc
+| | |           +-stty.docx
+| | |           +-test.cmd
+| | |           +-test.jar
+| | |           +-time.docx
+| | |           +-tr.exe
+| | |           +-tr.jar
+| | |           +-type.cmd
+| | |           +-ulimit.jar
+| | |           +-umask.doc
+| | |           +-umask.docx
+| | |           +-unalias.bat
+| | |           +-unalias.docx
+| | |           +-unexpand.bat
+| | |           +-unget.bat
+| | |           +-unget.doc
+| | |           +-unlink
+| | |           +-unlink.exe
+| | |           +-uucp.exe
+| | |           +-uuencode.bat
+| | |           +-uuencode.jar
+| | |           +-uux
+| | |           +-uux.exe
+| | |           +-uux.jar
+| | |           +-vi.cmd
+| | |           +-vi.docx
+| | |           +-vim.docx
+| | |           +-vim.jar
+| | |           +-vimtutor.doc
+| | |           +-vimtutor.exe
+| | |           +-wait.bat
+| | |           +-wait.jar
+| | |           +-who.bat
+| | |           +-xargs
+| | |           +-yacc.exe
+| | |           +-yacc.jar
+| | +-admin
+| | +-admin.doc
+| | +-asa.docx
+| | +-at.bat
+| | +-awk.docx
+| | +-basename.bat
+| | +-basename.jar
+| | +-batch
+| | +-bg.cmd
+| | +-bg.exe
+| | +-bg.jar
+| | +-cal.cmd
+| | +-cat.cmd
+| | +-cat.docx
+| | +-cflow.bat
+| | +-chgrp.doc
+| | +-choco.cmd
+| | +-chown.docx
+| | +-chrome.bat
+| | +-chrome.exe
+| | +-cksum
+| | +-cmd.doc
+| | +-cmp
+| | +-cmp.bat
+| | +-cmp.cmd
+| | +-cmp.exe
+| | +-codes.cmd
+| | +-codes.exe
+| | +-compress
+| | +-crontab.cmd
+| | +-csplit.jar
+| | +-cxref.bat
+| | +-cxref.docx
+| | +-cxref.exe
+| | +-date.bat
+| | +-date.doc
+| | +-date.docx
+| | +-dd.doc
+| | +-delta.exe
+| | +-df.exe
+| | +-diff
+| | +-diff.docx
+| | +-dir.cmd
+| | +-dir.exe
+| | +-du
+| | +-ed
+| | +-env.cmd
+| | +-ex
+| | +-expand.exe
+| | +-false.exe
+| | +-fc
+| | +-fc.docx
+| | +-fg.bat
+| | +-firefox.jar
+| | +-fold.docx
+| | +-fort77
+| | +-gencat.exe
+| | +-get.exe
+| | +-getconf
+| | +-getconf.jar
+| | +-getopts.docx
+| | +-ghci.cmd
+| | +-grep
+| | +-grep.docx
+| | +-head
+| | +-iconv.doc
+| | +-id.jar
+| | +-java.doc
+| | +-javaw.bat
+| | +-javaw.docx
+| | +-jobs.doc
+| | +-join.cmd
+| | +-join.docx
+| | +-join.jar
+| | +-kill.doc
+| | +-link.doc
+| | +-link.docx
+| | +-ln.doc
+| | +-localedef.exe
+| | +-make.docx
+| | +-man.cmd
+| | +-man.doc
+| | +-man.jar
+| | +-minecraft.jar
+| | +-mkfifo.bat
+| | +-more.doc
+| | +-mv.bat
+| | +-mv.docx
+| | +-nl.exe
+| | +-nm
+| | +-nm.docx
+| | +-nm.jar
+| | +-nohup.jar
+| | +-od.doc
+| | +-od.docx
+| | +-paste.cmd
+| | +-paste.docx
+| | +-paste.exe
+| | +-patch.bat
+| | +-pathchk.cmd
+| | +-pathchk.doc
+| | +-pax.jar
+| | +-printf.cmd
+| | +-prs.cmd
+| | +-prs.exe
+| | +-ps.bat
+| | +-ps.cmd
+| | +-qalter
+| | +-qalter.bat
+| | +-qdel.jar
+| | +-qhold
+| | +-qmove.bat
+| | +-qrerun.bat
+| | +-qrls.cmd
+| | +-qrls.doc
+| | +-qrls.exe
+| | +-qstat.bat
+| | +-rm.doc
+| | +-rmdir.docx
+| | +-ruby.docx
+| | +-sccs.cmd
+| | +-sort.doc
+| | +-sort.exe
+| | +-strings.bat
+| | +-stty.docx
+| | +-tabs.doc
+| | +-tabs.jar
+| | +-talk
+| | +-talk.doc
+| | +-time.cmd
+| | +-tput.bat
+| | +-tr
+| | +-tr.cmd
+| | +-true
+| | +-true.doc
+| | +-tsort
+| | +-tsort.bat
+| | +-type.cmd
+| | +-type.doc
+| | +-umask
+| | +-umask.bat
+| | +-uname.exe
+| | +-uniq.bat
+| | +-uniq.doc
+| | +-uniq.jar
+| | +-uudecode.docx
+| | +-uudecode.exe
+| | +-uuencode.doc
+| | +-val.exe
+| | +-vi
+| | +-vi.jar
+| | +-vim.docx
+| | +-wait.cmd
+| | +-wait.doc
+| | +-wc.cmd
+| | +-what.bat
+| | +-what.doc
+| | +-what.exe
+| | +-yacc.exe
+| +-SYSWOW64/
+| | +-basename
+| | +-basename.docx
+| | +-batch
+| | +-bc.cmd
+| | +-bg.bat
+| | +-cat.bat
+| | +-cflow.docx
+| | +-cflow.jar
+| | +-chmod.cmd
+| | +-cksum.bat
+| | +-cmd.bat
+| | +-cmp.cmd
+| | +-codes.docx
+| | +-comm.doc
+| | +-comm.jar
+| | +-compress.exe
+| | +-csplit.bat
+| | +-csplit.exe
+| | +-cxref
+| | +-data.bat
+| | +-data.doc
+| | +-data.jar
+| | +-date.bat
+| | +-date.cmd
+| | +-date.doc
+| | +-date.exe
+| | +-dd
+| | +-dd.doc
+| | +-diff.jar
+| | +-dirname.cmd
+| | +-dirname.doc
+| | +-du.doc
+| | +-ed.bat
+| | +-env.doc
+| | +-explorer.cmd
+| | +-expr
+| | +-expr.jar
+| | +-fg.doc
+| | +-fg.jar
+| | +-find.exe
+| | +-firefox.exe
+| | +-fold.docx
+| | +-fuser.docx
+| | +-gencat.cmd
+| | +-get.jar
+| | +-getopts.docx
+| | +-ghci.cmd
+| | +-grep.bat
+| | +-grep.cmd
+| | +-grep.jar
+| | +-iconv.bat
+| | +-ipcrm
+| | +-ipcrm.exe
+| | +-ipcrm.jar
+| | +-ipcs.bat
+| | +-java.cmd
+| | +-javaw.exe
+| | +-jobs.bat
+| | +-join.bat
+| | +-join.cmd
+| | +-lex
+| | +-link.jar
+| | +-ln.bat
+| | +-localedef.exe
+| | +-logger.bat
+| | +-logger.cmd
+| | +-logger.docx
+| | +-logger.exe
+| | +-logname.bat
+| | +-lp
+| | +-ls.doc
+| | +-ls.jar
+| | +-mailx.docx
+| | +-mkdir
+| | +-more.exe
+| | +-more.jar
+| | +-newgrp.docx
+| | +-nl.bat
+| | +-nl.exe
+| | +-od.docx
+| | +-paste.docx
+| | +-patch
+| | +-patch.cmd
+| | +-pathchk.jar
+| | +-pax.bat
+| | +-pr.docx
+| | +-printf.docx
+| | +-qalter.doc
+| | +-qdel
+| | +-qmsg.jar
+| | +-qrls.exe
+| | +-qselect.cmd
+| | +-qstat.exe
+| | +-qsub.docx
+| | +-read.cmd
+| | +-read.doc
+| | +-regedit
+| | +-renice.cmd
+| | +-rmdir.bat
+| | +-rmdir.jar
+| | +-ruby
+| | +-sccs.docx
+| | +-sccs.exe
+| | +-sed.docx
+| | +-sleep.doc
+| | +-sort
+| | +-split.bat
+| | +-ssh.cmd
+| | +-stty.exe
+| | +-tail.exe
+| | +-talk
+| | +-talk.cmd
+| | +-tee.cmd
+| | +-tee.docx
+| | +-tee.jar
+| | +-time.bat
+| | +-time.cmd
+| | +-tsort.bat
+| | +-type.bat
+| | +-type.cmd
+| | +-ulimit.docx
+| | +-umask
+| | +-umask.exe
+| | +-umask.jar
+| | +-unalias.cmd
+| | +-uname.docx
+| | +-uname.exe
+| | +-unget.bat
+| | +-unlink.cmd
+| | +-unlink.doc
+| | +-uucp.doc
+| | +-uuencode
+| | +-uuencode.bat
+| | +-uustat.docx
+| | +-uustat.jar
+| | +-val.jar
+| | +-vi.bat
+| | +-vi.docx
+| | +-vim.bat
+| | +-vimtutor.jar
+| | +-wait.bat
+| | +-wc.cmd
+| | +-wc.exe
+| | +-who
+| | +-who.jar
+| | +-winword.docx
+| | +-yacc.jar
+| | +-zcat.bat
+| +-Users/
+| | +-alias.bat
+| | +-basename.docx
+| | +-basename.jar
+| | +-batch.exe
+| | +-cat.bat
+| | +-chmod.doc
+| | +-chmod.docx
+| | +-choco.docx
+| | +-chrome.bat
+| | +-cksum.jar
+| | +-cmd.doc
+| | +-cmd.exe
+| | +-codes.bat
+| | +-comm
+| | +-comm.cmd
+| | +-command.docx
+| | +-crontab
+| | +-ctags.docx
+| | +-cut.bat
+| | +-cxref
+| | +-cxref.bat
+| | +-cxref.docx
+| | +-date.cmd
+| | +-dirname.jar
+| | +-du
+| | +-du.cmd
+| | +-excel.docx
+| | +-expand
+| | +-false.jar
+| | +-fc.exe
+| | +-file.doc
+| | +-find
+| | +-find.exe
+| | +-firefox.cmd
+| | +-fold.exe
+| | +-get.bat
+| | +-getconf.docx
+| | +-getconf.exe
+| | +-hash.doc
+| | +-head.docx
+| | +-iconv
+| | +-iconv.cmd
+| | +-ipcrm.cmd
+| | +-ipcs.exe
+| | +-javaw.doc
+| | +-javaw.jar
+| | +-jobs
+| | +-join.docx
+| | +-locale
+| | +-logger.docx
+| | +-logger.exe
+| | +-logname.doc
+| | +-logname.exe
+| | +-ls
+| | +-ls.exe
+| | +-m4
+| | +-m4.bat
+| | +-m4.jar
+| | +-make.cmd
+| | +-man
+| | +-man.doc
+| | +-minecraft.bat
+| | +-minecraft.docx
+| | +-mkdir.docx
+| | +-mkfifo.doc
+| | +-more.doc
+| | +-more.exe
+| | +-mv
+| | +-newgrp
+| | +-newgrp.docx
+| | +-nice.docx
+| | +-nl.bat
+| | +-nl.jar
+| | +-nm.cmd
+| | +-patch.exe
+| | +-pathchk.bat
+| | +-pax.exe
+| | +-printf.bat
+| | +-prs.bat
+| | +-prs.jar
+| | +-ps.cmd
+| | +-ps.exe
+| | +-ps.jar
+| | +-python.jar
+| | +-qalter.bat
+| | +-qhold.doc
+| | +-qmove.bat
+| | +-qmove.doc
+| | +-qmsg.doc
+| | +-qrerun.jar
+| | +-qrls.bat
+| | +-qselect.docx
+| | +-qselect.jar
+| | +-qsig.doc
+| | +-qsig.docx
+| | +-qstat.docx
+| | +-qsub.docx
+| | +-read.docx
+| | +-renice.doc
+| | +-renice.exe
+| | +-rmdel.cmd
+| | +-rmdir.doc
+| | +-ruby.doc
+| | +-sact.jar
+| | +-sh.exe
+| | +-sleep
+| | +-sleep.cmd
+| | +-split.jar
+| | +-ssh.cmd
+| | +-strip.cmd
+| | +-stty.bat
+| | +-tabs.bat
+| | +-tabs.doc
+| | +-talk.jar
+| | +-tee
+| | +-tee.doc
+| | +-tput.bat
+| | +-tput.cmd
+| | +-tr.doc
+| | +-tty.docx
+| | +-type.cmd
+| | +-type.doc
+| | +-type.exe
+| | +-ulimit.cmd
+| | +-uudecode.exe
+| | +-uustat.cmd
+| | +-uustat.jar
+| | +-vi.docx
+| | +-vim.docx
+| | +-vim.jar
+| | +-vimtutor.bat
+| | +-wait.docx
+| | +-who.bat
+| | +-winword.doc
+| | +-zcat.jar
+| +-Windows/
+| | +-ar.doc
+| | +-asa.bat
+| | +-awk.doc
+| | +-awk.exe
+| | +-batch.cmd
+| | +-batch.doc
+| | +-bc.jar
+| | +-bg.docx
+| | +-cat.bat
+| | +-cd
+| | +-cd.bat
+| | +-choco.docx
+| | +-chown.cmd
+| | +-cmp
+| | +-cmp.exe
+| | +-codes.bat
+| | +-codes.docx
+| | +-comm.docx
+| | +-comm.jar
+| | +-command.cmd
+| | +-compress.jar
+| | +-cp.bat
+| | +-crontab.bat
+| | +-csplit.doc
+| | +-csplit.exe
+| | +-ctags.doc
+| | +-ctags.docx
+| | +-cxref.bat
+| | +-data.jar
+| | +-date.cmd
+| | +-date.jar
+| | +-dd.doc
+| | +-delta.bat
+| | +-delta.exe
+| | +-df.doc
+| | +-df.exe
+| | +-diff.jar
+| | +-dirname.doc
+| | +-dirname.jar
+| | +-du.docx
+| | +-env.cmd
+| | +-env.jar
+| | +-ex.bat
+| | +-excel.bat
+| | +-expand.exe
+| | +-explorer.docx
+| | +-explorer.exe
+| | +-expr.exe
+| | +-fc
+| | +-fc.cmd
+| | +-fg.bat
+| | +-fg.jar
+| | +-file.exe
+| | +-fold.docx
+| | +-gencat.doc
+| | +-gencat.docx
+| | +-gencat.exe
+| | +-get
+| | +-get.exe
+| | +-get.jar
+| | +-grep.cmd
+| | +-hash.bat
+| | +-head.docx
+| | +-id.docx
+| | +-ipcrm.jar
+| | +-ipcs
+| | +-ipcs.docx
+| | +-java.cmd
+| | +-java.jar
+| | +-javac.doc
+| | +-javaw.cmd
+| | +-jobs.cmd
+| | +-jobs.doc
+| | +-lex.bat
+| | +-lex.exe
+| | +-link
+| | +-link.doc
+| | +-locale.exe
+| | +-logname.bat
+| | +-logname.docx
+| | +-lp.exe
+| | +-ls.cmd
+| | +-ls.jar
+| | +-m4.jar
+| | +-mailx
+| | +-make
+| | +-make.docx
+| | +-man.cmd
+| | +-man.jar
+| | +-mesg.cmd
+| | +-more.docx
+| | +-newgrp.cmd
+| | +-newgrp.doc
+| | +-nice.exe
+| | +-nl.bat
+| | +-patch.cmd
+| | +-pax.exe
+| | +-pr.bat
+| | +-printf.docx
+| | +-printf.jar
+| | +-pwd.cmd
+| | +-pwd.jar
+| | +-qalter.bat
+| | +-qmove.cmd
+| | +-qrerun.jar
+| | +-qrls.doc
+| | +-qselect.cmd
+| | +-qselect.doc
+| | +-qselect.docx
+| | +-qsig.cmd
+| | +-qstat.docx
+| | +-qsub.cmd
+| | +-read.bat
+| | +-renice.docx
+| | +-rmdel.exe
+| | +-rmdir.bat
+| | +-rmdir.cmd
+| | +-sact.doc
+| | +-sccs
+| | +-sccs.docx
+| | +-sed.jar
+| | +-sleep
+| | +-sort.cmd
+| | +-sort.docx
+| | +-split
+| | +-split.cmd
+| | +-split.docx
+| | +-strings.cmd
+| | +-strings.docx
+| | +-strip
+| | +-strip.docx
+| | +-talk
+| | +-talk.exe
+| | +-tee.cmd
+| | +-time
+| | +-time.docx
+| | +-tr.cmd
+| | +-tr.docx
+| | +-tr.jar
+| | +-tsort.jar
+| | +-tty.bat
+| | +-ulimit
+| | +-umask.cmd
+| | +-umask.doc
+| | +-unexpand.docx
+| | +-unlink.docx
+| | +-uucp.doc
+| | +-uucp.docx
+| | +-uudecode.jar
+| | +-val.docx
+| | +-vim.jar
+| | +-vimtutor.cmd
+| | +-wait
+| | +-wait.docx
+| | +-wc.doc
+| | +-who.doc
+| | +-yacc.exe
+| | +-zcat.exe
+| +-admin.docx
+| +-alias.docx
+| +-ar.cmd
+| +-at.cmd
+| +-at.exe
+| +-basename.doc
+| +-bg.cmd
+| +-cal.cmd
+| +-cal.exe
+| +-cat.exe
+| +-cat.jar
+| +-cflow
+| +-chgrp
+| +-chmod
+| +-chmod.doc
+| +-chmod.docx
+| +-chmod.exe
+| +-chown.docx
+| +-chrome.bat
+| +-chrome.docx
+| +-chrome.jar
+| +-cmd
+| +-cmd.cmd
+| +-cmp.cmd
+| +-cmp.doc
+| +-codes.exe
+| +-comm.docx
+| +-command.docx
+| +-compress.doc
+| +-cp.jar
+| +-csplit.exe
+| +-ctags.cmd
+| +-ctags.docx
+| +-ctags.exe
+| +-cxref
+| +-cxref.jar
+| +-date.exe
+| +-df.bat
+| +-df.cmd
+| +-diff
+| +-diff.docx
+| +-dirname.jar
+| +-du.docx
+| +-echo.jar
+| +-ed.docx
+| +-env.exe
+| +-explorer
+| +-expr.doc
+| +-find.docx
+| +-firefox.docx
+| +-fuser.jar
+| +-get.exe
+| +-ghci
+| +-ghci.bat
+| +-grep.docx
+| +-iconv.jar
+| +-id.jar
+| +-ipcrm.docx
+| +-ipcrm.jar
+| +-javaw
+| +-javaw.exe
+| +-kill.docx
+| +-lex.bat
+| +-lex.exe
+| +-logger.doc
+| +-logger.jar
+| +-logname
+| +-lp.bat
+| +-lp.jar
+| +-ls
+| +-ls.docx
+| +-mailx.bat
+| +-make.bat
+| +-man.doc
+| +-mesg.exe
+| +-more.bat
+| +-mv.docx
+| +-nl.bat
+| +-nl.cmd
+| +-nl.exe
+| +-nm.cmd
+| +-nm.docx
+| +-nohup.bat
+| +-paste.doc
+| +-pathchk
+| +-pathchk.bat
+| +-pax.doc
+| +-pr.docx
+| +-pr.jar
+| +-prs
+| +-pwd.bat
+| +-pwd.jar
+| +-python.doc
+| +-qalter.bat
+| +-qalter.doc
+| +-qdel.exe
+| +-qmsg.cmd
+| +-qmsg.docx
+| +-qmsg.jar
+| +-qrls
+| +-qrls.docx
+| +-qselect
+| +-qstat.exe
+| +-qsub.doc
+| +-regedit.docx
+| +-regedit.jar
+| +-renice
+| +-rm
+| +-rmdel
+| +-rmdel.doc
+| +-ruby.docx
+| +-sact.bat
+| +-sact.jar
+| +-split.doc
+| +-spotify.bat
+| +-ssh.doc
+| +-strip.jar
+| +-stty.bat
+| +-tabs.bat
+| +-touch.cmd
+| +-tput
+| +-tput.doc
+| +-true
+| +-true.bat
+| +-tty.doc
+| +-umask.jar
+| +-unget.cmd
+| +-uniq.docx
+| +-unlink.docx
+| +-uucp.docx
+| +-uudecode.bat
+| +-uudecode.exe
+| +-uuencode.doc
+| +-val.doc
+| +-vim.docx
+| +-vim.jar
+| +-wait.doc
+| +-wc
+| +-xargs.bat
+| +-xargs.jar
+| +-yacc.doc
+| +-zcat.doc
++-System32/
+| +-Drivers/
+| | +-alias.docx
+| | +-ar.doc
+| | +-ar.jar
+| | +-asa
+| | +-asa.cmd
+| | +-asa.jar
+| | +-at.jar
+| | +-basename.bat
+| | +-bg.exe
+| | +-bg.jar
+| | +-cal.cmd
+| | +-cat.docx
+| | +-cflow.docx
+| | +-choco.exe
+| | +-chown
+| | +-chrome.exe
+| | +-cmp.exe
+| | +-cmp.jar
+| | +-codes.bat
+| | +-command.cmd
+| | +-command.exe
+| | +-cp.jar
+| | +-ctags.cmd
+| | +-ctags.docx
+| | +-data.doc
+| | +-diff.exe
+| | +-dir.exe
+| | +-du.doc
+| | +-echo.exe
+| | +-ed.jar
+| | +-ex.exe
+| | +-excel.doc
+| | +-expand.docx
+| | +-explorer.exe
+| | +-false.exe
+| | +-fc.docx
+| | +-find.jar
+| | +-fuser
+| | +-fuser.bat
+| | +-fuser.doc
+| | +-gencat.cmd
+| | +-get
+| | +-getconf.exe
+| | +-getopts.docx
+| | +-ghci.exe
+| | +-grep
+| | +-hash.cmd
+| | +-hash.doc
+| | +-head.doc
+| | +-id.bat
+| | +-ipcs.cmd
+| | +-ipcs.doc
+| | +-java.exe
+| | +-javaw.doc
+| | +-jobs
+| | +-jobs.bat
+| | +-jobs.jar
+| | +-join.doc
+| | +-lex
+| | +-lex.docx
+| | +-lex.jar
+| | +-link.docx
+| | +-link.jar
+| | +-locale.doc
+| | +-logger.jar
+| | +-logname.docx
+| | +-lp.doc
+| | +-ls.bat
+| | +-ls.doc
+| | +-ls.jar
+| | +-mailx
+| | +-mailx.cmd
+| | +-mailx.exe
+| | +-mailx.jar
+| | +-make.jar
+| | +-man.bat
+| | +-minecraft.doc
+| | +-nice.cmd
+| | +-nohup.docx
+| | +-od.cmd
+| | +-paste.cmd
+| | +-prs.cmd
+| | +-prs.jar
+| | +-qalter.bat
+| | +-qalter.cmd
+| | +-qalter.exe
+| | +-qhold.exe
+| | +-qmsg.exe
+| | +-qmsg.jar
+| | +-qrls.bat
+| | +-qselect
+| | +-qstat.exe
+| | +-qsub
+| | +-read.cmd
+| | +-read.doc
+| | +-read.docx
+| | +-rmdel.doc
+| | +-rmdir.bat
+| | +-rmdir.jar
+| | +-sact.bat
+| | +-sccs
+| | +-sed.doc
+| | +-sleep.bat
+| | +-sleep.cmd
+| | +-sort.doc
+| | +-sort.jar
+| | +-split
+| | +-ssh.cmd
+| | +-strings.bat
+| | +-strip.bat
+| | +-strip.doc
+| | +-talk.bat
+| | +-tee
+| | +-tee.docx
+| | +-time.bat
+| | +-touch.exe
+| | +-tput.cmd
+| | +-tr.jar
+| | +-tty.exe
+| | +-type.exe
+| | +-ulimit.cmd
+| | +-umask.cmd
+| | +-umask.docx
+| | +-unalias.cmd
+| | +-uncompress.docx
+| | +-uncompress.exe
+| | +-unexpand.docx
+| | +-unget.bat
+| | +-uniq.exe
+| | +-uniq.jar
+| | +-unlink.exe
+| | +-uucp.bat
+| | +-uuencode
+| | +-val
+| | +-val.bat
+| | +-vim.exe
+| | +-vim.jar
+| | +-vimtutor.bat
+| | +-wc.doc
+| | +-what.exe
+| | +-winword.docx
+| | +-yacc.doc
+| | +-zcat.cmd
+| | +-zcat.docx
+| +-Microsoft/
+| | +-Drivers/
+| |   +-ar
+| |   +-asa.bat
+| |   +-awk.bat
+| |   +-basename.doc
+| |   +-bg.docx
+| |   +-cal.bat
+| |   +-cat
+| |   +-cflow.cmd
+| |   +-chgrp.bat
+| |   +-chgrp.cmd
+| |   +-chgrp.docx
+| |   +-chown.bat
+| |   +-chrome
+| |   +-cksum.bat
+| |   +-cmd.exe
+| |   +-codes
+| |   +-codes.docx
+| |   +-comm.jar
+| |   +-command.cmd
+| |   +-compress
+| |   +-compress.bat
+| |   +-compress.doc
+| |   +-compress.docx
+| |   +-cp
+| |   +-cp.jar
+| |   +-crontab.cmd
+| |   +-cut.docx
+| |   +-cut.jar
+| |   +-cxref.doc
+| |   +-cxref.jar
+| |   +-data
+| |   +-data.bat
+| |   +-data.doc
+| |   +-date.docx
+| |   +-df.docx
+| |   +-diff.docx
+| |   +-dir.docx
+| |   +-du.doc
+| |   +-echo.bat
+| |   +-ex.jar
+| |   +-expr.exe
+| |   +-false.jar
+| |   +-fg.cmd
+| |   +-file
+| |   +-find.cmd
+| |   +-fuser.doc
+| |   +-fuser.jar
+| |   +-gencat
+| |   +-gencat.docx
+| |   +-get
+| |   +-hash.exe
+| |   +-ipcrm.jar
+| |   +-ipcs
+| |   +-javac
+| |   +-jobs.docx
+| |   +-jobs.exe
+| |   +-join.doc
+| |   +-kill.docx
+| |   +-lex.docx
+| |   +-lex.jar
+| |   +-link
+| |   +-ln.cmd
+| |   +-locale.doc
+| |   +-locale.jar
+| |   +-logger
+| |   +-ls
+| |   +-ls.doc
+| |   +-ls.jar
+| |   +-m4.docx
+| |   +-make
+| |   +-minecraft.doc
+| |   +-mv.exe
+| |   +-nm.docx
+| |   +-nohup.cmd
+| |   +-nohup.jar
+| |   +-paste.doc
+| |   +-patch.jar
+| |   +-pathchk.jar
+| |   +-pr.jar
+| |   +-pwd.cmd
+| |   +-python
+| |   +-qalter.docx
+| |   +-qdel.bat
+| |   +-qdel.exe
+| |   +-qmove.cmd
+| |   +-qmove.docx
+| |   +-qrerun.docx
+| |   +-qsig.jar
+| |   +-qsub.exe
+| |   +-read.exe
+| |   +-regedit.bat
+| |   +-regedit.exe
+| |   +-renice.jar
+| |   +-rm.docx
+| |   +-rmdir.exe
+| |   +-ruby.cmd
+| |   +-ruby.exe
+| |   +-sact.bat
+| |   +-sact.jar
+| |   +-sccs.cmd
+| |   +-sccs.jar
+| |   +-sh.doc
+| |   +-sh.exe
+| |   +-sleep
+| |   +-sleep.bat
+| |   +-sort.exe
+| |   +-split.doc
+| |   +-strip.jar
+| |   +-stty.cmd
+| |   +-tabs.exe
+| |   +-talk.doc
+| |   +-talk.docx
+| |   +-tee.doc
+| |   +-tee.docx
+| |   +-test
+| |   +-test.bat
+| |   +-test.exe
+| |   +-test.jar
+| |   +-tput.doc
+| |   +-tput.docx
+| |   +-tput.jar
+| |   +-true.docx
+| |   +-tsort.jar
+| |   +-uname.doc
+| |   +-uname.jar
+| |   +-uncompress.bat
+| |   +-uncompress.docx
+| |   +-unexpand
+| |   +-unexpand.docx
+| |   +-unexpand.exe
+| |   +-unget.bat
+| |   +-unget.doc
+| |   +-unlink.doc
+| |   +-uustat
+| |   +-uux.cmd
+| |   +-uux.jar
+| |   +-vi.docx
+| |   +-vim.docx
+| |   +-wait.doc
+| |   +-wc.docx
+| |   +-who.jar
+| |   +-winword.exe
+| |   +-zcat.doc
+| |   +-zcat.jar
+| +-Program Files/
+| | +-admin
+| | +-alias
+| | +-awk.bat
+| | +-awk.exe
+| | +-batch.docx
+| | +-bg.jar
+| | +-cal.doc
+| | +-cal.exe
+| | +-cal.jar
+| | +-cat.docx
+| | +-cd.cmd
+| | +-cd.exe
+| | +-cd.jar
+| | +-chmod.bat
+| | +-chmod.jar
+| | +-chrome.doc
+| | +-cmd.jar
+| | +-cmp.cmd
+| | +-comm.bat
+| | +-command.bat
+| | +-cp.exe
+| | +-crontab.cmd
+| | +-crontab.doc
+| | +-csplit.cmd
+| | +-cut.docx
+| | +-date
+| | +-dd.cmd
+| | +-diff
+| | +-diff.cmd
+| | +-diff.docx
+| | +-dir.docx
+| | +-dirname.exe
+| | +-ed.cmd
+| | +-ex.docx
+| | +-expand
+| | +-explorer.cmd
+| | +-fc
+| | +-fg.doc
+| | +-fuser.bat
+| | +-fuser.cmd
+| | +-gencat.doc
+| | +-gencat.docx
+| | +-getopts.doc
+| | +-grep.jar
+| | +-ipcs
+| | +-ipcs.docx
+| | +-javaw.cmd
+| | +-javaw.exe
+| | +-javaw.jar
+| | +-jobs.jar
+| | +-join.doc
+| | +-ln.docx
+| | +-locale.docx
+| | +-locale.exe
+| | +-localedef.bat
+| | +-localedef.cmd
+| | +-lp
+| | +-lp.bat
+| | +-ls.doc
+| | +-m4
+| | +-make.bat
+| | +-man.cmd
+| | +-mesg.bat
+| | +-mesg.docx
+| | +-mkfifo
+| | +-nice.jar
+| | +-nl.docx
+| | +-nm.doc
+| | +-od
+| | +-prs.doc
+| | +-ps.docx
+| | +-python.doc
+| | +-qdel.jar
+| | +-qrerun.docx
+| | +-qrls.docx
+| | +-qselect.jar
+| | +-qsig.cmd
+| | +-qsig.doc
+| | +-qstat.cmd
+| | +-qstat.exe
+| | +-qsub
+| | +-regedit.bat
+| | +-renice.cmd
+| | +-rmdel.bat
+| | +-rmdel.docx
+| | +-rmdir.doc
+| | +-rmdir.docx
+| | +-sed.jar
+| | +-sleep
+| | +-sort.exe
+| | +-spotify
+| | +-strings.bat
+| | +-stty.cmd
+| | +-tabs
+| | +-tail
+| | +-talk.cmd
+| | +-tee.bat
+| | +-tee.doc
+| | +-test.docx
+| | +-touch.bat
+| | +-tr.docx
+| | +-type.cmd
+| | +-type.docx
+| | +-type.jar
+| | +-umask.exe
+| | +-unalias.doc
+| | +-uname.bat
+| | +-unget.cmd
+| | +-unget.doc
+| | +-unget.jar
+| | +-uniq.cmd
+| | +-unlink.bat
+| | +-uucp.doc
+| | +-uudecode.docx
+| | +-val.cmd
+| | +-vi.doc
+| | +-vim.jar
+| | +-vimtutor.jar
+| | +-wait.exe
+| | +-who.exe
+| | +-write.cmd
+| +-Riot Games/
+| | +-Microsoft/
+| |   +-admin.docx
+| |   +-admin.exe
+| |   +-asa
+| |   +-asa.docx
+| |   +-at.doc
+| |   +-awk.docx
+| |   +-awk.jar
+| |   +-bc
+| |   +-bg.bat
+| |   +-cat
+| |   +-cat.bat
+| |   +-choco.cmd
+| |   +-chown
+| |   +-cksum.cmd
+| |   +-cmp.bat
+| |   +-cmp.jar
+| |   +-comm
+| |   +-command.docx
+| |   +-command.exe
+| |   +-compress
+| |   +-compress.exe
+| |   +-cp
+| |   +-cp.bat
+| |   +-cp.doc
+| |   +-crontab.cmd
+| |   +-cxref.exe
+| |   +-date.doc
+| |   +-df
+| |   +-dir.bat
+| |   +-dir.docx
+| |   +-dirname.doc
+| |   +-du.jar
+| |   +-excel.cmd
+| |   +-expand.bat
+| |   +-explorer
+| |   +-explorer.doc
+| |   +-expr.cmd
+| |   +-expr.docx
+| |   +-expr.jar
+| |   +-false.doc
+| |   +-fg.docx
+| |   +-find.bat
+| |   +-find.exe
+| |   +-fold.jar
+| |   +-fuser.exe
+| |   +-fuser.jar
+| |   +-getconf.cmd
+| |   +-getconf.doc
+| |   +-grep.doc
+| |   +-hash.bat
+| |   +-hash.jar
+| |   +-head.cmd
+| |   +-head.docx
+| |   +-iconv.jar
+| |   +-id.cmd
+| |   +-id.jar
+| |   +-ipcrm.bat
+| |   +-ipcrm.docx
+| |   +-ipcrm.jar
+| |   +-java.jar
+| |   +-javac.bat
+| |   +-join
+| |   +-kill.doc
+| |   +-lex.exe
+| |   +-link.bat
+| |   +-locale
+| |   +-localedef.doc
+| |   +-logname.exe
+| |   +-logname.jar
+| |   +-lp.doc
+| |   +-ls
+| |   +-ls.cmd
+| |   +-ls.doc
+| |   +-ls.jar
+| |   +-man.docx
+| |   +-mesg.bat
+| |   +-mesg.doc
+| |   +-minecraft.jar
+| |   +-newgrp.bat
+| |   +-newgrp.doc
+| |   +-newgrp.docx
+| |   +-nice.jar
+| |   +-od.docx
+| |   +-pathchk.exe
+| |   +-pax.jar
+| |   +-prs.doc
+| |   +-prs.docx
+| |   +-ps
+| |   +-ps.doc
+| |   +-ps.docx
+| |   +-python.bat
+| |   +-qdel
+| |   +-qdel.bat
+| |   +-qhold.jar
+| |   +-qmove.exe
+| |   +-qmove.jar
+| |   +-qmsg.cmd
+| |   +-qmsg.doc
+| |   +-qmsg.jar
+| |   +-qsig
+| |   +-qsub.jar
+| |   +-regedit.bat
+| |   +-regedit.exe
+| |   +-regedit.jar
+| |   +-rmdel
+| |   +-ruby.bat
+| |   +-ruby.exe
+| |   +-sccs.doc
+| |   +-sed
+| |   +-sed.bat
+| |   +-sh
+| |   +-sleep.bat
+| |   +-spotify.jar
+| |   +-ssh.docx
+| |   +-ssh.jar
+| |   +-strip
+| |   +-tabs.cmd
+| |   +-talk.exe
+| |   +-touch
+| |   +-touch.bat
+| |   +-true.docx
+| |   +-type
+| |   +-umask.jar
+| |   +-unalias.doc
+| |   +-unalias.docx
+| |   +-uncompress.exe
+| |   +-unexpand.bat
+| |   +-unexpand.cmd
+| |   +-unexpand.jar
+| |   +-uniq.jar
+| |   +-uucp.bat
+| |   +-uudecode.jar
+| |   +-uustat.jar
+| |   +-uux
+| |   +-val.docx
+| |   +-vi.bat
+| |   +-vi.cmd
+| |   +-vi.exe
+| |   +-vim.exe
+| |   +-vim.jar
+| |   +-vimtutor.exe
+| |   +-wait.doc
+| |   +-wait.docx
+| |   +-wc.bat
+| |   +-wc.cmd
+| |   +-who.cmd
+| |   +-who.exe
+| |   +-winword.exe
+| |   +-write.doc
+| |   +-write.docx
+| |   +-xargs.jar
+| |   +-yacc.bat
+| |   +-zcat.doc
+| +-SYSWOW64/
+| | +-ar.doc
+| | +-at.bat
+| | +-awk.bat
+| | +-batch.cmd
+| | +-bc
+| | +-bc.docx
+| | +-bg.jar
+| | +-cal
+| | +-cat.exe
+| | +-cd.doc
+| | +-cflow
+| | +-cflow.cmd
+| | +-cflow.exe
+| | +-chgrp.bat
+| | +-choco
+| | +-choco.docx
+| | +-chown.doc
+| | +-chown.exe
+| | +-cmd.exe
+| | +-codes.jar
+| | +-compress.bat
+| | +-cp.bat
+| | +-crontab.cmd
+| | +-ctags.docx
+| | +-cut
+| | +-cut.cmd
+| | +-cxref.docx
+| | +-date.doc
+| | +-dd.jar
+| | +-dirname.bat
+| | +-dirname.cmd
+| | +-du.cmd
+| | +-ex.docx
+| | +-expand
+| | +-false.doc
+| | +-false.docx
+| | +-fc.docx
+| | +-fg.cmd
+| | +-find.docx
+| | +-fort77.doc
+| | +-fuser.doc
+| | +-gencat.cmd
+| | +-gencat.docx
+| | +-get.docx
+| | +-get.jar
+| | +-getconf.docx
+| | +-grep
+| | +-hash.cmd
+| | +-iconv.bat
+| | +-iconv.docx
+| | +-id.cmd
+| | +-id.doc
+| | +-java.exe
+| | +-jobs.doc
+| | +-join.bat
+| | +-join.doc
+| | +-kill.doc
+| | +-kill.jar
+| | +-lex.doc
+| | +-link.doc
+| | +-logname.doc
+| | +-lp.jar
+| | +-ls.exe
+| | +-ls.jar
+| | +-m4.bat
+| | +-make
+| | +-minecraft.docx
+| | +-mkfifo.docx
+| | +-more.bat
+| | +-mv.doc
+| | +-nice.cmd
+| | +-nm.docx
+| | +-od.exe
+| | +-patch.doc
+| | +-patch.exe
+| | +-pathchk.cmd
+| | +-pr.doc
+| | +-pr.exe
+| | +-printf.cmd
+| | +-prs.bat
+| | +-ps.bat
+| | +-python.docx
+| | +-qalter.jar
+| | +-qmove
+| | +-qmove.jar
+| | +-qmsg.doc
+| | +-qrerun.doc
+| | +-qsig.bat
+| | +-read.doc
+| | +-renice.cmd
+| | +-renice.docx
+| | +-rm.docx
+| | +-rmdel.exe
+| | +-ruby.jar
+| | +-sed
+| | +-sh
+| | +-sh.bat
+| | +-sh.docx
+| | +-split.docx
+| | +-spotify
+| | +-ssh
+| | +-strings.bat
+| | +-strings.jar
+| | +-strip.docx
+| | +-stty.bat
+| | +-stty.docx
+| | +-stty.jar
+| | +-tail
+| | +-tail.doc
+| | +-talk.exe
+| | +-test
+| | +-time.cmd
+| | +-time.docx
+| | +-time.jar
+| | +-touch.docx
+| | +-touch.jar
+| | +-tput.doc
+| | +-true.jar
+| | +-tsort.docx
+| | +-type
+| | +-umask
+| | +-umask.cmd
+| | +-umask.doc
+| | +-umask.jar
+| | +-uname.cmd
+| | +-uname.docx
+| | +-uucp.docx
+| | +-uustat.bat
+| | +-vi.cmd
+| | +-vim.docx
+| | +-vimtutor
+| | +-vimtutor.jar
+| | +-wait.doc
+| | +-wait.docx
+| | +-wait.jar
+| | +-wc.bat
+| | +-wc.cmd
+| | +-wc.doc
+| | +-wc.docx
+| | +-what.bat
+| | +-who.jar
+| | +-yacc.cmd
+| +-System32/
+| | +-alias.bat
+| | +-alias.docx
+| | +-asa
+| | +-asa.cmd
+| | +-asa.jar
+| | +-at
+| | +-basename.jar
+| | +-batch.bat
+| | +-bc.docx
+| | +-cat
+| | +-cat.cmd
+| | +-cat.exe
+| | +-cat.jar
+| | +-cflow
+| | +-cflow.bat
+| | +-chgrp.exe
+| | +-chmod.bat
+| | +-choco
+| | +-choco.bat
+| | +-choco.cmd
+| | +-cmd
+| | +-cmp.docx
+| | +-comm.doc
+| | +-comm.jar
+| | +-command.exe
+| | +-compress.exe
+| | +-csplit
+| | +-cut.cmd
+| | +-data.exe
+| | +-dd.docx
+| | +-dd.jar
+| | +-delta.cmd
+| | +-delta.exe
+| | +-diff.doc
+| | +-dir
+| | +-dirname.jar
+| | +-ed.doc
+| | +-ex.jar
+| | +-excel.bat
+| | +-excel.docx
+| | +-explorer
+| | +-explorer.exe
+| | +-expr.cmd
+| | +-expr.exe
+| | +-expr.jar
+| | +-fc.cmd
+| | +-fg.cmd
+| | +-fg.exe
+| | +-file.exe
+| | +-fold.bat
+| | +-fold.jar
+| | +-fort77.exe
+| | +-gencat
+| | +-head.exe
+| | +-ipcrm.doc
+| | +-ipcs.doc
+| | +-java
+| | +-javaw.doc
+| | +-jobs.cmd
+| | +-jobs.docx
+| | +-join.bat
+| | +-kill.docx
+| | +-lex.jar
+| | +-link.exe
+| | +-locale.cmd
+| | +-locale.doc
+| | +-logger
+| | +-logger.exe
+| | +-lp.doc
+| | +-lp.jar
+| | +-m4.docx
+| | +-make.bat
+| | +-make.docx
+| | +-minecraft.bat
+| | +-mkfifo.doc
+| | +-mkfifo.exe
+| | +-mkfifo.jar
+| | +-more.bat
+| | +-more.exe
+| | +-more.jar
+| | +-nice.jar
+| | +-nl.docx
+| | +-od.cmd
+| | +-od.jar
+| | +-patch.doc
+| | +-pathchk.jar
+| | +-pr.cmd
+| | +-pr.doc
+| | +-printf.cmd
+| | +-printf.docx
+| | +-prs.docx
+| | +-pwd.bat
+| | +-pwd.doc
+| | +-qalter
+| | +-qalter.docx
+| | +-qdel.doc
+| | +-qdel.jar
+| | +-qhold.cmd
+| | +-qselect.bat
+| | +-qselect.exe
+| | +-qsig.exe
+| | +-qstat.cmd
+| | +-qstat.exe
+| | +-qsub.jar
+| | +-read.docx
+| | +-rm.bat
+| | +-rmdir.exe
+| | +-sact.bat
+| | +-sleep.bat
+| | +-sort
+| | +-split.jar
+| | +-spotify
+| | +-spotify.cmd
+| | +-spotify.exe
+| | +-stty
+| | +-stty.bat
+| | +-tabs.cmd
+| | +-tabs.docx
+| | +-tail.docx
+| | +-tee.bat
+| | +-tee.doc
+| | +-tee.jar
+| | +-time.cmd
+| | +-time.exe
+| | +-tput.jar
+| | +-type.doc
+| | +-unalias.cmd
+| | +-uname.bat
+| | +-uname.docx
+| | +-uncompress.jar
+| | +-unexpand.cmd
+| | +-unexpand.docx
+| | +-unget
+| | +-uucp.bat
+| | +-uucp.doc
+| | +-uucp.exe
+| | +-uux.docx
+| | +-vi.cmd
+| | +-vim.bat
+| | +-vim.cmd
+| | +-vimtutor.bat
+| | +-vimtutor.jar
+| | +-what.jar
+| | +-who.docx
+| | +-who.jar
+| | +-winword.jar
+| | +-write.exe
+| | +-zcat.doc
+| +-Users/
+| | +-Windows/
+| | | +-admin.bat
+| | | +-alias.exe
+| | | +-asa.bat
+| | | +-basename
+| | | +-basename.docx
+| | | +-bc.doc
+| | | +-cal.doc
+| | | +-cat.bat
+| | | +-cd.exe
+| | | +-chgrp.exe
+| | | +-choco.cmd
+| | | +-chown.bat
+| | | +-chrome.exe
+| | | +-chrome.jar
+| | | +-cmd.cmd
+| | | +-cmd.doc
+| | | +-cmp.doc
+| | | +-codes.doc
+| | | +-comm.cmd
+| | | +-comm.doc
+| | | +-cp.docx
+| | | +-ctags.bat
+| | | +-cut.bat
+| | | +-cxref
+| | | +-data.exe
+| | | +-date.doc
+| | | +-dd.docx
+| | | +-delta.cmd
+| | | +-df.bat
+| | | +-diff
+| | | +-diff.doc
+| | | +-dir.bat
+| | | +-dirname.bat
+| | | +-dirname.jar
+| | | +-excel.exe
+| | | +-expand.exe
+| | | +-expr.bat
+| | | +-false.doc
+| | | +-fg
+| | | +-fg.doc
+| | | +-fg.jar
+| | | +-file.doc
+| | | +-find.docx
+| | | +-firefox.cmd
+| | | +-fuser
+| | | +-fuser.jar
+| | | +-gencat
+| | | +-get.cmd
+| | | +-getopts.cmd
+| | | +-ghci.docx
+| | | +-grep.exe
+| | | +-hash.cmd
+| | | +-hash.jar
+| | | +-head.jar
+| | | +-id
+| | | +-id.bat
+| | | +-id.exe
+| | | +-ipcrm.docx
+| | | +-javac.cmd
+| | | +-javaw.cmd
+| | | +-javaw.doc
+| | | +-join.doc
+| | | +-kill.doc
+| | | +-lex.jar
+| | | +-link.docx
+| | | +-link.jar
+| | | +-locale.cmd
+| | | +-localedef.bat
+| | | +-logname.bat
+| | | +-logname.jar
+| | | +-ls.doc
+| | | +-ls.docx
+| | | +-ls.exe
+| | | +-ls.jar
+| | | +-m4.docx
+| | | +-make
+| | | +-make.exe
+| | | +-man.jar
+| | | +-minecraft.exe
+| | | +-mkdir
+| | | +-mkfifo.exe
+| | | +-mv.exe
+| | | +-newgrp
+| | | +-newgrp.docx
+| | | +-nice.doc
+| | | +-nl.cmd
+| | | +-nl.doc
+| | | +-nm.cmd
+| | | +-nm.jar
+| | | +-od.docx
+| | | +-paste.cmd
+| | | +-paste.doc
+| | | +-patch
+| | | +-patch.doc
+| | | +-patch.exe
+| | | +-pax.docx
+| | | +-pr.bat
+| | | +-pr.cmd
+| | | +-printf.cmd
+| | | +-prs
+| | | +-prs.doc
+| | | +-ps.bat
+| | | +-ps.jar
+| | | +-python.exe
+| | | +-qalter
+| | | +-qalter.cmd
+| | | +-qdel.cmd
+| | | +-qhold
+| | | +-qrls
+| | | +-qselect.exe
+| | | +-renice.jar
+| | | +-rm.docx
+| | | +-rm.jar
+| | | +-sact.exe
+| | | +-sccs.exe
+| | | +-sh.cmd
+| | | +-sleep.exe
+| | | +-sort.docx
+| | | +-ssh
+| | | +-ssh.bat
+| | | +-stty.jar
+| | | +-tabs
+| | | +-tail.doc
+| | | +-time.doc
+| | | +-tput.doc
+| | | +-tty.doc
+| | | +-ulimit
+| | | +-ulimit.bat
+| | | +-umask.exe
+| | | +-unalias.docx
+| | | +-unalias.exe
+| | | +-unget
+| | | +-unget.docx
+| | | +-uniq.doc
+| | | +-unlink.bat
+| | | +-uucp.exe
+| | | +-uudecode.cmd
+| | | +-uudecode.doc
+| | | +-uuencode.docx
+| | | +-uuencode.jar
+| | | +-uux.exe
+| | | +-val.docx
+| | | +-vim.bat
+| | | +-vim.cmd
+| | | +-vim.jar
+| | | +-wc.exe
+| | | +-who
+| | | +-who.bat
+| | | +-who.exe
+| | | +-who.jar
+| | | +-winword.cmd
+| | | +-zcat.doc
+| | +-admin
+| | +-admin.docx
+| | +-alias
+| | +-alias.docx
+| | +-ar.exe
+| | +-ar.jar
+| | +-awk
+| | +-awk.bat
+| | +-awk.cmd
+| | +-awk.doc
+| | +-awk.docx
+| | +-bg.jar
+| | +-cal.cmd
+| | +-cal.docx
+| | +-cal.jar
+| | +-cd.doc
+| | +-cflow.doc
+| | +-chgrp.bat
+| | +-chmod
+| | +-chmod.cmd
+| | +-chmod.docx
+| | +-choco.docx
+| | +-chrome
+| | +-chrome.docx
+| | +-chrome.exe
+| | +-cmd.cmd
+| | +-cmp.doc
+| | +-codes.cmd
+| | +-comm
+| | +-command
+| | +-compress
+| | +-ctags
+| | +-cut.docx
+| | +-cxref.cmd
+| | +-date.cmd
+| | +-dd.bat
+| | +-delta.jar
+| | +-dirname
+| | +-echo.docx
+| | +-ed.doc
+| | +-ed.docx
+| | +-env
+| | +-env.bat
+| | +-env.doc
+| | +-env.exe
+| | +-excel.cmd
+| | +-excel.docx
+| | +-excel.exe
+| | +-expand.bat
+| | +-expand.doc
+| | +-expand.docx
+| | +-explorer.jar
+| | +-expr.docx
+| | +-false
+| | +-false.exe
+| | +-false.jar
+| | +-fg.bat
+| | +-fg.exe
+| | +-file.cmd
+| | +-find
+| | +-find.exe
+| | +-fuser.bat
+| | +-gencat.exe
+| | +-get.docx
+| | +-get.exe
+| | +-get.jar
+| | +-getconf.bat
+| | +-getconf.exe
+| | +-ghci
+| | +-ghci.doc
+| | +-ipcs
+| | +-ipcs.docx
+| | +-java
+| | +-jobs
+| | +-jobs.doc
+| | +-jobs.docx
+| | +-jobs.jar
+| | +-join.doc
+| | +-lex.bat
+| | +-link.cmd
+| | +-link.doc
+| | +-ln.exe
+| | +-lp.jar
+| | +-ls
+| | +-m4.bat
+| | +-make.cmd
+| | +-mkfifo.exe
+| | +-more.bat
+| | +-more.docx
+| | +-nice.docx
+| | +-nice.jar
+| | +-nl.jar
+| | +-nm.doc
+| | +-nohup.bat
+| | +-nohup.docx
+| | +-pax
+| | +-pax.docx
+| | +-pr.bat
+| | +-printf.jar
+| | +-prs.bat
+| | +-pwd.bat
+| | +-pwd.exe
+| | +-qalter.bat
+| | +-qalter.docx
+| | +-qhold.exe
+| | +-qrerun.doc
+| | +-qselect.docx
+| | +-qstat
+| | +-qstat.cmd
+| | +-qstat.docx
+| | +-read
+| | +-rm.jar
+| | +-ruby
+| | +-sact.doc
+| | +-sed.doc
+| | +-sh.bat
+| | +-sh.exe
+| | +-sleep
+| | +-sleep.cmd
+| | +-sort.exe
+| | +-ssh
+| | +-strings
+| | +-strings.bat
+| | +-strip.jar
+| | +-stty.bat
+| | +-stty.docx
+| | +-talk.docx
+| | +-tee
+| | +-tee.docx
+| | +-time.doc
+| | +-touch.cmd
+| | +-tput
+| | +-tput.cmd
+| | +-tr.doc
+| | +-true.bat
+| | +-tsort.cmd
+| | +-tty.jar
+| | +-type.cmd
+| | +-type.jar
+| | +-ulimit.cmd
+| | +-ulimit.jar
+| | +-uncompress
+| | +-uncompress.doc
+| | +-unget.doc
+| | +-uniq.exe
+| | +-uudecode
+| | +-uustat.cmd
+| | +-val.exe
+| | +-vi.doc
+| | +-vim.doc
+| | +-vimtutor
+| | +-wait
+| | +-wc.exe
+| | +-what.bat
+| | +-write.docx
+| | +-write.jar
+| | +-zcat.docx
+| +-Windows/
+| | +-admin.cmd
+| | +-alias.doc
+| | +-batch.bat
+| | +-bc.jar
+| | +-bg
+| | +-bg.docx
+| | +-cal
+| | +-cat.doc
+| | +-cd
+| | +-cflow.bat
+| | +-chgrp.jar
+| | +-chmod
+| | +-chown.docx
+| | +-chown.exe
+| | +-chrome.bat
+| | +-chrome.cmd
+| | +-chrome.jar
+| | +-codes
+| | +-codes.doc
+| | +-cp.docx
+| | +-crontab.jar
+| | +-data.doc
+| | +-dd
+| | +-dd.docx
+| | +-diff.bat
+| | +-dir.doc
+| | +-dir.docx
+| | +-dirname.exe
+| | +-du
+| | +-du.doc
+| | +-du.jar
+| | +-echo.exe
+| | +-env.cmd
+| | +-explorer.exe
+| | +-false
+| | +-file
+| | +-file.bat
+| | +-fold.cmd
+| | +-fort77
+| | +-fuser.cmd
+| | +-fuser.docx
+| | +-gencat.cmd
+| | +-gencat.jar
+| | +-getconf.cmd
+| | +-getopts
+| | +-getopts.jar
+| | +-grep.exe
+| | +-grep.jar
+| | +-hash.cmd
+| | +-head.doc
+| | +-head.exe
+| | +-iconv
+| | +-ipcs.bat
+| | +-ipcs.doc
+| | +-ipcs.jar
+| | +-javaw.cmd
+| | +-jobs.jar
+| | +-join.docx
+| | +-link.bat
+| | +-locale
+| | +-locale.docx
+| | +-localedef.jar
+| | +-logname.jar
+| | +-lp.exe
+| | +-m4
+| | +-man.bat
+| | +-man.exe
+| | +-mesg.bat
+| | +-mkfifo.exe
+| | +-more.docx
+| | +-mv
+| | +-nice.cmd
+| | +-nice.doc
+| | +-nl
+| | +-nl.bat
+| | +-nohup.doc
+| | +-nohup.exe
+| | +-od.jar
+| | +-paste
+| | +-paste.docx
+| | +-pathchk.doc
+| | +-pr.exe
+| | +-pr.jar
+| | +-prs
+| | +-ps
+| | +-ps.doc
+| | +-ps.docx
+| | +-pwd
+| | +-python.bat
+| | +-python.docx
+| | +-qalter.exe
+| | +-qdel.jar
+| | +-qmove.doc
+| | +-qrls.jar
+| | +-qselect.jar
+| | +-qstat.doc
+| | +-qstat.jar
+| | +-read.exe
+| | +-regedit.bat
+| | +-rm.cmd
+| | +-rm.exe
+| | +-rmdir.jar
+| | +-sact.cmd
+| | +-sccs
+| | +-sccs.jar
+| | +-split.doc
+| | +-tail.docx
+| | +-tail.exe
+| | +-tail.jar
+| | +-tee
+| | +-tee.cmd
+| | +-tee.doc
+| | +-test
+| | +-test.docx
+| | +-test.exe
+| | +-touch
+| | +-tput.docx
+| | +-tr
+| | +-ulimit.docx
+| | +-unalias.docx
+| | +-uncompress
+| | +-uncompress.jar
+| | +-unget.bat
+| | +-unget.jar
+| | +-uniq.jar
+| | +-unlink.docx
+| | +-uucp.doc
+| | +-vi.jar
+| | +-vim
+| | +-vimtutor.cmd
+| | +-wc.bat
+| | +-what.cmd
+| | +-winword.bat
+| | +-xargs.docx
+| | +-yacc
+| | +-zcat.bat
+| | +-zcat.exe
+| | +-zcat.jar
+| +-admin.doc
+| +-admin.jar
+| +-asa.doc
+| +-awk.cmd
+| +-basename
+| +-basename.docx
+| +-basename.exe
+| +-batch.bat
+| +-batch.doc
+| +-bc.doc
+| +-bc.jar
+| +-cat
+| +-cflow
+| +-chgrp.jar
+| +-chmod.cmd
+| +-chmod.jar
+| +-chrome.exe
+| +-cksum.cmd
+| +-cmp.jar
+| +-command.exe
+| +-ctags
+| +-ctags.exe
+| +-data.exe
+| +-date.jar
+| +-dd.exe
+| +-df.cmd
+| +-dir.cmd
+| +-du.docx
+| +-du.exe
+| +-du.jar
+| +-ed
+| +-ed.bat
+| +-ed.doc
+| +-ex.cmd
+| +-ex.jar
+| +-excel.bat
+| +-expand.doc
+| +-expand.docx
+| +-explorer.doc
+| +-expr.jar
+| +-fc.exe
+| +-fg.bat
+| +-find
+| +-fold.bat
+| +-get.exe
+| +-hash.docx
+| +-ipcs.jar
+| +-javac.cmd
+| +-javac.doc
+| +-javac.exe
+| +-javaw.cmd
+| +-jobs.docx
+| +-join.exe
+| +-logger.bat
+| +-logname.cmd
+| +-ls
+| +-ls.doc
+| +-ls.exe
+| +-ls.jar
+| +-m4
+| +-mailx.bat
+| +-mailx.cmd
+| +-mailx.exe
+| +-mailx.jar
+| +-mesg.docx
+| +-mesg.exe
+| +-mkfifo.docx
+| +-more.cmd
+| +-mv.exe
+| +-newgrp.exe
+| +-nl.docx
+| +-nm.exe
+| +-nohup.bat
+| +-nohup.cmd
+| +-pathchk.docx
+| +-pax.cmd
+| +-pr.docx
+| +-ps
+| +-ps.doc
+| +-ps.exe
+| +-python.exe
+| +-qalter.exe
+| +-qdel.doc
+| +-qhold.exe
+| +-qmove.exe
+| +-qmsg
+| +-qmsg.bat
+| +-qrerun.bat
+| +-qrerun.docx
+| +-qselect.jar
+| +-qsig.jar
+| +-read.doc
+| +-regedit.jar
+| +-renice
+| +-renice.bat
+| +-renice.cmd
+| +-rm.jar
+| +-rmdel.cmd
+| +-rmdel.exe
+| +-rmdel.jar
+| +-rmdir.cmd
+| +-rmdir.doc
+| +-rmdir.jar
+| +-ruby.docx
+| +-sccs
+| +-sccs.exe
+| +-sh.cmd
+| +-sh.doc
+| +-sh.exe
+| +-sleep
+| +-sleep.cmd
+| +-sort.doc
+| +-ssh.exe
+| +-strings.docx
+| +-stty
+| +-tabs.bat
+| +-tabs.jar
+| +-talk.doc
+| +-time.jar
+| +-tput.docx
+| +-tput.exe
+| +-tr.docx
+| +-true.jar
+| +-ulimit.docx
+| +-uncompress.exe
+| +-uniq.cmd
+| +-uniq.doc
+| +-uucp.jar
+| +-uuencode.cmd
+| +-vim.docx
+| +-wait.jar
+| +-wc
+| +-what.doc
+| +-what.docx
+| +-winword
+| +-write.docx
+| +-write.exe
+| +-yacc.bat
+| +-yacc.docx
++-Users/
+| +-Drivers/
+| | +-admin.bat
+| | +-admin.cmd
+| | +-alias.bat
+| | +-basename.jar
+| | +-batch.jar
+| | +-bc.cmd
+| | +-cal.cmd
+| | +-cflow.cmd
+| | +-cflow.jar
+| | +-chgrp
+| | +-chgrp.docx
+| | +-chgrp.exe
+| | +-chmod.bat
+| | +-chmod.doc
+| | +-chown.doc
+| | +-chrome.doc
+| | +-cmd.docx
+| | +-command
+| | +-cp.exe
+| | +-cut.docx
+| | +-data
+| | +-date.doc
+| | +-date.exe
+| | +-dd.docx
+| | +-dir
+| | +-dir.docx
+| | +-dir.exe
+| | +-dirname
+| | +-dirname.bat
+| | +-dirname.cmd
+| | +-du.docx
+| | +-du.jar
+| | +-echo.bat
+| | +-echo.doc
+| | +-ed.cmd
+| | +-expand.exe
+| | +-expand.jar
+| | +-explorer.cmd
+| | +-fg.doc
+| | +-fg.exe
+| | +-file.exe
+| | +-file.jar
+| | +-fuser.cmd
+| | +-gencat.exe
+| | +-gencat.jar
+| | +-getconf.jar
+| | +-getopts
+| | +-getopts.doc
+| | +-ghci.exe
+| | +-grep.cmd
+| | +-grep.jar
+| | +-hash
+| | +-hash.cmd
+| | +-hash.doc
+| | +-iconv
+| | +-id.bat
+| | +-ipcs
+| | +-java
+| | +-javac
+| | +-javac.cmd
+| | +-javaw.jar
+| | +-jobs.jar
+| | +-lex
+| | +-link.jar
+| | +-ln.cmd
+| | +-locale.bat
+| | +-locale.cmd
+| | +-logname.bat
+| | +-logname.cmd
+| | +-lp.doc
+| | +-lp.docx
+| | +-ls.jar
+| | +-make.doc
+| | +-man
+| | +-minecraft.exe
+| | +-mkdir.jar
+| | +-more
+| | +-more.docx
+| | +-more.jar
+| | +-nl.bat
+| | +-nl.cmd
+| | +-nm.docx
+| | +-od.exe
+| | +-patch.docx
+| | +-pathchk.bat
+| | +-pax.exe
+| | +-printf.cmd
+| | +-prs.cmd
+| | +-prs.exe
+| | +-ps
+| | +-ps.bat
+| | +-ps.exe
+| | +-pwd.doc
+| | +-pwd.docx
+| | +-qalter.doc
+| | +-qhold.exe
+| | +-qmove
+| | +-qmsg.docx
+| | +-qmsg.exe
+| | +-qrls.bat
+| | +-qselect.docx
+| | +-qsig
+| | +-qsig.doc
+| | +-qstat
+| | +-qsub.cmd
+| | +-qsub.doc
+| | +-read.bat
+| | +-read.doc
+| | +-regedit.bat
+| | +-renice.jar
+| | +-rmdel
+| | +-rmdir.jar
+| | +-ruby.docx
+| | +-sact.cmd
+| | +-sccs.bat
+| | +-sed.exe
+| | +-sh.jar
+| | +-sort.bat
+| | +-strings.docx
+| | +-stty
+| | +-tabs.bat
+| | +-tee.cmd
+| | +-test
+| | +-time.bat
+| | +-touch.bat
+| | +-tput.doc
+| | +-true.doc
+| | +-tsort.doc
+| | +-tsort.exe
+| | +-tty
+| | +-ulimit.jar
+| | +-unalias.docx
+| | +-uncompress.cmd
+| | +-uniq.bat
+| | +-uniq.exe
+| | +-uucp
+| | +-uucp.jar
+| | +-uudecode.bat
+| | +-uuencode.jar
+| | +-val.bat
+| | +-vi.jar
+| | +-vimtutor.cmd
+| | +-vimtutor.exe
+| | +-wc.bat
+| | +-wc.docx
+| | +-what.exe
+| | +-who.cmd
+| | +-yacc.jar
+| +-Microsoft/
+| | +-admin
+| | +-admin.docx
+| | +-basename.cmd
+| | +-batch.exe
+| | +-batch.jar
+| | +-bc.cmd
+| | +-bc.doc
+| | +-bc.docx
+| | +-cal.jar
+| | +-cat.cmd
+| | +-chgrp.bat
+| | +-chgrp.jar
+| | +-chown.bat
+| | +-chown.exe
+| | +-chrome.cmd
+| | +-chrome.docx
+| | +-cmd.cmd
+| | +-cmd.doc
+| | +-cmp.cmd
+| | +-comm.exe
+| | +-cp.cmd
+| | +-cp.doc
+| | +-cp.docx
+| | +-cp.jar
+| | +-crontab.cmd
+| | +-ctags.bat
+| | +-cut.doc
+| | +-cxref
+| | +-data.bat
+| | +-dd.bat
+| | +-dd.cmd
+| | +-delta.jar
+| | +-df
+| | +-df.docx
+| | +-dir.exe
+| | +-dirname.bat
+| | +-env.jar
+| | +-expand.cmd
+| | +-expand.jar
+| | +-expr.cmd
+| | +-false.exe
+| | +-fc
+| | +-file.bat
+| | +-fuser.bat
+| | +-gencat
+| | +-gencat.jar
+| | +-get.cmd
+| | +-getconf.exe
+| | +-getconf.jar
+| | +-ghci.jar
+| | +-hash.cmd
+| | +-ipcrm.jar
+| | +-ipcs
+| | +-ipcs.doc
+| | +-javac.bat
+| | +-javac.doc
+| | +-javac.exe
+| | +-javaw.doc
+| | +-join.bat
+| | +-join.doc
+| | +-join.docx
+| | +-lex.jar
+| | +-link.bat
+| | +-ln.bat
+| | +-localedef.cmd
+| | +-logname
+| | +-logname.docx
+| | +-lp
+| | +-lp.exe
+| | +-m4.cmd
+| | +-make.cmd
+| | +-minecraft
+| | +-mkdir.bat
+| | +-mkdir.docx
+| | +-mkfifo.bat
+| | +-mv
+| | +-mv.doc
+| | +-mv.docx
+| | +-newgrp
+| | +-newgrp.bat
+| | +-nice.bat
+| | +-nl.bat
+| | +-nl.exe
+| | +-nm.bat
+| | +-nohup.exe
+| | +-od.bat
+| | +-paste
+| | +-paste.docx
+| | +-patch
+| | +-patch.docx
+| | +-pax
+| | +-pr.doc
+| | +-prs.cmd
+| | +-prs.doc
+| | +-ps.bat
+| | +-pwd
+| | +-qalter.docx
+| | +-qdel.jar
+| | +-qmove
+| | +-qmsg.jar
+| | +-qrerun.doc
+| | +-qrls.bat
+| | +-qrls.doc
+| | +-qstat.exe
+| | +-read.docx
+| | +-read.exe
+| | +-regedit
+| | +-renice.docx
+| | +-rm.jar
+| | +-rmdel.jar
+| | +-ruby.jar
+| | +-sed.doc
+| | +-sleep.doc
+| | +-sleep.exe
+| | +-sort.doc
+| | +-split.exe
+| | +-strip.jar
+| | +-tabs
+| | +-tail
+| | +-talk.doc
+| | +-tee
+| | +-tee.bat
+| | +-tee.docx
+| | +-test.bat
+| | +-test.docx
+| | +-touch.cmd
+| | +-tput.jar
+| | +-true
+| | +-true.doc
+| | +-true.jar
+| | +-type.bat
+| | +-ulimit.cmd
+| | +-umask.jar
+| | +-uncompress.doc
+| | +-unget
+| | +-unget.bat
+| | +-unget.cmd
+| | +-unlink.cmd
+| | +-uucp.bat
+| | +-uudecode.docx
+| | +-uux.bat
+| | +-val
+| | +-val.doc
+| | +-val.docx
+| | +-vimtutor.bat
+| | +-wait.bat
+| | +-what.jar
+| | +-winword.bat
+| | +-winword.doc
+| | +-write.docx
+| | +-xargs
+| | +-zcat.cmd
+| | +-zcat.exe
+| +-Program Files/
+| | +-admin.cmd
+| | +-ar
+| | +-asa
+| | +-asa.jar
+| | +-at.jar
+| | +-awk.bat
+| | +-awk.jar
+| | +-basename.doc
+| | +-bg.exe
+| | +-cal.doc
+| | +-cat.cmd
+| | +-cat.exe
+| | +-cat.jar
+| | +-cflow.jar
+| | +-choco.doc
+| | +-chown.bat
+| | +-chrome.exe
+| | +-chrome.jar
+| | +-cksum.exe
+| | +-cmd.bat
+| | +-command
+| | +-compress
+| | +-compress.docx
+| | +-crontab.bat
+| | +-csplit.bat
+| | +-ctags.cmd
+| | +-ctags.exe
+| | +-ctags.jar
+| | +-cxref.cmd
+| | +-data
+| | +-data.doc
+| | +-date.docx
+| | +-dd.cmd
+| | +-dir.bat
+| | +-echo
+| | +-env.exe
+| | +-ex.exe
+| | +-excel.cmd
+| | +-expand.exe
+| | +-explorer.cmd
+| | +-expr.doc
+| | +-expr.jar
+| | +-fg.exe
+| | +-file.cmd
+| | +-find.cmd
+| | +-find.exe
+| | +-fold
+| | +-fold.exe
+| | +-get.docx
+| | +-getopts.cmd
+| | +-getopts.docx
+| | +-head.doc
+| | +-ipcrm.exe
+| | +-ipcs.bat
+| | +-javac.doc
+| | +-javaw
+| | +-join.bat
+| | +-join.doc
+| | +-kill.cmd
+| | +-lex.cmd
+| | +-ln.bat
+| | +-ln.docx
+| | +-locale.exe
+| | +-localedef.cmd
+| | +-logger
+| | +-mesg.cmd
+| | +-mesg.doc
+| | +-minecraft.bat
+| | +-more.cmd
+| | +-nice.doc
+| | +-nl
+| | +-paste
+| | +-patch.bat
+| | +-pathchk.docx
+| | +-pax.doc
+| | +-pr.exe
+| | +-printf.docx
+| | +-python.cmd
+| | +-qdel
+| | +-qhold.doc
+| | +-qrerun.bat
+| | +-qsig.jar
+| | +-read.doc
+| | +-regedit.exe
+| | +-renice.docx
+| | +-renice.exe
+| | +-rm.bat
+| | +-rm.cmd
+| | +-rm.doc
+| | +-rmdel.bat
+| | +-rmdir
+| | +-rmdir.jar
+| | +-ruby.exe
+| | +-sact.exe
+| | +-sccs.jar
+| | +-sort
+| | +-ssh.jar
+| | +-strip.docx
+| | +-stty.docx
+| | +-tabs
+| | +-tabs.cmd
+| | +-talk.bat
+| | +-time.jar
+| | +-tr.bat
+| | +-tr.exe
+| | +-ulimit.bat
+| | +-umask.exe
+| | +-umask.jar
+| | +-unalias
+| | +-unalias.exe
+| | +-uname.cmd
+| | +-uncompress
+| | +-unlink.doc
+| | +-uucp
+| | +-uudecode.cmd
+| | +-uudecode.docx
+| | +-uuencode
+| | +-uuencode.jar
+| | +-uustat
+| | +-uux.doc
+| | +-vim.bat
+| | +-vim.docx
+| | +-vim.jar
+| | +-vimtutor.docx
+| | +-wc
+| | +-wc.exe
+| | +-what.doc
+| | +-winword.cmd
+| | +-winword.exe
+| | +-xargs.docx
+| | +-yacc.docx
+| | +-zcat.cmd
+| +-Program Files (x86)/
+| | +-admin.doc
+| | +-admin.jar
+| | +-alias.exe
+| | +-at
+| | +-at.exe
+| | +-basename
+| | +-cal.bat
+| | +-cal.cmd
+| | +-cal.jar
+| | +-cat.doc
+| | +-cflow
+| | +-cflow.docx
+| | +-chgrp.cmd
+| | +-chgrp.jar
+| | +-cmp
+| | +-cmp.cmd
+| | +-cmp.doc
+| | +-codes.bat
+| | +-codes.docx
+| | +-comm.exe
+| | +-command
+| | +-command.exe
+| | +-compress.cmd
+| | +-crontab.cmd
+| | +-cxref.docx
+| | +-delta
+| | +-delta.cmd
+| | +-df
+| | +-dirname.docx
+| | +-dirname.jar
+| | +-du.cmd
+| | +-expand.bat
+| | +-explorer.bat
+| | +-expr
+| | +-expr.bat
+| | +-expr.cmd
+| | +-find.bat
+| | +-getconf.doc
+| | +-getconf.docx
+| | +-grep.bat
+| | +-head
+| | +-id.exe
+| | +-ipcrm.docx
+| | +-java.bat
+| | +-java.exe
+| | +-javac.exe
+| | +-javaw.exe
+| | +-jobs.docx
+| | +-kill.cmd
+| | +-locale
+| | +-logger.cmd
+| | +-logger.doc
+| | +-logger.docx
+| | +-logger.exe
+| | +-logname.exe
+| | +-logname.jar
+| | +-ls.bat
+| | +-ls.doc
+| | +-m4
+| | +-m4.bat
+| | +-mailx.cmd
+| | +-mailx.exe
+| | +-mailx.jar
+| | +-man
+| | +-man.cmd
+| | +-minecraft
+| | +-minecraft.doc
+| | +-minecraft.jar
+| | +-mkdir.cmd
+| | +-more
+| | +-nice
+| | +-nl.docx
+| | +-od.exe
+| | +-paste.docx
+| | +-patch.doc
+| | +-printf.docx
+| | +-printf.exe
+| | +-prs.bat
+| | +-ps.docx
+| | +-pwd.cmd
+| | +-python.bat
+| | +-python.jar
+| | +-qalter.docx
+| | +-qalter.jar
+| | +-qmove.docx
+| | +-qmsg
+| | +-qselect.bat
+| | +-qselect.jar
+| | +-qstat
+| | +-qstat.cmd
+| | +-qstat.jar
+| | +-qsub.docx
+| | +-read.exe
+| | +-renice.doc
+| | +-rmdel.exe
+| | +-ruby
+| | +-ruby.bat
+| | +-sccs.doc
+| | +-sccs.jar
+| | +-sed.exe
+| | +-sh
+| | +-sort.exe
+| | +-split.bat
+| | +-strings
+| | +-strip.exe
+| | +-stty.docx
+| | +-tabs.docx
+| | +-talk.cmd
+| | +-test.bat
+| | +-tput.exe
+| | +-tr.bat
+| | +-tr.doc
+| | +-true.docx
+| | +-tsort
+| | +-tsort.exe
+| | +-uncompress.docx
+| | +-unexpand.cmd
+| | +-unget.bat
+| | +-unlink.exe
+| | +-uudecode.bat
+| | +-uustat.docx
+| | +-val.exe
+| | +-vim.doc
+| | +-wait
+| | +-winword.bat
+| | +-winword.cmd
+| | +-write.bat
+| | +-yacc.docx
+| | +-yacc.jar
+| | +-zcat.cmd
+| +-SYSWOW64/
+| | +-ar.doc
+| | +-awk.bat
+| | +-bc
+| | +-cal.cmd
+| | +-cat.cmd
+| | +-cat.exe
+| | +-cd
+| | +-cd.cmd
+| | +-cflow.exe
+| | +-chgrp.docx
+| | +-chmod
+| | +-choco.docx
+| | +-choco.exe
+| | +-cksum
+| | +-cksum.doc
+| | +-cmd
+| | +-cmd.doc
+| | +-cmp.docx
+| | +-codes.docx
+| | +-codes.exe
+| | +-comm.doc
+| | +-csplit.doc
+| | +-data
+| | +-date.exe
+| | +-diff.bat
+| | +-diff.cmd
+| | +-diff.docx
+| | +-diff.jar
+| | +-dirname.bat
+| | +-dirname.cmd
+| | +-env.docx
+| | +-excel.doc
+| | +-excel.docx
+| | +-expand.bat
+| | +-expand.cmd
+| | +-explorer.cmd
+| | +-explorer.docx
+| | +-fc.jar
+| | +-find
+| | +-firefox.cmd
+| | +-fold.jar
+| | +-fort77.cmd
+| | +-fuser.docx
+| | +-gencat
+| | +-gencat.docx
+| | +-get
+| | +-get.docx
+| | +-getconf.cmd
+| | +-getconf.exe
+| | +-ghci
+| | +-grep.docx
+| | +-hash.docx
+| | +-iconv.doc
+| | +-id.exe
+| | +-ipcrm.doc
+| | +-ipcrm.exe
+| | +-java.doc
+| | +-javaw
+| | +-jobs.bat
+| | +-join.exe
+| | +-join.jar
+| | +-lex.bat
+| | +-lex.docx
+| | +-link.doc
+| | +-ln.cmd
+| | +-ln.jar
+| | +-localedef.exe
+| | +-ls.cmd
+| | +-m4.exe
+| | +-mailx.bat
+| | +-minecraft.exe
+| | +-mkdir.bat
+| | +-mkfifo.doc
+| | +-nice
+| | +-nice.cmd
+| | +-nohup.bat
+| | +-od
+| | +-pax.doc
+| | +-prs.docx
+| | +-prs.exe
+| | +-ps.docx
+| | +-ps.exe
+| | +-pwd
+| | +-python.docx
+| | +-qhold.docx
+| | +-qmove
+| | +-qmove.bat
+| | +-qmsg.cmd
+| | +-qsig.cmd
+| | +-qsig.jar
+| | +-qsub.jar
+| | +-read.jar
+| | +-rm.docx
+| | +-rm.exe
+| | +-rmdir.jar
+| | +-ruby.bat
+| | +-ruby.doc
+| | +-sact
+| | +-sact.doc
+| | +-sact.docx
+| | +-sed.doc
+| | +-sh
+| | +-sleep.cmd
+| | +-split.docx
+| | +-spotify.docx
+| | +-strings.doc
+| | +-tabs.bat
+| | +-tabs.jar
+| | +-tail.bat
+| | +-tee.bat
+| | +-tee.cmd
+| | +-tee.docx
+| | +-touch.bat
+| | +-touch.cmd
+| | +-touch.exe
+| | +-tput
+| | +-tr
+| | +-umask.bat
+| | +-unalias.cmd
+| | +-uncompress
+| | +-uncompress.docx
+| | +-unexpand.cmd
+| | +-unexpand.jar
+| | +-unget.docx
+| | +-uniq.cmd
+| | +-unlink.cmd
+| | +-unlink.exe
+| | +-uucp.docx
+| | +-uudecode.exe
+| | +-uustat.docx
+| | +-uustat.jar
+| | +-vimtutor
+| | +-vimtutor.exe
+| | +-what.docx
+| | +-who
+| | +-winword.exe
+| | +-write.jar
+| +-Windows/
+| | +-Program Files (x86)/
+| |   +-ar.exe
+| |   +-ar.jar
+| |   +-at
+| |   +-awk.docx
+| |   +-awk.exe
+| |   +-basename.bat
+| |   +-batch.bat
+| |   +-batch.exe
+| |   +-batch.jar
+| |   +-bg.exe
+| |   +-cal.exe
+| |   +-cat.doc
+| |   +-cat.docx
+| |   +-cd.cmd
+| |   +-chgrp.docx
+| |   +-choco.exe
+| |   +-chrome.docx
+| |   +-chrome.exe
+| |   +-cksum.doc
+| |   +-comm.exe
+| |   +-command.jar
+| |   +-crontab.docx
+| |   +-cxref.doc
+| |   +-cxref.jar
+| |   +-delta
+| |   +-dir
+| |   +-dir.cmd
+| |   +-du.docx
+| |   +-echo.cmd
+| |   +-ed.bat
+| |   +-ed.doc
+| |   +-ed.docx
+| |   +-ex.docx
+| |   +-excel.exe
+| |   +-expand.bat
+| |   +-expand.cmd
+| |   +-expand.jar
+| |   +-fc.exe
+| |   +-fc.jar
+| |   +-fg.jar
+| |   +-find.docx
+| |   +-find.jar
+| |   +-fold
+| |   +-fold.docx
+| |   +-fuser.jar
+| |   +-gencat.cmd
+| |   +-gencat.doc
+| |   +-get.docx
+| |   +-head.bat
+| |   +-iconv.bat
+| |   +-iconv.doc
+| |   +-id.docx
+| |   +-ipcrm.bat
+| |   +-javaw.exe
+| |   +-jobs.cmd
+| |   +-jobs.exe
+| |   +-join.jar
+| |   +-lex.cmd
+| |   +-lex.jar
+| |   +-link.exe
+| |   +-locale
+| |   +-locale.cmd
+| |   +-localedef.docx
+| |   +-logger.bat
+| |   +-ls.docx
+| |   +-man.exe
+| |   +-mesg.doc
+| |   +-more.cmd
+| |   +-more.docx
+| |   +-mv.jar
+| |   +-newgrp.bat
+| |   +-nm
+| |   +-nm.doc
+| |   +-paste.jar
+| |   +-pr.bat
+| |   +-printf
+| |   +-printf.cmd
+| |   +-prs.cmd
+| |   +-ps.exe
+| |   +-python.bat
+| |   +-qmove.doc
+| |   +-qrerun.bat
+| |   +-qrerun.cmd
+| |   +-qselect.exe
+| |   +-qsig.doc
+| |   +-qsig.docx
+| |   +-qstat.doc
+| |   +-read.docx
+| |   +-regedit.bat
+| |   +-renice.docx
+| |   +-rmdel
+| |   +-rmdel.bat
+| |   +-rmdir
+| |   +-rmdir.cmd
+| |   +-rmdir.docx
+| |   +-sact.jar
+| |   +-sccs.bat
+| |   +-sort.exe
+| |   +-ssh
+| |   +-ssh.exe
+| |   +-strings.cmd
+| |   +-strings.exe
+| |   +-strip.exe
+| |   +-stty.exe
+| |   +-talk
+| |   +-talk.cmd
+| |   +-tee.cmd
+| |   +-tee.docx
+| |   +-tr.cmd
+| |   +-true.cmd
+| |   +-true.jar
+| |   +-type
+| |   +-type.bat
+| |   +-type.cmd
+| |   +-unalias
+| |   +-uname.exe
+| |   +-uncompress.exe
+| |   +-unget.bat
+| |   +-unget.cmd
+| |   +-uniq.doc
+| |   +-unlink.exe
+| |   +-uucp.cmd
+| |   +-uucp.jar
+| |   +-uuencode.doc
+| |   +-uustat.bat
+| |   +-vim.bat
+| |   +-vim.exe
+| |   +-vimtutor.cmd
+| |   +-wc.bat
+| |   +-wc.docx
+| |   +-what
+| |   +-what.bat
+| |   +-who.doc
+| |   +-who.jar
+| |   +-winword
+| |   +-winword.bat
+| |   +-write.bat
+| |   +-xargs.doc
+| +-admin.doc
+| +-admin.jar
+| +-alias.cmd
+| +-alias.jar
+| +-awk
+| +-awk.bat
+| +-awk.doc
+| +-awk.exe
+| +-batch.jar
+| +-cal.bat
+| +-cd
+| +-cflow.exe
+| +-chgrp.docx
+| +-choco
+| +-cksum
+| +-cmd.exe
+| +-cmp.jar
+| +-comm.cmd
+| +-command.exe
+| +-csplit.exe
+| +-ctags.jar
+| +-cxref.jar
+| +-data.jar
+| +-dd.doc
+| +-df
+| +-diff.exe
+| +-dirname
+| +-dirname.bat
+| +-echo
+| +-echo.exe
+| +-echo.jar
+| +-env.exe
+| +-env.jar
+| +-expr.bat
+| +-false.bat
+| +-false.docx
+| +-fc
+| +-fc.bat
+| +-fg.cmd
+| +-find.jar
+| +-firefox.doc
+| +-fold.doc
+| +-fold.jar
+| +-fuser.doc
+| +-fuser.exe
+| +-getconf.doc
+| +-grep.cmd
+| +-grep.docx
+| +-hash.bat
+| +-hash.doc
+| +-hash.docx
+| +-head
+| +-head.exe
+| +-iconv.exe
+| +-iconv.jar
+| +-id.bat
+| +-id.exe
+| +-ipcrm.doc
+| +-ipcrm.docx
+| +-ipcrm.jar
+| +-ipcs.docx
+| +-javac.docx
+| +-javaw.cmd
+| +-jobs
+| +-jobs.bat
+| +-join.docx
+| +-link.cmd
+| +-localedef
+| +-logger.cmd
+| +-logname.bat
+| +-logname.docx
+| +-ls.doc
+| +-ls.jar
+| +-mailx.bat
+| +-mailx.doc
+| +-make.doc
+| +-man.docx
+| +-mesg
+| +-minecraft.docx
+| +-mkfifo.exe
+| +-more.docx
+| +-mv.jar
+| +-nice.bat
+| +-nm
+| +-nohup.doc
+| +-pathchk
+| +-pathchk.docx
+| +-pax.jar
+| +-pr.doc
+| +-ps.doc
+| +-pwd
+| +-pwd.bat
+| +-pwd.cmd
+| +-qalter.cmd
+| +-qalter.docx
+| +-qhold
+| +-qmove.cmd
+| +-qmove.exe
+| +-qmsg.bat
+| +-qmsg.docx
+| +-qmsg.exe
+| +-qrerun.exe
+| +-qsig.jar
+| +-qstat.jar
+| +-qsub
+| +-read
+| +-read.doc
+| +-read.docx
+| +-renice
+| +-rmdel
+| +-rmdel.doc
+| +-sact.docx
+| +-sccs
+| +-sccs.exe
+| +-split.bat
+| +-spotify.cmd
+| +-spotify.doc
+| +-spotify.exe
+| +-ssh.jar
+| +-tabs.docx
+| +-tail.doc
+| +-tee.exe
+| +-test.docx
+| +-touch.cmd
+| +-touch.doc
+| +-touch.jar
+| +-tput.docx
+| +-true.docx
+| +-tsort
+| +-tsort.docx
+| +-tsort.exe
+| +-tsort.jar
+| +-type.bat
+| +-umask.jar
+| +-unalias
+| +-unalias.docx
+| +-unalias.exe
+| +-uname.bat
+| +-uncompress.cmd
+| +-unget.docx
+| +-uniq.docx
+| +-unlink.bat
+| +-uucp.docx
+| +-uuencode
+| +-uustat.docx
+| +-uustat.exe
+| +-uux.doc
+| +-vi
+| +-vim.cmd
+| +-wc.doc
+| +-wc.docx
+| +-who.jar
+| +-write.bat
+| +-write.cmd
+| +-zcat
++-Windows/
+  +-Microsoft/
+  | +-admin.bat
+  | +-alias.doc
+  | +-ar.jar
+  | +-asa.docx
+  | +-basename.jar
+  | +-batch.cmd
+  | +-cal.jar
+  | +-cat.doc
+  | +-cd.doc
+  | +-chgrp.docx
+  | +-chgrp.jar
+  | +-chmod.cmd
+  | +-choco.bat
+  | +-choco.cmd
+  | +-chown.exe
+  | +-cksum.bat
+  | +-cksum.docx
+  | +-cmd
+  | +-cmd.doc
+  | +-comm.cmd
+  | +-compress.bat
+  | +-cp.docx
+  | +-cp.exe
+  | +-csplit
+  | +-cxref.cmd
+  | +-data.exe
+  | +-data.jar
+  | +-delta.cmd
+  | +-delta.doc
+  | +-delta.jar
+  | +-df.exe
+  | +-diff
+  | +-diff.bat
+  | +-dir.jar
+  | +-du.bat
+  | +-du.jar
+  | +-ed.docx
+  | +-env.exe
+  | +-expand.bat
+  | +-explorer.doc
+  | +-explorer.docx
+  | +-expr.doc
+  | +-false.docx
+  | +-fc.doc
+  | +-fg
+  | +-file.bat
+  | +-find.doc
+  | +-find.docx
+  | +-firefox.bat
+  | +-fold.exe
+  | +-fort77.cmd
+  | +-gencat.bat
+  | +-gencat.doc
+  | +-ghci.bat
+  | +-ghci.docx
+  | +-grep.bat
+  | +-iconv.jar
+  | +-ipcs.bat
+  | +-javac.cmd
+  | +-javac.docx
+  | +-javaw.cmd
+  | +-kill.bat
+  | +-lex.doc
+  | +-lex.jar
+  | +-ln.cmd
+  | +-locale.jar
+  | +-logger.doc
+  | +-lp.bat
+  | +-lp.cmd
+  | +-ls
+  | +-m4.cmd
+  | +-m4.jar
+  | +-make
+  | +-mesg
+  | +-mesg.doc
+  | +-mkdir.exe
+  | +-mkdir.jar
+  | +-more.exe
+  | +-newgrp.exe
+  | +-nice.jar
+  | +-nl.doc
+  | +-nohup.jar
+  | +-od.bat
+  | +-od.docx
+  | +-paste.doc
+  | +-pathchk.docx
+  | +-pr.doc
+  | +-printf
+  | +-pwd.cmd
+  | +-python.docx
+  | +-qalter.bat
+  | +-qhold.cmd
+  | +-qmove.doc
+  | +-qmove.jar
+  | +-qrerun.exe
+  | +-qrls.jar
+  | +-qselect.exe
+  | +-qstat.bat
+  | +-qsub
+  | +-qsub.exe
+  | +-read.exe
+  | +-renice.bat
+  | +-renice.cmd
+  | +-rm.doc
+  | +-rm.exe
+  | +-sact.exe
+  | +-sccs
+  | +-sccs.doc
+  | +-sleep.jar
+  | +-sort
+  | +-spotify
+  | +-ssh.cmd
+  | +-ssh.docx
+  | +-strings
+  | +-stty.doc
+  | +-tail.doc
+  | +-talk.cmd
+  | +-tee.cmd
+  | +-tee.jar
+  | +-time.cmd
+  | +-time.exe
+  | +-tput.bat
+  | +-true.bat
+  | +-true.doc
+  | +-tsort.docx
+  | +-tsort.jar
+  | +-tty.exe
+  | +-uname.bat
+  | +-uname.exe
+  | +-unexpand.bat
+  | +-unget.exe
+  | +-uucp.cmd
+  | +-uustat.bat
+  | +-uux.doc
+  | +-val.bat
+  | +-vim.cmd
+  | +-vimtutor.cmd
+  | +-vimtutor.doc
+  | +-wc.bat
+  | +-what.doc
+  | +-who.bat
+  | +-who.doc
+  | +-write.docx
+  | +-yacc.doc
+  | +-zcat.docx
+  +-Program Files/
+  | +-Users/
+  |   +-admin.cmd
+  |   +-admin.jar
+  |   +-asa.cmd
+  |   +-awk.doc
+  |   +-awk.exe
+  |   +-basename.jar
+  |   +-bc.cmd
+  |   +-bg.cmd
+  |   +-cal
+  |   +-cat.cmd
+  |   +-cd.bat
+  |   +-cflow.doc
+  |   +-cflow.docx
+  |   +-chgrp.cmd
+  |   +-chrome.bat
+  |   +-cksum.doc
+  |   +-cmp.doc
+  |   +-codes
+  |   +-codes.cmd
+  |   +-comm.bat
+  |   +-comm.jar
+  |   +-compress.exe
+  |   +-csplit.doc
+  |   +-ctags.exe
+  |   +-cut
+  |   +-cut.cmd
+  |   +-date.jar
+  |   +-delta.cmd
+  |   +-dir.exe
+  |   +-dirname.docx
+  |   +-dirname.jar
+  |   +-du
+  |   +-echo.exe
+  |   +-false
+  |   +-fg
+  |   +-file.doc
+  |   +-file.jar
+  |   +-find.doc
+  |   +-fort77.doc
+  |   +-fuser.cmd
+  |   +-get.doc
+  |   +-getconf.cmd
+  |   +-getconf.jar
+  |   +-getopts.cmd
+  |   +-ghci.jar
+  |   +-iconv.cmd
+  |   +-iconv.doc
+  |   +-id.exe
+  |   +-ipcs.doc
+  |   +-java.cmd
+  |   +-javaw.exe
+  |   +-join.docx
+  |   +-lex.jar
+  |   +-ln.bat
+  |   +-ln.exe
+  |   +-localedef
+  |   +-logger.bat
+  |   +-logger.docx
+  |   +-logger.jar
+  |   +-lp.jar
+  |   +-ls
+  |   +-mailx.doc
+  |   +-minecraft.cmd
+  |   +-mkdir.bat
+  |   +-mkfifo
+  |   +-mkfifo.cmd
+  |   +-nice.jar
+  |   +-nl.cmd
+  |   +-nl.docx
+  |   +-nl.exe
+  |   +-nohup.doc
+  |   +-nohup.exe
+  |   +-od.bat
+  |   +-od.exe
+  |   +-paste
+  |   +-paste.docx
+  |   +-patch.docx
+  |   +-pax.cmd
+  |   +-pax.docx
+  |   +-pr.doc
+  |   +-printf.bat
+  |   +-printf.docx
+  |   +-prs
+  |   +-qalter.doc
+  |   +-qdel.bat
+  |   +-qdel.docx
+  |   +-qdel.jar
+  |   +-qmsg.doc
+  |   +-qmsg.docx
+  |   +-qrls.cmd
+  |   +-qsig
+  |   +-read.jar
+  |   +-renice.doc
+  |   +-rm.bat
+  |   +-ruby.bat
+  |   +-ruby.docx
+  |   +-sh.docx
+  |   +-sleep
+  |   +-sleep.bat
+  |   +-sleep.exe
+  |   +-split.doc
+  |   +-spotify.doc
+  |   +-strip.doc
+  |   +-tabs.cmd
+  |   +-tabs.doc
+  |   +-tabs.exe
+  |   +-tail
+  |   +-tail.docx
+  |   +-talk.exe
+  |   +-tee.docx
+  |   +-tee.jar
+  |   +-test.bat
+  |   +-touch.jar
+  |   +-tput
+  |   +-tput.cmd
+  |   +-tr.docx
+  |   +-true.bat
+  |   +-tsort.cmd
+  |   +-tsort.jar
+  |   +-ulimit
+  |   +-unalias.doc
+  |   +-unalias.exe
+  |   +-uncompress.doc
+  |   +-uniq.jar
+  |   +-unlink.docx
+  |   +-unlink.exe
+  |   +-uucp.jar
+  |   +-uuencode.bat
+  |   +-uuencode.cmd
+  |   +-vi.bat
+  |   +-vimtutor.docx
+  |   +-write.exe
+  |   +-yacc.bat
+  +-Riot Games/
+  | +-ar.exe
+  | +-cat.docx
+  | +-cd.cmd
+  | +-chmod.doc
+  | +-choco.docx
+  | +-cksum.cmd
+  | +-cksum.jar
+  | +-cmp.docx
+  | +-cmp.jar
+  | +-codes.docx
+  | +-csplit.bat
+  | +-cut.jar
+  | +-data.exe
+  | +-date.doc
+  | +-delta
+  | +-delta.bat
+  | +-df.bat
+  | +-dir.jar
+  | +-dirname.bat
+  | +-dirname.exe
+  | +-echo.docx
+  | +-env.jar
+  | +-ex.jar
+  | +-excel
+  | +-excel.bat
+  | +-excel.exe
+  | +-expand
+  | +-expand.doc
+  | +-explorer.doc
+  | +-fg.docx
+  | +-find.jar
+  | +-firefox.docx
+  | +-fold.docx
+  | +-fort77
+  | +-fort77.exe
+  | +-get
+  | +-getconf.exe
+  | +-getconf.jar
+  | +-getopts.bat
+  | +-hash.bat
+  | +-hash.cmd
+  | +-head.bat
+  | +-iconv.doc
+  | +-javac.cmd
+  | +-lex.doc
+  | +-lex.exe
+  | +-link.cmd
+  | +-ln
+  | +-locale.jar
+  | +-logname.bat
+  | +-lp.doc
+  | +-m4
+  | +-mailx.cmd
+  | +-man.bat
+  | +-man.docx
+  | +-mkfifo.doc
+  | +-more.bat
+  | +-more.docx
+  | +-mv.cmd
+  | +-mv.doc
+  | +-mv.jar
+  | +-nice
+  | +-nice.bat
+  | +-nice.doc
+  | +-nl.exe
+  | +-nl.jar
+  | +-od.jar
+  | +-patch.doc
+  | +-patch.exe
+  | +-pathchk.exe
+  | +-pr.cmd
+  | +-printf.bat
+  | +-pwd.exe
+  | +-python
+  | +-python.doc
+  | +-qalter.exe
+  | +-qhold.bat
+  | +-qhold.cmd
+  | +-qhold.doc
+  | +-qmove.cmd
+  | +-qmsg.jar
+  | +-qrerun.bat
+  | +-qstat.bat
+  | +-qsub.cmd
+  | +-regedit.cmd
+  | +-rm.docx
+  | +-rmdel.docx
+  | +-rmdir.cmd
+  | +-ruby.doc
+  | +-sact.doc
+  | +-sccs.jar
+  | +-sh.cmd
+  | +-sleep.bat
+  | +-sleep.docx
+  | +-sort
+  | +-sort.jar
+  | +-split.jar
+  | +-spotify.docx
+  | +-tabs.doc
+  | +-talk
+  | +-talk.docx
+  | +-test.bat
+  | +-test.cmd
+  | +-time.docx
+  | +-touch
+  | +-tput.cmd
+  | +-tsort.jar
+  | +-type
+  | +-type.cmd
+  | +-umask.bat
+  | +-umask.cmd
+  | +-unalias.doc
+  | +-unalias.exe
+  | +-unexpand.doc
+  | +-unget
+  | +-unget.bat
+  | +-uniq.docx
+  | +-unlink
+  | +-uucp.jar
+  | +-uudecode
+  | +-uudecode.cmd
+  | +-uudecode.exe
+  | +-uuencode.bat
+  | +-uustat.exe
+  | +-uux.cmd
+  | +-val.exe
+  | +-vi
+  | +-vi.cmd
+  | +-vi.doc
+  | +-vi.docx
+  | +-vim
+  | +-vimtutor.exe
+  | +-what.jar
+  | +-yacc.docx
+  | +-zcat.cmd
+  +-Users/
+  | +-Drivers/
+  |   +-basename.cmd
+  |   +-bc.exe
+  |   +-cal.bat
+  |   +-cat.cmd
+  |   +-cat.doc
+  |   +-cflow.exe
+  |   +-cflow.jar
+  |   +-chmod.jar
+  |   +-choco
+  |   +-choco.bat
+  |   +-chown.docx
+  |   +-chown.jar
+  |   +-codes.bat
+  |   +-comm.bat
+  |   +-comm.cmd
+  |   +-crontab.doc
+  |   +-crontab.docx
+  |   +-crontab.jar
+  |   +-csplit.exe
+  |   +-ctags.exe
+  |   +-ctags.jar
+  |   +-cut.doc
+  |   +-data
+  |   +-data.exe
+  |   +-date.doc
+  |   +-date.exe
+  |   +-df.bat
+  |   +-df.exe
+  |   +-diff
+  |   +-dir.cmd
+  |   +-dirname.doc
+  |   +-echo.cmd
+  |   +-env.exe
+  |   +-ex
+  |   +-ex.docx
+  |   +-excel.bat
+  |   +-expand.jar
+  |   +-explorer
+  |   +-expr.docx
+  |   +-fc.doc
+  |   +-fg.doc
+  |   +-file.docx
+  |   +-find.bat
+  |   +-find.cmd
+  |   +-fold
+  |   +-fuser.bat
+  |   +-gencat.doc
+  |   +-gencat.exe
+  |   +-getconf.doc
+  |   +-getopts.doc
+  |   +-ghci.exe
+  |   +-grep
+  |   +-head.docx
+  |   +-iconv.bat
+  |   +-ipcrm
+  |   +-java.doc
+  |   +-java.jar
+  |   +-javaw.cmd
+  |   +-javaw.exe
+  |   +-jobs.bat
+  |   +-jobs.exe
+  |   +-join
+  |   +-kill.bat
+  |   +-kill.exe
+  |   +-kill.jar
+  |   +-ln.docx
+  |   +-ln.exe
+  |   +-logger.jar
+  |   +-lp.cmd
+  |   +-ls
+  |   +-ls.bat
+  |   +-ls.cmd
+  |   +-ls.exe
+  |   +-make.exe
+  |   +-mesg.jar
+  |   +-mkdir
+  |   +-mkdir.jar
+  |   +-more.docx
+  |   +-more.jar
+  |   +-nl.bat
+  |   +-nl.cmd
+  |   +-nm.cmd
+  |   +-od.exe
+  |   +-patch.exe
+  |   +-patch.jar
+  |   +-pax.cmd
+  |   +-pax.docx
+  |   +-pr.cmd
+  |   +-prs.doc
+  |   +-python.jar
+  |   +-qalter
+  |   +-qhold.docx
+  |   +-qmsg
+  |   +-qrls.exe
+  |   +-qstat.jar
+  |   +-qsub
+  |   +-qsub.bat
+  |   +-read.docx
+  |   +-rm.docx
+  |   +-sleep.cmd
+  |   +-sleep.exe
+  |   +-sort
+  |   +-ssh.doc
+  |   +-ssh.docx
+  |   +-stty.jar
+  |   +-tail.bat
+  |   +-test.bat
+  |   +-test.doc
+  |   +-test.docx
+  |   +-time.cmd
+  |   +-time.exe
+  |   +-time.jar
+  |   +-touch.bat
+  |   +-touch.docx
+  |   +-tput.cmd
+  |   +-tput.doc
+  |   +-tput.exe
+  |   +-tput.jar
+  |   +-tr.jar
+  |   +-true.docx
+  |   +-tty.jar
+  |   +-type
+  |   +-ulimit.bat
+  |   +-unalias.jar
+  |   +-unexpand.bat
+  |   +-unget.exe
+  |   +-unlink.exe
+  |   +-uucp
+  |   +-uucp.bat
+  |   +-uudecode.exe
+  |   +-uudecode.jar
+  |   +-uuencode.docx
+  |   +-uuencode.jar
+  |   +-uustat.bat
+  |   +-val.doc
+  |   +-val.jar
+  |   +-vi.bat
+  |   +-vi.exe
+  |   +-vi.jar
+  |   +-vim.bat
+  |   +-what.exe
+  |   +-who.bat
+  |   +-who.exe
+  |   +-write.jar
+  |   +-xargs
+  +-Windows/
+  | +-Drivers/
+  | | +-admin.jar
+  | | +-ar
+  | | +-ar.doc
+  | | +-asa
+  | | +-asa.doc
+  | | +-at.jar
+  | | +-bc.bat
+  | | +-bc.cmd
+  | | +-bc.docx
+  | | +-cal.doc
+  | | +-cat
+  | | +-cd.docx
+  | | +-cflow.cmd
+  | | +-chmod
+  | | +-cmd.exe
+  | | +-cmd.jar
+  | | +-cmp.docx
+  | | +-comm
+  | | +-cp.doc
+  | | +-crontab.doc
+  | | +-csplit.doc
+  | | +-csplit.exe
+  | | +-cut.doc
+  | | +-cut.docx
+  | | +-date.bat
+  | | +-date.doc
+  | | +-date.exe
+  | | +-delta.bat
+  | | +-delta.exe
+  | | +-delta.jar
+  | | +-echo.cmd
+  | | +-ex.exe
+  | | +-expr.jar
+  | | +-find.docx
+  | | +-firefox.docx
+  | | +-fold.doc
+  | | +-fort77.bat
+  | | +-fuser.doc
+  | | +-gencat.cmd
+  | | +-gencat.jar
+  | | +-get.bat
+  | | +-getconf.cmd
+  | | +-getconf.jar
+  | | +-getopts.doc
+  | | +-getopts.docx
+  | | +-grep.docx
+  | | +-grep.exe
+  | | +-grep.jar
+  | | +-hash
+  | | +-hash.cmd
+  | | +-id.bat
+  | | +-id.cmd
+  | | +-id.jar
+  | | +-java
+  | | +-javaw
+  | | +-javaw.cmd
+  | | +-lex.docx
+  | | +-link
+  | | +-link.cmd
+  | | +-ln.jar
+  | | +-lp.bat
+  | | +-ls.docx
+  | | +-make
+  | | +-man.jar
+  | | +-minecraft.cmd
+  | | +-minecraft.exe
+  | | +-mkdir.jar
+  | | +-more.doc
+  | | +-newgrp.bat
+  | | +-newgrp.docx
+  | | +-nice
+  | | +-nl
+  | | +-nm.exe
+  | | +-nohup.cmd
+  | | +-od
+  | | +-paste.bat
+  | | +-paste.exe
+  | | +-patch.cmd
+  | | +-pathchk.bat
+  | | +-pr
+  | | +-printf
+  | | +-printf.bat
+  | | +-prs.cmd
+  | | +-pwd.docx
+  | | +-python.bat
+  | | +-qrls.cmd
+  | | +-qrls.jar
+  | | +-qselect.exe
+  | | +-qsig.cmd
+  | | +-qsig.jar
+  | | +-regedit.doc
+  | | +-rm.exe
+  | | +-rmdel
+  | | +-rmdir
+  | | +-sccs.cmd
+  | | +-sccs.exe
+  | | +-split.jar
+  | | +-ssh.doc
+  | | +-stty.docx
+  | | +-tabs.cmd
+  | | +-tail.bat
+  | | +-tail.docx
+  | | +-talk.jar
+  | | +-tee.doc
+  | | +-test.bat
+  | | +-time.doc
+  | | +-time.exe
+  | | +-tput
+  | | +-tput.cmd
+  | | +-tput.jar
+  | | +-ulimit
+  | | +-umask.jar
+  | | +-uncompress
+  | | +-uncompress.doc
+  | | +-unexpand.docx
+  | | +-unexpand.jar
+  | | +-unget.doc
+  | | +-uucp.jar
+  | | +-uuencode.docx
+  | | +-uux.docx
+  | | +-vi.jar
+  | | +-vim.cmd
+  | | +-vim.docx
+  | | +-vim.exe
+  | | +-write.bat
+  | | +-write.docx
+  | | +-write.exe
+  | | +-xargs.docx
+  | +-Windows/
+  | | +-admin
+  | | +-ar.cmd
+  | | +-asa.jar
+  | | +-batch.exe
+  | | +-bc.bat
+  | | +-bg.jar
+  | | +-cal.jar
+  | | +-cat.exe
+  | | +-cd.doc
+  | | +-chgrp.doc
+  | | +-chmod.doc
+  | | +-chown.bat
+  | | +-chrome.doc
+  | | +-chrome.jar
+  | | +-cmd.jar
+  | | +-cmp.cmd
+  | | +-cmp.exe
+  | | +-cmp.jar
+  | | +-codes.bat
+  | | +-compress
+  | | +-csplit
+  | | +-csplit.docx
+  | | +-ctags.jar
+  | | +-cut.doc
+  | | +-cxref.docx
+  | | +-cxref.jar
+  | | +-data
+  | | +-data.docx
+  | | +-date.bat
+  | | +-dd.exe
+  | | +-delta.docx
+  | | +-delta.exe
+  | | +-du.cmd
+  | | +-echo.exe
+  | | +-ed.docx
+  | | +-ed.jar
+  | | +-ex.cmd
+  | | +-expand
+  | | +-explorer.exe
+  | | +-expr
+  | | +-expr.bat
+  | | +-fc.doc
+  | | +-file.bat
+  | | +-file.jar
+  | | +-firefox
+  | | +-fold.doc
+  | | +-fold.docx
+  | | +-get.docx
+  | | +-getopts.exe
+  | | +-grep.jar
+  | | +-hash
+  | | +-hash.bat
+  | | +-hash.exe
+  | | +-iconv.cmd
+  | | +-id.docx
+  | | +-ipcrm.exe
+  | | +-ipcs.cmd
+  | | +-ipcs.exe
+  | | +-javac.doc
+  | | +-javac.jar
+  | | +-kill
+  | | +-lex.exe
+  | | +-link
+  | | +-ln.docx
+  | | +-locale.exe
+  | | +-locale.jar
+  | | +-localedef
+  | | +-logger
+  | | +-logname.bat
+  | | +-logname.cmd
+  | | +-ls.doc
+  | | +-ls.jar
+  | | +-m4
+  | | +-man.cmd
+  | | +-mkdir
+  | | +-mkdir.exe
+  | | +-mkdir.jar
+  | | +-mkfifo.bat
+  | | +-mv.doc
+  | | +-mv.docx
+  | | +-mv.jar
+  | | +-nice.docx
+  | | +-nl.exe
+  | | +-nohup.exe
+  | | +-paste.cmd
+  | | +-patch
+  | | +-patch.exe
+  | | +-pathchk.doc
+  | | +-pax.doc
+  | | +-pr
+  | | +-pr.bat
+  | | +-pwd.doc
+  | | +-pwd.docx
+  | | +-qalter.jar
+  | | +-qhold
+  | | +-qhold.doc
+  | | +-qmsg.jar
+  | | +-qstat.exe
+  | | +-regedit.bat
+  | | +-renice.bat
+  | | +-renice.cmd
+  | | +-rm.docx
+  | | +-rmdel.jar
+  | | +-ruby.doc
+  | | +-sact.bat
+  | | +-sed.jar
+  | | +-sh.jar
+  | | +-sort.exe
+  | | +-split.cmd
+  | | +-split.exe
+  | | +-spotify.exe
+  | | +-ssh
+  | | +-ssh.cmd
+  | | +-strings.doc
+  | | +-strings.jar
+  | | +-tail.exe
+  | | +-talk.cmd
+  | | +-tee.exe
+  | | +-time.doc
+  | | +-time.exe
+  | | +-touch.docx
+  | | +-true.docx
+  | | +-true.exe
+  | | +-tsort.cmd
+  | | +-tsort.jar
+  | | +-tty.docx
+  | | +-ulimit.bat
+  | | +-unalias.doc
+  | | +-unalias.jar
+  | | +-uncompress.doc
+  | | +-unexpand.cmd
+  | | +-unexpand.docx
+  | | +-unget.doc
+  | | +-uucp.doc
+  | | +-uuencode.exe
+  | | +-uustat.bat
+  | | +-val.exe
+  | | +-vi.jar
+  | | +-vim.doc
+  | | +-vimtutor
+  | | +-wait
+  | | +-wc.exe
+  | | +-what.cmd
+  | | +-winword
+  | | +-winword.exe
+  | | +-winword.jar
+  | | +-xargs
+  | | +-zcat.bat
+  | | +-zcat.cmd
+  | +-at.doc
+  | +-awk.bat
+  | +-awk.docx
+  | +-basename
+  | +-basename.bat
+  | +-basename.cmd
+  | +-batch.cmd
+  | +-batch.jar
+  | +-bc.jar
+  | +-cat.bat
+  | +-cd
+  | +-chgrp.cmd
+  | +-chmod.jar
+  | +-choco.doc
+  | +-chrome.docx
+  | +-cmd.cmd
+  | +-cmd.docx
+  | +-codes.cmd
+  | +-codes.exe
+  | +-comm
+  | +-command.docx
+  | +-cp.exe
+  | +-crontab.cmd
+  | +-csplit.cmd
+  | +-csplit.exe
+  | +-ctags.cmd
+  | +-cut.exe
+  | +-cxref.cmd
+  | +-cxref.doc
+  | +-data
+  | +-dd.cmd
+  | +-df.doc
+  | +-diff.docx
+  | +-diff.jar
+  | +-du
+  | +-echo.jar
+  | +-ed.docx
+  | +-env
+  | +-ex.cmd
+  | +-excel
+  | +-excel.cmd
+  | +-expand.bat
+  | +-expand.exe
+  | +-explorer.jar
+  | +-false
+  | +-fg.bat
+  | +-fg.doc
+  | +-firefox.doc
+  | +-gencat.cmd
+  | +-get.jar
+  | +-getopts.docx
+  | +-ghci.doc
+  | +-grep.bat
+  | +-grep.doc
+  | +-head.bat
+  | +-head.cmd
+  | +-ipcs.docx
+  | +-java.exe
+  | +-javac.docx
+  | +-kill
+  | +-kill.bat
+  | +-kill.exe
+  | +-lex
+  | +-lex.jar
+  | +-link
+  | +-link.jar
+  | +-ln.exe
+  | +-localedef.exe
+  | +-logger.cmd
+  | +-lp.jar
+  | +-mailx.jar
+  | +-mesg.bat
+  | +-minecraft.docx
+  | +-minecraft.jar
+  | +-mkdir
+  | +-more.docx
+  | +-more.exe
+  | +-mv.bat
+  | +-mv.exe
+  | +-newgrp.jar
+  | +-nice.jar
+  | +-nm.doc
+  | +-nohup.docx
+  | +-nohup.exe
+  | +-nohup.jar
+  | +-paste.bat
+  | +-pathchk.bat
+  | +-pax.doc
+  | +-pax.docx
+  | +-pax.exe
+  | +-printf.bat
+  | +-ps.cmd
+  | +-ps.docx
+  | +-ps.jar
+  | +-python.doc
+  | +-python.jar
+  | +-qalter
+  | +-qhold.cmd
+  | +-qmove
+  | +-qmove.cmd
+  | +-qrerun.docx
+  | +-qselect
+  | +-qsig.docx
+  | +-qstat.docx
+  | +-regedit
+  | +-regedit.docx
+  | +-regedit.exe
+  | +-renice
+  | +-rmdel.doc
+  | +-rmdir.exe
+  | +-sact
+  | +-sh
+  | +-sort.exe
+  | +-spotify.exe
+  | +-ssh.cmd
+  | +-ssh.doc
+  | +-ssh.docx
+  | +-strings.exe
+  | +-stty
+  | +-stty.cmd
+  | +-stty.doc
+  | +-tabs.docx
+  | +-talk.exe
+  | +-time.exe
+  | +-time.jar
+  | +-tput
+  | +-type
+  | +-umask
+  | +-umask.jar
+  | +-uname.docx
+  | +-uniq.jar
+  | +-uudecode.cmd
+  | +-uuencode
+  | +-uux.bat
+  | +-vi
+  | +-vi.bat
+  | +-wc.doc
+  | +-wc.jar
+  | +-what.exe
+  | +-who.bat
+  | +-winword
+  | +-write.exe
+  | +-yacc.cmd
+  | +-zcat.bat
+  +-alias.doc
+  +-ar.docx
+  +-ar.exe
+  +-ar.jar
+  +-asa.jar
+  +-at.cmd
+  +-basename.docx
+  +-batch.jar
+  +-bc.jar
+  +-bg.exe
+  +-cd
+  +-cd.jar
+  +-cflow.jar
+  +-chmod.docx
+  +-choco.cmd
+  +-choco.docx
+  +-chrome
+  +-chrome.cmd
+  +-chrome.jar
+  +-cksum.bat
+  +-cmp.bat
+  +-command.bat
+  +-compress.bat
+  +-csplit.doc
+  +-cut
+  +-cut.exe
+  +-data.docx
+  +-dd
+  +-delta.doc
+  +-df.bat
+  +-df.cmd
+  +-df.jar
+  +-diff
+  +-dir
+  +-du.cmd
+  +-du.doc
+  +-du.docx
+  +-env.jar
+  +-excel.bat
+  +-expand
+  +-expand.bat
+  +-expand.exe
+  +-expr.bat
+  +-false.cmd
+  +-false.doc
+  +-false.docx
+  +-firefox.cmd
+  +-firefox.doc
+  +-fold.docx
+  +-fort77.cmd
+  +-fort77.doc
+  +-gencat.cmd
+  +-get.docx
+  +-get.jar
+  +-getconf.bat
+  +-getconf.jar
+  +-getopts.jar
+  +-grep.exe
+  +-head.docx
+  +-head.exe
+  +-id.jar
+  +-jobs.jar
+  +-kill.jar
+  +-lex.docx
+  +-locale.exe
+  +-localedef.doc
+  +-lp.bat
+  +-ls
+  +-ls.jar
+  +-m4.cmd
+  +-mailx.cmd
+  +-make
+  +-make.bat
+  +-make.doc
+  +-make.exe
+  +-man
+  +-man.doc
+  +-minecraft.bat
+  +-nice
+  +-nm.exe
+  +-nohup.doc
+  +-od.jar
+  +-patch
+  +-pax.docx
+  +-pr.bat
+  +-printf.cmd
+  +-prs.exe
+  +-pwd.exe
+  +-qalter.cmd
+  +-qalter.docx
+  +-qmove.cmd
+  +-qmsg.docx
+  +-qselect.jar
+  +-qstat
+  +-read.cmd
+  +-regedit.doc
+  +-regedit.docx
+  +-regedit.jar
+  +-renice.doc
+  +-renice.docx
+  +-rm
+  +-rmdel.bat
+  +-rmdel.docx
+  +-sed.bat
+  +-sh.bat
+  +-sort.bat
+  +-split.bat
+  +-split.doc
+  +-split.docx
+  +-spotify.exe
+  +-strings
+  +-strings.exe
+  +-tabs.doc
+  +-talk.cmd
+  +-tee.docx
+  +-time.bat
+  +-tr.docx
+  +-tr.jar
+  +-tsort.exe
+  +-type
+  +-ulimit.bat
+  +-ulimit.docx
+  +-uname.jar
+  +-unexpand.jar
+  +-uucp.bat
+  +-uuencode.exe
+  +-val.bat
+  +-what.bat
+  +-what.cmd
+  +-what.jar
+  +-winword.cmd
+  +-winword.docx
+  +-winword.exe
+  +-write.docx
+  +-xargs
+  +-xargs.cmd

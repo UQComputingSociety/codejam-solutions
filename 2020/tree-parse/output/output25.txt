@@ -1,0 +1,1429 @@
+Riot Games/Drivers/Microsoft/Drivers/df.exe
+Riot Games/Drivers/Microsoft/Drivers/expr.doc
+Riot Games/Drivers/Microsoft/Drivers/file.cmd
+Riot Games/Drivers/Microsoft/Drivers/join.bat
+Riot Games/Drivers/Microsoft/Drivers/localedef.exe
+Riot Games/Drivers/Microsoft/Drivers/nl.exe
+Riot Games/Drivers/Microsoft/Drivers/tput.jar
+Riot Games/Drivers/Microsoft/Drivers/tr.docx
+Riot Games/Drivers/Microsoft/Drivers/tsort
+Riot Games/Drivers/Microsoft/Drivers/what.bat
+Riot Games/Drivers/Microsoft/Program Files (x86)/diff.docx
+Riot Games/Drivers/Microsoft/Program Files (x86)/env
+Riot Games/Drivers/Microsoft/Program Files (x86)/expand.doc
+Riot Games/Drivers/Microsoft/Program Files (x86)/fg.bat
+Riot Games/Drivers/Microsoft/Program Files (x86)/id.docx
+Riot Games/Drivers/Microsoft/Program Files (x86)/ipcrm.doc
+Riot Games/Drivers/Microsoft/Program Files (x86)/mv.docx
+Riot Games/Drivers/Microsoft/Program Files (x86)/qstat
+Riot Games/Drivers/Microsoft/Program Files (x86)/sort.docx
+Riot Games/Drivers/Microsoft/Program Files (x86)/spotify.docx
+Riot Games/Drivers/Microsoft/Program Files (x86)/strip.docx
+Riot Games/Drivers/Microsoft/Program Files (x86)/tput
+Riot Games/Drivers/Microsoft/Program Files (x86)/tr.jar
+Riot Games/Drivers/Microsoft/Program Files (x86)/unlink.docx
+Riot Games/Drivers/Microsoft/Program Files (x86)/uux.cmd
+Riot Games/Drivers/Microsoft/Program Files (x86)/wait.bat
+Riot Games/Drivers/Microsoft/cat
+Riot Games/Drivers/Microsoft/cmd.jar
+Riot Games/Drivers/Microsoft/csplit.jar
+Riot Games/Drivers/Microsoft/dirname
+Riot Games/Drivers/Microsoft/expr.cmd
+Riot Games/Drivers/Microsoft/file.cmd
+Riot Games/Drivers/Microsoft/printf.exe
+Riot Games/Drivers/Microsoft/qrerun.doc
+Riot Games/Drivers/Microsoft/touch.bat
+Riot Games/Drivers/Microsoft/touch.jar
+Riot Games/Drivers/Program Files/Microsoft/cd.cmd
+Riot Games/Drivers/Program Files/Microsoft/cmd
+Riot Games/Drivers/Program Files/Microsoft/crontab
+Riot Games/Drivers/Program Files/Microsoft/file.docx
+Riot Games/Drivers/Program Files/Microsoft/ipcrm.cmd
+Riot Games/Drivers/Program Files/Microsoft/newgrp.bat
+Riot Games/Drivers/Program Files/Microsoft/patch.cmd
+Riot Games/Drivers/Program Files/Microsoft/patch.doc
+Riot Games/Drivers/Program Files/Microsoft/printf.cmd
+Riot Games/Drivers/Program Files/Microsoft/sact.exe
+Riot Games/Drivers/Program Files/Microsoft/spotify.cmd
+Riot Games/Drivers/Program Files/Program Files (x86)/cat.bat
+Riot Games/Drivers/Program Files/Program Files (x86)/cxref.exe
+Riot Games/Drivers/Program Files/Program Files (x86)/od.exe
+Riot Games/Drivers/Program Files/Program Files (x86)/sact.doc
+Riot Games/Drivers/Program Files/Program Files (x86)/uustat.bat
+Riot Games/Drivers/Program Files/SYSWOW64/csplit.cmd
+Riot Games/Drivers/Program Files/SYSWOW64/cxref
+Riot Games/Drivers/Program Files/SYSWOW64/excel.bat
+Riot Games/Drivers/Program Files/SYSWOW64/fort77.cmd
+Riot Games/Drivers/Program Files/SYSWOW64/iconv
+Riot Games/Drivers/Program Files/SYSWOW64/id.docx
+Riot Games/Drivers/Program Files/SYSWOW64/ipcrm.bat
+Riot Games/Drivers/Program Files/SYSWOW64/java.bat
+Riot Games/Drivers/Program Files/SYSWOW64/lex.docx
+Riot Games/Drivers/Program Files/SYSWOW64/mkfifo.cmd
+Riot Games/Drivers/Program Files/SYSWOW64/newgrp.cmd
+Riot Games/Drivers/Program Files/SYSWOW64/qrerun.bat
+Riot Games/Drivers/Program Files/SYSWOW64/rmdel.docx
+Riot Games/Drivers/Program Files/SYSWOW64/tail.exe
+Riot Games/Drivers/Program Files/SYSWOW64/vim.doc
+Riot Games/Drivers/Program Files/SYSWOW64/wait.jar
+Riot Games/Drivers/Program Files/SYSWOW64/what.bat
+Riot Games/Drivers/Program Files/SYSWOW64/xargs.doc
+Riot Games/Drivers/Program Files (x86)/Program Files (x86)/basename
+Riot Games/Drivers/Program Files (x86)/Program Files (x86)/bg.cmd
+Riot Games/Drivers/Program Files (x86)/Program Files (x86)/echo.doc
+Riot Games/Drivers/Program Files (x86)/Program Files (x86)/ipcs.doc
+Riot Games/Drivers/Program Files (x86)/Program Files (x86)/logname
+Riot Games/Drivers/Program Files (x86)/Program Files (x86)/mesg.cmd
+Riot Games/Drivers/Program Files (x86)/Program Files (x86)/unexpand.jar
+Riot Games/Drivers/Riot Games/cd.bat
+Riot Games/Drivers/Riot Games/command.jar
+Riot Games/Drivers/Riot Games/cxref
+Riot Games/Drivers/Riot Games/data
+Riot Games/Drivers/Riot Games/delta.doc
+Riot Games/Drivers/Riot Games/echo
+Riot Games/Drivers/Riot Games/kill.doc
+Riot Games/Drivers/Riot Games/link.doc
+Riot Games/Drivers/Riot Games/paste.docx
+Riot Games/Drivers/Riot Games/pathchk
+Riot Games/Drivers/Riot Games/rmdel.docx
+Riot Games/Drivers/Riot Games/tabs.exe
+Riot Games/Drivers/SYSWOW64/bc.jar
+Riot Games/Drivers/SYSWOW64/cp.bat
+Riot Games/Drivers/SYSWOW64/csplit.exe
+Riot Games/Drivers/SYSWOW64/javaw.bat
+Riot Games/Drivers/SYSWOW64/rm.exe
+Riot Games/Drivers/SYSWOW64/strings.docx
+Riot Games/Drivers/SYSWOW64/true.exe
+Riot Games/Drivers/SYSWOW64/uncompress.jar
+Riot Games/Drivers/SYSWOW64/yacc
+Riot Games/Drivers/System32/Drivers/admin.jar
+Riot Games/Drivers/System32/Drivers/bc.exe
+Riot Games/Drivers/System32/Drivers/excel.exe
+Riot Games/Drivers/System32/Drivers/expand.doc
+Riot Games/Drivers/System32/Drivers/get.cmd
+Riot Games/Drivers/System32/Drivers/kill.jar
+Riot Games/Drivers/System32/Drivers/logname.doc
+Riot Games/Drivers/System32/Drivers/python.doc
+Riot Games/Drivers/System32/Drivers/true.bat
+Riot Games/Drivers/System32/asa.docx
+Riot Games/Drivers/System32/basename.doc
+Riot Games/Drivers/System32/data.doc
+Riot Games/Drivers/System32/fuser.jar
+Riot Games/Drivers/System32/strip.docx
+Riot Games/Drivers/System32/vim.docx
+Riot Games/Drivers/Users/dd.docx
+Riot Games/Drivers/Users/lex.cmd
+Riot Games/Drivers/Users/link.cmd
+Riot Games/Drivers/Users/qmsg.exe
+Riot Games/Drivers/Users/qrls.docx
+Riot Games/Drivers/Users/tsort.doc
+Riot Games/Drivers/Windows/admin
+Riot Games/Drivers/Windows/cat
+Riot Games/Drivers/Windows/crontab.docx
+Riot Games/Drivers/Windows/getconf.jar
+Riot Games/Drivers/Windows/ipcrm.exe
+Riot Games/Drivers/Windows/localedef.exe
+Riot Games/Drivers/Windows/logger.docx
+Riot Games/Drivers/Windows/man.bat
+Riot Games/Drivers/Windows/mkdir.exe
+Riot Games/Drivers/Windows/sh
+Riot Games/Drivers/Windows/wait
+Riot Games/Drivers/chgrp.docx
+Riot Games/Drivers/firefox.bat
+Riot Games/Drivers/fort77
+Riot Games/Drivers/gencat.exe
+Riot Games/Drivers/ipcrm.cmd
+Riot Games/Drivers/jobs.cmd
+Riot Games/Drivers/join.bat
+Riot Games/Microsoft/Drivers/Windows/cksum.exe
+Riot Games/Microsoft/Drivers/Windows/df.docx
+Riot Games/Microsoft/Drivers/Windows/ghci
+Riot Games/Microsoft/Drivers/Windows/ghci.exe
+Riot Games/Microsoft/Drivers/Windows/java
+Riot Games/Microsoft/Drivers/Windows/patch.cmd
+Riot Games/Microsoft/Drivers/Windows/python.docx
+Riot Games/Microsoft/Drivers/Windows/rmdel.jar
+Riot Games/Microsoft/Drivers/Windows/val
+Riot Games/Microsoft/Drivers/Windows/vimtutor.jar
+Riot Games/Microsoft/Drivers/ar.docx
+Riot Games/Microsoft/Drivers/cp.doc
+Riot Games/Microsoft/Drivers/delta.cmd
+Riot Games/Microsoft/Drivers/file.docx
+Riot Games/Microsoft/Drivers/join.cmd
+Riot Games/Microsoft/Drivers/m4.cmd
+Riot Games/Microsoft/Drivers/m4.docx
+Riot Games/Microsoft/Drivers/patch.bat
+Riot Games/Microsoft/Drivers/qdel.docx
+Riot Games/Microsoft/Drivers/tr
+Riot Games/Microsoft/Drivers/true.doc
+Riot Games/Microsoft/Drivers/uux.bat
+Riot Games/Microsoft/Drivers/wc.bat
+Riot Games/Microsoft/Microsoft/comm.exe
+Riot Games/Microsoft/Microsoft/cp.exe
+Riot Games/Microsoft/Microsoft/csplit.exe
+Riot Games/Microsoft/Microsoft/false
+Riot Games/Microsoft/Microsoft/iconv.jar
+Riot Games/Microsoft/Microsoft/jobs.doc
+Riot Games/Microsoft/Microsoft/patch.docx
+Riot Games/Microsoft/Microsoft/sleep
+Riot Games/Microsoft/Microsoft/true.cmd
+Riot Games/Microsoft/Microsoft/vimtutor.cmd
+Riot Games/Microsoft/Program Files/basename.doc
+Riot Games/Microsoft/Program Files/chrome.bat
+Riot Games/Microsoft/Program Files/du.exe
+Riot Games/Microsoft/Program Files/excel.cmd
+Riot Games/Microsoft/Program Files/fold
+Riot Games/Microsoft/Program Files/logname.cmd
+Riot Games/Microsoft/Program Files/lp.exe
+Riot Games/Microsoft/Program Files/qrerun.docx
+Riot Games/Microsoft/Program Files/ruby.exe
+Riot Games/Microsoft/Program Files/split.cmd
+Riot Games/Microsoft/Program Files/tail.cmd
+Riot Games/Microsoft/Program Files/uname.jar
+Riot Games/Microsoft/Program Files/uustat
+Riot Games/Microsoft/Program Files (x86)/Microsoft/cd.jar
+Riot Games/Microsoft/Program Files (x86)/Microsoft/chrome.doc
+Riot Games/Microsoft/Program Files (x86)/Microsoft/comm.docx
+Riot Games/Microsoft/Program Files (x86)/Microsoft/delta
+Riot Games/Microsoft/Program Files (x86)/Microsoft/firefox
+Riot Games/Microsoft/Program Files (x86)/Microsoft/ghci.doc
+Riot Games/Microsoft/Program Files (x86)/Microsoft/link.cmd
+Riot Games/Microsoft/Program Files (x86)/Microsoft/logger.doc
+Riot Games/Microsoft/Program Files (x86)/Microsoft/qhold.doc
+Riot Games/Microsoft/Program Files (x86)/Microsoft/sccs.bat
+Riot Games/Microsoft/Program Files (x86)/Microsoft/unalias.cmd
+Riot Games/Microsoft/Program Files (x86)/Microsoft/unalias.docx
+Riot Games/Microsoft/Program Files (x86)/codes.docx
+Riot Games/Microsoft/Program Files (x86)/patch.bat
+Riot Games/Microsoft/Program Files (x86)/qdel.exe
+Riot Games/Microsoft/Program Files (x86)/qsub.bat
+Riot Games/Microsoft/Program Files (x86)/tr.exe
+Riot Games/Microsoft/Program Files (x86)/wait.docx
+Riot Games/Microsoft/Program Files (x86)/write.docx
+Riot Games/Microsoft/Riot Games/awk.docx
+Riot Games/Microsoft/Riot Games/csplit
+Riot Games/Microsoft/Riot Games/csplit.doc
+Riot Games/Microsoft/Riot Games/file.bat
+Riot Games/Microsoft/Riot Games/fold.docx
+Riot Games/Microsoft/Riot Games/id.docx
+Riot Games/Microsoft/Riot Games/javac.exe
+Riot Games/Microsoft/Riot Games/sort
+Riot Games/Microsoft/Riot Games/tabs.exe
+Riot Games/Microsoft/Riot Games/zcat.bat
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/ar
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/basename
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/cmp.exe
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/du.bat
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/false.docx
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/mkfifo.bat
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/newgrp.exe
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/qalter.doc
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/rmdir.jar
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/stty.jar
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/test.bat
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/time.jar
+Riot Games/Microsoft/SYSWOW64/SYSWOW64/uustat.doc
+Riot Games/Microsoft/SYSWOW64/cat.docx
+Riot Games/Microsoft/SYSWOW64/ctags
+Riot Games/Microsoft/SYSWOW64/dir.docx
+Riot Games/Microsoft/SYSWOW64/firefox.cmd
+Riot Games/Microsoft/SYSWOW64/getopts.cmd
+Riot Games/Microsoft/SYSWOW64/ls.exe
+Riot Games/Microsoft/SYSWOW64/qalter.cmd
+Riot Games/Microsoft/SYSWOW64/test.bat
+Riot Games/Microsoft/SYSWOW64/test.exe
+Riot Games/Microsoft/System32/Microsoft/getopts.exe
+Riot Games/Microsoft/System32/Microsoft/m4.jar
+Riot Games/Microsoft/System32/Microsoft/printf.bat
+Riot Games/Microsoft/System32/Microsoft/qsub
+Riot Games/Microsoft/System32/Microsoft/tty.jar
+Riot Games/Microsoft/System32/Microsoft/ulimit.bat
+Riot Games/Microsoft/System32/chgrp.exe
+Riot Games/Microsoft/System32/cp.docx
+Riot Games/Microsoft/System32/dd.docx
+Riot Games/Microsoft/System32/javac.bat
+Riot Games/Microsoft/System32/jobs.doc
+Riot Games/Microsoft/System32/nice
+Riot Games/Microsoft/System32/nl
+Riot Games/Microsoft/System32/nm.doc
+Riot Games/Microsoft/System32/qrerun.docx
+Riot Games/Microsoft/System32/qsig.cmd
+Riot Games/Microsoft/System32/regedit.cmd
+Riot Games/Microsoft/System32/strings.cmd
+Riot Games/Microsoft/System32/tsort
+Riot Games/Microsoft/System32/ulimit.cmd
+Riot Games/Microsoft/System32/uuencode.exe
+Riot Games/Microsoft/System32/vim.doc
+Riot Games/Microsoft/System32/vimtutor.jar
+Riot Games/Microsoft/System32/who.doc
+Riot Games/Microsoft/Users/Drivers/chrome.jar
+Riot Games/Microsoft/Users/Drivers/cmp.jar
+Riot Games/Microsoft/Users/Drivers/kill.exe
+Riot Games/Microsoft/Users/Drivers/logname.jar
+Riot Games/Microsoft/Users/Drivers/mailx.exe
+Riot Games/Microsoft/Users/Drivers/nl.exe
+Riot Games/Microsoft/Users/Drivers/pathchk.docx
+Riot Games/Microsoft/Users/Drivers/sccs.bat
+Riot Games/Microsoft/Users/Drivers/vi.jar
+Riot Games/Microsoft/Windows/comm.jar
+Riot Games/Microsoft/Windows/command.cmd
+Riot Games/Microsoft/Windows/compress.bat
+Riot Games/Microsoft/Windows/dirname
+Riot Games/Microsoft/Windows/gencat.jar
+Riot Games/Microsoft/Windows/ghci.doc
+Riot Games/Microsoft/Windows/grep.doc
+Riot Games/Microsoft/Windows/link.exe
+Riot Games/Microsoft/Windows/split.exe
+Riot Games/Microsoft/Windows/strings
+Riot Games/Microsoft/Windows/tee.exe
+Riot Games/Microsoft/Windows/unalias.jar
+Riot Games/Microsoft/Windows/uucp.docx
+Riot Games/Microsoft/cat.jar
+Riot Games/Microsoft/cd.docx
+Riot Games/Microsoft/head.exe
+Riot Games/Microsoft/logger.jar
+Riot Games/Microsoft/mailx
+Riot Games/Microsoft/pathchk
+Riot Games/Microsoft/pr.bat
+Riot Games/Microsoft/ruby.exe
+Riot Games/Microsoft/tail.docx
+Riot Games/Program Files/Microsoft/Drivers/ed
+Riot Games/Program Files/Microsoft/Drivers/file.doc
+Riot Games/Program Files/Microsoft/Drivers/getopts.exe
+Riot Games/Program Files/Microsoft/Drivers/ipcs.bat
+Riot Games/Program Files/Microsoft/Drivers/pathchk.docx
+Riot Games/Program Files/Microsoft/Drivers/qsub.cmd
+Riot Games/Program Files/Microsoft/Drivers/tsort.bat
+Riot Games/Program Files/Microsoft/Drivers/uncompress.jar
+Riot Games/Program Files/Microsoft/Drivers/val.exe
+Riot Games/Program Files/Microsoft/cat.doc
+Riot Games/Program Files/Microsoft/chown.jar
+Riot Games/Program Files/Microsoft/comm.docx
+Riot Games/Program Files/Microsoft/dd.docx
+Riot Games/Program Files/Microsoft/expand.bat
+Riot Games/Program Files/Microsoft/ghci.bat
+Riot Games/Program Files/Microsoft/javac.cmd
+Riot Games/Program Files/Microsoft/ls.exe
+Riot Games/Program Files/Microsoft/minecraft.cmd
+Riot Games/Program Files/Microsoft/qsub.doc
+Riot Games/Program Files/Microsoft/rmdir.bat
+Riot Games/Program Files/Microsoft/sed.docx
+Riot Games/Program Files/Microsoft/split.exe
+Riot Games/Program Files/Microsoft/tabs.cmd
+Riot Games/Program Files/Microsoft/tty.cmd
+Riot Games/Program Files/Microsoft/uncompress.docx
+Riot Games/Program Files/Microsoft/unlink
+Riot Games/Program Files/Program Files/Windows/codes
+Riot Games/Program Files/Program Files/Windows/command.exe
+Riot Games/Program Files/Program Files/Windows/expand.jar
+Riot Games/Program Files/Program Files/Windows/find.doc
+Riot Games/Program Files/Program Files/Windows/make.cmd
+Riot Games/Program Files/Program Files/Windows/newgrp.docx
+Riot Games/Program Files/Program Files/Windows/qsig.bat
+Riot Games/Program Files/Program Files/Windows/sccs.bat
+Riot Games/Program Files/Program Files/Windows/stty.cmd
+Riot Games/Program Files/Program Files/Windows/winword
+Riot Games/Program Files/Program Files/chrome.docx
+Riot Games/Program Files/Program Files/cksum.docx
+Riot Games/Program Files/Program Files/cxref.doc
+Riot Games/Program Files/Program Files/ed.doc
+Riot Games/Program Files/Program Files/man.jar
+Riot Games/Program Files/Program Files/qsig
+Riot Games/Program Files/Program Files/ulimit.cmd
+Riot Games/Program Files/Program Files/val.bat
+Riot Games/Program Files/Program Files (x86)/bg.docx
+Riot Games/Program Files/Program Files (x86)/chrome.jar
+Riot Games/Program Files/Program Files (x86)/get.cmd
+Riot Games/Program Files/Program Files (x86)/hash.bat
+Riot Games/Program Files/Program Files (x86)/man.doc
+Riot Games/Program Files/Program Files (x86)/newgrp.exe
+Riot Games/Program Files/Program Files (x86)/qhold
+Riot Games/Program Files/Program Files (x86)/spotify.exe
+Riot Games/Program Files/Program Files (x86)/zcat.docx
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/awk
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/basename.docx
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/comm.cmd
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/data.exe
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/find.cmd
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/grep.docx
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/javaw.doc
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/localedef.jar
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/logger.bat
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/ls.cmd
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/nice
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/prs
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/spotify.bat
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/ssh
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/tabs.bat
+Riot Games/Program Files/Riot Games/SYSWOW64/Drivers/true
+Riot Games/Program Files/Riot Games/System32/chmod.cmd
+Riot Games/Program Files/Riot Games/System32/csplit.doc
+Riot Games/Program Files/Riot Games/System32/env.cmd
+Riot Games/Program Files/Riot Games/System32/explorer.doc
+Riot Games/Program Files/Riot Games/System32/gencat.cmd
+Riot Games/Program Files/Riot Games/System32/logger.exe
+Riot Games/Program Files/Riot Games/System32/mkfifo.cmd
+Riot Games/Program Files/Riot Games/System32/paste.doc
+Riot Games/Program Files/Riot Games/System32/printf.cmd
+Riot Games/Program Files/Riot Games/System32/strings.exe
+Riot Games/Program Files/Riot Games/System32/type.exe
+Riot Games/Program Files/Riot Games/System32/uudecode.jar
+Riot Games/Program Files/Riot Games/System32/vi.exe
+Riot Games/Program Files/Riot Games/codes.cmd
+Riot Games/Program Files/Riot Games/excel.jar
+Riot Games/Program Files/Riot Games/explorer
+Riot Games/Program Files/Riot Games/fc.docx
+Riot Games/Program Files/Riot Games/java.jar
+Riot Games/Program Files/Riot Games/join.cmd
+Riot Games/Program Files/Riot Games/localedef.doc
+Riot Games/Program Files/Riot Games/nm.cmd
+Riot Games/Program Files/Riot Games/qselect.doc
+Riot Games/Program Files/Riot Games/qsig.jar
+Riot Games/Program Files/Riot Games/uname.docx
+Riot Games/Program Files/Riot Games/uniq.bat
+Riot Games/Program Files/Riot Games/uucp.cmd
+Riot Games/Program Files/Riot Games/winword.bat
+Riot Games/Program Files/Riot Games/zcat.docx
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/chown.bat
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/dirname.bat
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/firefox.exe
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/head.bat
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/lp.cmd
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/nohup.bat
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/strings.jar
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/strip.exe
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/uname
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/wc.doc
+Riot Games/Program Files/SYSWOW64/System32/SYSWOW64/wc.jar
+Riot Games/Program Files/System32/Program Files/chrome.bat
+Riot Games/Program Files/System32/Program Files/dd.exe
+Riot Games/Program Files/System32/Program Files/get.docx
+Riot Games/Program Files/System32/Program Files/newgrp.doc
+Riot Games/Program Files/System32/Program Files/od
+Riot Games/Program Files/System32/Program Files/printf.doc
+Riot Games/Program Files/System32/Program Files/qrls.docx
+Riot Games/Program Files/System32/Program Files/qstat.docx
+Riot Games/Program Files/System32/Program Files/tabs
+Riot Games/Program Files/System32/Program Files/uudecode.docx
+Riot Games/Program Files/System32/Windows/mesg.bat
+Riot Games/Program Files/System32/Windows/newgrp.docx
+Riot Games/Program Files/System32/Windows/nohup.docx
+Riot Games/Program Files/System32/Windows/pathchk.doc
+Riot Games/Program Files/System32/Windows/qdel
+Riot Games/Program Files/System32/Windows/qmove.bat
+Riot Games/Program Files/System32/Windows/qmsg.jar
+Riot Games/Program Files/System32/Windows/qselect.jar
+Riot Games/Program Files/System32/Windows/sact.jar
+Riot Games/Program Files/System32/Windows/tsort.doc
+Riot Games/Program Files/System32/Windows/uncompress.exe
+Riot Games/Program Files/System32/Windows/vi.cmd
+Riot Games/Program Files/Users/find.cmd
+Riot Games/Program Files/Users/firefox.exe
+Riot Games/Program Files/Users/java.doc
+Riot Games/Program Files/Users/mv.cmd
+Riot Games/Program Files/Users/nl.bat
+Riot Games/Program Files/Users/patch.cmd
+Riot Games/Program Files/Users/read.docx
+Riot Games/Program Files/Users/tail.doc
+Riot Games/Program Files/Users/unexpand.doc
+Riot Games/Program Files/Users/uudecode
+Riot Games/Program Files/Users/uustat.doc
+Riot Games/Program Files/Windows/dd.bat
+Riot Games/Program Files/Windows/fuser.bat
+Riot Games/Program Files/Windows/head.exe
+Riot Games/Program Files/Windows/logname.jar
+Riot Games/Program Files/Windows/minecraft.docx
+Riot Games/Program Files/Windows/od.exe
+Riot Games/Program Files/Windows/pwd.bat
+Riot Games/Program Files/Windows/rmdir.docx
+Riot Games/Program Files/bg
+Riot Games/Program Files/cmp.cmd
+Riot Games/Program Files/csplit
+Riot Games/Program Files/fc.cmd
+Riot Games/Program Files/ls.docx
+Riot Games/Program Files/mv.docx
+Riot Games/Program Files/patch.docx
+Riot Games/Program Files/qmove.doc
+Riot Games/Program Files/qsub.doc
+Riot Games/Program Files/read.jar
+Riot Games/Program Files/strip.doc
+Riot Games/Program Files/vi
+Riot Games/Program Files/vi.docx
+Riot Games/Program Files (x86)/Drivers/Riot Games/javaw.exe
+Riot Games/Program Files (x86)/Drivers/Riot Games/paste
+Riot Games/Program Files (x86)/Drivers/Riot Games/pax.cmd
+Riot Games/Program Files (x86)/Drivers/Riot Games/uname.doc
+Riot Games/Program Files (x86)/Drivers/Riot Games/yacc.jar
+Riot Games/Program Files (x86)/Drivers/date.jar
+Riot Games/Program Files (x86)/Drivers/diff.exe
+Riot Games/Program Files (x86)/Drivers/dir.docx
+Riot Games/Program Files (x86)/Drivers/env
+Riot Games/Program Files (x86)/Drivers/ipcrm.bat
+Riot Games/Program Files (x86)/Drivers/link
+Riot Games/Program Files (x86)/Drivers/pr.cmd
+Riot Games/Program Files (x86)/Drivers/qselect.jar
+Riot Games/Program Files (x86)/Drivers/qsub.cmd
+Riot Games/Program Files (x86)/Drivers/ulimit.cmd
+Riot Games/Program Files (x86)/Drivers/winword.cmd
+Riot Games/Program Files (x86)/Microsoft/System32/date.doc
+Riot Games/Program Files (x86)/Microsoft/System32/ed.doc
+Riot Games/Program Files (x86)/Microsoft/System32/get.docx
+Riot Games/Program Files (x86)/Microsoft/System32/get.jar
+Riot Games/Program Files (x86)/Microsoft/System32/head.doc
+Riot Games/Program Files (x86)/Microsoft/System32/ipcrm.docx
+Riot Games/Program Files (x86)/Microsoft/System32/ln.cmd
+Riot Games/Program Files (x86)/Microsoft/System32/mailx.doc
+Riot Games/Program Files (x86)/Microsoft/System32/prs.exe
+Riot Games/Program Files (x86)/Microsoft/System32/pwd.exe
+Riot Games/Program Files (x86)/Microsoft/System32/qsub.jar
+Riot Games/Program Files (x86)/Microsoft/System32/rmdir.jar
+Riot Games/Program Files (x86)/Microsoft/System32/vimtutor.docx
+Riot Games/Program Files (x86)/Microsoft/at.docx
+Riot Games/Program Files (x86)/Microsoft/basename.docx
+Riot Games/Program Files (x86)/Microsoft/iconv.doc
+Riot Games/Program Files (x86)/Microsoft/javaw.jar
+Riot Games/Program Files (x86)/Microsoft/mesg.exe
+Riot Games/Program Files (x86)/Microsoft/tty
+Riot Games/Program Files (x86)/Program Files/Drivers/ar.jar
+Riot Games/Program Files (x86)/Program Files/Drivers/bg.jar
+Riot Games/Program Files (x86)/Program Files/Drivers/choco.bat
+Riot Games/Program Files (x86)/Program Files/Drivers/fc.doc
+Riot Games/Program Files (x86)/Program Files/Drivers/python.cmd
+Riot Games/Program Files (x86)/Program Files/Drivers/sleep
+Riot Games/Program Files (x86)/Program Files/Drivers/tee.jar
+Riot Games/Program Files (x86)/Program Files/Drivers/unalias
+Riot Games/Program Files (x86)/Program Files/Drivers/what.bat
+Riot Games/Program Files (x86)/Program Files/Drivers/yacc.cmd
+Riot Games/Program Files (x86)/Program Files/ipcrm.cmd
+Riot Games/Program Files (x86)/Program Files/more.cmd
+Riot Games/Program Files (x86)/Program Files/prs.doc
+Riot Games/Program Files (x86)/Program Files/split
+Riot Games/Program Files (x86)/Program Files/winword.exe
+Riot Games/Program Files (x86)/Program Files (x86)/cal.bat
+Riot Games/Program Files (x86)/Program Files (x86)/chmod.bat
+Riot Games/Program Files (x86)/Program Files (x86)/cp.exe
+Riot Games/Program Files (x86)/Program Files (x86)/get.jar
+Riot Games/Program Files (x86)/Program Files (x86)/join.exe
+Riot Games/Program Files (x86)/Program Files (x86)/locale.exe
+Riot Games/Program Files (x86)/Program Files (x86)/logger.jar
+Riot Games/Program Files (x86)/Program Files (x86)/qmove.bat
+Riot Games/Program Files (x86)/Program Files (x86)/qrls.doc
+Riot Games/Program Files (x86)/Program Files (x86)/sleep.jar
+Riot Games/Program Files (x86)/Program Files (x86)/tty.cmd
+Riot Games/Program Files (x86)/Program Files (x86)/yacc.exe
+Riot Games/Program Files (x86)/Riot Games/Program Files/dir.cmd
+Riot Games/Program Files (x86)/Riot Games/Program Files/link.jar
+Riot Games/Program Files (x86)/Riot Games/Program Files/m4.cmd
+Riot Games/Program Files (x86)/Riot Games/Program Files/sh.docx
+Riot Games/Program Files (x86)/Riot Games/basename
+Riot Games/Program Files (x86)/Riot Games/cd.cmd
+Riot Games/Program Files (x86)/Riot Games/dd.jar
+Riot Games/Program Files (x86)/Riot Games/env.jar
+Riot Games/Program Files (x86)/Riot Games/false.doc
+Riot Games/Program Files (x86)/Riot Games/iconv
+Riot Games/Program Files (x86)/Riot Games/link.jar
+Riot Games/Program Files (x86)/Riot Games/paste.docx
+Riot Games/Program Files (x86)/Riot Games/prs.exe
+Riot Games/Program Files (x86)/Riot Games/pwd.cmd
+Riot Games/Program Files (x86)/Riot Games/qrls.jar
+Riot Games/Program Files (x86)/Riot Games/type.cmd
+Riot Games/Program Files (x86)/Riot Games/uname.jar
+Riot Games/Program Files (x86)/Riot Games/zcat.jar
+Riot Games/Program Files (x86)/SYSWOW64/cflow.bat
+Riot Games/Program Files (x86)/SYSWOW64/chrome
+Riot Games/Program Files (x86)/SYSWOW64/crontab.jar
+Riot Games/Program Files (x86)/SYSWOW64/ln.cmd
+Riot Games/Program Files (x86)/SYSWOW64/more.exe
+Riot Games/Program Files (x86)/SYSWOW64/pathchk.bat
+Riot Games/Program Files (x86)/SYSWOW64/qalter.jar
+Riot Games/Program Files (x86)/SYSWOW64/qmsg.bat
+Riot Games/Program Files (x86)/SYSWOW64/sed.cmd
+Riot Games/Program Files (x86)/System32/Windows/awk.bat
+Riot Games/Program Files (x86)/System32/Windows/cal
+Riot Games/Program Files (x86)/System32/Windows/cal.cmd
+Riot Games/Program Files (x86)/System32/Windows/data
+Riot Games/Program Files (x86)/System32/Windows/logger.exe
+Riot Games/Program Files (x86)/System32/Windows/mesg.bat
+Riot Games/Program Files (x86)/System32/Windows/mesg.docx
+Riot Games/Program Files (x86)/System32/Windows/patch.cmd
+Riot Games/Program Files (x86)/System32/Windows/tabs
+Riot Games/Program Files (x86)/System32/Windows/ulimit.exe
+Riot Games/Program Files (x86)/System32/Windows/what.bat
+Riot Games/Program Files (x86)/System32/dd.doc
+Riot Games/Program Files (x86)/System32/logger.jar
+Riot Games/Program Files (x86)/System32/nohup.exe
+Riot Games/Program Files (x86)/System32/read.docx
+Riot Games/Program Files (x86)/System32/uncompress.doc
+Riot Games/Program Files (x86)/System32/who.jar
+Riot Games/Program Files (x86)/System32/zcat.exe
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/bc.doc
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/ctags.jar
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/cxref
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/dir.exe
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/explorer.docx
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/localedef.docx
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/logger.jar
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/logname
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/m4.docx
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/mailx.docx
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/patch.bat
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/sed.bat
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/tail.docx
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/test.bat
+Riot Games/Program Files (x86)/Users/System32/SYSWOW64/true.bat
+Riot Games/Program Files (x86)/Users/cmd.jar
+Riot Games/Program Files (x86)/Users/codes.jar
+Riot Games/Program Files (x86)/Users/ctags.doc
+Riot Games/Program Files (x86)/Users/dd.bat
+Riot Games/Program Files (x86)/Users/ed.exe
+Riot Games/Program Files (x86)/Users/expand.docx
+Riot Games/Program Files (x86)/Users/kill.jar
+Riot Games/Program Files (x86)/Users/logger.bat
+Riot Games/Program Files (x86)/Users/rmdel.doc
+Riot Games/Program Files (x86)/Users/sccs.exe
+Riot Games/Program Files (x86)/Users/strings.exe
+Riot Games/Program Files (x86)/Users/xargs.bat
+Riot Games/Program Files (x86)/Windows/basename.jar
+Riot Games/Program Files (x86)/Windows/diff.exe
+Riot Games/Program Files (x86)/Windows/find.docx
+Riot Games/Program Files (x86)/Windows/head
+Riot Games/Program Files (x86)/Windows/locale.bat
+Riot Games/Program Files (x86)/Windows/newgrp.jar
+Riot Games/Program Files (x86)/Windows/nice.docx
+Riot Games/Program Files (x86)/Windows/paste.bat
+Riot Games/Program Files (x86)/Windows/sort
+Riot Games/Program Files (x86)/bc.bat
+Riot Games/Program Files (x86)/chmod.exe
+Riot Games/Program Files (x86)/command.doc
+Riot Games/Program Files (x86)/dir.jar
+Riot Games/Program Files (x86)/dirname.bat
+Riot Games/Program Files (x86)/javaw
+Riot Games/Program Files (x86)/jobs.docx
+Riot Games/Program Files (x86)/ulimit
+Riot Games/Program Files (x86)/ulimit.exe
+Riot Games/Riot Games/Drivers/Microsoft/cd.cmd
+Riot Games/Riot Games/Drivers/Microsoft/cut.exe
+Riot Games/Riot Games/Drivers/Microsoft/df.jar
+Riot Games/Riot Games/Drivers/Microsoft/m4.doc
+Riot Games/Riot Games/Drivers/Microsoft/pr
+Riot Games/Riot Games/Drivers/Microsoft/prs.cmd
+Riot Games/Riot Games/Drivers/Microsoft/pwd.docx
+Riot Games/Riot Games/Drivers/Microsoft/qrerun.cmd
+Riot Games/Riot Games/Drivers/Microsoft/rmdir.docx
+Riot Games/Riot Games/Drivers/Microsoft/sact.jar
+Riot Games/Riot Games/Drivers/SYSWOW64/cal.cmd
+Riot Games/Riot Games/Drivers/SYSWOW64/cat.jar
+Riot Games/Riot Games/Drivers/SYSWOW64/cd.doc
+Riot Games/Riot Games/Drivers/SYSWOW64/df.docx
+Riot Games/Riot Games/Drivers/SYSWOW64/du.docx
+Riot Games/Riot Games/Drivers/SYSWOW64/pax.bat
+Riot Games/Riot Games/Drivers/SYSWOW64/qdel
+Riot Games/Riot Games/Drivers/SYSWOW64/qmove.doc
+Riot Games/Riot Games/Drivers/SYSWOW64/qsub
+Riot Games/Riot Games/Drivers/SYSWOW64/uuencode.cmd
+Riot Games/Riot Games/Drivers/ex.cmd
+Riot Games/Riot Games/Drivers/excel.bat
+Riot Games/Riot Games/Drivers/locale
+Riot Games/Riot Games/Drivers/minecraft.bat
+Riot Games/Riot Games/Drivers/more
+Riot Games/Riot Games/Drivers/mv.cmd
+Riot Games/Riot Games/Drivers/nice
+Riot Games/Riot Games/Drivers/nice.docx
+Riot Games/Riot Games/Drivers/qalter
+Riot Games/Riot Games/Drivers/ruby.jar
+Riot Games/Riot Games/Drivers/type.exe
+Riot Games/Riot Games/Drivers/unalias.doc
+Riot Games/Riot Games/Microsoft/Users/cd.exe
+Riot Games/Riot Games/Microsoft/Users/qmsg.bat
+Riot Games/Riot Games/Microsoft/Users/sleep.cmd
+Riot Games/Riot Games/Microsoft/Users/tee.docx
+Riot Games/Riot Games/Microsoft/Users/what.exe
+Riot Games/Riot Games/Microsoft/chrome.cmd
+Riot Games/Riot Games/Microsoft/env.docx
+Riot Games/Riot Games/Microsoft/fold.docx
+Riot Games/Riot Games/Microsoft/jobs.exe
+Riot Games/Riot Games/Microsoft/mv.jar
+Riot Games/Riot Games/Microsoft/patch.docx
+Riot Games/Riot Games/Microsoft/pax.jar
+Riot Games/Riot Games/Microsoft/pr.bat
+Riot Games/Riot Games/Microsoft/qselect.cmd
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/cat.bat
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/dirname.exe
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/firefox.bat
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/prs.cmd
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/tr
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/tsort.jar
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/uncompress
+Riot Games/Riot Games/Program Files (x86)/System32/Riot Games/xargs
+Riot Games/Riot Games/Program Files (x86)/cflow.cmd
+Riot Games/Riot Games/Program Files (x86)/crontab.bat
+Riot Games/Riot Games/Program Files (x86)/date
+Riot Games/Riot Games/Program Files (x86)/ed.docx
+Riot Games/Riot Games/Program Files (x86)/prs.docx
+Riot Games/Riot Games/Program Files (x86)/qhold
+Riot Games/Riot Games/Program Files (x86)/qhold.docx
+Riot Games/Riot Games/Program Files (x86)/qselect.jar
+Riot Games/Riot Games/Program Files (x86)/tee.doc
+Riot Games/Riot Games/Riot Games/Program Files (x86)/explorer
+Riot Games/Riot Games/Riot Games/Program Files (x86)/false.docx
+Riot Games/Riot Games/Riot Games/Program Files (x86)/join.cmd
+Riot Games/Riot Games/Riot Games/Program Files (x86)/patch.bat
+Riot Games/Riot Games/Riot Games/Program Files (x86)/prs.bat
+Riot Games/Riot Games/Riot Games/Program Files (x86)/rmdel.doc
+Riot Games/Riot Games/Riot Games/Program Files (x86)/sleep.jar
+Riot Games/Riot Games/Riot Games/Program Files (x86)/split.docx
+Riot Games/Riot Games/Riot Games/Program Files (x86)/tabs.exe
+Riot Games/Riot Games/Riot Games/Program Files (x86)/touch.doc
+Riot Games/Riot Games/Riot Games/SYSWOW64/cut.bat
+Riot Games/Riot Games/Riot Games/SYSWOW64/hash.doc
+Riot Games/Riot Games/Riot Games/SYSWOW64/ln.bat
+Riot Games/Riot Games/Riot Games/SYSWOW64/qmsg.jar
+Riot Games/Riot Games/Riot Games/SYSWOW64/qrerun.bat
+Riot Games/Riot Games/Riot Games/SYSWOW64/regedit.jar
+Riot Games/Riot Games/Riot Games/SYSWOW64/ruby.cmd
+Riot Games/Riot Games/Riot Games/SYSWOW64/test
+Riot Games/Riot Games/Riot Games/SYSWOW64/unlink.jar
+Riot Games/Riot Games/Riot Games/SYSWOW64/yacc.doc
+Riot Games/Riot Games/Riot Games/cksum
+Riot Games/Riot Games/Riot Games/ctags.exe
+Riot Games/Riot Games/Riot Games/env.cmd
+Riot Games/Riot Games/Riot Games/mesg.jar
+Riot Games/Riot Games/Riot Games/pathchk.exe
+Riot Games/Riot Games/Riot Games/rmdir
+Riot Games/Riot Games/Riot Games/ulimit.jar
+Riot Games/Riot Games/Riot Games/wait.doc
+Riot Games/Riot Games/SYSWOW64/choco.jar
+Riot Games/Riot Games/SYSWOW64/ctags.cmd
+Riot Games/Riot Games/SYSWOW64/df.exe
+Riot Games/Riot Games/SYSWOW64/ex.jar
+Riot Games/Riot Games/SYSWOW64/ln.cmd
+Riot Games/Riot Games/SYSWOW64/sact.docx
+Riot Games/Riot Games/SYSWOW64/spotify.doc
+Riot Games/Riot Games/SYSWOW64/spotify.jar
+Riot Games/Riot Games/SYSWOW64/uncompress.doc
+Riot Games/Riot Games/SYSWOW64/uucp.doc
+Riot Games/Riot Games/SYSWOW64/who.cmd
+Riot Games/Riot Games/System32/System32/cat.bat
+Riot Games/Riot Games/System32/System32/choco.docx
+Riot Games/Riot Games/System32/System32/date.jar
+Riot Games/Riot Games/System32/System32/ex.cmd
+Riot Games/Riot Games/System32/System32/getconf.cmd
+Riot Games/Riot Games/System32/System32/link.exe
+Riot Games/Riot Games/System32/System32/mesg.exe
+Riot Games/Riot Games/System32/System32/python.docx
+Riot Games/Riot Games/System32/System32/qrerun.docx
+Riot Games/Riot Games/System32/System32/spotify.exe
+Riot Games/Riot Games/System32/System32/vimtutor.bat
+Riot Games/Riot Games/System32/chown.cmd
+Riot Games/Riot Games/System32/date
+Riot Games/Riot Games/System32/dir.jar
+Riot Games/Riot Games/System32/expand.cmd
+Riot Games/Riot Games/System32/fuser.exe
+Riot Games/Riot Games/System32/lp.doc
+Riot Games/Riot Games/System32/lp.docx
+Riot Games/Riot Games/System32/python.doc
+Riot Games/Riot Games/Users/Program Files (x86)/crontab.cmd
+Riot Games/Riot Games/Users/Program Files (x86)/date.bat
+Riot Games/Riot Games/Users/Program Files (x86)/ed
+Riot Games/Riot Games/Users/Program Files (x86)/ls
+Riot Games/Riot Games/Users/Program Files (x86)/more.doc
+Riot Games/Riot Games/Users/Program Files (x86)/patch.docx
+Riot Games/Riot Games/Users/Program Files (x86)/pathchk
+Riot Games/Riot Games/Users/Program Files (x86)/ruby.doc
+Riot Games/Riot Games/Users/Program Files (x86)/tabs.doc
+Riot Games/Riot Games/Users/Program Files (x86)/ulimit.doc
+Riot Games/Riot Games/Users/Program Files (x86)/vi.doc
+Riot Games/Riot Games/Users/admin.docx
+Riot Games/Riot Games/Users/ar.doc
+Riot Games/Riot Games/Users/awk.cmd
+Riot Games/Riot Games/Users/fuser.exe
+Riot Games/Riot Games/Users/iconv.jar
+Riot Games/Riot Games/Users/lp.doc
+Riot Games/Riot Games/Users/newgrp.cmd
+Riot Games/Riot Games/Users/nohup.exe
+Riot Games/Riot Games/Users/pr.cmd
+Riot Games/Riot Games/Users/ruby.cmd
+Riot Games/Riot Games/Users/sh.cmd
+Riot Games/Riot Games/Users/split.jar
+Riot Games/Riot Games/Users/uustat.cmd
+Riot Games/Riot Games/Windows/command.jar
+Riot Games/Riot Games/Windows/find.cmd
+Riot Games/Riot Games/Windows/getconf.jar
+Riot Games/Riot Games/Windows/pax.cmd
+Riot Games/Riot Games/Windows/read
+Riot Games/Riot Games/Windows/uudecode.jar
+Riot Games/Riot Games/Windows/wc.jar
+Riot Games/Riot Games/alias.doc
+Riot Games/Riot Games/alias.exe
+Riot Games/Riot Games/basename.bat
+Riot Games/Riot Games/firefox.docx
+Riot Games/Riot Games/jobs.doc
+Riot Games/Riot Games/more.docx
+Riot Games/Riot Games/qselect.exe
+Riot Games/Riot Games/sort.docx
+Riot Games/Riot Games/tabs.exe
+Riot Games/Riot Games/tsort.jar
+Riot Games/Riot Games/type.exe
+Riot Games/Riot Games/uustat.doc
+Riot Games/Riot Games/wc.jar
+Riot Games/SYSWOW64/Drivers/env.bat
+Riot Games/SYSWOW64/Drivers/get.cmd
+Riot Games/SYSWOW64/Drivers/jobs.doc
+Riot Games/SYSWOW64/Drivers/od
+Riot Games/SYSWOW64/Drivers/qmove.bat
+Riot Games/SYSWOW64/Drivers/split.doc
+Riot Games/SYSWOW64/Drivers/type.bat
+Riot Games/SYSWOW64/Program Files/Microsoft/asa.doc
+Riot Games/SYSWOW64/Program Files/Microsoft/chrome.doc
+Riot Games/SYSWOW64/Program Files/Microsoft/expand
+Riot Games/SYSWOW64/Program Files/Microsoft/file.cmd
+Riot Games/SYSWOW64/Program Files/Microsoft/lex
+Riot Games/SYSWOW64/Program Files/Microsoft/qsub.exe
+Riot Games/SYSWOW64/Program Files/Microsoft/rmdel.doc
+Riot Games/SYSWOW64/Program Files/Microsoft/stty.bat
+Riot Games/SYSWOW64/Program Files/Microsoft/tty.cmd
+Riot Games/SYSWOW64/Program Files/Microsoft/winword.bat
+Riot Games/SYSWOW64/Program Files/Microsoft/zcat.doc
+Riot Games/SYSWOW64/Program Files/cxref.docx
+Riot Games/SYSWOW64/Program Files/du.bat
+Riot Games/SYSWOW64/Program Files/sact.bat
+Riot Games/SYSWOW64/Program Files/tee.docx
+Riot Games/SYSWOW64/Program Files/uniq
+Riot Games/SYSWOW64/Program Files/uucp.jar
+Riot Games/SYSWOW64/Program Files (x86)/alias.cmd
+Riot Games/SYSWOW64/Program Files (x86)/chmod.bat
+Riot Games/SYSWOW64/Program Files (x86)/du.doc
+Riot Games/SYSWOW64/Program Files (x86)/file.jar
+Riot Games/SYSWOW64/Program Files (x86)/fuser.cmd
+Riot Games/SYSWOW64/Program Files (x86)/ln.jar
+Riot Games/SYSWOW64/Program Files (x86)/strings
+Riot Games/SYSWOW64/Program Files (x86)/stty.doc
+Riot Games/SYSWOW64/Program Files (x86)/who
+Riot Games/SYSWOW64/Program Files (x86)/zcat.jar
+Riot Games/SYSWOW64/Riot Games/cut.jar
+Riot Games/SYSWOW64/Riot Games/dd.exe
+Riot Games/SYSWOW64/Riot Games/excel.docx
+Riot Games/SYSWOW64/Riot Games/find.bat
+Riot Games/SYSWOW64/Riot Games/localedef.cmd
+Riot Games/SYSWOW64/Riot Games/nl.exe
+Riot Games/SYSWOW64/Riot Games/qdel.exe
+Riot Games/SYSWOW64/Riot Games/read.doc
+Riot Games/SYSWOW64/Riot Games/umask.docx
+Riot Games/SYSWOW64/Riot Games/unalias.cmd
+Riot Games/SYSWOW64/Riot Games/zcat.doc
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/asa.cmd
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/at.cmd
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/cflow.docx
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/excel
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/excel.doc
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/newgrp
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/paste.doc
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/patch.docx
+Riot Games/SYSWOW64/SYSWOW64/Microsoft/yacc.bat
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/awk.cmd
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/choco.docx
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/nohup.exe
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/patch.jar
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/pr.exe
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/qselect.cmd
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/rm.bat
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/sed.exe
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/umask.docx
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/vi.jar
+Riot Games/SYSWOW64/SYSWOW64/System32/Riot Games/wc.doc
+Riot Games/SYSWOW64/SYSWOW64/admin.bat
+Riot Games/SYSWOW64/SYSWOW64/at.docx
+Riot Games/SYSWOW64/SYSWOW64/env.docx
+Riot Games/SYSWOW64/SYSWOW64/hash
+Riot Games/SYSWOW64/SYSWOW64/kill.exe
+Riot Games/SYSWOW64/SYSWOW64/lex.doc
+Riot Games/SYSWOW64/SYSWOW64/localedef
+Riot Games/SYSWOW64/SYSWOW64/od.cmd
+Riot Games/SYSWOW64/SYSWOW64/ps.exe
+Riot Games/SYSWOW64/SYSWOW64/touch.docx
+Riot Games/SYSWOW64/SYSWOW64/umask.exe
+Riot Games/SYSWOW64/SYSWOW64/vim.cmd
+Riot Games/SYSWOW64/SYSWOW64/write.exe
+Riot Games/SYSWOW64/System32/SYSWOW64/basename.doc
+Riot Games/SYSWOW64/System32/SYSWOW64/cat.bat
+Riot Games/SYSWOW64/System32/SYSWOW64/cd.cmd
+Riot Games/SYSWOW64/System32/SYSWOW64/cxref.cmd
+Riot Games/SYSWOW64/System32/SYSWOW64/dir
+Riot Games/SYSWOW64/System32/SYSWOW64/explorer.bat
+Riot Games/SYSWOW64/System32/SYSWOW64/file.docx
+Riot Games/SYSWOW64/System32/SYSWOW64/jobs
+Riot Games/SYSWOW64/System32/SYSWOW64/qalter
+Riot Games/SYSWOW64/System32/SYSWOW64/rmdel
+Riot Games/SYSWOW64/System32/SYSWOW64/touch.cmd
+Riot Games/SYSWOW64/System32/SYSWOW64/uncompress.jar
+Riot Games/SYSWOW64/System32/SYSWOW64/unlink.bat
+Riot Games/SYSWOW64/System32/cal.jar
+Riot Games/SYSWOW64/System32/codes.bat
+Riot Games/SYSWOW64/System32/csplit.docx
+Riot Games/SYSWOW64/System32/delta.doc
+Riot Games/SYSWOW64/System32/explorer.cmd
+Riot Games/SYSWOW64/System32/qrerun.doc
+Riot Games/SYSWOW64/System32/rmdel.jar
+Riot Games/SYSWOW64/System32/unexpand.jar
+Riot Games/SYSWOW64/System32/unget.bat
+Riot Games/SYSWOW64/Users/Windows/cd
+Riot Games/SYSWOW64/Users/Windows/chgrp
+Riot Games/SYSWOW64/Users/Windows/ctags.cmd
+Riot Games/SYSWOW64/Users/Windows/find.doc
+Riot Games/SYSWOW64/Users/Windows/join.exe
+Riot Games/SYSWOW64/Users/Windows/printf.exe
+Riot Games/SYSWOW64/Users/Windows/prs
+Riot Games/SYSWOW64/Users/Windows/val.doc
+Riot Games/SYSWOW64/Users/choco.cmd
+Riot Games/SYSWOW64/Users/date
+Riot Games/SYSWOW64/Users/diff.docx
+Riot Games/SYSWOW64/Users/expand.exe
+Riot Games/SYSWOW64/Users/nl.exe
+Riot Games/SYSWOW64/Users/qstat
+Riot Games/SYSWOW64/Users/wait.bat
+Riot Games/SYSWOW64/Windows/cal.bat
+Riot Games/SYSWOW64/Windows/chmod
+Riot Games/SYSWOW64/Windows/chown.docx
+Riot Games/SYSWOW64/Windows/ghci.cmd
+Riot Games/SYSWOW64/Windows/mailx.doc
+Riot Games/SYSWOW64/Windows/qalter.bat
+Riot Games/SYSWOW64/Windows/talk.exe
+Riot Games/SYSWOW64/Windows/tee.jar
+Riot Games/SYSWOW64/Windows/vim.cmd
+Riot Games/SYSWOW64/Windows/xargs.bat
+Riot Games/SYSWOW64/bg.bat
+Riot Games/SYSWOW64/explorer.bat
+Riot Games/SYSWOW64/grep.bat
+Riot Games/SYSWOW64/ls.bat
+Riot Games/SYSWOW64/printf
+Riot Games/SYSWOW64/qhold.exe
+Riot Games/SYSWOW64/sleep
+Riot Games/SYSWOW64/tabs.jar
+Riot Games/SYSWOW64/time.jar
+Riot Games/SYSWOW64/tput.cmd
+Riot Games/SYSWOW64/unlink.jar
+Riot Games/SYSWOW64/wait
+Riot Games/SYSWOW64/write.docx
+Riot Games/System32/Drivers/Drivers/cat.bat
+Riot Games/System32/Drivers/Drivers/mailx.bat
+Riot Games/System32/Drivers/Drivers/mkfifo.doc
+Riot Games/System32/Drivers/Drivers/qdel.exe
+Riot Games/System32/Drivers/Drivers/sact.bat
+Riot Games/System32/Drivers/Drivers/sed.bat
+Riot Games/System32/Drivers/Riot Games/batch.exe
+Riot Games/System32/Drivers/Riot Games/command.doc
+Riot Games/System32/Drivers/Riot Games/ctags.cmd
+Riot Games/System32/Drivers/Riot Games/data
+Riot Games/System32/Drivers/Riot Games/jobs
+Riot Games/System32/Drivers/Riot Games/lp.jar
+Riot Games/System32/Drivers/Riot Games/pathchk
+Riot Games/System32/Drivers/Riot Games/uuencode.docx
+Riot Games/System32/Drivers/admin.doc
+Riot Games/System32/Drivers/batch.bat
+Riot Games/System32/Drivers/bg.exe
+Riot Games/System32/Drivers/cp
+Riot Games/System32/Drivers/ctags.doc
+Riot Games/System32/Drivers/fc.jar
+Riot Games/System32/Drivers/get.doc
+Riot Games/System32/Drivers/nice.exe
+Riot Games/System32/Drivers/od.exe
+Riot Games/System32/Drivers/qmove.cmd
+Riot Games/System32/Drivers/qmsg.bat
+Riot Games/System32/Drivers/unexpand.cmd
+Riot Games/System32/Program Files/cmp.doc
+Riot Games/System32/Program Files/join.jar
+Riot Games/System32/Program Files/lex.jar
+Riot Games/System32/Program Files/more
+Riot Games/System32/Program Files/newgrp.cmd
+Riot Games/System32/Program Files/pr
+Riot Games/System32/Program Files/sh.doc
+Riot Games/System32/Program Files/umask
+Riot Games/System32/Riot Games/Microsoft/bg.doc
+Riot Games/System32/Riot Games/Microsoft/csplit.doc
+Riot Games/System32/Riot Games/Microsoft/ctags.exe
+Riot Games/System32/Riot Games/Microsoft/dd.doc
+Riot Games/System32/Riot Games/Microsoft/expand.jar
+Riot Games/System32/Riot Games/Microsoft/get
+Riot Games/System32/Riot Games/Microsoft/rm.jar
+Riot Games/System32/Riot Games/Microsoft/touch.exe
+Riot Games/System32/Riot Games/Microsoft/ulimit.cmd
+Riot Games/System32/Riot Games/Microsoft/uniq.docx
+Riot Games/System32/System32/Windows/Program Files (x86)/Riot Games/Program Files/Users/firefox.cmd
+Riot Games/System32/System32/Windows/Program Files (x86)/Riot Games/Program Files/Users/localedef.cmd
+Riot Games/System32/System32/Windows/Program Files (x86)/Riot Games/Program Files/Users/ps.exe
+Riot Games/System32/System32/Windows/Program Files (x86)/Riot Games/Program Files/Users/read
+Riot Games/System32/System32/Windows/Program Files (x86)/Riot Games/Program Files/Users/spotify.doc
+Riot Games/System32/System32/Windows/Program Files (x86)/Riot Games/Program Files/Users/type.jar
+Riot Games/System32/System32/Windows/Program Files (x86)/Riot Games/Program Files/Users/wait.doc
+Riot Games/System32/System32/cmp
+Riot Games/System32/System32/cp.docx
+Riot Games/System32/System32/find.doc
+Riot Games/System32/System32/pax.cmd
+Riot Games/System32/System32/read.doc
+Riot Games/System32/System32/read.docx
+Riot Games/System32/System32/renice.exe
+Riot Games/System32/System32/tr.jar
+Riot Games/System32/System32/type.doc
+Riot Games/System32/Users/Microsoft/admin
+Riot Games/System32/Users/Microsoft/chgrp.bat
+Riot Games/System32/Users/Microsoft/cp.exe
+Riot Games/System32/Users/Microsoft/delta.jar
+Riot Games/System32/Users/Microsoft/fuser.jar
+Riot Games/System32/Users/Microsoft/jobs.docx
+Riot Games/System32/Users/Microsoft/join.bat
+Riot Games/System32/Users/Microsoft/mesg.jar
+Riot Games/System32/Users/Microsoft/split.bat
+Riot Games/System32/Users/Microsoft/unlink.exe
+Riot Games/System32/Users/SYSWOW64/cksum
+Riot Games/System32/Users/SYSWOW64/env.jar
+Riot Games/System32/Users/SYSWOW64/head.doc
+Riot Games/System32/Users/SYSWOW64/ps.exe
+Riot Games/System32/Users/SYSWOW64/regedit.docx
+Riot Games/System32/Users/SYSWOW64/tsort.bat
+Riot Games/System32/Users/SYSWOW64/uudecode.jar
+Riot Games/System32/Users/SYSWOW64/write.cmd
+Riot Games/System32/Users/chown.doc
+Riot Games/System32/Users/cksum.jar
+Riot Games/System32/Users/date.doc
+Riot Games/System32/Users/mailx.bat
+Riot Games/System32/Users/mesg.cmd
+Riot Games/System32/Users/pwd.docx
+Riot Games/System32/Users/qalter.docx
+Riot Games/System32/Users/ruby.jar
+Riot Games/System32/Users/sccs.exe
+Riot Games/System32/Users/touch.exe
+Riot Games/System32/Users/uudecode.doc
+Riot Games/System32/Windows/Drivers/Program Files (x86)/at.bat
+Riot Games/System32/Windows/Drivers/Program Files (x86)/basename.docx
+Riot Games/System32/Windows/Drivers/Program Files (x86)/cmd.docx
+Riot Games/System32/Windows/Drivers/Program Files (x86)/delta.docx
+Riot Games/System32/Windows/Drivers/Program Files (x86)/env.doc
+Riot Games/System32/Windows/Drivers/Program Files (x86)/logger.cmd
+Riot Games/System32/Windows/Drivers/Program Files (x86)/logname.cmd
+Riot Games/System32/Windows/Drivers/Program Files (x86)/pax.cmd
+Riot Games/System32/Windows/Drivers/Program Files (x86)/pwd
+Riot Games/System32/Windows/Drivers/Program Files (x86)/qalter.bat
+Riot Games/System32/Windows/Drivers/Program Files (x86)/qmsg.docx
+Riot Games/System32/Windows/Drivers/Program Files (x86)/sed.bat
+Riot Games/System32/Windows/Program Files/bg
+Riot Games/System32/Windows/Program Files/compress.jar
+Riot Games/System32/Windows/Program Files/ed.cmd
+Riot Games/System32/Windows/Program Files/getconf
+Riot Games/System32/Windows/Program Files/localedef.docx
+Riot Games/System32/Windows/Program Files/qselect
+Riot Games/System32/Windows/Riot Games/Microsoft/cp.bat
+Riot Games/System32/Windows/Riot Games/Microsoft/csplit.doc
+Riot Games/System32/Windows/Riot Games/Microsoft/join.jar
+Riot Games/System32/Windows/Riot Games/Microsoft/printf.exe
+Riot Games/System32/Windows/Riot Games/Microsoft/ps.exe
+Riot Games/System32/Windows/Riot Games/Microsoft/python.doc
+Riot Games/System32/Windows/Riot Games/Microsoft/rmdir.jar
+Riot Games/System32/Windows/Riot Games/Microsoft/ruby.docx
+Riot Games/System32/Windows/Riot Games/Microsoft/sccs.cmd
+Riot Games/System32/Windows/Riot Games/Microsoft/tabs
+Riot Games/System32/Windows/Riot Games/Microsoft/unlink.cmd
+Riot Games/System32/Windows/Riot Games/Microsoft/yacc
+Riot Games/System32/Windows/chrome.bat
+Riot Games/System32/Windows/chrome.jar
+Riot Games/System32/Windows/dirname.exe
+Riot Games/System32/Windows/expand.docx
+Riot Games/System32/Windows/grep.docx
+Riot Games/System32/Windows/mailx.bat
+Riot Games/System32/Windows/qrerun.doc
+Riot Games/System32/Windows/qrls.cmd
+Riot Games/System32/Windows/tty.cmd
+Riot Games/System32/Windows/xargs.doc
+Riot Games/System32/cat.cmd
+Riot Games/System32/cflow.docx
+Riot Games/System32/cmd.cmd
+Riot Games/System32/csplit.exe
+Riot Games/System32/diff.docx
+Riot Games/System32/find.jar
+Riot Games/System32/join.doc
+Riot Games/System32/ls.jar
+Riot Games/System32/paste.cmd
+Riot Games/System32/sleep.bat
+Riot Games/System32/true.docx
+Riot Games/System32/uuencode.bat
+Riot Games/System32/uustat
+Riot Games/System32/write
+Riot Games/Users/Drivers/ar
+Riot Games/Users/Drivers/comm.jar
+Riot Games/Users/Drivers/file
+Riot Games/Users/Drivers/firefox.bat
+Riot Games/Users/Drivers/pr.cmd
+Riot Games/Users/Drivers/qalter
+Riot Games/Users/Drivers/read.doc
+Riot Games/Users/Drivers/tail.bat
+Riot Games/Users/Drivers/tput.bat
+Riot Games/Users/Drivers/uncompress.bat
+Riot Games/Users/Drivers/unlink.jar
+Riot Games/Users/Drivers/uucp
+Riot Games/Users/Drivers/uucp.bat
+Riot Games/Users/Drivers/write.jar
+Riot Games/Users/Microsoft/Microsoft/csplit.cmd
+Riot Games/Users/Microsoft/Microsoft/get.exe
+Riot Games/Users/Microsoft/Microsoft/ipcs.cmd
+Riot Games/Users/Microsoft/Microsoft/kill.doc
+Riot Games/Users/Microsoft/Microsoft/m4.cmd
+Riot Games/Users/Microsoft/Microsoft/mkdir.cmd
+Riot Games/Users/Microsoft/Microsoft/printf.exe
+Riot Games/Users/Microsoft/Microsoft/qdel.jar
+Riot Games/Users/Microsoft/Windows/at.docx
+Riot Games/Users/Microsoft/Windows/echo.doc
+Riot Games/Users/Microsoft/Windows/ipcrm.cmd
+Riot Games/Users/Microsoft/Windows/java.bat
+Riot Games/Users/Microsoft/Windows/mailx.doc
+Riot Games/Users/Microsoft/Windows/paste.docx
+Riot Games/Users/Microsoft/Windows/patch.jar
+Riot Games/Users/Microsoft/Windows/pr.doc
+Riot Games/Users/Microsoft/Windows/prs.docx
+Riot Games/Users/Microsoft/Windows/write.exe
+Riot Games/Users/Program Files/Riot Games/cflow.exe
+Riot Games/Users/Program Files/Riot Games/crontab.cmd
+Riot Games/Users/Program Files/Riot Games/date.bat
+Riot Games/Users/Program Files/Riot Games/fg.cmd
+Riot Games/Users/Program Files/Riot Games/fg.doc
+Riot Games/Users/Program Files/Riot Games/qrerun.docx
+Riot Games/Users/Program Files/Riot Games/ssh
+Riot Games/Users/Program Files/awk
+Riot Games/Users/Program Files/batch
+Riot Games/Users/Program Files/cut.cmd
+Riot Games/Users/Program Files/date.exe
+Riot Games/Users/Program Files/df.exe
+Riot Games/Users/Program Files/join
+Riot Games/Users/Program Files/minecraft.cmd
+Riot Games/Users/Program Files/patch
+Riot Games/Users/Program Files/pwd
+Riot Games/Users/Program Files/python.cmd
+Riot Games/Users/Program Files/renice.docx
+Riot Games/Users/Program Files/ruby.bat
+Riot Games/Users/Program Files/ruby.doc
+Riot Games/Users/Program Files/sed.jar
+Riot Games/Users/Program Files/sleep.cmd
+Riot Games/Users/Program Files/tr.doc
+Riot Games/Users/Program Files/unexpand.doc
+Riot Games/Users/Program Files/uux.doc
+Riot Games/Users/Program Files/who
+Riot Games/Users/Program Files/yacc
+Riot Games/Users/Program Files/zcat.cmd
+Riot Games/Users/Program Files (x86)/data
+Riot Games/Users/Program Files (x86)/pathchk.cmd
+Riot Games/Users/Program Files (x86)/python.bat
+Riot Games/Users/Program Files (x86)/qmsg
+Riot Games/Users/Program Files (x86)/qrls
+Riot Games/Users/Program Files (x86)/qstat
+Riot Games/Users/Program Files (x86)/sed.jar
+Riot Games/Users/Program Files (x86)/spotify.bat
+Riot Games/Users/Program Files (x86)/spotify.doc
+Riot Games/Users/Program Files (x86)/umask.docx
+Riot Games/Users/Program Files (x86)/wait.exe
+Riot Games/Users/Program Files (x86)/xargs.bat
+Riot Games/Users/Riot Games/cxref.bat
+Riot Games/Users/Riot Games/ghci.bat
+Riot Games/Users/Riot Games/iconv.jar
+Riot Games/Users/Riot Games/lp.docx
+Riot Games/Users/Riot Games/make.doc
+Riot Games/Users/Riot Games/od
+Riot Games/Users/Riot Games/qsub.docx
+Riot Games/Users/Riot Games/qsub.jar
+Riot Games/Users/Riot Games/sleep.jar
+Riot Games/Users/Riot Games/tsort.jar
+Riot Games/Users/Riot Games/type.exe
+Riot Games/Users/Riot Games/wait.cmd
+Riot Games/Users/Riot Games/who.jar
+Riot Games/Users/SYSWOW64/du.cmd
+Riot Games/Users/SYSWOW64/expand.exe
+Riot Games/Users/SYSWOW64/find.exe
+Riot Games/Users/SYSWOW64/qhold.doc
+Riot Games/Users/SYSWOW64/zcat.cmd
+Riot Games/Users/System32/Drivers/choco.docx
+Riot Games/Users/System32/Drivers/dd
+Riot Games/Users/System32/Drivers/delta.doc
+Riot Games/Users/System32/Drivers/nohup.doc
+Riot Games/Users/System32/Drivers/pathchk.doc
+Riot Games/Users/System32/Drivers/ps.bat
+Riot Games/Users/System32/Drivers/qrerun
+Riot Games/Users/System32/Drivers/rmdir.jar
+Riot Games/Users/System32/Drivers/tsort.doc
+Riot Games/Users/System32/Drivers/zcat
+Riot Games/Users/System32/Program Files/Microsoft/chgrp.bat
+Riot Games/Users/System32/Program Files/Microsoft/du.bat
+Riot Games/Users/System32/Program Files/Microsoft/explorer.exe
+Riot Games/Users/System32/Program Files/Microsoft/find.jar
+Riot Games/Users/System32/Program Files/Microsoft/gencat.docx
+Riot Games/Users/System32/Program Files/Microsoft/jobs.exe
+Riot Games/Users/System32/Program Files/Microsoft/link.docx
+Riot Games/Users/System32/Program Files/Microsoft/mesg.cmd
+Riot Games/Users/System32/Program Files/Microsoft/pwd.jar
+Riot Games/Users/System32/Program Files/Microsoft/strip.cmd
+Riot Games/Users/System32/Program Files/Microsoft/umask.cmd
+Riot Games/Users/System32/Program Files/Microsoft/vimtutor
+Riot Games/Users/System32/Program Files/Microsoft/yacc
+Riot Games/Users/System32/Users/cp.doc
+Riot Games/Users/System32/Users/dirname
+Riot Games/Users/System32/Users/head
+Riot Games/Users/System32/Users/iconv
+Riot Games/Users/System32/Users/vimtutor.docx
+Riot Games/Users/System32/Users/yacc.doc
+Riot Games/Users/System32/excel.cmd
+Riot Games/Users/System32/excel.doc
+Riot Games/Users/System32/lp.cmd
+Riot Games/Users/System32/ls.bat
+Riot Games/Users/System32/uustat.bat
+Riot Games/Users/Windows/ctags
+Riot Games/Users/Windows/gencat.doc
+Riot Games/Users/Windows/ln.doc
+Riot Games/Users/Windows/nm.doc
+Riot Games/Users/Windows/qhold.docx
+Riot Games/Users/Windows/uucp.cmd
+Riot Games/Users/Windows/wc.jar
+Riot Games/Users/batch.jar
+Riot Games/Users/cmp.jar
+Riot Games/Users/data
+Riot Games/Users/df.cmd
+Riot Games/Users/ed.jar
+Riot Games/Users/fuser.bat
+Riot Games/Users/hash.bat
+Riot Games/Users/nohup.doc
+Riot Games/Users/python.doc
+Riot Games/Users/rm.docx
+Riot Games/Users/strings.cmd
+Riot Games/Users/touch.doc
+Riot Games/Users/ulimit.cmd
+Riot Games/Users/uncompress
+Riot Games/Users/who.jar
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/basename.jar
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/df
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/firefox.cmd
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/m4.exe
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/qstat
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/qstat.bat
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/qstat.exe
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/strings
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/type.docx
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/uuencode
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/uustat.cmd
+Riot Games/Windows/Drivers/Program Files (x86)/Program Files/Program Files/winword
+Riot Games/Windows/Drivers/System32/System32/Riot Games/cflow
+Riot Games/Windows/Drivers/System32/System32/Riot Games/chgrp.exe
+Riot Games/Windows/Drivers/System32/System32/Riot Games/cut.doc
+Riot Games/Windows/Drivers/System32/System32/Riot Games/delta.bat
+Riot Games/Windows/Drivers/System32/System32/Riot Games/excel.cmd
+Riot Games/Windows/Drivers/System32/System32/Riot Games/hash.bat
+Riot Games/Windows/Drivers/System32/System32/Riot Games/javac.docx
+Riot Games/Windows/Drivers/System32/System32/Riot Games/join.doc
+Riot Games/Windows/Drivers/System32/System32/Riot Games/logger.doc
+Riot Games/Windows/Drivers/System32/System32/Riot Games/ls.docx
+Riot Games/Windows/Drivers/System32/System32/Riot Games/rm.docx
+Riot Games/Windows/Drivers/System32/System32/Riot Games/stty.bat
+Riot Games/Windows/Drivers/System32/System32/Riot Games/unlink.bat
+Riot Games/Windows/Drivers/ar.doc
+Riot Games/Windows/Drivers/cmp.jar
+Riot Games/Windows/Drivers/fc.bat
+Riot Games/Windows/Drivers/od.exe
+Riot Games/Windows/Drivers/qdel.exe
+Riot Games/Windows/Drivers/split.doc
+Riot Games/Windows/Drivers/strip.docx
+Riot Games/Windows/Drivers/tput.jar
+Riot Games/Windows/Microsoft/SYSWOW64/cat.exe
+Riot Games/Windows/Microsoft/SYSWOW64/cmp.jar
+Riot Games/Windows/Microsoft/SYSWOW64/ed.bat
+Riot Games/Windows/Microsoft/SYSWOW64/m4.jar
+Riot Games/Windows/Microsoft/SYSWOW64/mkfifo.jar
+Riot Games/Windows/Microsoft/SYSWOW64/patch.exe
+Riot Games/Windows/Microsoft/SYSWOW64/qsub.docx
+Riot Games/Windows/Microsoft/SYSWOW64/zcat.cmd
+Riot Games/Windows/Program Files/SYSWOW64/chgrp
+Riot Games/Windows/Program Files/SYSWOW64/chmod.docx
+Riot Games/Windows/Program Files/SYSWOW64/cp
+Riot Games/Windows/Program Files/SYSWOW64/get.exe
+Riot Games/Windows/Program Files/SYSWOW64/ipcs.jar
+Riot Games/Windows/Program Files/SYSWOW64/locale.docx
+Riot Games/Windows/Program Files/SYSWOW64/locale.exe
+Riot Games/Windows/Program Files/SYSWOW64/more
+Riot Games/Windows/Program Files/SYSWOW64/pr.cmd
+Riot Games/Windows/Program Files/SYSWOW64/qhold.jar
+Riot Games/Windows/Program Files/SYSWOW64/ruby.exe
+Riot Games/Windows/Program Files/SYSWOW64/sccs.docx
+Riot Games/Windows/Program Files/SYSWOW64/true.jar
+Riot Games/Windows/Program Files/expr.bat
+Riot Games/Windows/Program Files/fort77.bat
+Riot Games/Windows/Program Files/logname.doc
+Riot Games/Windows/Program Files/lp.jar
+Riot Games/Windows/Program Files/ls
+Riot Games/Windows/Program Files/newgrp.doc
+Riot Games/Windows/Program Files/paste.jar
+Riot Games/Windows/Program Files/pax.exe
+Riot Games/Windows/Program Files/ps.exe
+Riot Games/Windows/Program Files/qhold.exe
+Riot Games/Windows/Program Files/sact.cmd
+Riot Games/Windows/Program Files/true.bat
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/kill.exe
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/ln.cmd
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/od
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/read
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/read.jar
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/tr.doc
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/ulimit.exe
+Riot Games/Windows/Program Files (x86)/Microsoft/Program Files/Users/Microsoft/what.exe
+Riot Games/Windows/Program Files (x86)/dir
+Riot Games/Windows/Program Files (x86)/javaw.exe
+Riot Games/Windows/Program Files (x86)/link.docx
+Riot Games/Windows/Program Files (x86)/pr.bat
+Riot Games/Windows/Program Files (x86)/qalter.docx
+Riot Games/Windows/Program Files (x86)/sact
+Riot Games/Windows/Program Files (x86)/spotify.jar
+Riot Games/Windows/Program Files (x86)/uustat.exe
+Riot Games/Windows/Program Files (x86)/zcat.jar
+Riot Games/Windows/Riot Games/Program Files/chrome.exe
+Riot Games/Windows/Riot Games/Program Files/cmd.doc
+Riot Games/Windows/Riot Games/Program Files/find
+Riot Games/Windows/Riot Games/Program Files/iconv.bat
+Riot Games/Windows/Riot Games/Program Files/mesg.cmd
+Riot Games/Windows/Riot Games/Program Files/sccs.doc
+Riot Games/Windows/Riot Games/Program Files/strip
+Riot Games/Windows/Riot Games/Program Files/talk.cmd
+Riot Games/Windows/Riot Games/Program Files/tput.jar
+Riot Games/Windows/Riot Games/Program Files/uudecode.docx
+Riot Games/Windows/Riot Games/Riot Games/admin.cmd
+Riot Games/Windows/Riot Games/Riot Games/alias.cmd
+Riot Games/Windows/Riot Games/Riot Games/choco.jar
+Riot Games/Windows/Riot Games/Riot Games/get.exe
+Riot Games/Windows/Riot Games/Riot Games/getopts.jar
+Riot Games/Windows/Riot Games/Riot Games/kill.docx
+Riot Games/Windows/Riot Games/Riot Games/qselect.cmd
+Riot Games/Windows/Riot Games/Riot Games/time.jar
+Riot Games/Windows/Riot Games/Riot Games/unget
+Riot Games/Windows/Riot Games/Riot Games/uudecode.exe
+Riot Games/Windows/Riot Games/Riot Games/vim.cmd
+Riot Games/Windows/Riot Games/ar.jar
+Riot Games/Windows/Riot Games/cal.exe
+Riot Games/Windows/Riot Games/cd.exe
+Riot Games/Windows/Riot Games/head.jar
+Riot Games/Windows/Riot Games/ls.doc
+Riot Games/Windows/Riot Games/man.docx
+Riot Games/Windows/Riot Games/prs.doc
+Riot Games/Windows/Riot Games/prs.docx
+Riot Games/Windows/Riot Games/qhold.doc
+Riot Games/Windows/Riot Games/umask.bat
+Riot Games/Windows/Riot Games/unalias.exe
+Riot Games/Windows/Riot Games/uucp.cmd
+Riot Games/Windows/Riot Games/uudecode.docx
+Riot Games/Windows/Riot Games/vim.exe
+Riot Games/Windows/Riot Games/what.jar
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/cflow.jar
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/chgrp.cmd
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/chown.exe
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/cmp.jar
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/ctags.jar
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/kill.docx
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/mv
+Riot Games/Windows/SYSWOW64/Program Files (x86)/Windows/prs.docx
+Riot Games/Windows/SYSWOW64/basename.bat
+Riot Games/Windows/SYSWOW64/bg.docx
+Riot Games/Windows/SYSWOW64/cd.bat
+Riot Games/Windows/SYSWOW64/chmod
+Riot Games/Windows/SYSWOW64/compress.docx
+Riot Games/Windows/SYSWOW64/firefox.bat
+Riot Games/Windows/SYSWOW64/hash.exe
+Riot Games/Windows/SYSWOW64/od.cmd
+Riot Games/Windows/SYSWOW64/qrls
+Riot Games/Windows/SYSWOW64/spotify.jar
+Riot Games/Windows/SYSWOW64/strings
+Riot Games/Windows/SYSWOW64/yacc.cmd
+Riot Games/Windows/System32/Microsoft/batch.exe
+Riot Games/Windows/System32/Microsoft/env.doc
+Riot Games/Windows/System32/Microsoft/gencat.docx
+Riot Games/Windows/System32/Microsoft/logger.cmd
+Riot Games/Windows/System32/Microsoft/ls.cmd
+Riot Games/Windows/System32/Microsoft/newgrp.bat
+Riot Games/Windows/System32/Microsoft/ps.bat
+Riot Games/Windows/System32/Microsoft/split.doc
+Riot Games/Windows/System32/Microsoft/uname.doc
+Riot Games/Windows/System32/Microsoft/uuencode.cmd
+Riot Games/Windows/System32/Users/hash.jar
+Riot Games/Windows/System32/Users/iconv.cmd
+Riot Games/Windows/System32/Users/ipcs.exe
+Riot Games/Windows/System32/Users/java
+Riot Games/Windows/System32/Users/logger
+Riot Games/Windows/System32/Users/qalter
+Riot Games/Windows/System32/Users/qalter.jar
+Riot Games/Windows/System32/Users/qhold
+Riot Games/Windows/System32/Users/regedit
+Riot Games/Windows/System32/Users/sleep.docx
+Riot Games/Windows/System32/Users/strip.bat
+Riot Games/Windows/System32/Users/wait.cmd
+Riot Games/Windows/System32/Users/wait.jar
+Riot Games/Windows/System32/cat.exe
+Riot Games/Windows/System32/codes
+Riot Games/Windows/System32/expr.cmd
+Riot Games/Windows/System32/get.cmd
+Riot Games/Windows/System32/more.doc
+Riot Games/Windows/System32/qselect.exe
+Riot Games/Windows/System32/qstat.bat
+Riot Games/Windows/System32/spotify.doc
+Riot Games/Windows/System32/ulimit.bat
+Riot Games/Windows/System32/uustat.bat
+Riot Games/Windows/Users/Program Files (x86)/ctags.cmd
+Riot Games/Windows/Users/Program Files (x86)/iconv.doc
+Riot Games/Windows/Users/Program Files (x86)/logname.doc
+Riot Games/Windows/Users/Program Files (x86)/ls.docx
+Riot Games/Windows/Users/Program Files (x86)/minecraft.cmd
+Riot Games/Windows/Users/Program Files (x86)/qsub.jar
+Riot Games/Windows/Users/Program Files (x86)/sed
+Riot Games/Windows/Users/Program Files (x86)/uncompress.bat
+Riot Games/Windows/Users/at.docx
+Riot Games/Windows/Users/chown.jar
+Riot Games/Windows/Users/cksum.cmd
+Riot Games/Windows/Users/compress
+Riot Games/Windows/Users/csplit.jar
+Riot Games/Windows/Users/cxref.bat
+Riot Games/Windows/Users/delta
+Riot Games/Windows/Users/mkdir.jar
+Riot Games/Windows/Users/mv.cmd
+Riot Games/Windows/Users/printf.exe
+Riot Games/Windows/Users/strings.exe
+Riot Games/Windows/Users/true.exe
+Riot Games/Windows/Users/vi
+Riot Games/Windows/Users/vim
+Riot Games/Windows/Windows/Program Files/bc
+Riot Games/Windows/Windows/Program Files/cmp.bat
+Riot Games/Windows/Windows/Program Files/compress.bat
+Riot Games/Windows/Windows/Program Files/delta
+Riot Games/Windows/Windows/Program Files/false
+Riot Games/Windows/Windows/Program Files/false.bat
+Riot Games/Windows/Windows/Program Files/fg
+Riot Games/Windows/Windows/Program Files/find.cmd
+Riot Games/Windows/Windows/Program Files/find.jar
+Riot Games/Windows/Windows/Program Files/fold.cmd
+Riot Games/Windows/Windows/Program Files/mkfifo.jar
+Riot Games/Windows/Windows/Program Files/more.docx
+Riot Games/Windows/Windows/Program Files/split.exe
+Riot Games/Windows/Windows/Program Files/unlink.exe
+Riot Games/Windows/Windows/Program Files/uux.doc
+Riot Games/Windows/Windows/Program Files/write.docx
+Riot Games/Windows/Windows/ar.jar
+Riot Games/Windows/Windows/choco.docx
+Riot Games/Windows/Windows/command
+Riot Games/Windows/Windows/date.exe
+Riot Games/Windows/Windows/env.exe
+Riot Games/Windows/Windows/get.jar
+Riot Games/Windows/Windows/ghci.docx
+Riot Games/Windows/Windows/mkdir.jar
+Riot Games/Windows/Windows/pwd.bat
+Riot Games/Windows/Windows/qselect.docx
+Riot Games/Windows/Windows/umask.doc
+Riot Games/Windows/Windows/unget.docx
+Riot Games/Windows/Windows/vimtutor.jar
+Riot Games/Windows/basename.jar
+Riot Games/Windows/bg.exe
+Riot Games/Windows/minecraft.doc
+Riot Games/Windows/pathchk.cmd
+Riot Games/Windows/python.doc
+Riot Games/Windows/regedit.docx
+Riot Games/Windows/tabs.jar
+Riot Games/Windows/tee.jar
+Riot Games/Windows/touch.doc
+Riot Games/Windows/tr.exe
+Riot Games/Windows/vim.docx
